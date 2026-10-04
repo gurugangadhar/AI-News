@@ -1,0 +1,71 @@
+# Personal AI Engineer Daily Digest - Main Configuration
+
+profile:
+  role_target:
+    - "AI Engineer"
+    - "Generative AI Engineer"
+    - "AI Agent Developer"
+    - "Agentic AI Engineer"
+    - "AI Application Developer"
+    - "LLM Engineer"
+  priority_topics:
+    - "AI Agents"
+    - "Agentic AI"
+    - "Multi-Agent Systems"
+    - "Agent Orchestration"
+    - "MCP"
+    - "Model Context Protocol"
+    - "Tool Calling"
+    - "Function Calling"
+    - "RAG"
+    - "Vector Databases"
+    - "Inference"
+    - "Model Serving"
+    - "Evaluation"
+    - "Observability"
+    - "AI Coding"
+    - "Claude Code"
+  secondary_topics:
+    - "Microsoft Foundry"
+    - "Azure AI"
+    - "Azure OpenAI"
+    - "Semantic Kernel"
+    - "Copilot Studio"
+    - "Google ADK"
+    - "Vertex AI"
+    - "Gemini API"
+    - "Reasoning Models"
+    - "Open Source AI"
+
+schedule:
+  timezone: "Asia/Kolkata"
+  morning_digest_time: "06:00"
+  evening_digest_time: "18:00"
+
+limits:
+  max_total_stories: 18
+  top_stories_count: 5
+  max_per_category: 4
+  max_age_hours_regular: 18
+  max_age_hours_test: 168  # 7 days for test mode to guarantee sample articles
+  min_stories_for_digest: 2
+
+scoring_weights:
+  source_quality: 25.0
+  technical_relevance: 35.0
+  career_relevance: 20.0
+  novelty: 10.0
+  engineering_value: 10.0
+
+llm:
+  provider: "claude"  # claude | openai | mock
+  model: "claude-3-5-sonnet-20241022"
+  fast_model: "claude-3-5-haiku-20241022"
+  temperature: 0.3
+  max_tokens: 4000
+
+email:
+  provider: "resend"  # resend | smtp | mock
+  from_name: "Personal AI Engineer Daily Digest"
+  from_address: "onboarding@resend.dev"
+  to_address: ""
