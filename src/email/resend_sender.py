@@ -35,21 +35,25 @@ class ResendSender(EmailSender):
             print("[ERROR] No recipients specified for email delivery.")
             return False
 
-        sender = from_address or self.from_address
+        clean_key = self.api_key.strip()
+        sender = (from_address or self.from_address).strip()
         # Format sender with display name if not already formatted
         if "<" not in sender and "@" in sender:
             sender = f"Personal AI Engineer Digest <{sender}>"
 
+        clean_recipients = [r.strip() for r in recipients if r and r.strip()]
+        clean_subject = subject.strip().replace("\r", " ").replace("\n", " ")
+
         url = "https://api.resend.com/emails"
         headers = {
-            "Authorization": f"Bearer {self.api_key}",
+            "Authorization": f"Bearer {clean_key}",
             "Content-Type": "application/json",
             "User-Agent": "AIEngineerDigest/2.0",
         }
         payload = {
             "from": sender,
-            "to": recipients,
-            "subject": subject,
+            "to": clean_recipients,
+            "subject": clean_subject,
             "html": html_content,
             "text": text_content,
         }
