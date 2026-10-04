@@ -30,10 +30,10 @@ def test_classify_ai_engineering():
 
 def test_classify_microsoft_ai():
     item = RawItem(
-        source_name="Test Source",
+        source_name="Microsoft Blog",
         source_type="rss",
-        title="Azure AI Foundry Announces Agent Service Integration with Semantic Kernel",
-        content="Enterprise developers can now orchestrate copilot agents across Azure AI Search.",
+        title="Azure AI Foundry Announces New Azure Machine Learning and Azure OpenAI Innovations",
+        content="Enterprise developers can now deploy foundation models across Azure AI Search infrastructure.",
     )
     cat = classify_category(item)
     assert cat == "microsoft_ai"
