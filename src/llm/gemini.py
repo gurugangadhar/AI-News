@@ -36,11 +36,12 @@ class GeminiProvider(LLMProvider):
 
         clean_key = self.api_key.strip()
         candidate_models = [
+            "gemini-3.8-flash",
             self.model,
+            "gemini-2.5-flash",
             "gemini-2.0-flash",
             "gemini-1.5-flash-latest",
             "gemini-1.5-flash",
-            "gemini-2.5-flash",
             "gemini-1.5-pro",
         ]
         seen = set()
