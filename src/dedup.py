@@ -57,17 +57,20 @@ def tokenize_title(title: str) -> Set[str]:
 
 
 def calculate_title_similarity(title1: str, title2: str) -> float:
-    """Compute token Jaccard similarity and character n-gram overlap between two titles."""
+    """Compute token Jaccard/containment similarity and character n-gram overlap between two titles."""
     tokens1 = tokenize_title(title1)
     tokens2 = tokenize_title(title2)
 
     if not tokens1 or not tokens2:
         return 0.0
 
-    # Token Jaccard
+    # Token Jaccard & Containment
     intersection = tokens1.intersection(tokens2)
     union = tokens1.union(tokens2)
     jaccard = len(intersection) / len(union) if union else 0.0
+    min_tokens = min(len(tokens1), len(tokens2))
+    containment = (len(intersection) / min_tokens) if min_tokens > 0 else 0.0
+    token_score = max(jaccard, 0.8 * containment) if min_tokens >= 3 else jaccard
 
     # Character bigram similarity for typo / inflection tolerance
     s1 = normalize_title(title1)
@@ -82,12 +85,12 @@ def calculate_title_similarity(title1: str, title2: str) -> float:
         bg_overlap = (2.0 * len(bigrams1.intersection(bigrams2))) / (len(bigrams1) + len(bigrams2))
 
     # Weighted blend
-    return (0.7 * jaccard) + (0.3 * bg_overlap)
+    return (0.7 * token_score) + (0.3 * bg_overlap)
 
 
 def cluster_stories(
     items: List[ScoredItem],
-    similarity_threshold: float = 0.55,
+    similarity_threshold: float = 0.45,
 ) -> List[StoryCluster]:
     """Cluster stories to ensure each real-world event is represented only once."""
     if not items:
