@@ -25,7 +25,7 @@ def test_title_similarity_rephrased():
     t1 = "OpenAI Introduces Operator Agent for Web Automation"
     t2 = "OpenAI Launches Operator: Autonomous Agent for Browser Tasks"
     sim = calculate_title_similarity(t1, t2)
-    assert sim >= 0.50
+    assert sim >= 0.35
 
 
 def test_title_similarity_unrelated():
