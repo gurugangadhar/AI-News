@@ -203,7 +203,7 @@ def rank_and_select_clusters(
 
     # Reserve Top 5
     selected: List[StoryCluster] = sorted_clusters[:config.top_stories_count]
-    selected_set = set(selected)
+    selected_links = {c.primary_item.raw_item.link for c in selected}
 
     # Category buckets to ensure broad balance
     category_counts: Dict[str, int] = {}
@@ -217,7 +217,7 @@ def rank_and_select_clusters(
         curr_count = category_counts.get(cat, 0)
         if curr_count < config.max_per_category:
             selected.append(c)
-            selected_set.add(c)
+            selected_links.add(c.primary_item.raw_item.link)
             category_counts[cat] = curr_count + 1
 
     print(f"[INFO] Phase 5 RANK & SELECT complete: {len(selected)} clusters chosen for LLM synthesis.")
