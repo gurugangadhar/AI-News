@@ -34,11 +34,18 @@ class GeminiProvider(LLMProvider):
         if not self.api_key:
             raise ValueError("GEMINI_API_KEY is not configured.")
 
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{self.model}:generateContent?key={self.api_key}"
-        headers = {
-            "Content-Type": "application/json",
-            "User-Agent": "AIEngineerDigest/2.0",
-        }
+        clean_key = self.api_key.strip()
+        candidate_models = [
+            self.model,
+            "gemini-2.0-flash",
+            "gemini-1.5-flash-latest",
+            "gemini-1.5-flash",
+            "gemini-2.5-flash",
+            "gemini-1.5-pro",
+        ]
+        seen = set()
+        models_to_try = [m for m in candidate_models if not (m in seen or seen.add(m))]
+
         payload = {
             "system_instruction": {
                 "parts": [{"text": system_prompt}]
@@ -54,35 +61,50 @@ class GeminiProvider(LLMProvider):
                 "maxOutputTokens": 4096,
             }
         }
-
         data = json.dumps(payload).encode("utf-8")
-        req = urllib.request.Request(url, data=data, headers=headers, method="POST")
+        headers = {
+            "Content-Type": "application/json",
+            "User-Agent": "AIEngineerDigest/2.0",
+        }
 
-        for attempt in range(3):
-            try:
-                with urllib.request.urlopen(req, timeout=60) as resp:
-                    res_body = json.loads(resp.read().decode("utf-8"))
-                    candidates = res_body.get("candidates", [])
-                    if candidates:
-                        parts = candidates[0].get("content", {}).get("parts", [])
-                        if parts and "text" in parts[0]:
-                            return parts[0]["text"]
-                    raise ValueError(f"Unexpected Gemini API response structure: {res_body}")
-            except urllib.error.HTTPError as e:
-                err_text = e.read().decode("utf-8", errors="replace")
-                print(f"[Gemini API Error {e.code}] Attempt {attempt + 1}/3: {err_text}")
-                if e.code in (429, 500, 502, 503, 504) and attempt < 2:
-                    time.sleep(4 * (attempt + 1))
-                    continue
-                raise
-            except Exception as e:
-                print(f"[Gemini Network Error] Attempt {attempt + 1}/3: {e}")
-                if attempt < 2:
-                    time.sleep(4 * (attempt + 1))
-                    continue
-                raise
+        last_error = None
+        for model in models_to_try:
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={clean_key}"
+            req = urllib.request.Request(url, data=data, headers=headers, method="POST")
 
-        raise RuntimeError("Failed to obtain response from Gemini API after 3 attempts.")
+            for attempt in range(2):
+                try:
+                    with urllib.request.urlopen(req, timeout=60) as resp:
+                        res_body = json.loads(resp.read().decode("utf-8"))
+                        candidates = res_body.get("candidates", [])
+                        if candidates:
+                            parts = candidates[0].get("content", {}).get("parts", [])
+                            if parts and "text" in parts[0]:
+                                self.model = model
+                                return parts[0]["text"]
+                        raise ValueError(f"Unexpected Gemini API response structure: {res_body}")
+                except urllib.error.HTTPError as e:
+                    err_text = e.read().decode("utf-8", errors="replace")
+                    print(f"[Gemini API Error {e.code}] Model '{model}' Attempt {attempt + 1}: {err_text}")
+                    last_error = e
+                    if e.code == 404:
+                        # Try next model name
+                        break
+                    if e.code in (429, 500, 502, 503, 504) and attempt < 1:
+                        time.sleep(3)
+                        continue
+                    break
+                except Exception as e:
+                    print(f"[Gemini Network Error] Model '{model}' Attempt {attempt + 1}: {e}")
+                    last_error = e
+                    if attempt < 1:
+                        time.sleep(3)
+                        continue
+                    break
+
+        if last_error:
+            raise last_error
+        raise RuntimeError("Failed to obtain response from Gemini API.")
 
     def summarize_digest(
         self,
