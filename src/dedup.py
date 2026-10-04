@@ -45,7 +45,7 @@ def canonicalize_url(url: str) -> str:
 def tokenize_title(title: str) -> Set[str]:
     """Tokenize normalized title into meaningful words."""
     norm = normalize_title(title)
-    words = re.findall(r"\b[a-z0-9_-]{2,}\b", norm)
+    words = re.findall(r"\b[a-z0-9_-]+\b", norm)
     # Stop words
     stop_words = {
         "the", "and", "for", "with", "from", "that", "this", "are", "was",
@@ -70,7 +70,7 @@ def calculate_title_similarity(title1: str, title2: str) -> float:
     jaccard = len(intersection) / len(union) if union else 0.0
     min_tokens = min(len(tokens1), len(tokens2))
     containment = (len(intersection) / min_tokens) if min_tokens > 0 else 0.0
-    token_score = max(jaccard, 0.8 * containment) if min_tokens >= 3 else jaccard
+    token_score = max(jaccard, 0.85 * containment) if min_tokens >= 2 else jaccard
 
     # Character bigram similarity for typo / inflection tolerance
     s1 = normalize_title(title1)
