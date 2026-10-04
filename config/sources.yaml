@@ -1,0 +1,269 @@
+# Personal AI Engineer Daily Digest - Sources Configuration
+# Priority: high | medium | low
+# Categories:
+#   - agentic_ai
+#   - ai_engineering
+#   - models
+#   - microsoft_ai
+#   - google_ai
+#   - ai_coding
+#   - github_oss
+#   - research
+
+sources:
+  # ── AGENTIC AI (HIGHEST PRIORITY) ──────────────────────────────────────────
+  - name: "Anthropic Engineering"
+    type: rss
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic_engineering.xml"
+    category: agentic_ai
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "LangChain & LangGraph Blog"
+    type: rss
+    url: "https://blog.langchain.dev/rss/"
+    category: agentic_ai
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "LlamaIndex Blog"
+    type: rss
+    url: "https://www.llamaindex.ai/blog/rss.xml"
+    category: agentic_ai
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "Latent Space"
+    type: rss
+    url: "https://www.latent.space/feed"
+    category: agentic_ai
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "Microsoft Semantic Kernel"
+    type: rss
+    url: "https://devblogs.microsoft.com/semantic-kernel/feed/"
+    category: agentic_ai
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  # ── AI ENGINEERING & RAG ───────────────────────────────────────────────────
+  - name: "OpenAI Research & Engineering"
+    type: rss
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_openai_research.xml"
+    category: ai_engineering
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "Simon Willison's Weblog"
+    type: rss
+    url: "https://simonwillison.net/atom/everything/"
+    category: ai_engineering
+    priority: high
+    enabled: true
+    max_entries: 4
+    fetch_fulltext: true
+
+  - name: "Hamel Husain's Notes"
+    type: rss
+    url: "https://hamelhusain.substack.com/feed"
+    category: ai_engineering
+    priority: high
+    enabled: true
+    max_entries: 2
+    fetch_fulltext: true
+
+  - name: "Lilian Weng's Blog"
+    type: rss
+    url: "https://lilianweng.github.io/index.xml"
+    category: ai_engineering
+    priority: high
+    enabled: true
+    max_entries: 2
+    fetch_fulltext: true
+
+  - name: "Ahead of AI (Sebastian Raschka)"
+    type: rss
+    url: "https://magazine.sebastianraschka.com/feed"
+    category: ai_engineering
+    priority: high
+    enabled: true
+    max_entries: 2
+    fetch_fulltext: true
+
+  - name: "Eugene Yan (Applied LLMs)"
+    type: rss
+    url: "https://eugeneyan.com/feed.xml"
+    category: ai_engineering
+    priority: high
+    enabled: true
+    max_entries: 2
+    fetch_fulltext: true
+
+  # ── MODELS & GENERATIVE AI (MAJOR COMPANIES) ──────────────────────────────
+  - name: "OpenAI News"
+    type: rss
+    url: "https://openai.com/news/rss.xml"
+    category: models
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "Anthropic News"
+    type: rss
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic_news.xml"
+    category: models
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "Google DeepMind"
+    type: rss
+    url: "https://deepmind.google/blog/rss.xml"
+    category: models
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "Hugging Face Blog"
+    type: rss
+    url: "https://huggingface.co/blog/feed.xml"
+    category: models
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "Mistral AI News"
+    type: rss
+    url: "https://mistral.ai/news/index.xml"
+    category: models
+    priority: high
+    enabled: true
+    max_entries: 2
+    fetch_fulltext: true
+
+  - name: "NVIDIA Technical Blog"
+    type: rss
+    url: "https://blogs.nvidia.com/feed/"
+    category: models
+    priority: medium
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "Meta AI Blog"
+    type: rss
+    url: "https://ai.meta.com/blog/rss/"
+    category: models
+    priority: medium
+    enabled: true
+    max_entries: 2
+    fetch_fulltext: true
+
+  # ── MICROSOFT AI ───────────────────────────────────────────────────────────
+  - name: "Microsoft Azure AI Blog"
+    type: rss
+    url: "https://azure.microsoft.com/en-us/blog/topics/ai/feed/"
+    category: microsoft_ai
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "Microsoft DevBlogs (AI)"
+    type: rss
+    url: "https://devblogs.microsoft.com/ai/feed/"
+    category: microsoft_ai
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  # ── GOOGLE AI ──────────────────────────────────────────────────────────────
+  - name: "Google Cloud AI Blog"
+    type: rss
+    url: "https://cloud.google.com/blog/products/ai-machine-learning/rss"
+    category: google_ai
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "Google Research Blog"
+    type: rss
+    url: "https://research.google/blog/rss/"
+    category: google_ai
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  # ── AI CODING & AGENTIC DEV TOOLS ──────────────────────────────────────────
+  - name: "GitHub Blog (AI & Copilot)"
+    type: rss
+    url: "https://github.blog/ai-and-ml/feed/"
+    category: ai_coding
+    priority: high
+    enabled: true
+    max_entries: 3
+    fetch_fulltext: true
+
+  - name: "Cursor Blog"
+    type: rss
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_cursor.xml"
+    category: ai_coding
+    priority: high
+    enabled: true
+    max_entries: 2
+    fetch_fulltext: true
+
+  - name: "Windsurf Blog"
+    type: rss
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_windsurf_blog.xml"
+    category: ai_coding
+    priority: high
+    enabled: true
+    max_entries: 2
+    fetch_fulltext: true
+
+  # ── GITHUB & OPEN SOURCE AI ────────────────────────────────────────────────
+  - name: "GitHub Trending AI"
+    type: github_trending
+    url: "https://api.github.com/search/repositories?q=topic:ai-agent+topic:llm+created:>2026-01-01&sort=stars&order=desc"
+    category: github_oss
+    priority: high
+    enabled: true
+    max_entries: 4
+
+  # ── PRACTICAL AI RESEARCH ──────────────────────────────────────────────────
+  - name: "Hugging Face Daily Papers"
+    type: hf_papers
+    url: "https://huggingface.co/api/daily_papers"
+    category: research
+    priority: high
+    enabled: true
+    max_entries: 3
+
+  - name: "ArXiv AI (cs.AI / cs.CL)"
+    type: rss
+    url: "https://rss.arxiv.org/rss/cs.AI"
+    category: research
+    priority: medium
+    enabled: true
+    max_entries: 3
