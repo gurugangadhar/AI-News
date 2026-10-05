@@ -2,10 +2,10 @@ name: Personal AI Engineer Daily Digest
 
 on:
   schedule:
-    # 06:00 AM IST = 00:30 UTC
-    - cron: "30 0 * * *"
-    # 06:00 PM IST = 12:30 UTC
-    - cron: "30 12 * * *"
+    # Morning Digest: ~05:55 - 06:00 AM IST (00:25 UTC avoids :30 global queue congestion)
+    - cron: "25 0 * * *"
+    # Evening Digest: ~05:55 - 06:00 PM IST (12:25 UTC avoids :30 global queue congestion)
+    - cron: "25 12 * * *"
   workflow_dispatch:
     inputs:
       digest_type:
