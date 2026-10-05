@@ -1,6 +1,103 @@
 {
-  "seenArticles": {},
+  "seenArticles": {
+    "https://huggingface.co/blog/microsoft/thinkingbox": 1791180230.3008235,
+    "https://latent.space/p/ainews-not-much-happened-today-cee": 1791180230.3008392,
+    "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps": 1791180230.3008525,
+    "https://simonwillison.net/2026/Oct/3/newsletter": 1791180230.3008647,
+    "https://arxiv.org/abs/2610.02267": 1791180230.30088
+  },
   "seenTweets": {},
   "seenVideos": {},
-  "sentStories": {}
+  "sentStories": {
+    "https://huggingface.co/blog/microsoft/thinkingbox": {
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "normalized_title": "the agent said it was done the database disagreed",
+      "content_hash": "",
+      "last_sent": 1791180230.3007948,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:the agent said it was done the database disagreed": {
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "normalized_title": "the agent said it was done the database disagreed",
+      "content_hash": "",
+      "last_sent": 1791180230.3007948,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-not-much-happened-today-cee": {
+      "url": "https://latent.space/p/ainews-not-much-happened-today-cee",
+      "title": "[AINews] not much happened today",
+      "normalized_title": "not much happened today",
+      "content_hash": "",
+      "last_sent": 1791180230.3008332,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:not much happened today": {
+      "url": "https://latent.space/p/ainews-not-much-happened-today-cee",
+      "title": "[AINews] not much happened today",
+      "normalized_title": "not much happened today",
+      "content_hash": "",
+      "last_sent": 1791180230.3008332,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps": {
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "normalized_title": "we re going to need default hard budget caps on pretty much everything",
+      "content_hash": "",
+      "last_sent": 1791180230.3008444,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:we re going to need default hard budget caps on pretty much everything": {
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "normalized_title": "we re going to need default hard budget caps on pretty much everything",
+      "content_hash": "",
+      "last_sent": 1791180230.3008444,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/3/newsletter": {
+      "url": "https://simonwillison.net/2026/Oct/3/newsletter",
+      "title": "September sponsors-only newsletter",
+      "normalized_title": "september sponsors",
+      "content_hash": "",
+      "last_sent": 1791180230.30086,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:september sponsors": {
+      "url": "https://simonwillison.net/2026/Oct/3/newsletter",
+      "title": "September sponsors-only newsletter",
+      "normalized_title": "september sponsors",
+      "content_hash": "",
+      "last_sent": 1791180230.30086,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://arxiv.org/abs/2610.02267": {
+      "url": "https://arxiv.org/abs/2610.02267",
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "normalized_title": "fast models slow evidence a paired and self audited evaluation of system",
+      "content_hash": "",
+      "last_sent": 1791180230.3008695,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:fast models slow evidence a paired and self audited evaluation of system": {
+      "url": "https://arxiv.org/abs/2610.02267",
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "normalized_title": "fast models slow evidence a paired and self audited evaluation of system",
+      "content_hash": "",
+      "last_sent": 1791180230.3008695,
+      "digest_type": "morning",
+      "score": 0.0
+    }
+  }
 }
