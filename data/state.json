@@ -4,7 +4,13 @@
     "https://latent.space/p/ainews-not-much-happened-today-cee": 1791180230.3008392,
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps": 1791180230.3008525,
     "https://simonwillison.net/2026/Oct/3/newsletter": 1791180230.3008647,
-    "https://arxiv.org/abs/2610.02267": 1791180230.30088
+    "https://arxiv.org/abs/2610.02267": 1791180230.30088,
+    "https://openai.com/index/new-chatgpt-ads-format-and-measurement": 1791219166.191919,
+    "https://openai.com/index/eu-text-provenance": 1791219166.191948,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1791219166.191962,
+    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": 1791219166.191975,
+    "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review": 1791219166.1919854,
+    "https://blogs.nvidia.com/blog/ai-breast-cancer-startups": 1791219166.192003
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -97,6 +103,114 @@
       "content_hash": "",
       "last_sent": 1791180230.3008695,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "title": "Building advertising for the way people use AI",
+      "normalized_title": "building advertising for the way people use ai",
+      "content_hash": "",
+      "last_sent": 1791219166.1918993,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:building advertising for the way people use ai": {
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "title": "Building advertising for the way people use AI",
+      "normalized_title": "building advertising for the way people use ai",
+      "content_hash": "",
+      "last_sent": 1791219166.1918993,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/eu-text-provenance": {
+      "url": "https://openai.com/index/eu-text-provenance",
+      "title": "Our approach to EU text provenance rules",
+      "normalized_title": "our approach to eu text provenance rules",
+      "content_hash": "",
+      "last_sent": 1791219166.191942,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:our approach to eu text provenance rules": {
+      "url": "https://openai.com/index/eu-text-provenance",
+      "title": "Our approach to EU text provenance rules",
+      "normalized_title": "our approach to eu text provenance rules",
+      "content_hash": "",
+      "last_sent": 1791219166.191942,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "title": "TencentCloud/TencentDB-Agent-Memory (27,698 stars)",
+      "normalized_title": "tencentcloud tencentdb agent",
+      "content_hash": "",
+      "last_sent": 1791219166.1919546,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:tencentcloud tencentdb agent": {
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "title": "TencentCloud/TencentDB-Agent-Memory (27,698 stars)",
+      "normalized_title": "tencentcloud tencentdb agent",
+      "content_hash": "",
+      "last_sent": 1791219166.1919546,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": {
+      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words",
+      "title": "Qwen3.8 27B addition in words",
+      "normalized_title": "qwen3 8 27b addition in words",
+      "content_hash": "",
+      "last_sent": 1791219166.1919696,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:qwen3 8 27b addition in words": {
+      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words",
+      "title": "Qwen3.8 27B addition in words",
+      "normalized_title": "qwen3 8 27b addition in words",
+      "content_hash": "",
+      "last_sent": 1791219166.1919696,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "normalized_title": "reviewbench",
+      "content_hash": "",
+      "last_sent": 1791219166.1919806,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:reviewbench": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "normalized_title": "reviewbench",
+      "content_hash": "",
+      "last_sent": 1791219166.1919806,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/ai-breast-cancer-startups": {
+      "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups",
+      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "normalized_title": "from scan to treatment plan ai helps close breast cancer s deadliest gaps",
+      "content_hash": "",
+      "last_sent": 1791219166.19199,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:from scan to treatment plan ai helps close breast cancer s deadliest gaps": {
+      "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups",
+      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "normalized_title": "from scan to treatment plan ai helps close breast cancer s deadliest gaps",
+      "content_hash": "",
+      "last_sent": 1791219166.19199,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
