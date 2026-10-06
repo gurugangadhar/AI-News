@@ -6,16 +6,21 @@
     "https://simonwillison.net/2026/Oct/3/newsletter": 1791180230.3008647,
     "https://arxiv.org/abs/2610.02267": 1791180230.30088,
     "https://openai.com/index/new-chatgpt-ads-format-and-measurement": 1791219166.191919,
-    "https://openai.com/index/eu-text-provenance": 1791219166.191948,
+    "https://openai.com/index/eu-text-provenance": 1791311439.1861062,
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1791219166.191962,
-    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": 1791219166.191975,
+    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": 1791311439.1861615,
     "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review": 1791219166.1919854,
     "https://blogs.nvidia.com/blog/ai-breast-cancer-startups": 1791219166.192003,
     "https://latent.space/p/ainews-reflection-beam-501b-a23b": 1791268648.6350002,
     "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle": 1791268648.635015,
     "https://huggingface.co/papers/2610.04616": 1791268648.6350274,
     "https://simonwillison.net/2026/Oct/5/felix-rieseberg": 1791268648.6350372,
-    "https://devin.ai/blog/memory-and-dreaming": 1791268648.6350446
+    "https://devin.ai/blog/memory-and-dreaming": 1791268648.6350446,
+    "https://huggingface.co/blog/tiiuae/falcon-emirati": 1791311439.1860747,
+    "https://openai.com/index/advancing-computer-use-with-ironclad": 1791311439.1860936,
+    "https://blogs.nvidia.com/blog/telecom-operators-open-models": 1791311439.1861207,
+    "https://huggingface.co/papers/2605.16817": 1791311439.186138,
+    "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox": 1791311439.186151
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -133,7 +138,7 @@
       "title": "Our approach to EU text provenance rules",
       "normalized_title": "our approach to eu text provenance rules",
       "content_hash": "",
-      "last_sent": 1791219166.191942,
+      "last_sent": 1791311439.1860995,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -142,7 +147,7 @@
       "title": "Our approach to EU text provenance rules",
       "normalized_title": "our approach to eu text provenance rules",
       "content_hash": "",
-      "last_sent": 1791219166.191942,
+      "last_sent": 1791311439.1860995,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -169,7 +174,7 @@
       "title": "Qwen3.8 27B addition in words",
       "normalized_title": "qwen3 8 27b addition in words",
       "content_hash": "",
-      "last_sent": 1791219166.1919696,
+      "last_sent": 1791311439.1861553,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -178,7 +183,7 @@
       "title": "Qwen3.8 27B addition in words",
       "normalized_title": "qwen3 8 27b addition in words",
       "content_hash": "",
-      "last_sent": 1791219166.1919696,
+      "last_sent": 1791311439.1861553,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -306,6 +311,96 @@
       "content_hash": "",
       "last_sent": 1791268648.6350408,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/tiiuae/falcon-emirati": {
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "normalized_title": "falcon emirati when an llm learns the dialect the culture and the nuance",
+      "content_hash": "",
+      "last_sent": 1791311439.1860464,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:falcon emirati when an llm learns the dialect the culture and the nuance": {
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "normalized_title": "falcon emirati when an llm learns the dialect the culture and the nuance",
+      "content_hash": "",
+      "last_sent": 1791311439.1860464,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/advancing-computer-use-with-ironclad": {
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "title": "Advancing computer use with Ironclad",
+      "normalized_title": "advancing computer use with ironclad",
+      "content_hash": "",
+      "last_sent": 1791311439.1860874,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:advancing computer use with ironclad": {
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "title": "Advancing computer use with Ironclad",
+      "normalized_title": "advancing computer use with ironclad",
+      "content_hash": "",
+      "last_sent": 1791311439.1860874,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/telecom-operators-open-models": {
+      "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models",
+      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "normalized_title": "why telecom operators are building their ai strategy on open models",
+      "content_hash": "",
+      "last_sent": 1791311439.1861129,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:why telecom operators are building their ai strategy on open models": {
+      "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models",
+      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "normalized_title": "why telecom operators are building their ai strategy on open models",
+      "content_hash": "",
+      "last_sent": 1791311439.1861129,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2605.16817": {
+      "url": "https://huggingface.co/papers/2605.16817",
+      "title": "Adaptive Fused Prior Transfer for Controllable Generative Image Compression (1 upvotes)",
+      "normalized_title": "adaptive fused prior transfer for controllable generative image compression",
+      "content_hash": "",
+      "last_sent": 1791311439.1861286,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:adaptive fused prior transfer for controllable generative image compression": {
+      "url": "https://huggingface.co/papers/2605.16817",
+      "title": "Adaptive Fused Prior Transfer for Controllable Generative Image Compression (1 upvotes)",
+      "normalized_title": "adaptive fused prior transfer for controllable generative image compression",
+      "content_hash": "",
+      "last_sent": 1791311439.1861286,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox": {
+      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox",
+      "title": "Scrimshaw Jukebox",
+      "normalized_title": "scrimshaw jukebox",
+      "content_hash": "",
+      "last_sent": 1791311439.1861467,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:scrimshaw jukebox": {
+      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox",
+      "title": "Scrimshaw Jukebox",
+      "normalized_title": "scrimshaw jukebox",
+      "content_hash": "",
+      "last_sent": 1791311439.1861467,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
