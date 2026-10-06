@@ -10,7 +10,12 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1791219166.191962,
     "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": 1791219166.191975,
     "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review": 1791219166.1919854,
-    "https://blogs.nvidia.com/blog/ai-breast-cancer-startups": 1791219166.192003
+    "https://blogs.nvidia.com/blog/ai-breast-cancer-startups": 1791219166.192003,
+    "https://latent.space/p/ainews-reflection-beam-501b-a23b": 1791268648.6350002,
+    "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle": 1791268648.635015,
+    "https://huggingface.co/papers/2610.04616": 1791268648.6350274,
+    "https://simonwillison.net/2026/Oct/5/felix-rieseberg": 1791268648.6350372,
+    "https://devin.ai/blog/memory-and-dreaming": 1791268648.6350446
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -211,6 +216,96 @@
       "content_hash": "",
       "last_sent": 1791219166.19199,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-reflection-beam-501b-a23b": {
+      "url": "https://latent.space/p/ainews-reflection-beam-501b-a23b",
+      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+      "normalized_title": "reflection beam 501b",
+      "content_hash": "",
+      "last_sent": 1791268648.6349802,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:reflection beam 501b": {
+      "url": "https://latent.space/p/ainews-reflection-beam-501b-a23b",
+      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+      "normalized_title": "reflection beam 501b",
+      "content_hash": "",
+      "last_sent": 1791268648.6349802,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle": {
+      "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle",
+      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+      "normalized_title": "open and emergent problems in agentic privacy and security",
+      "content_hash": "",
+      "last_sent": 1791268648.6350083,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:open and emergent problems in agentic privacy and security": {
+      "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle",
+      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+      "normalized_title": "open and emergent problems in agentic privacy and security",
+      "content_hash": "",
+      "last_sent": 1791268648.6350083,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.04616": {
+      "url": "https://huggingface.co/papers/2610.04616",
+      "title": "PerturBot: Breaking Shortcut Priors in Vision-Language-Action Models with Perturbative Training",
+      "normalized_title": "perturbot breaking shortcut priors in vision language",
+      "content_hash": "",
+      "last_sent": 1791268648.6350203,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:perturbot breaking shortcut priors in vision language": {
+      "url": "https://huggingface.co/papers/2610.04616",
+      "title": "PerturBot: Breaking Shortcut Priors in Vision-Language-Action Models with Perturbative Training",
+      "normalized_title": "perturbot breaking shortcut priors in vision language",
+      "content_hash": "",
+      "last_sent": 1791268648.6350203,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/5/felix-rieseberg": {
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+      "title": "Quoting Felix Rieseberg",
+      "normalized_title": "quoting felix rieseberg",
+      "content_hash": "",
+      "last_sent": 1791268648.6350343,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quoting felix rieseberg": {
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+      "title": "Quoting Felix Rieseberg",
+      "normalized_title": "quoting felix rieseberg",
+      "content_hash": "",
+      "last_sent": 1791268648.6350343,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://devin.ai/blog/memory-and-dreaming": {
+      "url": "https://devin.ai/blog/memory-and-dreaming",
+      "title": "Memory and dreaming: how Devin learns from working with you",
+      "normalized_title": "memory and dreaming",
+      "content_hash": "",
+      "last_sent": 1791268648.6350408,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:memory and dreaming": {
+      "url": "https://devin.ai/blog/memory-and-dreaming",
+      "title": "Memory and dreaming: how Devin learns from working with you",
+      "normalized_title": "memory and dreaming",
+      "content_hash": "",
+      "last_sent": 1791268648.6350408,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
