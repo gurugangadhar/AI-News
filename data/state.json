@@ -27,7 +27,15 @@
     "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai": 1791353681.3532116,
     "https://openai.com/index/sharing-ai-progress-in-mathematics": 1791353681.3532333,
     "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia": 1791353681.3532517,
-    "https://simonwillison.net/2026/Oct/7/jake-boggan": 1791353681.3532612
+    "https://simonwillison.net/2026/Oct/7/jake-boggan": 1791353681.3532612,
+    "https://latent.space/p/stacklok": 1791399647.205289,
+    "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": 1791399647.2053096,
+    "https://openai.com/index/radisson": 1791399647.2053251,
+    "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software": 1791399647.2053373,
+    "https://huggingface.co/blog/LiquidAI/open-d1": 1791399647.2053492,
+    "https://openai.com/index/gpt-6-for-everyone": 1791399647.2053595,
+    "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging": 1791399647.2053678,
+    "https://simonwillison.net/2026/Oct/6/victoria-kim": 1791399647.2053852
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -534,6 +542,150 @@
       "content_hash": "",
       "last_sent": 1791353681.3532581,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/stacklok": {
+      "url": "https://latent.space/p/stacklok",
+      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+      "normalized_title": "can a cloud native harness make agents reliable beyond the desktop",
+      "content_hash": "",
+      "last_sent": 1791399647.2052615,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:can a cloud native harness make agents reliable beyond the desktop": {
+      "url": "https://latent.space/p/stacklok",
+      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+      "normalized_title": "can a cloud native harness make agents reliable beyond the desktop",
+      "content_hash": "",
+      "last_sent": 1791399647.2052615,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "normalized_title": "one model family two gold level results fine",
+      "content_hash": "",
+      "last_sent": 1791399647.2053003,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:one model family two gold level results fine": {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "normalized_title": "one model family two gold level results fine",
+      "content_hash": "",
+      "last_sent": 1791399647.2053003,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/radisson": {
+      "url": "https://openai.com/index/radisson",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "normalized_title": "radisson hotel group brings hotel discovery into chatgpt",
+      "content_hash": "",
+      "last_sent": 1791399647.2053177,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:radisson hotel group brings hotel discovery into chatgpt": {
+      "url": "https://openai.com/index/radisson",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "normalized_title": "radisson hotel group brings hotel discovery into chatgpt",
+      "content_hash": "",
+      "last_sent": 1791399647.2053177,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+      "title": "Secret protection must scale with software",
+      "normalized_title": "secret protection must scale with software",
+      "content_hash": "",
+      "last_sent": 1791399647.2053318,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:secret protection must scale with software": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+      "title": "Secret protection must scale with software",
+      "normalized_title": "secret protection must scale with software",
+      "content_hash": "",
+      "last_sent": 1791399647.2053318,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/LiquidAI/open-d1": {
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "title": "Multimodal open d1 decision models for the edge",
+      "normalized_title": "multimodal open d1 decision models for the edge",
+      "content_hash": "",
+      "last_sent": 1791399647.2053432,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:multimodal open d1 decision models for the edge": {
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "title": "Multimodal open d1 decision models for the edge",
+      "normalized_title": "multimodal open d1 decision models for the edge",
+      "content_hash": "",
+      "last_sent": 1791399647.2053432,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/gpt-6-for-everyone": {
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "normalized_title": "gpt",
+      "content_hash": "",
+      "last_sent": 1791399647.2053552,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:gpt": {
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "normalized_title": "gpt",
+      "content_hash": "",
+      "last_sent": 1791399647.2053552,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging": {
+      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging",
+      "title": "Anti-Patterns in Software Blogging",
+      "normalized_title": "anti",
+      "content_hash": "",
+      "last_sent": 1791399647.2053635,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:anti": {
+      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging",
+      "title": "Anti-Patterns in Software Blogging",
+      "normalized_title": "anti",
+      "content_hash": "",
+      "last_sent": 1791399647.2053635,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/6/victoria-kim": {
+      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim",
+      "title": "Quoting Victoria Kim",
+      "normalized_title": "quoting victoria kim",
+      "content_hash": "",
+      "last_sent": 1791399647.2053795,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:quoting victoria kim": {
+      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim",
+      "title": "Quoting Victoria Kim",
+      "normalized_title": "quoting victoria kim",
+      "content_hash": "",
+      "last_sent": 1791399647.2053795,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
