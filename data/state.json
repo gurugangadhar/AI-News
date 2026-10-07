@@ -11,8 +11,8 @@
     "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": 1791311439.1861615,
     "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review": 1791219166.1919854,
     "https://blogs.nvidia.com/blog/ai-breast-cancer-startups": 1791219166.192003,
-    "https://latent.space/p/ainews-reflection-beam-501b-a23b": 1791268648.6350002,
-    "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle": 1791268648.635015,
+    "https://latent.space/p/ainews-reflection-beam-501b-a23b": 1791353681.353151,
+    "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle": 1791353681.3531725,
     "https://huggingface.co/papers/2610.04616": 1791268648.6350274,
     "https://simonwillison.net/2026/Oct/5/felix-rieseberg": 1791268648.6350372,
     "https://devin.ai/blog/memory-and-dreaming": 1791268648.6350446,
@@ -20,7 +20,14 @@
     "https://openai.com/index/advancing-computer-use-with-ironclad": 1791311439.1860936,
     "https://blogs.nvidia.com/blog/telecom-operators-open-models": 1791311439.1861207,
     "https://huggingface.co/papers/2605.16817": 1791311439.186138,
-    "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox": 1791311439.186151
+    "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox": 1791311439.186151,
+    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": 1791353681.3531344,
+    "https://simonwillison.net/2026/Oct/6/llm-openai-decisions": 1791353681.3531628,
+    "https://openai.com/index/jump-trading": 1791353681.353183,
+    "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai": 1791353681.3532116,
+    "https://openai.com/index/sharing-ai-progress-in-mathematics": 1791353681.3532333,
+    "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia": 1791353681.3532517,
+    "https://simonwillison.net/2026/Oct/7/jake-boggan": 1791353681.3532612
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -228,7 +235,7 @@
       "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
       "normalized_title": "reflection beam 501b",
       "content_hash": "",
-      "last_sent": 1791268648.6349802,
+      "last_sent": 1791353681.353143,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -237,7 +244,7 @@
       "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
       "normalized_title": "reflection beam 501b",
       "content_hash": "",
-      "last_sent": 1791268648.6349802,
+      "last_sent": 1791353681.353143,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -246,7 +253,7 @@
       "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
       "normalized_title": "open and emergent problems in agentic privacy and security",
       "content_hash": "",
-      "last_sent": 1791268648.6350083,
+      "last_sent": 1791353681.3531663,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -255,7 +262,7 @@
       "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
       "normalized_title": "open and emergent problems in agentic privacy and security",
       "content_hash": "",
-      "last_sent": 1791268648.6350083,
+      "last_sent": 1791353681.3531663,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -401,6 +408,132 @@
       "content_hash": "",
       "last_sent": 1791311439.1861467,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": {
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "normalized_title": "embeddinggemma 2 an open lightweight multimodal embedding model",
+      "content_hash": "",
+      "last_sent": 1791353681.3530955,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:embeddinggemma 2 an open lightweight multimodal embedding model": {
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "normalized_title": "embeddinggemma 2 an open lightweight multimodal embedding model",
+      "content_hash": "",
+      "last_sent": 1791353681.3530955,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/6/llm-openai-decisions": {
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions",
+      "title": "llm-openai-decisions 0.1a0",
+      "normalized_title": "llm openai",
+      "content_hash": "",
+      "last_sent": 1791353681.3531585,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:llm openai": {
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions",
+      "title": "llm-openai-decisions 0.1a0",
+      "normalized_title": "llm openai",
+      "content_hash": "",
+      "last_sent": 1791353681.3531585,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/jump-trading": {
+      "url": "https://openai.com/index/jump-trading",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "normalized_title": "how jump trading is scaling quant research with chatgpt",
+      "content_hash": "",
+      "last_sent": 1791353681.3531783,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how jump trading is scaling quant research with chatgpt": {
+      "url": "https://openai.com/index/jump-trading",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "normalized_title": "how jump trading is scaling quant research with chatgpt",
+      "content_hash": "",
+      "last_sent": 1791353681.3531783,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai": {
+      "url": "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "normalized_title": "quasi riemann hypothesis openai publishes 722 math papers solving 90 of the top 500 open math problems the most significant moment in 100 years of mathematics",
+      "content_hash": "",
+      "last_sent": 1791353681.353188,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quasi riemann hypothesis openai publishes 722 math papers solving 90 of the top 500 open math problems the most significant moment in 100 years of mathematics": {
+      "url": "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "normalized_title": "quasi riemann hypothesis openai publishes 722 math papers solving 90 of the top 500 open math problems the most significant moment in 100 years of mathematics",
+      "content_hash": "",
+      "last_sent": 1791353681.353188,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/sharing-ai-progress-in-mathematics": {
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "title": "Sharing AI progress in mathematics",
+      "normalized_title": "sharing ai progress in mathematics",
+      "content_hash": "",
+      "last_sent": 1791353681.3532295,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:sharing ai progress in mathematics": {
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "title": "Sharing AI progress in mathematics",
+      "normalized_title": "sharing ai progress in mathematics",
+      "content_hash": "",
+      "last_sent": 1791353681.3532295,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia": {
+      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia",
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "normalized_title": "openai rogue agent activities found on wikimedia projects",
+      "content_hash": "",
+      "last_sent": 1791353681.3532436,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:openai rogue agent activities found on wikimedia projects": {
+      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia",
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "normalized_title": "openai rogue agent activities found on wikimedia projects",
+      "content_hash": "",
+      "last_sent": 1791353681.3532436,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/7/jake-boggan": {
+      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan",
+      "title": "Quoting Jake Boggan",
+      "normalized_title": "quoting jake boggan",
+      "content_hash": "",
+      "last_sent": 1791353681.3532581,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quoting jake boggan": {
+      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan",
+      "title": "Quoting Jake Boggan",
+      "normalized_title": "quoting jake boggan",
+      "content_hash": "",
+      "last_sent": 1791353681.3532581,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
