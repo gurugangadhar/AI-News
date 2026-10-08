@@ -28,20 +28,24 @@
     "https://openai.com/index/sharing-ai-progress-in-mathematics": 1791440864.448119,
     "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia": 1791353681.3532517,
     "https://simonwillison.net/2026/Oct/7/jake-boggan": 1791440864.4481354,
-    "https://latent.space/p/stacklok": 1791399647.205289,
-    "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": 1791399647.2053096,
+    "https://latent.space/p/stacklok": 1791485757.5259569,
+    "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": 1791485757.5259695,
     "https://openai.com/index/radisson": 1791399647.2053251,
-    "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software": 1791399647.2053373,
-    "https://huggingface.co/blog/LiquidAI/open-d1": 1791399647.2053492,
+    "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software": 1791485757.5259979,
+    "https://huggingface.co/blog/LiquidAI/open-d1": 1791485757.5260224,
     "https://openai.com/index/gpt-6-for-everyone": 1791399647.2053595,
-    "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging": 1791399647.2053678,
+    "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging": 1791485757.5260444,
     "https://simonwillison.net/2026/Oct/6/victoria-kim": 1791399647.2053852,
     "https://devin.ai/blog/claude-haiku-5-5": 1791440864.4479828,
     "https://huggingface.co/papers/2610.09684": 1791440864.4479978,
     "https://research.google/blog/does-better-work-always-mean-better-workers": 1791440864.4480097,
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event": 1791440864.4480932,
     "https://openai.com/index/teens-learn-and-plan": 1791440864.4481077,
-    "https://simonwillison.net/2026/Oct/7/ben-affleck": 1791440864.4481277
+    "https://simonwillison.net/2026/Oct/7/ben-affleck": 1791440864.4481277,
+    "https://huggingface.co/blog/tiiuae/falcon-asr": 1791485757.5259418,
+    "https://latent.space/p/ainews-claude-haiku-55-better-than": 1791485757.525988,
+    "https://latent.space/p/periodic": 1791485757.5260105,
+    "https://anthropic.com/news/genesis-mission-commitment": 1791485757.526037
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -555,7 +559,7 @@
       "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
       "normalized_title": "can a cloud native harness make agents reliable beyond the desktop",
       "content_hash": "",
-      "last_sent": 1791399647.2052615,
+      "last_sent": 1791485757.5259488,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -564,7 +568,7 @@
       "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
       "normalized_title": "can a cloud native harness make agents reliable beyond the desktop",
       "content_hash": "",
-      "last_sent": 1791399647.2052615,
+      "last_sent": 1791485757.5259488,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -573,7 +577,7 @@
       "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
       "normalized_title": "one model family two gold level results fine",
       "content_hash": "",
-      "last_sent": 1791399647.2053003,
+      "last_sent": 1791485757.525963,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -582,7 +586,7 @@
       "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
       "normalized_title": "one model family two gold level results fine",
       "content_hash": "",
-      "last_sent": 1791399647.2053003,
+      "last_sent": 1791485757.525963,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -609,7 +613,7 @@
       "title": "Secret protection must scale with software",
       "normalized_title": "secret protection must scale with software",
       "content_hash": "",
-      "last_sent": 1791399647.2053318,
+      "last_sent": 1791485757.5259943,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -618,7 +622,7 @@
       "title": "Secret protection must scale with software",
       "normalized_title": "secret protection must scale with software",
       "content_hash": "",
-      "last_sent": 1791399647.2053318,
+      "last_sent": 1791485757.5259943,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -627,7 +631,7 @@
       "title": "Multimodal open d1 decision models for the edge",
       "normalized_title": "multimodal open d1 decision models for the edge",
       "content_hash": "",
-      "last_sent": 1791399647.2053432,
+      "last_sent": 1791485757.5260186,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -636,7 +640,7 @@
       "title": "Multimodal open d1 decision models for the edge",
       "normalized_title": "multimodal open d1 decision models for the edge",
       "content_hash": "",
-      "last_sent": 1791399647.2053432,
+      "last_sent": 1791485757.5260186,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -663,7 +667,7 @@
       "title": "Anti-Patterns in Software Blogging",
       "normalized_title": "anti",
       "content_hash": "",
-      "last_sent": 1791399647.2053635,
+      "last_sent": 1791485757.526041,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -672,7 +676,7 @@
       "title": "Anti-Patterns in Software Blogging",
       "normalized_title": "anti",
       "content_hash": "",
-      "last_sent": 1791399647.2053635,
+      "last_sent": 1791485757.526041,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -800,6 +804,78 @@
       "content_hash": "",
       "last_sent": 1791440864.448124,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/tiiuae/falcon-asr": {
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "title": "Introducing Falcon ASR",
+      "normalized_title": "introducing falcon asr",
+      "content_hash": "",
+      "last_sent": 1791485757.5259233,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:introducing falcon asr": {
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "title": "Introducing Falcon ASR",
+      "normalized_title": "introducing falcon asr",
+      "content_hash": "",
+      "last_sent": 1791485757.5259233,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-claude-haiku-55-better-than": {
+      "url": "https://latent.space/p/ainews-claude-haiku-55-better-than",
+      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "normalized_title": "claude haiku 5 5 better than gpt",
+      "content_hash": "",
+      "last_sent": 1791485757.5259748,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:claude haiku 5 5 better than gpt": {
+      "url": "https://latent.space/p/ainews-claude-haiku-55-better-than",
+      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "normalized_title": "claude haiku 5 5 better than gpt",
+      "content_hash": "",
+      "last_sent": 1791485757.5259748,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/periodic": {
+      "url": "https://latent.space/p/periodic",
+      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+      "normalized_title": "synthesis superintelligence from semiconductors to superconductors periodic labs liam fedus and ekin dogus cubuk",
+      "content_hash": "",
+      "last_sent": 1791485757.5260015,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:synthesis superintelligence from semiconductors to superconductors periodic labs liam fedus and ekin dogus cubuk": {
+      "url": "https://latent.space/p/periodic",
+      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+      "normalized_title": "synthesis superintelligence from semiconductors to superconductors periodic labs liam fedus and ekin dogus cubuk",
+      "content_hash": "",
+      "last_sent": 1791485757.5260015,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://anthropic.com/news/genesis-mission-commitment": {
+      "url": "https://anthropic.com/news/genesis-mission-commitment",
+      "title": "Building on our commitment to American scientific discovery",
+      "normalized_title": "building on our commitment to american scientific discovery",
+      "content_hash": "",
+      "last_sent": 1791485757.5260324,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:building on our commitment to american scientific discovery": {
+      "url": "https://anthropic.com/news/genesis-mission-commitment",
+      "title": "Building on our commitment to American scientific discovery",
+      "normalized_title": "building on our commitment to american scientific discovery",
+      "content_hash": "",
+      "last_sent": 1791485757.5260324,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
