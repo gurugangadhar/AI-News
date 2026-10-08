@@ -11,23 +11,23 @@
     "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": 1791311439.1861615,
     "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review": 1791219166.1919854,
     "https://blogs.nvidia.com/blog/ai-breast-cancer-startups": 1791219166.192003,
-    "https://latent.space/p/ainews-reflection-beam-501b-a23b": 1791353681.353151,
+    "https://latent.space/p/ainews-reflection-beam-501b-a23b": 1791440864.4479697,
     "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle": 1791353681.3531725,
     "https://huggingface.co/papers/2610.04616": 1791268648.6350274,
     "https://simonwillison.net/2026/Oct/5/felix-rieseberg": 1791268648.6350372,
     "https://devin.ai/blog/memory-and-dreaming": 1791268648.6350446,
     "https://huggingface.co/blog/tiiuae/falcon-emirati": 1791311439.1860747,
     "https://openai.com/index/advancing-computer-use-with-ironclad": 1791311439.1860936,
-    "https://blogs.nvidia.com/blog/telecom-operators-open-models": 1791311439.1861207,
+    "https://blogs.nvidia.com/blog/telecom-operators-open-models": 1791440864.4480698,
     "https://huggingface.co/papers/2605.16817": 1791311439.186138,
     "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox": 1791311439.186151,
-    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": 1791353681.3531344,
+    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": 1791440864.4479506,
     "https://simonwillison.net/2026/Oct/6/llm-openai-decisions": 1791353681.3531628,
     "https://openai.com/index/jump-trading": 1791353681.353183,
-    "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai": 1791353681.3532116,
-    "https://openai.com/index/sharing-ai-progress-in-mathematics": 1791353681.3532333,
+    "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai": 1791440864.448043,
+    "https://openai.com/index/sharing-ai-progress-in-mathematics": 1791440864.448119,
     "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia": 1791353681.3532517,
-    "https://simonwillison.net/2026/Oct/7/jake-boggan": 1791353681.3532612,
+    "https://simonwillison.net/2026/Oct/7/jake-boggan": 1791440864.4481354,
     "https://latent.space/p/stacklok": 1791399647.205289,
     "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": 1791399647.2053096,
     "https://openai.com/index/radisson": 1791399647.2053251,
@@ -35,7 +35,13 @@
     "https://huggingface.co/blog/LiquidAI/open-d1": 1791399647.2053492,
     "https://openai.com/index/gpt-6-for-everyone": 1791399647.2053595,
     "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging": 1791399647.2053678,
-    "https://simonwillison.net/2026/Oct/6/victoria-kim": 1791399647.2053852
+    "https://simonwillison.net/2026/Oct/6/victoria-kim": 1791399647.2053852,
+    "https://devin.ai/blog/claude-haiku-5-5": 1791440864.4479828,
+    "https://huggingface.co/papers/2610.09684": 1791440864.4479978,
+    "https://research.google/blog/does-better-work-always-mean-better-workers": 1791440864.4480097,
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event": 1791440864.4480932,
+    "https://openai.com/index/teens-learn-and-plan": 1791440864.4481077,
+    "https://simonwillison.net/2026/Oct/7/ben-affleck": 1791440864.4481277
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -243,7 +249,7 @@
       "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
       "normalized_title": "reflection beam 501b",
       "content_hash": "",
-      "last_sent": 1791353681.353143,
+      "last_sent": 1791440864.447961,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -252,7 +258,7 @@
       "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
       "normalized_title": "reflection beam 501b",
       "content_hash": "",
-      "last_sent": 1791353681.353143,
+      "last_sent": 1791440864.447961,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -369,8 +375,8 @@
       "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
       "normalized_title": "why telecom operators are building their ai strategy on open models",
       "content_hash": "",
-      "last_sent": 1791311439.1861129,
-      "digest_type": "evening",
+      "last_sent": 1791440864.4480624,
+      "digest_type": "morning",
       "score": 0.0
     },
     "title:why telecom operators are building their ai strategy on open models": {
@@ -378,8 +384,8 @@
       "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
       "normalized_title": "why telecom operators are building their ai strategy on open models",
       "content_hash": "",
-      "last_sent": 1791311439.1861129,
-      "digest_type": "evening",
+      "last_sent": 1791440864.4480624,
+      "digest_type": "morning",
       "score": 0.0
     },
     "https://huggingface.co/papers/2605.16817": {
@@ -423,7 +429,7 @@
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "normalized_title": "embeddinggemma 2 an open lightweight multimodal embedding model",
       "content_hash": "",
-      "last_sent": 1791353681.3530955,
+      "last_sent": 1791440864.4479198,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -432,7 +438,7 @@
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "normalized_title": "embeddinggemma 2 an open lightweight multimodal embedding model",
       "content_hash": "",
-      "last_sent": 1791353681.3530955,
+      "last_sent": 1791440864.4479198,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -477,7 +483,7 @@
       "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
       "normalized_title": "quasi riemann hypothesis openai publishes 722 math papers solving 90 of the top 500 open math problems the most significant moment in 100 years of mathematics",
       "content_hash": "",
-      "last_sent": 1791353681.353188,
+      "last_sent": 1791440864.4480147,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -486,7 +492,7 @@
       "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
       "normalized_title": "quasi riemann hypothesis openai publishes 722 math papers solving 90 of the top 500 open math problems the most significant moment in 100 years of mathematics",
       "content_hash": "",
-      "last_sent": 1791353681.353188,
+      "last_sent": 1791440864.4480147,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -495,7 +501,7 @@
       "title": "Sharing AI progress in mathematics",
       "normalized_title": "sharing ai progress in mathematics",
       "content_hash": "",
-      "last_sent": 1791353681.3532295,
+      "last_sent": 1791440864.448114,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -504,7 +510,7 @@
       "title": "Sharing AI progress in mathematics",
       "normalized_title": "sharing ai progress in mathematics",
       "content_hash": "",
-      "last_sent": 1791353681.3532295,
+      "last_sent": 1791440864.448114,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -531,7 +537,7 @@
       "title": "Quoting Jake Boggan",
       "normalized_title": "quoting jake boggan",
       "content_hash": "",
-      "last_sent": 1791353681.3532581,
+      "last_sent": 1791440864.4481316,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -540,7 +546,7 @@
       "title": "Quoting Jake Boggan",
       "normalized_title": "quoting jake boggan",
       "content_hash": "",
-      "last_sent": 1791353681.3532581,
+      "last_sent": 1791440864.4481316,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -686,6 +692,114 @@
       "content_hash": "",
       "last_sent": 1791399647.2053795,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://devin.ai/blog/claude-haiku-5-5": {
+      "url": "https://devin.ai/blog/claude-haiku-5-5",
+      "title": "Claude Haiku 5.5 is now available in Devin",
+      "normalized_title": "claude haiku 5 5 is now available in devin",
+      "content_hash": "",
+      "last_sent": 1791440864.447977,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:claude haiku 5 5 is now available in devin": {
+      "url": "https://devin.ai/blog/claude-haiku-5-5",
+      "title": "Claude Haiku 5.5 is now available in Devin",
+      "normalized_title": "claude haiku 5 5 is now available in devin",
+      "content_hash": "",
+      "last_sent": 1791440864.447977,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.09684": {
+      "url": "https://huggingface.co/papers/2610.09684",
+      "title": "From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery (8 upvotes)",
+      "normalized_title": "from pareto to preference personalized test",
+      "content_hash": "",
+      "last_sent": 1791440864.4479883,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:from pareto to preference personalized test": {
+      "url": "https://huggingface.co/papers/2610.09684",
+      "title": "From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery (8 upvotes)",
+      "normalized_title": "from pareto to preference personalized test",
+      "content_hash": "",
+      "last_sent": 1791440864.4479883,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://research.google/blog/does-better-work-always-mean-better-workers": {
+      "url": "https://research.google/blog/does-better-work-always-mean-better-workers",
+      "title": "Does better work always mean better workers?",
+      "normalized_title": "does better work always mean better workers",
+      "content_hash": "",
+      "last_sent": 1791440864.4480047,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:does better work always mean better workers": {
+      "url": "https://research.google/blog/does-better-work-always-mean-better-workers",
+      "title": "Does better work always mean better workers?",
+      "normalized_title": "does better work always mean better workers",
+      "content_hash": "",
+      "last_sent": 1791440864.4480047,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event": {
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "normalized_title": "nvidia microsoft kick off a new beginning for windows pcs with rtx spark and ai agents",
+      "content_hash": "",
+      "last_sent": 1791440864.4480836,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:nvidia microsoft kick off a new beginning for windows pcs with rtx spark and ai agents": {
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "normalized_title": "nvidia microsoft kick off a new beginning for windows pcs with rtx spark and ai agents",
+      "content_hash": "",
+      "last_sent": 1791440864.4480836,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/teens-learn-and-plan": {
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "normalized_title": "helping teens learn plan and shape the future of ai",
+      "content_hash": "",
+      "last_sent": 1791440864.4481013,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:helping teens learn plan and shape the future of ai": {
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "normalized_title": "helping teens learn plan and shape the future of ai",
+      "content_hash": "",
+      "last_sent": 1791440864.4481013,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/7/ben-affleck": {
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck",
+      "title": "Quoting Ben Affleck",
+      "normalized_title": "quoting ben affleck",
+      "content_hash": "",
+      "last_sent": 1791440864.448124,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quoting ben affleck": {
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck",
+      "title": "Quoting Ben Affleck",
+      "normalized_title": "quoting ben affleck",
+      "content_hash": "",
+      "last_sent": 1791440864.448124,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
