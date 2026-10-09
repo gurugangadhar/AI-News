@@ -43,16 +43,23 @@
     "https://openai.com/index/teens-learn-and-plan": 1791440864.4481077,
     "https://simonwillison.net/2026/Oct/7/ben-affleck": 1791527140.259536,
     "https://huggingface.co/blog/tiiuae/falcon-asr": 1791485757.5259418,
-    "https://latent.space/p/ainews-claude-haiku-55-better-than": 1791485757.525988,
+    "https://latent.space/p/ainews-claude-haiku-55-better-than": 1791570438.3553574,
     "https://latent.space/p/periodic": 1791485757.5260105,
-    "https://anthropic.com/news/genesis-mission-commitment": 1791485757.526037,
+    "https://anthropic.com/news/genesis-mission-commitment": 1791570438.3553824,
     "https://huggingface.co/papers/2610.11959": 1791527140.259414,
     "https://simonwillison.net/2026/Oct/9/ttok": 1791527140.2594483,
     "https://latent.space/p/ainews-not-much-happened-today-60f": 1791527140.259458,
     "https://openai.com/index/oracle": 1791527140.2594934,
     "https://anthropic.com/news/2026-usage-policy-update": 1791527140.259505,
     "https://openai.com/index/pollo-ai": 1791527140.2595239,
-    "https://simonwillison.net/2026/Oct/8/carson-gross": 1791527140.259545
+    "https://simonwillison.net/2026/Oct/8/carson-gross": 1791527140.259545,
+    "https://huggingface.co/blog/allenai/impactful-scheduling": 1791570438.3553958,
+    "https://huggingface.co/papers/2606.03335": 1791570438.3554106,
+    "https://simonwillison.net/2026/Oct/9/built-using-my-voice": 1791570438.3554256,
+    "https://openai.com/index/sophos": 1791570438.3554387,
+    "https://huggingface.co/blog/building-with-ml-intern": 1791570438.3554533,
+    "https://simonwillison.net/2026/Oct/8/ttok": 1791570438.3554723,
+    "https://simonwillison.net/2026/Oct/9/matthew-green": 1791570438.3554819
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -836,7 +843,7 @@
       "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
       "normalized_title": "claude haiku 5 5 better than gpt",
       "content_hash": "",
-      "last_sent": 1791485757.5259748,
+      "last_sent": 1791570438.3553224,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -845,7 +852,7 @@
       "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
       "normalized_title": "claude haiku 5 5 better than gpt",
       "content_hash": "",
-      "last_sent": 1791485757.5259748,
+      "last_sent": 1791570438.3553224,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -872,7 +879,7 @@
       "title": "Building on our commitment to American scientific discovery",
       "normalized_title": "building on our commitment to american scientific discovery",
       "content_hash": "",
-      "last_sent": 1791485757.5260324,
+      "last_sent": 1791570438.3553731,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -881,7 +888,7 @@
       "title": "Building on our commitment to American scientific discovery",
       "normalized_title": "building on our commitment to american scientific discovery",
       "content_hash": "",
-      "last_sent": 1791485757.5260324,
+      "last_sent": 1791570438.3553731,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1000,6 +1007,132 @@
       "content_hash": "",
       "last_sent": 1791527140.259541,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/allenai/impactful-scheduling": {
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "title": "Impactful scheduling for GPU clusters",
+      "normalized_title": "impactful scheduling for gpu clusters",
+      "content_hash": "",
+      "last_sent": 1791570438.355391,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:impactful scheduling for gpu clusters": {
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "title": "Impactful scheduling for GPU clusters",
+      "normalized_title": "impactful scheduling for gpu clusters",
+      "content_hash": "",
+      "last_sent": 1791570438.355391,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2606.03335": {
+      "url": "https://huggingface.co/papers/2606.03335",
+      "title": "A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning (1 upvotes)",
+      "normalized_title": "a gpu parallel framework for heterogeneous multi",
+      "content_hash": "",
+      "last_sent": 1791570438.3554013,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:a gpu parallel framework for heterogeneous multi": {
+      "url": "https://huggingface.co/papers/2606.03335",
+      "title": "A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning (1 upvotes)",
+      "normalized_title": "a gpu parallel framework for heterogeneous multi",
+      "content_hash": "",
+      "last_sent": 1791570438.3554013,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/9/built-using-my-voice": {
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice",
+      "title": "A new feature for my blog, built using my voice",
+      "normalized_title": "a new feature for my blog built using my voice",
+      "content_hash": "",
+      "last_sent": 1791570438.355419,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:a new feature for my blog built using my voice": {
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice",
+      "title": "A new feature for my blog, built using my voice",
+      "normalized_title": "a new feature for my blog built using my voice",
+      "content_hash": "",
+      "last_sent": 1791570438.355419,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/sophos": {
+      "url": "https://openai.com/index/sophos",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "normalized_title": "sophos cuts threat investigation time by 96 with openai daybreak",
+      "content_hash": "",
+      "last_sent": 1791570438.3554313,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:sophos cuts threat investigation time by 96 with openai daybreak": {
+      "url": "https://openai.com/index/sophos",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "normalized_title": "sophos cuts threat investigation time by 96 with openai daybreak",
+      "content_hash": "",
+      "last_sent": 1791570438.3554313,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/building-with-ml-intern": {
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "title": "The model that didn't exist, so you made it yourself",
+      "normalized_title": "the model that didn t exist so you made it yourself",
+      "content_hash": "",
+      "last_sent": 1791570438.3554468,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:the model that didn t exist so you made it yourself": {
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "title": "The model that didn't exist, so you made it yourself",
+      "normalized_title": "the model that didn t exist so you made it yourself",
+      "content_hash": "",
+      "last_sent": 1791570438.3554468,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/8/ttok": {
+      "url": "https://simonwillison.net/2026/Oct/8/ttok",
+      "title": "ttok 0.4",
+      "normalized_title": "ttok 0 4",
+      "content_hash": "",
+      "last_sent": 1791570438.3554673,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:ttok 0 4": {
+      "url": "https://simonwillison.net/2026/Oct/8/ttok",
+      "title": "ttok 0.4",
+      "normalized_title": "ttok 0 4",
+      "content_hash": "",
+      "last_sent": 1791570438.3554673,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/9/matthew-green": {
+      "url": "https://simonwillison.net/2026/Oct/9/matthew-green",
+      "title": "Quoting Matthew Green",
+      "normalized_title": "quoting matthew green",
+      "content_hash": "",
+      "last_sent": 1791570438.355477,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:quoting matthew green": {
+      "url": "https://simonwillison.net/2026/Oct/9/matthew-green",
+      "title": "Quoting Matthew Green",
+      "normalized_title": "quoting matthew green",
+      "content_hash": "",
+      "last_sent": 1791570438.355477,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
