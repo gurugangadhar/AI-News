@@ -38,14 +38,21 @@
     "https://simonwillison.net/2026/Oct/6/victoria-kim": 1791399647.2053852,
     "https://devin.ai/blog/claude-haiku-5-5": 1791440864.4479828,
     "https://huggingface.co/papers/2610.09684": 1791440864.4479978,
-    "https://research.google/blog/does-better-work-always-mean-better-workers": 1791440864.4480097,
-    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event": 1791440864.4480932,
+    "https://research.google/blog/does-better-work-always-mean-better-workers": 1791527140.2594364,
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event": 1791527140.259475,
     "https://openai.com/index/teens-learn-and-plan": 1791440864.4481077,
-    "https://simonwillison.net/2026/Oct/7/ben-affleck": 1791440864.4481277,
+    "https://simonwillison.net/2026/Oct/7/ben-affleck": 1791527140.259536,
     "https://huggingface.co/blog/tiiuae/falcon-asr": 1791485757.5259418,
     "https://latent.space/p/ainews-claude-haiku-55-better-than": 1791485757.525988,
     "https://latent.space/p/periodic": 1791485757.5260105,
-    "https://anthropic.com/news/genesis-mission-commitment": 1791485757.526037
+    "https://anthropic.com/news/genesis-mission-commitment": 1791485757.526037,
+    "https://huggingface.co/papers/2610.11959": 1791527140.259414,
+    "https://simonwillison.net/2026/Oct/9/ttok": 1791527140.2594483,
+    "https://latent.space/p/ainews-not-much-happened-today-60f": 1791527140.259458,
+    "https://openai.com/index/oracle": 1791527140.2594934,
+    "https://anthropic.com/news/2026-usage-policy-update": 1791527140.259505,
+    "https://openai.com/index/pollo-ai": 1791527140.2595239,
+    "https://simonwillison.net/2026/Oct/8/carson-gross": 1791527140.259545
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -78,11 +85,11 @@
       "score": 0.0
     },
     "title:not much happened today": {
-      "url": "https://latent.space/p/ainews-not-much-happened-today-cee",
+      "url": "https://latent.space/p/ainews-not-much-happened-today-60f",
       "title": "[AINews] not much happened today",
       "normalized_title": "not much happened today",
       "content_hash": "",
-      "last_sent": 1791180230.3008332,
+      "last_sent": 1791527140.2594526,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -739,7 +746,7 @@
       "title": "Does better work always mean better workers?",
       "normalized_title": "does better work always mean better workers",
       "content_hash": "",
-      "last_sent": 1791440864.4480047,
+      "last_sent": 1791527140.2594275,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -748,7 +755,7 @@
       "title": "Does better work always mean better workers?",
       "normalized_title": "does better work always mean better workers",
       "content_hash": "",
-      "last_sent": 1791440864.4480047,
+      "last_sent": 1791527140.2594275,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -757,7 +764,7 @@
       "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
       "normalized_title": "nvidia microsoft kick off a new beginning for windows pcs with rtx spark and ai agents",
       "content_hash": "",
-      "last_sent": 1791440864.4480836,
+      "last_sent": 1791527140.2594645,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -766,7 +773,7 @@
       "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
       "normalized_title": "nvidia microsoft kick off a new beginning for windows pcs with rtx spark and ai agents",
       "content_hash": "",
-      "last_sent": 1791440864.4480836,
+      "last_sent": 1791527140.2594645,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -793,7 +800,7 @@
       "title": "Quoting Ben Affleck",
       "normalized_title": "quoting ben affleck",
       "content_hash": "",
-      "last_sent": 1791440864.448124,
+      "last_sent": 1791527140.2595313,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -802,7 +809,7 @@
       "title": "Quoting Ben Affleck",
       "normalized_title": "quoting ben affleck",
       "content_hash": "",
-      "last_sent": 1791440864.448124,
+      "last_sent": 1791527140.2595313,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -876,6 +883,123 @@
       "content_hash": "",
       "last_sent": 1791485757.5260324,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.11959": {
+      "url": "https://huggingface.co/papers/2610.11959",
+      "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement (26 upvotes)",
+      "normalized_title": "mimo v2 6 scaling reinforcement learning towards self",
+      "content_hash": "",
+      "last_sent": 1791527140.2593894,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:mimo v2 6 scaling reinforcement learning towards self": {
+      "url": "https://huggingface.co/papers/2610.11959",
+      "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement (26 upvotes)",
+      "normalized_title": "mimo v2 6 scaling reinforcement learning towards self",
+      "content_hash": "",
+      "last_sent": 1791527140.2593894,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/9/ttok": {
+      "url": "https://simonwillison.net/2026/Oct/9/ttok",
+      "title": "ttok 1.0",
+      "normalized_title": "ttok 1 0",
+      "content_hash": "",
+      "last_sent": 1791527140.2594442,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:ttok 1 0": {
+      "url": "https://simonwillison.net/2026/Oct/9/ttok",
+      "title": "ttok 1.0",
+      "normalized_title": "ttok 1 0",
+      "content_hash": "",
+      "last_sent": 1791527140.2594442,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-not-much-happened-today-60f": {
+      "url": "https://latent.space/p/ainews-not-much-happened-today-60f",
+      "title": "[AINews] not much happened today",
+      "normalized_title": "not much happened today",
+      "content_hash": "",
+      "last_sent": 1791527140.2594526,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/oracle": {
+      "url": "https://openai.com/index/oracle",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "normalized_title": "how oracle turns days of work into minutes with chatgpt and codex",
+      "content_hash": "",
+      "last_sent": 1791527140.2594857,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how oracle turns days of work into minutes with chatgpt and codex": {
+      "url": "https://openai.com/index/oracle",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "normalized_title": "how oracle turns days of work into minutes with chatgpt and codex",
+      "content_hash": "",
+      "last_sent": 1791527140.2594857,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://anthropic.com/news/2026-usage-policy-update": {
+      "url": "https://anthropic.com/news/2026-usage-policy-update",
+      "title": "2026 Usage Policy update",
+      "normalized_title": "2026 usage policy update",
+      "content_hash": "",
+      "last_sent": 1791527140.2595007,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:2026 usage policy update": {
+      "url": "https://anthropic.com/news/2026-usage-policy-update",
+      "title": "2026 Usage Policy update",
+      "normalized_title": "2026 usage policy update",
+      "content_hash": "",
+      "last_sent": 1791527140.2595007,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/pollo-ai": {
+      "url": "https://openai.com/index/pollo-ai",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "normalized_title": "pollo ai turns creative ideas into campaigns with openai",
+      "content_hash": "",
+      "last_sent": 1791527140.259516,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:pollo ai turns creative ideas into campaigns with openai": {
+      "url": "https://openai.com/index/pollo-ai",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "normalized_title": "pollo ai turns creative ideas into campaigns with openai",
+      "content_hash": "",
+      "last_sent": 1791527140.259516,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/8/carson-gross": {
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross",
+      "title": "Quoting Carson Gross",
+      "normalized_title": "quoting carson gross",
+      "content_hash": "",
+      "last_sent": 1791527140.259541,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quoting carson gross": {
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross",
+      "title": "Quoting Carson Gross",
+      "normalized_title": "quoting carson gross",
+      "content_hash": "",
+      "last_sent": 1791527140.259541,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
