@@ -53,19 +53,21 @@
     "https://anthropic.com/news/2026-usage-policy-update": 1791527140.259505,
     "https://openai.com/index/pollo-ai": 1791527140.2595239,
     "https://simonwillison.net/2026/Oct/8/carson-gross": 1791527140.259545,
-    "https://huggingface.co/blog/allenai/impactful-scheduling": 1791570438.3553958,
+    "https://huggingface.co/blog/allenai/impactful-scheduling": 1791653112.7105105,
     "https://huggingface.co/papers/2606.03335": 1791570438.3554106,
-    "https://simonwillison.net/2026/Oct/9/built-using-my-voice": 1791570438.3554256,
-    "https://openai.com/index/sophos": 1791570438.3554387,
+    "https://simonwillison.net/2026/Oct/9/built-using-my-voice": 1791653112.7105224,
+    "https://openai.com/index/sophos": 1791653112.7105343,
     "https://huggingface.co/blog/building-with-ml-intern": 1791570438.3554533,
     "https://simonwillison.net/2026/Oct/8/ttok": 1791570438.3554723,
-    "https://simonwillison.net/2026/Oct/9/matthew-green": 1791570438.3554819,
+    "https://simonwillison.net/2026/Oct/9/matthew-green": 1791653112.710545,
     "https://openai.com/index/asana-browser-agent": 1791612461.1700633,
     "https://latent.space/p/biohub-deepmind": 1791612461.170087,
     "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare": 1791612461.1701005,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1791612461.1701317,
     "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day": 1791612461.1701448,
-    "https://simonwillison.net/2026/Oct/10/the-new-york-times": 1791612461.1701624
+    "https://simonwillison.net/2026/Oct/10/the-new-york-times": 1791612461.1701624,
+    "https://latent.space/p/standard-bots": 1791653112.7104754,
+    "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": 1791653112.7104948
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -1020,7 +1022,7 @@
       "title": "Impactful scheduling for GPU clusters",
       "normalized_title": "impactful scheduling for gpu clusters",
       "content_hash": "",
-      "last_sent": 1791570438.355391,
+      "last_sent": 1791653112.7105043,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1029,7 +1031,7 @@
       "title": "Impactful scheduling for GPU clusters",
       "normalized_title": "impactful scheduling for gpu clusters",
       "content_hash": "",
-      "last_sent": 1791570438.355391,
+      "last_sent": 1791653112.7105043,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1056,7 +1058,7 @@
       "title": "A new feature for my blog, built using my voice",
       "normalized_title": "a new feature for my blog built using my voice",
       "content_hash": "",
-      "last_sent": 1791570438.355419,
+      "last_sent": 1791653112.710516,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1065,7 +1067,7 @@
       "title": "A new feature for my blog, built using my voice",
       "normalized_title": "a new feature for my blog built using my voice",
       "content_hash": "",
-      "last_sent": 1791570438.355419,
+      "last_sent": 1791653112.710516,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1074,7 +1076,7 @@
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "normalized_title": "sophos cuts threat investigation time by 96 with openai daybreak",
       "content_hash": "",
-      "last_sent": 1791570438.3554313,
+      "last_sent": 1791653112.7105277,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1083,7 +1085,7 @@
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "normalized_title": "sophos cuts threat investigation time by 96 with openai daybreak",
       "content_hash": "",
-      "last_sent": 1791570438.3554313,
+      "last_sent": 1791653112.7105277,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1128,7 +1130,7 @@
       "title": "Quoting Matthew Green",
       "normalized_title": "quoting matthew green",
       "content_hash": "",
-      "last_sent": 1791570438.355477,
+      "last_sent": 1791653112.710541,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1137,7 +1139,7 @@
       "title": "Quoting Matthew Green",
       "normalized_title": "quoting matthew green",
       "content_hash": "",
-      "last_sent": 1791570438.355477,
+      "last_sent": 1791653112.710541,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1247,6 +1249,42 @@
       "content_hash": "",
       "last_sent": 1791612461.170158,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/standard-bots": {
+      "url": "https://latent.space/p/standard-bots",
+      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+      "normalized_title": "building ai for reliable execution",
+      "content_hash": "",
+      "last_sent": 1791653112.7104533,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:building ai for reliable execution": {
+      "url": "https://latent.space/p/standard-bots",
+      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+      "normalized_title": "building ai for reliable execution",
+      "content_hash": "",
+      "last_sent": 1791653112.7104533,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": {
+      "url": "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+      "normalized_title": "typesafe jev at 100m arr 7 5b valuation 3 weeks after launch",
+      "content_hash": "",
+      "last_sent": 1791653112.7104847,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:typesafe jev at 100m arr 7 5b valuation 3 weeks after launch": {
+      "url": "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+      "normalized_title": "typesafe jev at 100m arr 7 5b valuation 3 weeks after launch",
+      "content_hash": "",
+      "last_sent": 1791653112.7104847,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
