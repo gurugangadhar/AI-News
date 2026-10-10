@@ -48,8 +48,8 @@
     "https://anthropic.com/news/genesis-mission-commitment": 1791570438.3553824,
     "https://huggingface.co/papers/2610.11959": 1791527140.259414,
     "https://simonwillison.net/2026/Oct/9/ttok": 1791527140.2594483,
-    "https://latent.space/p/ainews-not-much-happened-today-60f": 1791527140.259458,
-    "https://openai.com/index/oracle": 1791527140.2594934,
+    "https://latent.space/p/ainews-not-much-happened-today-60f": 1791612461.17011,
+    "https://openai.com/index/oracle": 1791612461.1701214,
     "https://anthropic.com/news/2026-usage-policy-update": 1791527140.259505,
     "https://openai.com/index/pollo-ai": 1791527140.2595239,
     "https://simonwillison.net/2026/Oct/8/carson-gross": 1791527140.259545,
@@ -59,7 +59,13 @@
     "https://openai.com/index/sophos": 1791570438.3554387,
     "https://huggingface.co/blog/building-with-ml-intern": 1791570438.3554533,
     "https://simonwillison.net/2026/Oct/8/ttok": 1791570438.3554723,
-    "https://simonwillison.net/2026/Oct/9/matthew-green": 1791570438.3554819
+    "https://simonwillison.net/2026/Oct/9/matthew-green": 1791570438.3554819,
+    "https://openai.com/index/asana-browser-agent": 1791612461.1700633,
+    "https://latent.space/p/biohub-deepmind": 1791612461.170087,
+    "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare": 1791612461.1701005,
+    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1791612461.1701317,
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day": 1791612461.1701448,
+    "https://simonwillison.net/2026/Oct/10/the-new-york-times": 1791612461.1701624
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -96,7 +102,7 @@
       "title": "[AINews] not much happened today",
       "normalized_title": "not much happened today",
       "content_hash": "",
-      "last_sent": 1791527140.2594526,
+      "last_sent": 1791612461.1701043,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -933,7 +939,7 @@
       "title": "[AINews] not much happened today",
       "normalized_title": "not much happened today",
       "content_hash": "",
-      "last_sent": 1791527140.2594526,
+      "last_sent": 1791612461.1701043,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -942,7 +948,7 @@
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "normalized_title": "how oracle turns days of work into minutes with chatgpt and codex",
       "content_hash": "",
-      "last_sent": 1791527140.2594857,
+      "last_sent": 1791612461.1701155,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -951,7 +957,7 @@
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "normalized_title": "how oracle turns days of work into minutes with chatgpt and codex",
       "content_hash": "",
-      "last_sent": 1791527140.2594857,
+      "last_sent": 1791612461.1701155,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1133,6 +1139,114 @@
       "content_hash": "",
       "last_sent": 1791570438.355477,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/asana-browser-agent": {
+      "url": "https://openai.com/index/asana-browser-agent",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "normalized_title": "asana cuts model costs 76x in browser tests with gpt",
+      "content_hash": "",
+      "last_sent": 1791612461.170041,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:asana cuts model costs 76x in browser tests with gpt": {
+      "url": "https://openai.com/index/asana-browser-agent",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "normalized_title": "asana cuts model costs 76x in browser tests with gpt",
+      "content_hash": "",
+      "last_sent": 1791612461.170041,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/biohub-deepmind": {
+      "url": "https://latent.space/p/biohub-deepmind",
+      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+      "normalized_title": "why alphafold didn t solve protein folding pushmeet kohli google deepmind sal candido biohub",
+      "content_hash": "",
+      "last_sent": 1791612461.1700704,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:why alphafold didn t solve protein folding pushmeet kohli google deepmind sal candido biohub": {
+      "url": "https://latent.space/p/biohub-deepmind",
+      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+      "normalized_title": "why alphafold didn t solve protein folding pushmeet kohli google deepmind sal candido biohub",
+      "content_hash": "",
+      "last_sent": 1791612461.1700704,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare": {
+      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare",
+      "title": "Deno is joining Cloudflare",
+      "normalized_title": "deno is joining cloudflare",
+      "content_hash": "",
+      "last_sent": 1791612461.1700969,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:deno is joining cloudflare": {
+      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare",
+      "title": "Deno is joining Cloudflare",
+      "normalized_title": "deno is joining cloudflare",
+      "content_hash": "",
+      "last_sent": 1791612461.1700969,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": {
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "normalized_title": "into the omniverse",
+      "content_hash": "",
+      "last_sent": 1791612461.1701274,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:into the omniverse": {
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "normalized_title": "into the omniverse",
+      "content_hash": "",
+      "last_sent": 1791612461.1701274,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day": {
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day",
+      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+      "normalized_title": "rally up gears of war e day launches on geforce now",
+      "content_hash": "",
+      "last_sent": 1791612461.170136,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:rally up gears of war e day launches on geforce now": {
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day",
+      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+      "normalized_title": "rally up gears of war e day launches on geforce now",
+      "content_hash": "",
+      "last_sent": 1791612461.170136,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/10/the-new-york-times": {
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times",
+      "title": "Quoting The New York Times",
+      "normalized_title": "quoting the new york times",
+      "content_hash": "",
+      "last_sent": 1791612461.170158,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quoting the new york times": {
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times",
+      "title": "Quoting The New York Times",
+      "normalized_title": "quoting the new york times",
+      "content_hash": "",
+      "last_sent": 1791612461.170158,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
