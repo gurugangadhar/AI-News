@@ -60,14 +60,17 @@
     "https://huggingface.co/blog/building-with-ml-intern": 1791570438.3554533,
     "https://simonwillison.net/2026/Oct/8/ttok": 1791570438.3554723,
     "https://simonwillison.net/2026/Oct/9/matthew-green": 1791653112.710545,
-    "https://openai.com/index/asana-browser-agent": 1791612461.1700633,
+    "https://openai.com/index/asana-browser-agent": 1791698719.6519241,
     "https://latent.space/p/biohub-deepmind": 1791612461.170087,
-    "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare": 1791612461.1701005,
+    "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare": 1791698719.6519463,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1791612461.1701317,
     "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day": 1791612461.1701448,
-    "https://simonwillison.net/2026/Oct/10/the-new-york-times": 1791612461.1701624,
+    "https://simonwillison.net/2026/Oct/10/the-new-york-times": 1791698719.651962,
     "https://latent.space/p/standard-bots": 1791653112.7104754,
-    "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": 1791653112.7104948
+    "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": 1791653112.7104948,
+    "https://latent.space/p/nyc2026": 1791698719.6519387,
+    "https://simonwillison.net/2026/Oct/10/python-actions": 1791698719.651955,
+    "https://simonwillison.net/2026/Oct/11/dwarf-fortress": 1791698719.6519687
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -1148,7 +1151,7 @@
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "normalized_title": "asana cuts model costs 76x in browser tests with gpt",
       "content_hash": "",
-      "last_sent": 1791612461.170041,
+      "last_sent": 1791698719.6519027,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1157,7 +1160,7 @@
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "normalized_title": "asana cuts model costs 76x in browser tests with gpt",
       "content_hash": "",
-      "last_sent": 1791612461.170041,
+      "last_sent": 1791698719.6519027,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1184,7 +1187,7 @@
       "title": "Deno is joining Cloudflare",
       "normalized_title": "deno is joining cloudflare",
       "content_hash": "",
-      "last_sent": 1791612461.1700969,
+      "last_sent": 1791698719.651943,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1193,7 +1196,7 @@
       "title": "Deno is joining Cloudflare",
       "normalized_title": "deno is joining cloudflare",
       "content_hash": "",
-      "last_sent": 1791612461.1700969,
+      "last_sent": 1791698719.651943,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1238,7 +1241,7 @@
       "title": "Quoting The New York Times",
       "normalized_title": "quoting the new york times",
       "content_hash": "",
-      "last_sent": 1791612461.170158,
+      "last_sent": 1791698719.6519585,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1247,7 +1250,7 @@
       "title": "Quoting The New York Times",
       "normalized_title": "quoting the new york times",
       "content_hash": "",
-      "last_sent": 1791612461.170158,
+      "last_sent": 1791698719.6519585,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1285,6 +1288,60 @@
       "content_hash": "",
       "last_sent": 1791653112.7104847,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/nyc2026": {
+      "url": "https://latent.space/p/nyc2026",
+      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+      "normalized_title": "nyc subscriber meetups",
+      "content_hash": "",
+      "last_sent": 1791698719.651934,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:nyc subscriber meetups": {
+      "url": "https://latent.space/p/nyc2026",
+      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+      "normalized_title": "nyc subscriber meetups",
+      "content_hash": "",
+      "last_sent": 1791698719.651934,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/10/python-actions": {
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "normalized_title": "python 3 15 0 added to actions python",
+      "content_hash": "",
+      "last_sent": 1791698719.6519506,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:python 3 15 0 added to actions python": {
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "normalized_title": "python 3 15 0 added to actions python",
+      "content_hash": "",
+      "last_sent": 1791698719.6519506,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/11/dwarf-fortress": {
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress",
+      "title": "Dwarf Fortress uses version control now",
+      "normalized_title": "dwarf fortress uses version control now",
+      "content_hash": "",
+      "last_sent": 1791698719.6519659,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:dwarf fortress uses version control now": {
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress",
+      "title": "Dwarf Fortress uses version control now",
+      "normalized_title": "dwarf fortress uses version control now",
+      "content_hash": "",
+      "last_sent": 1791698719.6519659,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
