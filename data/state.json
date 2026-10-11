@@ -7,7 +7,7 @@
     "https://arxiv.org/abs/2610.02267": 1791180230.30088,
     "https://openai.com/index/new-chatgpt-ads-format-and-measurement": 1791219166.191919,
     "https://openai.com/index/eu-text-provenance": 1791311439.1861062,
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1791219166.191962,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1791740699.006551,
     "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": 1791311439.1861615,
     "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review": 1791219166.1919854,
     "https://blogs.nvidia.com/blog/ai-breast-cancer-startups": 1791219166.192003,
@@ -66,11 +66,13 @@
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1791612461.1701317,
     "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day": 1791612461.1701448,
     "https://simonwillison.net/2026/Oct/10/the-new-york-times": 1791698719.651962,
-    "https://latent.space/p/standard-bots": 1791653112.7104754,
-    "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": 1791653112.7104948,
+    "https://latent.space/p/standard-bots": 1791740699.0065343,
+    "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": 1791740699.006512,
     "https://latent.space/p/nyc2026": 1791698719.6519387,
     "https://simonwillison.net/2026/Oct/10/python-actions": 1791698719.651955,
-    "https://simonwillison.net/2026/Oct/11/dwarf-fortress": 1791698719.6519687
+    "https://simonwillison.net/2026/Oct/11/dwarf-fortress": 1791698719.6519687,
+    "https://github.com/esengine/DeepSeek-Reasonix": 1791740699.0065634,
+    "https://huggingface.co/papers/2610.11216": 1791740699.0065746
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -203,10 +205,10 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (27,698 stars)",
-      "normalized_title": "tencentcloud tencentdb agent",
+      "title": "TencentDB-Agent-Memory: Multi-Asset Shared State for Agent Fleets",
+      "normalized_title": "tencentdb agent memory multi",
       "content_hash": "",
-      "last_sent": 1791219166.1919546,
+      "last_sent": 1791740699.0065436,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1256,10 +1258,10 @@
     },
     "https://latent.space/p/standard-bots": {
       "url": "https://latent.space/p/standard-bots",
-      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-      "normalized_title": "building ai for reliable execution",
+      "title": "Standard Bots Architecture: Low-Parameter Specialized Models for Real-Time Execution",
+      "normalized_title": "standard bots architecture low parameter specialized models for real",
       "content_hash": "",
-      "last_sent": 1791653112.7104533,
+      "last_sent": 1791740699.0065238,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1274,10 +1276,10 @@
     },
     "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": {
       "url": "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-      "normalized_title": "typesafe jev at 100m arr 7 5b valuation 3 weeks after launch",
+      "title": "Rise of Decision Models: OpenAI and Microsoft Ship Typed Single-Pass APIs",
+      "normalized_title": "rise of decision models openai and microsoft ship typed single",
       "content_hash": "",
-      "last_sent": 1791653112.7104847,
+      "last_sent": 1791740699.0064876,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1342,6 +1344,69 @@
       "content_hash": "",
       "last_sent": 1791698719.6519659,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:rise of decision models openai and microsoft ship typed single": {
+      "url": "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "title": "Rise of Decision Models: OpenAI and Microsoft Ship Typed Single-Pass APIs",
+      "normalized_title": "rise of decision models openai and microsoft ship typed single",
+      "content_hash": "",
+      "last_sent": 1791740699.0064876,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:standard bots architecture low parameter specialized models for real": {
+      "url": "https://latent.space/p/standard-bots",
+      "title": "Standard Bots Architecture: Low-Parameter Specialized Models for Real-Time Execution",
+      "normalized_title": "standard bots architecture low parameter specialized models for real",
+      "content_hash": "",
+      "last_sent": 1791740699.0065238,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:tencentdb agent memory multi": {
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "title": "TencentDB-Agent-Memory: Multi-Asset Shared State for Agent Fleets",
+      "normalized_title": "tencentdb agent memory multi",
+      "content_hash": "",
+      "last_sent": 1791740699.0065436,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://github.com/esengine/DeepSeek-Reasonix": {
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "title": "DeepSeek-Reasonix: CLI Agent Architecture for Complex Code Refactoring",
+      "normalized_title": "deepseek reasonix",
+      "content_hash": "",
+      "last_sent": 1791740699.0065577,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:deepseek reasonix": {
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "title": "DeepSeek-Reasonix: CLI Agent Architecture for Complex Code Refactoring",
+      "normalized_title": "deepseek reasonix",
+      "content_hash": "",
+      "last_sent": 1791740699.0065577,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.11216": {
+      "url": "https://huggingface.co/papers/2610.11216",
+      "title": "The Lattice of Transition Laws: Decoding Schedules Across Generative Paradigms",
+      "normalized_title": "the lattice of transition laws",
+      "content_hash": "",
+      "last_sent": 1791740699.006569,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:the lattice of transition laws": {
+      "url": "https://huggingface.co/papers/2610.11216",
+      "title": "The Lattice of Transition Laws: Decoding Schedules Across Generative Paradigms",
+      "normalized_title": "the lattice of transition laws",
+      "content_hash": "",
+      "last_sent": 1791740699.006569,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
