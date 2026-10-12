@@ -68,14 +68,20 @@
     "https://simonwillison.net/2026/Oct/10/the-new-york-times": 1791698719.651962,
     "https://latent.space/p/standard-bots": 1791785725.023058,
     "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": 1791785725.0230212,
-    "https://latent.space/p/nyc2026": 1791698719.6519387,
-    "https://simonwillison.net/2026/Oct/10/python-actions": 1791785725.0230997,
-    "https://simonwillison.net/2026/Oct/11/dwarf-fortress": 1791698719.6519687,
+    "https://latent.space/p/nyc2026": 1791840081.2237797,
+    "https://simonwillison.net/2026/Oct/10/python-actions": 1791840081.223803,
+    "https://simonwillison.net/2026/Oct/11/dwarf-fortress": 1791840081.2238135,
     "https://github.com/esengine/DeepSeek-Reasonix": 1791740699.0065634,
     "https://huggingface.co/papers/2610.11216": 1791740699.0065746,
     "https://huggingface.co/papers/2610.12611": 1791785725.0230417,
     "https://huggingface.co/papers/2610.12939": 1791785725.023071,
-    "https://arxiv.org/abs/2610.12542": 1791785725.023085
+    "https://arxiv.org/abs/2610.12542": 1791785725.023085,
+    "https://latent.space/p/claude-dynamic-workflows": 1791840081.2237108,
+    "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase": 1791840081.2237267,
+    "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories": 1791840081.2237427,
+    "https://huggingface.co/papers/2610.12453": 1791840081.223757,
+    "https://simonwillison.net/2026/Oct/12/python-3-15": 1791840081.2237682,
+    "https://simonwillison.net/2026/Oct/12/datasette-ports": 1791840081.223788
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -1300,7 +1306,7 @@
       "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
       "normalized_title": "nyc subscriber meetups",
       "content_hash": "",
-      "last_sent": 1791698719.651934,
+      "last_sent": 1791840081.223774,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1309,16 +1315,16 @@
       "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
       "normalized_title": "nyc subscriber meetups",
       "content_hash": "",
-      "last_sent": 1791698719.651934,
+      "last_sent": 1791840081.223774,
       "digest_type": "morning",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Oct/10/python-actions": {
       "url": "https://simonwillison.net/2026/Oct/10/python-actions",
-      "title": "Python 3.15.0 Released to actions/python-versions for CI Pipelines",
-      "normalized_title": "python 3 15 0 released to actions python",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "normalized_title": "python 3 15 0 added to actions python",
       "content_hash": "",
-      "last_sent": 1791785725.0230923,
+      "last_sent": 1791840081.2237968,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1327,7 +1333,7 @@
       "title": "Python 3.15.0 added to actions/python-versions",
       "normalized_title": "python 3 15 0 added to actions python",
       "content_hash": "",
-      "last_sent": 1791698719.6519506,
+      "last_sent": 1791840081.2237968,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1336,7 +1342,7 @@
       "title": "Dwarf Fortress uses version control now",
       "normalized_title": "dwarf fortress uses version control now",
       "content_hash": "",
-      "last_sent": 1791698719.6519659,
+      "last_sent": 1791840081.223809,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1345,7 +1351,7 @@
       "title": "Dwarf Fortress uses version control now",
       "normalized_title": "dwarf fortress uses version control now",
       "content_hash": "",
-      "last_sent": 1791698719.6519659,
+      "last_sent": 1791840081.223809,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1490,6 +1496,114 @@
       "normalized_title": "python 3 15 0 released to actions python",
       "content_hash": "",
       "last_sent": 1791785725.0230923,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/claude-dynamic-workflows": {
+      "url": "https://latent.space/p/claude-dynamic-workflows",
+      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "normalized_title": "how anthropic s dynamic workflows coordinate claude agents",
+      "content_hash": "",
+      "last_sent": 1791840081.2236838,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how anthropic s dynamic workflows coordinate claude agents": {
+      "url": "https://latent.space/p/claude-dynamic-workflows",
+      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "normalized_title": "how anthropic s dynamic workflows coordinate claude agents",
+      "content_hash": "",
+      "last_sent": 1791840081.2236838,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "normalized_title": "github copilot app for beginners",
+      "content_hash": "",
+      "last_sent": 1791840081.2237196,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:github copilot app for beginners": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "normalized_title": "github copilot app for beginners",
+      "content_hash": "",
+      "last_sent": 1791840081.2237196,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories": {
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "normalized_title": "ocp global summit amid ecosystem adoption nvidia opens vera rubin architecture to help scale ai factories worldwide",
+      "content_hash": "",
+      "last_sent": 1791840081.2237325,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:ocp global summit amid ecosystem adoption nvidia opens vera rubin architecture to help scale ai factories worldwide": {
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "normalized_title": "ocp global summit amid ecosystem adoption nvidia opens vera rubin architecture to help scale ai factories worldwide",
+      "content_hash": "",
+      "last_sent": 1791840081.2237325,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.12453": {
+      "url": "https://huggingface.co/papers/2610.12453",
+      "title": "Mental-Models for Multi-Agent Systems (1 upvotes)",
+      "normalized_title": "mental models for multi",
+      "content_hash": "",
+      "last_sent": 1791840081.2237518,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:mental models for multi": {
+      "url": "https://huggingface.co/papers/2610.12453",
+      "title": "Mental-Models for Multi-Agent Systems (1 upvotes)",
+      "normalized_title": "mental models for multi",
+      "content_hash": "",
+      "last_sent": 1791840081.2237518,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/12/python-3-15": {
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "normalized_title": "hello python 3 15 goodbye 3 10 and now i can use 3 11",
+      "content_hash": "",
+      "last_sent": 1791840081.2237616,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:hello python 3 15 goodbye 3 10 and now i can use 3 11": {
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "normalized_title": "hello python 3 15 goodbye 3 10 and now i can use 3 11",
+      "content_hash": "",
+      "last_sent": 1791840081.2237616,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/12/datasette-ports": {
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports",
+      "title": "datasette-ports 0.4",
+      "normalized_title": "datasette",
+      "content_hash": "",
+      "last_sent": 1791840081.2237847,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:datasette": {
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports",
+      "title": "datasette-ports 0.4",
+      "normalized_title": "datasette",
+      "content_hash": "",
+      "last_sent": 1791840081.2237847,
       "digest_type": "morning",
       "score": 0.0
     }
