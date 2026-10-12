@@ -66,13 +66,16 @@
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1791612461.1701317,
     "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day": 1791612461.1701448,
     "https://simonwillison.net/2026/Oct/10/the-new-york-times": 1791698719.651962,
-    "https://latent.space/p/standard-bots": 1791740699.0065343,
-    "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": 1791740699.006512,
+    "https://latent.space/p/standard-bots": 1791785725.023058,
+    "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": 1791785725.0230212,
     "https://latent.space/p/nyc2026": 1791698719.6519387,
-    "https://simonwillison.net/2026/Oct/10/python-actions": 1791698719.651955,
+    "https://simonwillison.net/2026/Oct/10/python-actions": 1791785725.0230997,
     "https://simonwillison.net/2026/Oct/11/dwarf-fortress": 1791698719.6519687,
     "https://github.com/esengine/DeepSeek-Reasonix": 1791740699.0065634,
-    "https://huggingface.co/papers/2610.11216": 1791740699.0065746
+    "https://huggingface.co/papers/2610.11216": 1791740699.0065746,
+    "https://huggingface.co/papers/2610.12611": 1791785725.0230417,
+    "https://huggingface.co/papers/2610.12939": 1791785725.023071,
+    "https://arxiv.org/abs/2610.12542": 1791785725.023085
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -1258,11 +1261,11 @@
     },
     "https://latent.space/p/standard-bots": {
       "url": "https://latent.space/p/standard-bots",
-      "title": "Standard Bots Architecture: Low-Parameter Specialized Models for Real-Time Execution",
-      "normalized_title": "standard bots architecture low parameter specialized models for real",
+      "title": "Standard Bots Architecture: Low-Parameter Specialized Models Outperform Large Models in Industrial Robotics",
+      "normalized_title": "standard bots architecture low",
       "content_hash": "",
-      "last_sent": 1791740699.0065238,
-      "digest_type": "evening",
+      "last_sent": 1791785725.0230498,
+      "digest_type": "morning",
       "score": 0.0
     },
     "title:building ai for reliable execution": {
@@ -1276,11 +1279,11 @@
     },
     "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": {
       "url": "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "title": "Rise of Decision Models: OpenAI and Microsoft Ship Typed Single-Pass APIs",
-      "normalized_title": "rise of decision models openai and microsoft ship typed single",
+      "title": "Rise of Decision Models: OpenAI Decisions API and Microsoft-Decision-1 Shift LLM Classification",
+      "normalized_title": "rise of decision models openai decisions api and microsoft decision",
       "content_hash": "",
-      "last_sent": 1791740699.0064876,
-      "digest_type": "evening",
+      "last_sent": 1791785725.0229971,
+      "digest_type": "morning",
       "score": 0.0
     },
     "title:typesafe jev at 100m arr 7 5b valuation 3 weeks after launch": {
@@ -1312,10 +1315,10 @@
     },
     "https://simonwillison.net/2026/Oct/10/python-actions": {
       "url": "https://simonwillison.net/2026/Oct/10/python-actions",
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "normalized_title": "python 3 15 0 added to actions python",
+      "title": "Python 3.15.0 Released to actions/python-versions for CI Pipelines",
+      "normalized_title": "python 3 15 0 released to actions python",
       "content_hash": "",
-      "last_sent": 1791698719.6519506,
+      "last_sent": 1791785725.0230923,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1407,6 +1410,87 @@
       "content_hash": "",
       "last_sent": 1791740699.006569,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:rise of decision models openai decisions api and microsoft decision": {
+      "url": "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "title": "Rise of Decision Models: OpenAI Decisions API and Microsoft-Decision-1 Shift LLM Classification",
+      "normalized_title": "rise of decision models openai decisions api and microsoft decision",
+      "content_hash": "",
+      "last_sent": 1791785725.0229971,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.12611": {
+      "url": "https://huggingface.co/papers/2610.12611",
+      "title": "SoftwareGym: Scaling GUI Computer-Use Agent Training via Synthesized Environments",
+      "normalized_title": "softwaregym scaling gui computer",
+      "content_hash": "",
+      "last_sent": 1791785725.0230339,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:softwaregym scaling gui computer": {
+      "url": "https://huggingface.co/papers/2610.12611",
+      "title": "SoftwareGym: Scaling GUI Computer-Use Agent Training via Synthesized Environments",
+      "normalized_title": "softwaregym scaling gui computer",
+      "content_hash": "",
+      "last_sent": 1791785725.0230339,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:standard bots architecture low": {
+      "url": "https://latent.space/p/standard-bots",
+      "title": "Standard Bots Architecture: Low-Parameter Specialized Models Outperform Large Models in Industrial Robotics",
+      "normalized_title": "standard bots architecture low",
+      "content_hash": "",
+      "last_sent": 1791785725.0230498,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.12939": {
+      "url": "https://huggingface.co/papers/2610.12939",
+      "title": "Surfing the Activation Wave: Information-Theoretic Layer Selection for Speculative Decoding",
+      "normalized_title": "surfing the activation wave information",
+      "content_hash": "",
+      "last_sent": 1791785725.0230644,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:surfing the activation wave information": {
+      "url": "https://huggingface.co/papers/2610.12939",
+      "title": "Surfing the Activation Wave: Information-Theoretic Layer Selection for Speculative Decoding",
+      "normalized_title": "surfing the activation wave information",
+      "content_hash": "",
+      "last_sent": 1791785725.0230644,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://arxiv.org/abs/2610.12542": {
+      "url": "https://arxiv.org/abs/2610.12542",
+      "title": "Controlled Study Disproves MCTS Superiority Over Randomized-Restart Schedulers in DAG Workflows",
+      "normalized_title": "controlled study disproves mcts superiority over randomized",
+      "content_hash": "",
+      "last_sent": 1791785725.0230782,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:controlled study disproves mcts superiority over randomized": {
+      "url": "https://arxiv.org/abs/2610.12542",
+      "title": "Controlled Study Disproves MCTS Superiority Over Randomized-Restart Schedulers in DAG Workflows",
+      "normalized_title": "controlled study disproves mcts superiority over randomized",
+      "content_hash": "",
+      "last_sent": 1791785725.0230782,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:python 3 15 0 released to actions python": {
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions",
+      "title": "Python 3.15.0 Released to actions/python-versions for CI Pipelines",
+      "normalized_title": "python 3 15 0 released to actions python",
+      "content_hash": "",
+      "last_sent": 1791785725.0230923,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
