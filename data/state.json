@@ -7,7 +7,7 @@
     "https://arxiv.org/abs/2610.02267": 1791180230.30088,
     "https://openai.com/index/new-chatgpt-ads-format-and-measurement": 1791219166.191919,
     "https://openai.com/index/eu-text-provenance": 1791311439.1861062,
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1791740699.006551,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1791874715.528817,
     "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": 1791311439.1861615,
     "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review": 1791219166.1919854,
     "https://blogs.nvidia.com/blog/ai-breast-cancer-startups": 1791219166.192003,
@@ -81,7 +81,11 @@
     "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories": 1791840081.2237427,
     "https://huggingface.co/papers/2610.12453": 1791840081.223757,
     "https://simonwillison.net/2026/Oct/12/python-3-15": 1791840081.2237682,
-    "https://simonwillison.net/2026/Oct/12/datasette-ports": 1791840081.223788
+    "https://simonwillison.net/2026/Oct/12/datasette-ports": 1791840081.223788,
+    "https://huggingface.co/papers/2610.09116": 1791874715.5287576,
+    "https://simonwillison.net/2026/Oct/12/web-edit": 1791874715.528779,
+    "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing": 1791874715.528798,
+    "https://huggingface.co/papers/2610.12933": 1791874715.5288377
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -214,20 +218,20 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentDB-Agent-Memory: Multi-Asset Shared State for Agent Fleets",
-      "normalized_title": "tencentdb agent memory multi",
+      "title": "TencentCloud/TencentDB-Agent-Memory (28,214 stars)",
+      "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1791740699.0065436,
-      "digest_type": "evening",
+      "last_sent": 1791874715.5288086,
+      "digest_type": "morning",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (27,698 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (28,214 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1791219166.1919546,
-      "digest_type": "evening",
+      "last_sent": 1791874715.5288086,
+      "digest_type": "morning",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": {
@@ -1604,6 +1608,78 @@
       "normalized_title": "datasette",
       "content_hash": "",
       "last_sent": 1791840081.2237847,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.09116": {
+      "url": "https://huggingface.co/papers/2610.09116",
+      "title": "SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code (1 upvotes)",
+      "normalized_title": "splatify reproduce discover innovate from papers and ideas to trainable 3dgs code",
+      "content_hash": "",
+      "last_sent": 1791874715.5287306,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:splatify reproduce discover innovate from papers and ideas to trainable 3dgs code": {
+      "url": "https://huggingface.co/papers/2610.09116",
+      "title": "SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code (1 upvotes)",
+      "normalized_title": "splatify reproduce discover innovate from papers and ideas to trainable 3dgs code",
+      "content_hash": "",
+      "last_sent": 1791874715.5287306,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/12/web-edit": {
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit",
+      "title": "web-edit 0.1a0",
+      "normalized_title": "web",
+      "content_hash": "",
+      "last_sent": 1791874715.5287738,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:web": {
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit",
+      "title": "web-edit 0.1a0",
+      "normalized_title": "web",
+      "content_hash": "",
+      "last_sent": 1791874715.5287738,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing": {
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing",
+      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "normalized_title": "from earth to orbit france s ecosystem delivers agentic computing at scale with nvidia",
+      "content_hash": "",
+      "last_sent": 1791874715.5287836,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:from earth to orbit france s ecosystem delivers agentic computing at scale with nvidia": {
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing",
+      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "normalized_title": "from earth to orbit france s ecosystem delivers agentic computing at scale with nvidia",
+      "content_hash": "",
+      "last_sent": 1791874715.5287836,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.12933": {
+      "url": "https://huggingface.co/papers/2610.12933",
+      "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training (2 upvotes)",
+      "normalized_title": "learning more by training less uncertainty guided progressive contraction for efficient reasoning post",
+      "content_hash": "",
+      "last_sent": 1791874715.5288253,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:learning more by training less uncertainty guided progressive contraction for efficient reasoning post": {
+      "url": "https://huggingface.co/papers/2610.12933",
+      "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training (2 upvotes)",
+      "normalized_title": "learning more by training less uncertainty guided progressive contraction for efficient reasoning post",
+      "content_hash": "",
+      "last_sent": 1791874715.5288253,
       "digest_type": "morning",
       "score": 0.0
     }
