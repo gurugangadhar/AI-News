@@ -86,20 +86,25 @@
     "https://simonwillison.net/2026/Oct/12/web-edit": 1791874715.528779,
     "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing": 1791954605.953734,
     "https://huggingface.co/papers/2610.12933": 1791874715.5288377,
-    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates": 1791919456.7483773,
-    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": 1791919456.7483923,
-    "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise": 1791919456.7484105,
-    "https://anthropic.com/engineering/redesigning-source-control": 1791919456.7484372,
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates": 1791998597.4115782,
+    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": 1791998597.411625,
+    "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise": 1791998597.4116461,
+    "https://anthropic.com/engineering/redesigning-source-control": 1791998597.4116604,
     "https://latent.space/p/ainews-meta-muse-wonder-and-wonder": 1791919456.7484546,
     "https://openai.com/index/higgsfield-longer-videos-voice": 1791919456.748505,
-    "https://simonwillison.net/2026/Oct/13/geoffrey-huntley": 1791919456.748533,
+    "https://simonwillison.net/2026/Oct/13/geoffrey-huntley": 1791998597.4117222,
     "https://latent.space/p/dyna": 1791954605.9536793,
     "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely": 1791954605.9536946,
     "https://huggingface.co/papers/2610.15765": 1791954605.953706,
     "https://deepmind.google/blog/on-device-ai-scam-detection-mddi": 1791954605.953717,
     "https://devin.ai/blog/gemini-4-argon": 1791954605.9537249,
     "https://simonwillison.net/2026/Oct/13/web-edit": 1791954605.9537406,
-    "https://simonwillison.net/2026/Oct/13/llm-gemini": 1791954605.953753
+    "https://simonwillison.net/2026/Oct/13/llm-gemini": 1791954605.953753,
+    "https://anthropic.com/news/singapore-office-opening": 1791998597.4115953,
+    "https://research.google/blog/analyzing-technical-documents-with-deep-review": 1791998597.4116094,
+    "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon": 1791998597.411675,
+    "https://huggingface.co/blog/allenai/hiro-acev2": 1791998597.4116967,
+    "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games": 1791998597.4117103
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -1702,7 +1707,7 @@
       "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
       "normalized_title": "all systems go",
       "content_hash": "",
-      "last_sent": 1791919456.7483702,
+      "last_sent": 1791998597.4115577,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1711,7 +1716,7 @@
       "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
       "normalized_title": "all systems go",
       "content_hash": "",
-      "last_sent": 1791919456.7483702,
+      "last_sent": 1791998597.4115577,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1720,7 +1725,7 @@
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "normalized_title": "run fast private agents on device with lfm2 5 24b",
       "content_hash": "",
-      "last_sent": 1791919456.7483833,
+      "last_sent": 1791998597.4116151,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1729,7 +1734,7 @@
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "normalized_title": "run fast private agents on device with lfm2 5 24b",
       "content_hash": "",
-      "last_sent": 1791919456.7483833,
+      "last_sent": 1791998597.4116151,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1738,7 +1743,7 @@
       "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
       "normalized_title": "github s model for secret detection",
       "content_hash": "",
-      "last_sent": 1791919456.7484016,
+      "last_sent": 1791998597.4116342,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1747,7 +1752,7 @@
       "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
       "normalized_title": "github s model for secret detection",
       "content_hash": "",
-      "last_sent": 1791919456.7484016,
+      "last_sent": 1791998597.4116342,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1756,7 +1761,7 @@
       "title": "Redesigning source control at Anthropic",
       "normalized_title": "redesigning source control at anthropic",
       "content_hash": "",
-      "last_sent": 1791919456.748432,
+      "last_sent": 1791998597.411655,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1765,7 +1770,7 @@
       "title": "Redesigning source control at Anthropic",
       "normalized_title": "redesigning source control at anthropic",
       "content_hash": "",
-      "last_sent": 1791919456.748432,
+      "last_sent": 1791998597.411655,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1810,7 +1815,7 @@
       "title": "Quoting Geoffrey Huntley",
       "normalized_title": "quoting geoffrey huntley",
       "content_hash": "",
-      "last_sent": 1791919456.7485287,
+      "last_sent": 1791998597.4117177,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1819,7 +1824,7 @@
       "title": "Quoting Geoffrey Huntley",
       "normalized_title": "quoting geoffrey huntley",
       "content_hash": "",
-      "last_sent": 1791919456.7485287,
+      "last_sent": 1791998597.4117177,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1947,6 +1952,96 @@
       "content_hash": "",
       "last_sent": 1791954605.9537497,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://anthropic.com/news/singapore-office-opening": {
+      "url": "https://anthropic.com/news/singapore-office-opening",
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "normalized_title": "anthropic opens singapore office and signs mou with the government of singapore",
+      "content_hash": "",
+      "last_sent": 1791998597.4115868,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:anthropic opens singapore office and signs mou with the government of singapore": {
+      "url": "https://anthropic.com/news/singapore-office-opening",
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "normalized_title": "anthropic opens singapore office and signs mou with the government of singapore",
+      "content_hash": "",
+      "last_sent": 1791998597.4115868,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://research.google/blog/analyzing-technical-documents-with-deep-review": {
+      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
+      "title": "Analyzing technical documents with Deep Review",
+      "normalized_title": "analyzing technical documents with deep review",
+      "content_hash": "",
+      "last_sent": 1791998597.411604,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:analyzing technical documents with deep review": {
+      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
+      "title": "Analyzing technical documents with Deep Review",
+      "normalized_title": "analyzing technical documents with deep review",
+      "content_hash": "",
+      "last_sent": 1791998597.411604,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon": {
+      "url": "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+      "normalized_title": "ai engineer nyc gemini 4 argon vals ai benchmarks",
+      "content_hash": "",
+      "last_sent": 1791998597.4116666,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:ai engineer nyc gemini 4 argon vals ai benchmarks": {
+      "url": "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+      "normalized_title": "ai engineer nyc gemini 4 argon vals ai benchmarks",
+      "content_hash": "",
+      "last_sent": 1791998597.4116666,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/allenai/hiro-acev2": {
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "normalized_title": "hiro acev2",
+      "content_hash": "",
+      "last_sent": 1791998597.4116886,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:hiro acev2": {
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "normalized_title": "hiro acev2",
+      "content_hash": "",
+      "last_sent": 1791998597.4116886,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games": {
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "normalized_title": "ai is mass decompiling games that s both awesome and scary",
+      "content_hash": "",
+      "last_sent": 1791998597.4117029,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:ai is mass decompiling games that s both awesome and scary": {
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "normalized_title": "ai is mass decompiling games that s both awesome and scary",
+      "content_hash": "",
+      "last_sent": 1791998597.4117029,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
