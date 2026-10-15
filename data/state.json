@@ -94,17 +94,24 @@
     "https://openai.com/index/higgsfield-longer-videos-voice": 1791919456.748505,
     "https://simonwillison.net/2026/Oct/13/geoffrey-huntley": 1791998597.4117222,
     "https://latent.space/p/dyna": 1791954605.9536793,
-    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely": 1791954605.9536946,
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely": 1792040236.4740734,
     "https://huggingface.co/papers/2610.15765": 1791954605.953706,
-    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi": 1791954605.953717,
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi": 1792040236.4742036,
     "https://devin.ai/blog/gemini-4-argon": 1791954605.9537249,
     "https://simonwillison.net/2026/Oct/13/web-edit": 1791954605.9537406,
-    "https://simonwillison.net/2026/Oct/13/llm-gemini": 1791954605.953753,
+    "https://simonwillison.net/2026/Oct/13/llm-gemini": 1792040236.4742177,
     "https://anthropic.com/news/singapore-office-opening": 1791998597.4115953,
     "https://research.google/blog/analyzing-technical-documents-with-deep-review": 1791998597.4116094,
     "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon": 1791998597.411675,
     "https://huggingface.co/blog/allenai/hiro-acev2": 1791998597.4116967,
-    "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games": 1791998597.4117103
+    "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games": 1791998597.4117103,
+    "https://latent.space/p/crossing-the-threshold": 1792040236.4740903,
+    "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges": 1792040236.4741075,
+    "https://latent.space/p/lab-in-the-loop-at-compute-speed": 1792040236.4741328,
+    "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity": 1792040236.474153,
+    "https://openai.com/index/amp-beyond-coding": 1792040236.4741673,
+    "https://blogs.nvidia.com/blog/uk-ecosystem-deployment": 1792040236.4741812,
+    "https://simonwillison.net/2026/Oct/14/tree-appreciator": 1792040236.4742255
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -1851,7 +1858,7 @@
       "title": "Developing Gemini 4 Argon responsibly and safely",
       "normalized_title": "developing gemini 4 argon responsibly and safely",
       "content_hash": "",
-      "last_sent": 1791954605.9536893,
+      "last_sent": 1792040236.4740536,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1860,7 +1867,7 @@
       "title": "Developing Gemini 4 Argon responsibly and safely",
       "normalized_title": "developing gemini 4 argon responsibly and safely",
       "content_hash": "",
-      "last_sent": 1791954605.9536893,
+      "last_sent": 1792040236.4740536,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1884,10 +1891,10 @@
     },
     "https://deepmind.google/blog/on-device-ai-scam-detection-mddi": {
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-      "normalized_title": "google deepmind and singapore government announce new ai tool to protect citizens against scams",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "normalized_title": "google deepmind and singapore government collaborate to build fine",
       "content_hash": "",
-      "last_sent": 1791954605.953712,
+      "last_sent": 1792040236.4741938,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1941,7 +1948,7 @@
       "title": "llm-gemini 0.35",
       "normalized_title": "llm",
       "content_hash": "",
-      "last_sent": 1791954605.9537497,
+      "last_sent": 1792040236.4742126,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1950,7 +1957,7 @@
       "title": "llm-gemini 0.35",
       "normalized_title": "llm",
       "content_hash": "",
-      "last_sent": 1791954605.9537497,
+      "last_sent": 1792040236.4742126,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2042,6 +2049,141 @@
       "content_hash": "",
       "last_sent": 1791998597.4117029,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/crossing-the-threshold": {
+      "url": "https://latent.space/p/crossing-the-threshold",
+      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+      "normalized_title": "crossing the threshold",
+      "content_hash": "",
+      "last_sent": 1792040236.4740832,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:crossing the threshold": {
+      "url": "https://latent.space/p/crossing-the-threshold",
+      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+      "normalized_title": "crossing the threshold",
+      "content_hash": "",
+      "last_sent": 1792040236.4740832,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges": {
+      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
+      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+      "normalized_title": "putting earth ai to work geospatial agents for our planet s biggest challenges",
+      "content_hash": "",
+      "last_sent": 1792040236.474097,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:putting earth ai to work geospatial agents for our planet s biggest challenges": {
+      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
+      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+      "normalized_title": "putting earth ai to work geospatial agents for our planet s biggest challenges",
+      "content_hash": "",
+      "last_sent": 1792040236.474097,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/lab-in-the-loop-at-compute-speed": {
+      "url": "https://latent.space/p/lab-in-the-loop-at-compute-speed",
+      "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+      "normalized_title": "lab in the loop at compute speed ian quigley leash bio",
+      "content_hash": "",
+      "last_sent": 1792040236.474118,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:lab in the loop at compute speed ian quigley leash bio": {
+      "url": "https://latent.space/p/lab-in-the-loop-at-compute-speed",
+      "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+      "normalized_title": "lab in the loop at compute speed ian quigley leash bio",
+      "content_hash": "",
+      "last_sent": 1792040236.474118,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity": {
+      "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity",
+      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+      "normalized_title": "research 2026 10 ways we re amplifying human ingenuity",
+      "content_hash": "",
+      "last_sent": 1792040236.474145,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:research 2026 10 ways we re amplifying human ingenuity": {
+      "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity",
+      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+      "normalized_title": "research 2026 10 ways we re amplifying human ingenuity",
+      "content_hash": "",
+      "last_sent": 1792040236.474145,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/amp-beyond-coding": {
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "normalized_title": "amp puts ai agents to work beyond code with openai models",
+      "content_hash": "",
+      "last_sent": 1792040236.474161,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:amp puts ai agents to work beyond code with openai models": {
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "normalized_title": "amp puts ai agents to work beyond code with openai models",
+      "content_hash": "",
+      "last_sent": 1792040236.474161,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/uk-ecosystem-deployment": {
+      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
+      "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
+      "normalized_title": "nvidia announces new investments in the uk startup ecosystem",
+      "content_hash": "",
+      "last_sent": 1792040236.4741747,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:nvidia announces new investments in the uk startup ecosystem": {
+      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
+      "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
+      "normalized_title": "nvidia announces new investments in the uk startup ecosystem",
+      "content_hash": "",
+      "last_sent": 1792040236.4741747,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:google deepmind and singapore government collaborate to build fine": {
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "normalized_title": "google deepmind and singapore government collaborate to build fine",
+      "content_hash": "",
+      "last_sent": 1792040236.4741938,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/14/tree-appreciator": {
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator",
+      "title": "Tree Appreciator",
+      "normalized_title": "tree appreciator",
+      "content_hash": "",
+      "last_sent": 1792040236.4742217,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:tree appreciator": {
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator",
+      "title": "Tree Appreciator",
+      "normalized_title": "tree appreciator",
+      "content_hash": "",
+      "last_sent": 1792040236.4742217,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
