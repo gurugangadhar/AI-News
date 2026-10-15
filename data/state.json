@@ -88,7 +88,7 @@
     "https://huggingface.co/papers/2610.12933": 1791874715.5288377,
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates": 1791998597.4115782,
     "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": 1791998597.411625,
-    "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise": 1791998597.4116461,
+    "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise": 1792084414.6843412,
     "https://anthropic.com/engineering/redesigning-source-control": 1791998597.4116604,
     "https://latent.space/p/ainews-meta-muse-wonder-and-wonder": 1791919456.7484546,
     "https://openai.com/index/higgsfield-longer-videos-voice": 1791919456.748505,
@@ -100,18 +100,24 @@
     "https://devin.ai/blog/gemini-4-argon": 1791954605.9537249,
     "https://simonwillison.net/2026/Oct/13/web-edit": 1791954605.9537406,
     "https://simonwillison.net/2026/Oct/13/llm-gemini": 1792040236.4742177,
-    "https://anthropic.com/news/singapore-office-opening": 1791998597.4115953,
-    "https://research.google/blog/analyzing-technical-documents-with-deep-review": 1791998597.4116094,
+    "https://anthropic.com/news/singapore-office-opening": 1792084414.684361,
+    "https://research.google/blog/analyzing-technical-documents-with-deep-review": 1792084414.6842818,
     "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon": 1791998597.411675,
-    "https://huggingface.co/blog/allenai/hiro-acev2": 1791998597.4116967,
-    "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games": 1791998597.4117103,
+    "https://huggingface.co/blog/allenai/hiro-acev2": 1792084414.6844153,
+    "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games": 1792084414.6844661,
     "https://latent.space/p/crossing-the-threshold": 1792040236.4740903,
     "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges": 1792040236.4741075,
     "https://latent.space/p/lab-in-the-loop-at-compute-speed": 1792040236.4741328,
     "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity": 1792040236.474153,
     "https://openai.com/index/amp-beyond-coding": 1792040236.4741673,
     "https://blogs.nvidia.com/blog/uk-ecosystem-deployment": 1792040236.4741812,
-    "https://simonwillison.net/2026/Oct/14/tree-appreciator": 1792040236.4742255
+    "https://simonwillison.net/2026/Oct/14/tree-appreciator": 1792040236.4742255,
+    "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents": 1792084414.684305,
+    "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": 1792084414.6843224,
+    "https://latent.space/p/ainews-modals-1b-arr-16b-series-d": 1792084414.68439,
+    "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl": 1792084414.6844368,
+    "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic": 1792084414.6844506,
+    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": 1792084414.6844847
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -1750,7 +1756,7 @@
       "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
       "normalized_title": "github s model for secret detection",
       "content_hash": "",
-      "last_sent": 1791998597.4116342,
+      "last_sent": 1792084414.6843278,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1759,7 +1765,7 @@
       "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
       "normalized_title": "github s model for secret detection",
       "content_hash": "",
-      "last_sent": 1791998597.4116342,
+      "last_sent": 1792084414.6843278,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1773,11 +1779,11 @@
       "score": 0.0
     },
     "title:redesigning source control at anthropic": {
-      "url": "https://anthropic.com/engineering/redesigning-source-control",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic",
       "title": "Redesigning source control at Anthropic",
       "normalized_title": "redesigning source control at anthropic",
       "content_hash": "",
-      "last_sent": 1791998597.411655,
+      "last_sent": 1792084414.6844444,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1966,7 +1972,7 @@
       "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
       "normalized_title": "anthropic opens singapore office and signs mou with the government of singapore",
       "content_hash": "",
-      "last_sent": 1791998597.4115868,
+      "last_sent": 1792084414.684351,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1975,7 +1981,7 @@
       "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
       "normalized_title": "anthropic opens singapore office and signs mou with the government of singapore",
       "content_hash": "",
-      "last_sent": 1791998597.4115868,
+      "last_sent": 1792084414.684351,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1984,7 +1990,7 @@
       "title": "Analyzing technical documents with Deep Review",
       "normalized_title": "analyzing technical documents with deep review",
       "content_hash": "",
-      "last_sent": 1791998597.411604,
+      "last_sent": 1792084414.6842592,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1993,7 +1999,7 @@
       "title": "Analyzing technical documents with Deep Review",
       "normalized_title": "analyzing technical documents with deep review",
       "content_hash": "",
-      "last_sent": 1791998597.411604,
+      "last_sent": 1792084414.6842592,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2020,7 +2026,7 @@
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "normalized_title": "hiro acev2",
       "content_hash": "",
-      "last_sent": 1791998597.4116886,
+      "last_sent": 1792084414.684408,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2029,7 +2035,7 @@
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "normalized_title": "hiro acev2",
       "content_hash": "",
-      "last_sent": 1791998597.4116886,
+      "last_sent": 1792084414.684408,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2038,7 +2044,7 @@
       "title": "AI is mass decompiling games. That's both awesome and scary.",
       "normalized_title": "ai is mass decompiling games that s both awesome and scary",
       "content_hash": "",
-      "last_sent": 1791998597.4117029,
+      "last_sent": 1792084414.6844575,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2047,7 +2053,7 @@
       "title": "AI is mass decompiling games. That's both awesome and scary.",
       "normalized_title": "ai is mass decompiling games that s both awesome and scary",
       "content_hash": "",
-      "last_sent": 1791998597.4117029,
+      "last_sent": 1792084414.6844575,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2184,6 +2190,105 @@
       "content_hash": "",
       "last_sent": 1792040236.4742217,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents": {
+      "url": "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents",
+      "title": "Vector stores in Agent Framework for Python: familiar foundations, streamlined for agents",
+      "normalized_title": "vector stores in agent framework for python familiar foundations streamlined for agents",
+      "content_hash": "",
+      "last_sent": 1792084414.6842916,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:vector stores in agent framework for python familiar foundations streamlined for agents": {
+      "url": "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents",
+      "title": "Vector stores in Agent Framework for Python: familiar foundations, streamlined for agents",
+      "normalized_title": "vector stores in agent framework for python familiar foundations streamlined for agents",
+      "content_hash": "",
+      "last_sent": 1792084414.6842916,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "title": "Apertus 1.5 Release Notes",
+      "normalized_title": "apertus 1 5 release notes",
+      "content_hash": "",
+      "last_sent": 1792084414.6843166,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:apertus 1 5 release notes": {
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "title": "Apertus 1.5 Release Notes",
+      "normalized_title": "apertus 1 5 release notes",
+      "content_hash": "",
+      "last_sent": 1792084414.6843166,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-modals-1b-arr-16b-series-d": {
+      "url": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+      "normalized_title": "modal s 1b arr 16b series d makes it nyc s newest ai infra decacorn 3x usage and 3x valuation in 5 months 15x in 1 yr",
+      "content_hash": "",
+      "last_sent": 1792084414.6843708,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:modal s 1b arr 16b series d makes it nyc s newest ai infra decacorn 3x usage and 3x valuation in 5 months 15x in 1 yr": {
+      "url": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+      "normalized_title": "modal s 1b arr 16b series d makes it nyc s newest ai infra decacorn 3x usage and 3x valuation in 5 months 15x in 1 yr",
+      "content_hash": "",
+      "last_sent": 1792084414.6843708,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl": {
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "normalized_title": "open from data center to desktop",
+      "content_hash": "",
+      "last_sent": 1792084414.6844282,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:open from data center to desktop": {
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "normalized_title": "open from data center to desktop",
+      "content_hash": "",
+      "last_sent": 1792084414.6844282,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic": {
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic",
+      "title": "Redesigning source control at Anthropic",
+      "normalized_title": "redesigning source control at anthropic",
+      "content_hash": "",
+      "last_sent": 1792084414.6844444,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": {
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "normalized_title": "anthropic tells investors quarterly revenue up nearly 50 to 16 8bn ahead of ipo",
+      "content_hash": "",
+      "last_sent": 1792084414.6844747,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:anthropic tells investors quarterly revenue up nearly 50 to 16 8bn ahead of ipo": {
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "normalized_title": "anthropic tells investors quarterly revenue up nearly 50 to 16 8bn ahead of ipo",
+      "content_hash": "",
+      "last_sent": 1792084414.6844747,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
