@@ -112,19 +112,21 @@
     "https://openai.com/index/amp-beyond-coding": 1792040236.4741673,
     "https://blogs.nvidia.com/blog/uk-ecosystem-deployment": 1792040236.4741812,
     "https://simonwillison.net/2026/Oct/14/tree-appreciator": 1792126020.9872127,
-    "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents": 1792084414.684305,
+    "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents": 1792169351.2061462,
     "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": 1792084414.6843224,
-    "https://latent.space/p/ainews-modals-1b-arr-16b-series-d": 1792084414.68439,
-    "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl": 1792084414.6844368,
+    "https://latent.space/p/ainews-modals-1b-arr-16b-series-d": 1792169351.2062116,
+    "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl": 1792169351.2061632,
     "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic": 1792084414.6844506,
-    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": 1792084414.6844847,
+    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": 1792169351.2062345,
     "https://anthropic.com/news/an-update-on-independent-evaluators": 1792126020.987096,
     "https://huggingface.co/blog/meta-muse-spark-open": 1792126020.9871123,
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": 1792126020.987149,
     "https://latent.space/p/ainews-agents-disprove-polysemanticity": 1792126020.9871647,
     "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": 1792126020.9871788,
     "https://openai.com/index/introducing-the-rosalind-academic-plan": 1792126020.987196,
-    "https://simonwillison.net/2026/Oct/15/chirp-pong": 1792126020.9872043
+    "https://simonwillison.net/2026/Oct/15/chirp-pong": 1792126020.9872043,
+    "https://huggingface.co/blog/reflection-beam": 1792169351.206123,
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery": 1792169351.206177
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -2204,7 +2206,7 @@
       "title": "Vector stores in Agent Framework for Python: familiar foundations, streamlined for agents",
       "normalized_title": "vector stores in agent framework for python familiar foundations streamlined for agents",
       "content_hash": "",
-      "last_sent": 1792084414.6842916,
+      "last_sent": 1792169351.2061355,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2213,7 +2215,7 @@
       "title": "Vector stores in Agent Framework for Python: familiar foundations, streamlined for agents",
       "normalized_title": "vector stores in agent framework for python familiar foundations streamlined for agents",
       "content_hash": "",
-      "last_sent": 1792084414.6842916,
+      "last_sent": 1792169351.2061355,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2240,7 +2242,7 @@
       "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
       "normalized_title": "modal s 1b arr 16b series d makes it nyc s newest ai infra decacorn 3x usage and 3x valuation in 5 months 15x in 1 yr",
       "content_hash": "",
-      "last_sent": 1792084414.6843708,
+      "last_sent": 1792169351.2061834,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2249,7 +2251,7 @@
       "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
       "normalized_title": "modal s 1b arr 16b series d makes it nyc s newest ai infra decacorn 3x usage and 3x valuation in 5 months 15x in 1 yr",
       "content_hash": "",
-      "last_sent": 1792084414.6843708,
+      "last_sent": 1792169351.2061834,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2258,7 +2260,7 @@
       "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
       "normalized_title": "open from data center to desktop",
       "content_hash": "",
-      "last_sent": 1792084414.6844282,
+      "last_sent": 1792169351.206156,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2267,7 +2269,7 @@
       "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
       "normalized_title": "open from data center to desktop",
       "content_hash": "",
-      "last_sent": 1792084414.6844282,
+      "last_sent": 1792169351.206156,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2285,7 +2287,7 @@
       "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
       "normalized_title": "anthropic tells investors quarterly revenue up nearly 50 to 16 8bn ahead of ipo",
       "content_hash": "",
-      "last_sent": 1792084414.6844747,
+      "last_sent": 1792169351.2062254,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2294,7 +2296,7 @@
       "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
       "normalized_title": "anthropic tells investors quarterly revenue up nearly 50 to 16 8bn ahead of ipo",
       "content_hash": "",
-      "last_sent": 1792084414.6844747,
+      "last_sent": 1792169351.2062254,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2422,6 +2424,42 @@
       "content_hash": "",
       "last_sent": 1792126020.9872007,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/reflection-beam": {
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "normalized_title": "welcome beam a 501b open model you can own customize and scale",
+      "content_hash": "",
+      "last_sent": 1792169351.2060943,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:welcome beam a 501b open model you can own customize and scale": {
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "normalized_title": "welcome beam a 501b open model you can own customize and scale",
+      "content_hash": "",
+      "last_sent": 1792169351.2060943,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery": {
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "normalized_title": "accelerating the search for antimicrobial peptides with google antigravity",
+      "content_hash": "",
+      "last_sent": 1792169351.2061696,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:accelerating the search for antimicrobial peptides with google antigravity": {
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "normalized_title": "accelerating the search for antimicrobial peptides with google antigravity",
+      "content_hash": "",
+      "last_sent": 1792169351.2061696,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
