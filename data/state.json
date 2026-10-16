@@ -105,19 +105,26 @@
     "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon": 1791998597.411675,
     "https://huggingface.co/blog/allenai/hiro-acev2": 1792084414.6844153,
     "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games": 1792084414.6844661,
-    "https://latent.space/p/crossing-the-threshold": 1792040236.4740903,
-    "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges": 1792040236.4741075,
+    "https://latent.space/p/crossing-the-threshold": 1792126020.9870815,
+    "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges": 1792126020.987131,
     "https://latent.space/p/lab-in-the-loop-at-compute-speed": 1792040236.4741328,
     "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity": 1792040236.474153,
     "https://openai.com/index/amp-beyond-coding": 1792040236.4741673,
     "https://blogs.nvidia.com/blog/uk-ecosystem-deployment": 1792040236.4741812,
-    "https://simonwillison.net/2026/Oct/14/tree-appreciator": 1792040236.4742255,
+    "https://simonwillison.net/2026/Oct/14/tree-appreciator": 1792126020.9872127,
     "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents": 1792084414.684305,
     "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": 1792084414.6843224,
     "https://latent.space/p/ainews-modals-1b-arr-16b-series-d": 1792084414.68439,
     "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl": 1792084414.6844368,
     "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic": 1792084414.6844506,
-    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": 1792084414.6844847
+    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": 1792084414.6844847,
+    "https://anthropic.com/news/an-update-on-independent-evaluators": 1792126020.987096,
+    "https://huggingface.co/blog/meta-muse-spark-open": 1792126020.9871123,
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": 1792126020.987149,
+    "https://latent.space/p/ainews-agents-disprove-polysemanticity": 1792126020.9871647,
+    "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": 1792126020.9871788,
+    "https://openai.com/index/introducing-the-rosalind-academic-plan": 1792126020.987196,
+    "https://simonwillison.net/2026/Oct/15/chirp-pong": 1792126020.9872043
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -2062,7 +2069,7 @@
       "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
       "normalized_title": "crossing the threshold",
       "content_hash": "",
-      "last_sent": 1792040236.4740832,
+      "last_sent": 1792126020.987062,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2071,7 +2078,7 @@
       "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
       "normalized_title": "crossing the threshold",
       "content_hash": "",
-      "last_sent": 1792040236.4740832,
+      "last_sent": 1792126020.987062,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2080,7 +2087,7 @@
       "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
       "normalized_title": "putting earth ai to work geospatial agents for our planet s biggest challenges",
       "content_hash": "",
-      "last_sent": 1792040236.474097,
+      "last_sent": 1792126020.987121,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2089,7 +2096,7 @@
       "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
       "normalized_title": "putting earth ai to work geospatial agents for our planet s biggest challenges",
       "content_hash": "",
-      "last_sent": 1792040236.474097,
+      "last_sent": 1792126020.987121,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2179,7 +2186,7 @@
       "title": "Tree Appreciator",
       "normalized_title": "tree appreciator",
       "content_hash": "",
-      "last_sent": 1792040236.4742217,
+      "last_sent": 1792126020.987208,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2188,7 +2195,7 @@
       "title": "Tree Appreciator",
       "normalized_title": "tree appreciator",
       "content_hash": "",
-      "last_sent": 1792040236.4742217,
+      "last_sent": 1792126020.987208,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2289,6 +2296,132 @@
       "content_hash": "",
       "last_sent": 1792084414.6844747,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://anthropic.com/news/an-update-on-independent-evaluators": {
+      "url": "https://anthropic.com/news/an-update-on-independent-evaluators",
+      "title": "An update on independent evaluators",
+      "normalized_title": "an update on independent evaluators",
+      "content_hash": "",
+      "last_sent": 1792126020.9870903,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:an update on independent evaluators": {
+      "url": "https://anthropic.com/news/an-update-on-independent-evaluators",
+      "title": "An update on independent evaluators",
+      "normalized_title": "an update on independent evaluators",
+      "content_hash": "",
+      "last_sent": 1792126020.9870903,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/meta-muse-spark-open": {
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "normalized_title": "welcome muse spark open open weight frontier multimodal mixture of",
+      "content_hash": "",
+      "last_sent": 1792126020.987102,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:welcome muse spark open open weight frontier multimodal mixture of": {
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "normalized_title": "welcome muse spark open open weight frontier multimodal mixture of",
+      "content_hash": "",
+      "last_sent": 1792126020.987102,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": {
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "normalized_title": "granite switch 4 1 chat decisions and speech from one endpoint",
+      "content_hash": "",
+      "last_sent": 1792126020.987141,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:granite switch 4 1 chat decisions and speech from one endpoint": {
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "normalized_title": "granite switch 4 1 chat decisions and speech from one endpoint",
+      "content_hash": "",
+      "last_sent": 1792126020.987141,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-agents-disprove-polysemanticity": {
+      "url": "https://latent.space/p/ainews-agents-disprove-polysemanticity",
+      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+      "normalized_title": "agents disprove polysemanticity greatly improve interpretability alignment",
+      "content_hash": "",
+      "last_sent": 1792126020.9871564,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:agents disprove polysemanticity greatly improve interpretability alignment": {
+      "url": "https://latent.space/p/ainews-agents-disprove-polysemanticity",
+      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+      "normalized_title": "agents disprove polysemanticity greatly improve interpretability alignment",
+      "content_hash": "",
+      "last_sent": 1792126020.9871564,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": {
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "title": "Teaching students to think and learn through questions",
+      "normalized_title": "teaching students to think and learn through questions",
+      "content_hash": "",
+      "last_sent": 1792126020.9871726,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:teaching students to think and learn through questions": {
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "title": "Teaching students to think and learn through questions",
+      "normalized_title": "teaching students to think and learn through questions",
+      "content_hash": "",
+      "last_sent": 1792126020.9871726,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/introducing-the-rosalind-academic-plan": {
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "normalized_title": "bringing gpt",
+      "content_hash": "",
+      "last_sent": 1792126020.98719,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:bringing gpt": {
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "normalized_title": "bringing gpt",
+      "content_hash": "",
+      "last_sent": 1792126020.98719,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/15/chirp-pong": {
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong",
+      "title": "Chirp Pong",
+      "normalized_title": "chirp pong",
+      "content_hash": "",
+      "last_sent": 1792126020.9872007,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:chirp pong": {
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong",
+      "title": "Chirp Pong",
+      "normalized_title": "chirp pong",
+      "content_hash": "",
+      "last_sent": 1792126020.9872007,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
