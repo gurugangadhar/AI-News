@@ -120,13 +120,17 @@
     "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": 1792169351.2062345,
     "https://anthropic.com/news/an-update-on-independent-evaluators": 1792126020.987096,
     "https://huggingface.co/blog/meta-muse-spark-open": 1792126020.9871123,
-    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": 1792126020.987149,
-    "https://latent.space/p/ainews-agents-disprove-polysemanticity": 1792126020.9871647,
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": 1792212352.302623,
+    "https://latent.space/p/ainews-agents-disprove-polysemanticity": 1792212352.30273,
     "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": 1792126020.9871788,
-    "https://openai.com/index/introducing-the-rosalind-academic-plan": 1792126020.987196,
-    "https://simonwillison.net/2026/Oct/15/chirp-pong": 1792126020.9872043,
+    "https://openai.com/index/introducing-the-rosalind-academic-plan": 1792212352.3026893,
+    "https://simonwillison.net/2026/Oct/15/chirp-pong": 1792212352.302767,
     "https://huggingface.co/blog/reflection-beam": 1792169351.206123,
-    "https://deepmind.google/blog/accelerating-antimicrobial-discovery": 1792169351.206177
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery": 1792169351.206177,
+    "https://openai.com/index/stack-overflow-chatgpt-plugin": 1792212352.302673,
+    "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": 1792212352.3027012,
+    "https://simonwillison.net/2026/Oct/16/code-review": 1792212352.3027148,
+    "https://openai.com/index/itau-generative-ai": 1792212352.3027477
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -2341,7 +2345,7 @@
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "normalized_title": "granite switch 4 1 chat decisions and speech from one endpoint",
       "content_hash": "",
-      "last_sent": 1792126020.987141,
+      "last_sent": 1792212352.302592,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2350,7 +2354,7 @@
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "normalized_title": "granite switch 4 1 chat decisions and speech from one endpoint",
       "content_hash": "",
-      "last_sent": 1792126020.987141,
+      "last_sent": 1792212352.302592,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2359,7 +2363,7 @@
       "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
       "normalized_title": "agents disprove polysemanticity greatly improve interpretability alignment",
       "content_hash": "",
-      "last_sent": 1792126020.9871564,
+      "last_sent": 1792212352.3027213,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2368,7 +2372,7 @@
       "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
       "normalized_title": "agents disprove polysemanticity greatly improve interpretability alignment",
       "content_hash": "",
-      "last_sent": 1792126020.9871564,
+      "last_sent": 1792212352.3027213,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2395,7 +2399,7 @@
       "title": "Bringing GPT-Rosalind to academic research labs",
       "normalized_title": "bringing gpt",
       "content_hash": "",
-      "last_sent": 1792126020.98719,
+      "last_sent": 1792212352.3026834,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2404,7 +2408,7 @@
       "title": "Bringing GPT-Rosalind to academic research labs",
       "normalized_title": "bringing gpt",
       "content_hash": "",
-      "last_sent": 1792126020.98719,
+      "last_sent": 1792212352.3026834,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2413,7 +2417,7 @@
       "title": "Chirp Pong",
       "normalized_title": "chirp pong",
       "content_hash": "",
-      "last_sent": 1792126020.9872007,
+      "last_sent": 1792212352.3027613,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2422,7 +2426,7 @@
       "title": "Chirp Pong",
       "normalized_title": "chirp pong",
       "content_hash": "",
-      "last_sent": 1792126020.9872007,
+      "last_sent": 1792212352.3027613,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2460,6 +2464,78 @@
       "content_hash": "",
       "last_sent": 1792169351.2061696,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/stack-overflow-chatgpt-plugin": {
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "normalized_title": "stack overflow for agents triples signups with chatgpt plugin",
+      "content_hash": "",
+      "last_sent": 1792212352.3026388,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:stack overflow for agents triples signups with chatgpt plugin": {
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "normalized_title": "stack overflow for agents triples signups with chatgpt plugin",
+      "content_hash": "",
+      "last_sent": 1792212352.3026388,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": {
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
+      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "normalized_title": "grounding ai agents in biological reality",
+      "content_hash": "",
+      "last_sent": 1792212352.3026948,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:grounding ai agents in biological reality": {
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
+      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "normalized_title": "grounding ai agents in biological reality",
+      "content_hash": "",
+      "last_sent": 1792212352.3026948,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/16/code-review": {
+      "url": "https://simonwillison.net/2026/Oct/16/code-review",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "normalized_title": "quoting addy osmani morgan westlee lunt and qing wang",
+      "content_hash": "",
+      "last_sent": 1792212352.3027081,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quoting addy osmani morgan westlee lunt and qing wang": {
+      "url": "https://simonwillison.net/2026/Oct/16/code-review",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "normalized_title": "quoting addy osmani morgan westlee lunt and qing wang",
+      "content_hash": "",
+      "last_sent": 1792212352.3027081,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/itau-generative-ai": {
+      "url": "https://openai.com/index/itau-generative-ai",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "normalized_title": "how itaú is building generative ai for its entire customer base",
+      "content_hash": "",
+      "last_sent": 1792212352.3027387,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how itaú is building generative ai for its entire customer base": {
+      "url": "https://openai.com/index/itau-generative-ai",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "normalized_title": "how itaú is building generative ai for its entire customer base",
+      "content_hash": "",
+      "last_sent": 1792212352.3027387,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
