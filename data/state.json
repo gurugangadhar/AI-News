@@ -7,7 +7,7 @@
     "https://arxiv.org/abs/2610.02267": 1791180230.30088,
     "https://openai.com/index/new-chatgpt-ads-format-and-measurement": 1791219166.191919,
     "https://openai.com/index/eu-text-provenance": 1791311439.1861062,
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1791874715.528817,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792251990.6836085,
     "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": 1791311439.1861615,
     "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review": 1791219166.1919854,
     "https://blogs.nvidia.com/blog/ai-breast-cancer-startups": 1791219166.192003,
@@ -125,12 +125,16 @@
     "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": 1792126020.9871788,
     "https://openai.com/index/introducing-the-rosalind-academic-plan": 1792212352.3026893,
     "https://simonwillison.net/2026/Oct/15/chirp-pong": 1792212352.302767,
-    "https://huggingface.co/blog/reflection-beam": 1792169351.206123,
-    "https://deepmind.google/blog/accelerating-antimicrobial-discovery": 1792169351.206177,
+    "https://huggingface.co/blog/reflection-beam": 1792251990.6835504,
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery": 1792251990.6835914,
     "https://openai.com/index/stack-overflow-chatgpt-plugin": 1792212352.302673,
     "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": 1792212352.3027012,
     "https://simonwillison.net/2026/Oct/16/code-review": 1792212352.3027148,
-    "https://openai.com/index/itau-generative-ai": 1792212352.3027477
+    "https://openai.com/index/itau-generative-ai": 1792212352.3027477,
+    "https://latent.space/p/ainews-high-taste-testers-ep-1": 1792251990.6835759,
+    "https://huggingface.co/papers/2610.20680": 1792251990.6836252,
+    "https://openai.com/index/benefit-street-partners": 1792251990.6836407,
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite": 1792251990.6836553
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -263,20 +267,20 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (28,214 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (29,477 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1791874715.5288086,
-      "digest_type": "morning",
+      "last_sent": 1792251990.6836004,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (28,214 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (29,477 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1791874715.5288086,
-      "digest_type": "morning",
+      "last_sent": 1792251990.6836004,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": {
@@ -2435,7 +2439,7 @@
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
       "normalized_title": "welcome beam a 501b open model you can own customize and scale",
       "content_hash": "",
-      "last_sent": 1792169351.2060943,
+      "last_sent": 1792251990.683521,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2444,7 +2448,7 @@
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
       "normalized_title": "welcome beam a 501b open model you can own customize and scale",
       "content_hash": "",
-      "last_sent": 1792169351.2060943,
+      "last_sent": 1792251990.683521,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2453,7 +2457,7 @@
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "normalized_title": "accelerating the search for antimicrobial peptides with google antigravity",
       "content_hash": "",
-      "last_sent": 1792169351.2061696,
+      "last_sent": 1792251990.6835823,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2462,7 +2466,7 @@
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "normalized_title": "accelerating the search for antimicrobial peptides with google antigravity",
       "content_hash": "",
-      "last_sent": 1792169351.2061696,
+      "last_sent": 1792251990.6835823,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2536,6 +2540,78 @@
       "content_hash": "",
       "last_sent": 1792212352.3027387,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-high-taste-testers-ep-1": {
+      "url": "https://latent.space/p/ainews-high-taste-testers-ep-1",
+      "title": "[AINews] High Taste Testers Ep. 1",
+      "normalized_title": "high taste testers ep 1",
+      "content_hash": "",
+      "last_sent": 1792251990.6835685,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:high taste testers ep 1": {
+      "url": "https://latent.space/p/ainews-high-taste-testers-ep-1",
+      "title": "[AINews] High Taste Testers Ep. 1",
+      "normalized_title": "high taste testers ep 1",
+      "content_hash": "",
+      "last_sent": 1792251990.6835685,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.20680": {
+      "url": "https://huggingface.co/papers/2610.20680",
+      "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility (1 upvotes)",
+      "normalized_title": "diminishing returns of data in sparse autoencoders",
+      "content_hash": "",
+      "last_sent": 1792251990.6836162,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:diminishing returns of data in sparse autoencoders": {
+      "url": "https://huggingface.co/papers/2610.20680",
+      "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility (1 upvotes)",
+      "normalized_title": "diminishing returns of data in sparse autoencoders",
+      "content_hash": "",
+      "last_sent": 1792251990.6836162,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/benefit-street-partners": {
+      "url": "https://openai.com/index/benefit-street-partners",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "normalized_title": "benefit street partners answers questions faster with codex",
+      "content_hash": "",
+      "last_sent": 1792251990.6836333,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:benefit street partners answers questions faster with codex": {
+      "url": "https://openai.com/index/benefit-street-partners",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "normalized_title": "benefit street partners answers questions faster with codex",
+      "content_hash": "",
+      "last_sent": 1792251990.6836333,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite": {
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
+      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "normalized_title": "be there for the beginning",
+      "content_hash": "",
+      "last_sent": 1792251990.683649,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:be there for the beginning": {
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
+      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "normalized_title": "be there for the beginning",
+      "content_hash": "",
+      "last_sent": 1792251990.683649,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
