@@ -128,13 +128,18 @@
     "https://huggingface.co/blog/reflection-beam": 1792251990.6835504,
     "https://deepmind.google/blog/accelerating-antimicrobial-discovery": 1792251990.6835914,
     "https://openai.com/index/stack-overflow-chatgpt-plugin": 1792212352.302673,
-    "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": 1792212352.3027012,
-    "https://simonwillison.net/2026/Oct/16/code-review": 1792212352.3027148,
-    "https://openai.com/index/itau-generative-ai": 1792212352.3027477,
+    "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": 1792299121.2080626,
+    "https://simonwillison.net/2026/Oct/16/code-review": 1792299121.2081096,
+    "https://openai.com/index/itau-generative-ai": 1792299121.2081769,
     "https://latent.space/p/ainews-high-taste-testers-ep-1": 1792251990.6835759,
     "https://huggingface.co/papers/2610.20680": 1792251990.6836252,
     "https://openai.com/index/benefit-street-partners": 1792251990.6836407,
-    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite": 1792251990.6836553
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite": 1792251990.6836553,
+    "https://huggingface.co/papers/2610.21261": 1792299121.208124,
+    "https://huggingface.co/papers/2610.21185": 1792299121.2081382,
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": 1792299121.208156,
+    "https://simonwillison.net/2026/Oct/17/document-currentscript": 1792299121.2081916,
+    "https://simonwillison.net/2026/Oct/17/web-edit": 1792299121.208212
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -2490,10 +2495,10 @@
     },
     "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": {
       "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
-      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-      "normalized_title": "grounding ai agents in biological reality",
+      "title": "Google Research Details Closed-Loop Autonomous Wet Labs Using Agent Orchestration",
+      "normalized_title": "google research details closed",
       "content_hash": "",
-      "last_sent": 1792212352.3026948,
+      "last_sent": 1792299121.2080352,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2508,10 +2513,10 @@
     },
     "https://simonwillison.net/2026/Oct/16/code-review": {
       "url": "https://simonwillison.net/2026/Oct/16/code-review",
-      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "normalized_title": "quoting addy osmani morgan westlee lunt and qing wang",
+      "title": "Anthropic Claude Code Team Implements Continuous In-Flight Agentic Code Review",
+      "normalized_title": "anthropic claude code team implements continuous in",
       "content_hash": "",
-      "last_sent": 1792212352.3027081,
+      "last_sent": 1792299121.2080991,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2526,10 +2531,10 @@
     },
     "https://openai.com/index/itau-generative-ai": {
       "url": "https://openai.com/index/itau-generative-ai",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "normalized_title": "how itaú is building generative ai for its entire customer base",
+      "title": "Itaú Deploys Enterprise Financial Agent Architecture to 300,000 Customers",
+      "normalized_title": "itaú deploys enterprise financial agent architecture to 300 000 customers",
       "content_hash": "",
-      "last_sent": 1792212352.3027387,
+      "last_sent": 1792299121.2081652,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2612,6 +2617,123 @@
       "content_hash": "",
       "last_sent": 1792251990.683649,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:google research details closed": {
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
+      "title": "Google Research Details Closed-Loop Autonomous Wet Labs Using Agent Orchestration",
+      "normalized_title": "google research details closed",
+      "content_hash": "",
+      "last_sent": 1792299121.2080352,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:anthropic claude code team implements continuous in": {
+      "url": "https://simonwillison.net/2026/Oct/16/code-review",
+      "title": "Anthropic Claude Code Team Implements Continuous In-Flight Agentic Code Review",
+      "normalized_title": "anthropic claude code team implements continuous in",
+      "content_hash": "",
+      "last_sent": 1792299121.2080991,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.21261": {
+      "url": "https://huggingface.co/papers/2610.21261",
+      "title": "Sparse Autoencoder Feature Compositionality and Non-Additive Interactions Evaluated",
+      "normalized_title": "sparse autoencoder feature compositionality and non",
+      "content_hash": "",
+      "last_sent": 1792299121.208117,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:sparse autoencoder feature compositionality and non": {
+      "url": "https://huggingface.co/papers/2610.21261",
+      "title": "Sparse Autoencoder Feature Compositionality and Non-Additive Interactions Evaluated",
+      "normalized_title": "sparse autoencoder feature compositionality and non",
+      "content_hash": "",
+      "last_sent": 1792299121.208117,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.21185": {
+      "url": "https://huggingface.co/papers/2610.21185",
+      "title": "Mine, Sample, Render: Test-Time Structural Diversity Alignment for Generative Models",
+      "normalized_title": "mine sample render test",
+      "content_hash": "",
+      "last_sent": 1792299121.2081313,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:mine sample render test": {
+      "url": "https://huggingface.co/papers/2610.21185",
+      "title": "Mine, Sample, Render: Test-Time Structural Diversity Alignment for Generative Models",
+      "normalized_title": "mine sample render test",
+      "content_hash": "",
+      "last_sent": 1792299121.2081313,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": {
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+      "title": "NVIDIA Launches Blackwell RTX Spark Laptops with 128GB Unified Memory for Edge Inference",
+      "normalized_title": "nvidia launches blackwell rtx spark laptops with 128gb unified memory for edge inference",
+      "content_hash": "",
+      "last_sent": 1792299121.208146,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:nvidia launches blackwell rtx spark laptops with 128gb unified memory for edge inference": {
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+      "title": "NVIDIA Launches Blackwell RTX Spark Laptops with 128GB Unified Memory for Edge Inference",
+      "normalized_title": "nvidia launches blackwell rtx spark laptops with 128gb unified memory for edge inference",
+      "content_hash": "",
+      "last_sent": 1792299121.208146,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:itaú deploys enterprise financial agent architecture to 300 000 customers": {
+      "url": "https://openai.com/index/itau-generative-ai",
+      "title": "Itaú Deploys Enterprise Financial Agent Architecture to 300,000 Customers",
+      "normalized_title": "itaú deploys enterprise financial agent architecture to 300 000 customers",
+      "content_hash": "",
+      "last_sent": 1792299121.2081652,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/17/document-currentscript": {
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
+      "title": "Minimal Self-Replacing Dynamic Script Technique via document.currentScript",
+      "normalized_title": "minimal self",
+      "content_hash": "",
+      "last_sent": 1792299121.2081866,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:minimal self": {
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
+      "title": "Minimal Self-Replacing Dynamic Script Technique via document.currentScript",
+      "normalized_title": "minimal self",
+      "content_hash": "",
+      "last_sent": 1792299121.2081866,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/17/web-edit": {
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit",
+      "title": "web-edit 0.1a2 Released for Remote Multi-Device LLM Prompt Inspection",
+      "normalized_title": "web edit 0 1a2 released for remote multi",
+      "content_hash": "",
+      "last_sent": 1792299121.2082028,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:web edit 0 1a2 released for remote multi": {
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit",
+      "title": "web-edit 0.1a2 Released for Remote Multi-Device LLM Prompt Inspection",
+      "normalized_title": "web edit 0 1a2 released for remote multi",
+      "content_hash": "",
+      "last_sent": 1792299121.2082028,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
