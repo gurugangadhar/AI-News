@@ -7,7 +7,7 @@
     "https://arxiv.org/abs/2610.02267": 1791180230.30088,
     "https://openai.com/index/new-chatgpt-ads-format-and-measurement": 1791219166.191919,
     "https://openai.com/index/eu-text-provenance": 1791311439.1861062,
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792251990.6836085,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792339261.5382633,
     "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": 1791311439.1861615,
     "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review": 1791219166.1919854,
     "https://blogs.nvidia.com/blog/ai-breast-cancer-startups": 1791219166.192003,
@@ -128,18 +128,18 @@
     "https://huggingface.co/blog/reflection-beam": 1792251990.6835504,
     "https://deepmind.google/blog/accelerating-antimicrobial-discovery": 1792251990.6835914,
     "https://openai.com/index/stack-overflow-chatgpt-plugin": 1792212352.302673,
-    "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": 1792299121.2080626,
-    "https://simonwillison.net/2026/Oct/16/code-review": 1792299121.2081096,
+    "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": 1792339261.5382378,
+    "https://simonwillison.net/2026/Oct/16/code-review": 1792339261.538251,
     "https://openai.com/index/itau-generative-ai": 1792299121.2081769,
-    "https://latent.space/p/ainews-high-taste-testers-ep-1": 1792251990.6835759,
+    "https://latent.space/p/ainews-high-taste-testers-ep-1": 1792339261.5382218,
     "https://huggingface.co/papers/2610.20680": 1792251990.6836252,
     "https://openai.com/index/benefit-street-partners": 1792251990.6836407,
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite": 1792251990.6836553,
     "https://huggingface.co/papers/2610.21261": 1792299121.208124,
     "https://huggingface.co/papers/2610.21185": 1792299121.2081382,
-    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": 1792299121.208156,
-    "https://simonwillison.net/2026/Oct/17/document-currentscript": 1792299121.2081916,
-    "https://simonwillison.net/2026/Oct/17/web-edit": 1792299121.208212
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": 1792339261.538291,
+    "https://simonwillison.net/2026/Oct/17/document-currentscript": 1792339261.5382788,
+    "https://simonwillison.net/2026/Oct/17/web-edit": 1792339261.538301
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -272,19 +272,19 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (29,477 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (29,556 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1792251990.6836004,
+      "last_sent": 1792339261.5382571,
       "digest_type": "evening",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (29,477 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (29,556 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1792251990.6836004,
+      "last_sent": 1792339261.5382571,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -1693,12 +1693,12 @@
       "score": 0.0
     },
     "title:web": {
-      "url": "https://simonwillison.net/2026/Oct/13/web-edit",
-      "title": "web-edit 0.1a1",
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit",
+      "title": "web-edit 0.1a2",
       "normalized_title": "web",
       "content_hash": "",
-      "last_sent": 1791954605.9537382,
-      "digest_type": "morning",
+      "last_sent": 1792339261.5382972,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing": {
@@ -2495,11 +2495,11 @@
     },
     "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": {
       "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
-      "title": "Google Research Details Closed-Loop Autonomous Wet Labs Using Agent Orchestration",
-      "normalized_title": "google research details closed",
+      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "normalized_title": "grounding ai agents in biological reality",
       "content_hash": "",
-      "last_sent": 1792299121.2080352,
-      "digest_type": "morning",
+      "last_sent": 1792339261.5382297,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:grounding ai agents in biological reality": {
@@ -2507,17 +2507,17 @@
       "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
       "normalized_title": "grounding ai agents in biological reality",
       "content_hash": "",
-      "last_sent": 1792212352.3026948,
-      "digest_type": "morning",
+      "last_sent": 1792339261.5382297,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Oct/16/code-review": {
       "url": "https://simonwillison.net/2026/Oct/16/code-review",
-      "title": "Anthropic Claude Code Team Implements Continuous In-Flight Agentic Code Review",
-      "normalized_title": "anthropic claude code team implements continuous in",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "normalized_title": "quoting addy osmani morgan westlee lunt and qing wang",
       "content_hash": "",
-      "last_sent": 1792299121.2080991,
-      "digest_type": "morning",
+      "last_sent": 1792339261.5382438,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:quoting addy osmani morgan westlee lunt and qing wang": {
@@ -2525,8 +2525,8 @@
       "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
       "normalized_title": "quoting addy osmani morgan westlee lunt and qing wang",
       "content_hash": "",
-      "last_sent": 1792212352.3027081,
-      "digest_type": "morning",
+      "last_sent": 1792339261.5382438,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://openai.com/index/itau-generative-ai": {
@@ -2552,7 +2552,7 @@
       "title": "[AINews] High Taste Testers Ep. 1",
       "normalized_title": "high taste testers ep 1",
       "content_hash": "",
-      "last_sent": 1792251990.6835685,
+      "last_sent": 1792339261.5382018,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2561,7 +2561,7 @@
       "title": "[AINews] High Taste Testers Ep. 1",
       "normalized_title": "high taste testers ep 1",
       "content_hash": "",
-      "last_sent": 1792251990.6835685,
+      "last_sent": 1792339261.5382018,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2675,11 +2675,11 @@
     },
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": {
       "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
-      "title": "NVIDIA Launches Blackwell RTX Spark Laptops with 128GB Unified Memory for Edge Inference",
-      "normalized_title": "nvidia launches blackwell rtx spark laptops with 128gb unified memory for edge inference",
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "normalized_title": "rtx spark ignites global celebration as new windows pcs arrive",
       "content_hash": "",
-      "last_sent": 1792299121.208146,
-      "digest_type": "morning",
+      "last_sent": 1792339261.5382845,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:nvidia launches blackwell rtx spark laptops with 128gb unified memory for edge inference": {
@@ -2702,11 +2702,11 @@
     },
     "https://simonwillison.net/2026/Oct/17/document-currentscript": {
       "url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
-      "title": "Minimal Self-Replacing Dynamic Script Technique via document.currentScript",
-      "normalized_title": "minimal self",
+      "title": "Inline rendering with document​.currentScript",
+      "normalized_title": "inline rendering with document currentscript",
       "content_hash": "",
-      "last_sent": 1792299121.2081866,
-      "digest_type": "morning",
+      "last_sent": 1792339261.5382693,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:minimal self": {
@@ -2720,11 +2720,11 @@
     },
     "https://simonwillison.net/2026/Oct/17/web-edit": {
       "url": "https://simonwillison.net/2026/Oct/17/web-edit",
-      "title": "web-edit 0.1a2 Released for Remote Multi-Device LLM Prompt Inspection",
-      "normalized_title": "web edit 0 1a2 released for remote multi",
+      "title": "web-edit 0.1a2",
+      "normalized_title": "web",
       "content_hash": "",
-      "last_sent": 1792299121.2082028,
-      "digest_type": "morning",
+      "last_sent": 1792339261.5382972,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:web edit 0 1a2 released for remote multi": {
@@ -2734,6 +2734,24 @@
       "content_hash": "",
       "last_sent": 1792299121.2082028,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:inline rendering with document currentscript": {
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
+      "title": "Inline rendering with document​.currentScript",
+      "normalized_title": "inline rendering with document currentscript",
+      "content_hash": "",
+      "last_sent": 1792339261.5382693,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:rtx spark ignites global celebration as new windows pcs arrive": {
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "normalized_title": "rtx spark ignites global celebration as new windows pcs arrive",
+      "content_hash": "",
+      "last_sent": 1792339261.5382845,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
