@@ -71,7 +71,7 @@
     "https://latent.space/p/nyc2026": 1791840081.2237797,
     "https://simonwillison.net/2026/Oct/10/python-actions": 1791840081.223803,
     "https://simonwillison.net/2026/Oct/11/dwarf-fortress": 1791840081.2238135,
-    "https://github.com/esengine/DeepSeek-Reasonix": 1791740699.0065634,
+    "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
     "https://huggingface.co/papers/2610.11216": 1791740699.0065746,
     "https://huggingface.co/papers/2610.12611": 1791785725.0230417,
     "https://huggingface.co/papers/2610.12939": 1791785725.023071,
@@ -139,7 +139,15 @@
     "https://huggingface.co/papers/2610.21185": 1792299121.2081382,
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": 1792339261.538291,
     "https://simonwillison.net/2026/Oct/17/document-currentscript": 1792339261.5382788,
-    "https://simonwillison.net/2026/Oct/17/web-edit": 1792339261.538301
+    "https://simonwillison.net/2026/Oct/17/web-edit": 1792339261.538301,
+    "https://huggingface.co/papers/2610.21046": 1792386063.7225566,
+    "https://simonwillison.net/2026/Oct/18/llm-echo": 1792386063.7225692,
+    "https://huggingface.co/papers/2610.22602": 1792386063.7225976,
+    "https://anthropic.com/news/public-benefit-fund": 1792386063.7226112,
+    "https://github.com/ZhuLinsen/daily_stock_analysis": 1792386063.7226245,
+    "https://github.com/HKUDS/Vibe-Trading": 1792386063.722635,
+    "https://huggingface.co/papers/2610.21459": 1792386063.7226546,
+    "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": 1792386063.7226675
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -1442,11 +1450,11 @@
     },
     "https://github.com/esengine/DeepSeek-Reasonix": {
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "title": "DeepSeek-Reasonix: CLI Agent Architecture for Complex Code Refactoring",
-      "normalized_title": "deepseek reasonix",
+      "title": "DeepSeek-Reasonix: CLI-Based Autonomous Coding Agent for Complex SWE Tasks",
+      "normalized_title": "deepseek reasonix cli",
       "content_hash": "",
-      "last_sent": 1791740699.0065577,
-      "digest_type": "evening",
+      "last_sent": 1792386063.7225754,
+      "digest_type": "morning",
       "score": 0.0
     },
     "title:deepseek reasonix": {
@@ -1981,11 +1989,11 @@
       "score": 0.0
     },
     "title:llm": {
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini",
-      "title": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
+      "title": "llm-echo 0.5 Adds Simulated Token Usage Accounting for Reasoning and Tool Calls",
       "normalized_title": "llm",
       "content_hash": "",
-      "last_sent": 1792040236.4742126,
+      "last_sent": 1792386063.722564,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2752,6 +2760,150 @@
       "content_hash": "",
       "last_sent": 1792339261.5382845,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.21046": {
+      "url": "https://huggingface.co/papers/2610.21046",
+      "title": "PremiseCheck: Decoupled Verification Framework Slashes Hallucination Detection Latency and Cost",
+      "normalized_title": "premisecheck",
+      "content_hash": "",
+      "last_sent": 1792386063.722542,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:premisecheck": {
+      "url": "https://huggingface.co/papers/2610.21046",
+      "title": "PremiseCheck: Decoupled Verification Framework Slashes Hallucination Detection Latency and Cost",
+      "normalized_title": "premisecheck",
+      "content_hash": "",
+      "last_sent": 1792386063.722542,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/18/llm-echo": {
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
+      "title": "llm-echo 0.5 Adds Simulated Token Usage Accounting for Reasoning and Tool Calls",
+      "normalized_title": "llm",
+      "content_hash": "",
+      "last_sent": 1792386063.722564,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:deepseek reasonix cli": {
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "title": "DeepSeek-Reasonix: CLI-Based Autonomous Coding Agent for Complex SWE Tasks",
+      "normalized_title": "deepseek reasonix cli",
+      "content_hash": "",
+      "last_sent": 1792386063.7225754,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.22602": {
+      "url": "https://huggingface.co/papers/2610.22602",
+      "title": "SABER Benchmark Identifies Critical Attribute-Object Binding Failures in Multimodal Retrieval",
+      "normalized_title": "saber benchmark identifies critical attribute",
+      "content_hash": "",
+      "last_sent": 1792386063.7225907,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:saber benchmark identifies critical attribute": {
+      "url": "https://huggingface.co/papers/2610.22602",
+      "title": "SABER Benchmark Identifies Critical Attribute-Object Binding Failures in Multimodal Retrieval",
+      "normalized_title": "saber benchmark identifies critical attribute",
+      "content_hash": "",
+      "last_sent": 1792386063.7225907,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://anthropic.com/news/public-benefit-fund": {
+      "url": "https://anthropic.com/news/public-benefit-fund",
+      "title": "Anthropic Establishes Public Benefit Fund to Direct Corporate Equity Toward AI Impact",
+      "normalized_title": "anthropic establishes public benefit fund to direct corporate equity toward ai impact",
+      "content_hash": "",
+      "last_sent": 1792386063.7226036,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:anthropic establishes public benefit fund to direct corporate equity toward ai impact": {
+      "url": "https://anthropic.com/news/public-benefit-fund",
+      "title": "Anthropic Establishes Public Benefit Fund to Direct Corporate Equity Toward AI Impact",
+      "normalized_title": "anthropic establishes public benefit fund to direct corporate equity toward ai impact",
+      "content_hash": "",
+      "last_sent": 1792386063.7226036,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://github.com/ZhuLinsen/daily_stock_analysis": {
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "title": "daily_stock_analysis: Multi-Market Agent Architecture for Automated Market Intelligence",
+      "normalized_title": "daily_stock_analysis multi",
+      "content_hash": "",
+      "last_sent": 1792386063.7226186,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:daily_stock_analysis multi": {
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "title": "daily_stock_analysis: Multi-Market Agent Architecture for Automated Market Intelligence",
+      "normalized_title": "daily_stock_analysis multi",
+      "content_hash": "",
+      "last_sent": 1792386063.7226186,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://github.com/HKUDS/Vibe-Trading": {
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "title": "HKUDS Vibe-Trading: Agentic Framework for Algorithmic Strategy Backtesting",
+      "normalized_title": "hkuds vibe trading",
+      "content_hash": "",
+      "last_sent": 1792386063.7226303,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:hkuds vibe trading": {
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "title": "HKUDS Vibe-Trading: Agentic Framework for Algorithmic Strategy Backtesting",
+      "normalized_title": "hkuds vibe trading",
+      "content_hash": "",
+      "last_sent": 1792386063.7226303,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.21459": {
+      "url": "https://huggingface.co/papers/2610.21459",
+      "title": "Knowledge Transfer Probing Reveals Asymmetric Learning in Unified Multimodal Models",
+      "normalized_title": "knowledge transfer probing reveals asymmetric learning in unified multimodal models",
+      "content_hash": "",
+      "last_sent": 1792386063.7226458,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:knowledge transfer probing reveals asymmetric learning in unified multimodal models": {
+      "url": "https://huggingface.co/papers/2610.21459",
+      "title": "Knowledge Transfer Probing Reveals Asymmetric Learning in Unified Multimodal Models",
+      "normalized_title": "knowledge transfer probing reveals asymmetric learning in unified multimodal models",
+      "content_hash": "",
+      "last_sent": 1792386063.7226458,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": {
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
+      "title": "llm-tools-datasette 0.1.1 Resolves HTTP Client Dependency Decoupling",
+      "normalized_title": "llm tools",
+      "content_hash": "",
+      "last_sent": 1792386063.7226622,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:llm tools": {
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
+      "title": "llm-tools-datasette 0.1.1 Resolves HTTP Client Dependency Decoupling",
+      "normalized_title": "llm tools",
+      "content_hash": "",
+      "last_sent": 1792386063.7226622,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
