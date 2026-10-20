@@ -133,15 +133,23 @@
     "https://simonwillison.net/2026/Oct/17/document-currentscript": 1792435654.5068214,
     "https://simonwillison.net/2026/Oct/17/web-edit": 1792339261.538301,
     "https://huggingface.co/papers/2610.21046": 1792386063.7225566,
-    "https://simonwillison.net/2026/Oct/18/llm-echo": 1792386063.7225692,
+    "https://simonwillison.net/2026/Oct/18/llm-echo": 1792472764.0023549,
     "https://huggingface.co/papers/2610.22602": 1792386063.7225976,
     "https://anthropic.com/news/public-benefit-fund": 1792435654.5068345,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1792386063.7226245,
     "https://github.com/HKUDS/Vibe-Trading": 1792386063.722635,
     "https://huggingface.co/papers/2610.21459": 1792386063.7226546,
-    "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": 1792386063.7226675,
+    "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": 1792472764.002343,
     "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production": 1792435654.5067806,
-    "https://huggingface.co/papers/2610.22448": 1792435654.5068462
+    "https://huggingface.co/papers/2610.22448": 1792435654.5068462,
+    "https://arxiv.org/abs/2610.23921": 1792472764.002199,
+    "https://openai.com/index/low-resource-programming-languages": 1792472764.0022244,
+    "https://huggingface.co/papers/2610.24611": 1792472764.002246,
+    "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": 1792472764.0022624,
+    "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code": 1792472764.0022786,
+    "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center": 1792472764.0022933,
+    "https://huggingface.co/blog/hf-torchneuron": 1792472764.002305,
+    "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help": 1792472764.0023265
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -1849,10 +1857,10 @@
     },
     "title:llm": {
       "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
-      "title": "llm-echo 0.5 Adds Simulated Token Usage Accounting for Reasoning and Tool Calls",
+      "title": "llm-echo 0.5",
       "normalized_title": "llm",
       "content_hash": "",
-      "last_sent": 1792386063.722564,
+      "last_sent": 1792472764.0023496,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2641,10 +2649,10 @@
     },
     "https://simonwillison.net/2026/Oct/18/llm-echo": {
       "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
-      "title": "llm-echo 0.5 Adds Simulated Token Usage Accounting for Reasoning and Tool Calls",
+      "title": "llm-echo 0.5",
       "normalized_title": "llm",
       "content_hash": "",
-      "last_sent": 1792386063.722564,
+      "last_sent": 1792472764.0023496,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2749,19 +2757,19 @@
     },
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": {
       "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
-      "title": "llm-tools-datasette 0.1.1 Resolves HTTP Client Dependency Decoupling",
+      "title": "llm-tools-datasette 0.1.1",
       "normalized_title": "llm tools",
       "content_hash": "",
-      "last_sent": 1792386063.7226622,
+      "last_sent": 1792472764.0023358,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:llm tools": {
       "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
-      "title": "llm-tools-datasette 0.1.1 Resolves HTTP Client Dependency Decoupling",
+      "title": "llm-tools-datasette 0.1.1",
       "normalized_title": "llm tools",
       "content_hash": "",
-      "last_sent": 1792386063.7226622,
+      "last_sent": 1792472764.0023358,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2808,6 +2816,150 @@
       "content_hash": "",
       "last_sent": 1792435654.5068386,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://arxiv.org/abs/2610.23921": {
+      "url": "https://arxiv.org/abs/2610.23921",
+      "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
+      "normalized_title": "doing less with more a first",
+      "content_hash": "",
+      "last_sent": 1792472764.0021698,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:doing less with more a first": {
+      "url": "https://arxiv.org/abs/2610.23921",
+      "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
+      "normalized_title": "doing less with more a first",
+      "content_hash": "",
+      "last_sent": 1792472764.0021698,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/low-resource-programming-languages": {
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "title": "Advancing coding in low‑resource programming languages",
+      "normalized_title": "advancing coding in low resource programming languages",
+      "content_hash": "",
+      "last_sent": 1792472764.0022113,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:advancing coding in low resource programming languages": {
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "title": "Advancing coding in low‑resource programming languages",
+      "normalized_title": "advancing coding in low resource programming languages",
+      "content_hash": "",
+      "last_sent": 1792472764.0022113,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.24611": {
+      "url": "https://huggingface.co/papers/2610.24611",
+      "title": "HSPR: Recovering Software-Agent Benchmark Scores via Hierarchical Posterior Inference (1 upvotes)",
+      "normalized_title": "hspr recovering software",
+      "content_hash": "",
+      "last_sent": 1792472764.002235,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:hspr recovering software": {
+      "url": "https://huggingface.co/papers/2610.24611",
+      "title": "HSPR: Recovering Software-Agent Benchmark Scores via Hierarchical Posterior Inference (1 upvotes)",
+      "normalized_title": "hspr recovering software",
+      "content_hash": "",
+      "last_sent": 1792472764.002235,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": {
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
+      "title": "My obituary for programming",
+      "normalized_title": "my obituary for programming",
+      "content_hash": "",
+      "last_sent": 1792472764.002256,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:my obituary for programming": {
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
+      "title": "My obituary for programming",
+      "normalized_title": "my obituary for programming",
+      "content_hash": "",
+      "last_sent": 1792472764.002256,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "normalized_title": "how to continue a github copilot app session in vs code",
+      "content_hash": "",
+      "last_sent": 1792472764.0022697,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how to continue a github copilot app session in vs code": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "normalized_title": "how to continue a github copilot app session in vs code",
+      "content_hash": "",
+      "last_sent": 1792472764.0022697,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center": {
+      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
+      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "normalized_title": "spain",
+      "content_hash": "",
+      "last_sent": 1792472764.0022874,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:spain": {
+      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
+      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "normalized_title": "spain",
+      "content_hash": "",
+      "last_sent": 1792472764.0022874,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/hf-torchneuron": {
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "normalized_title": "torchneuron",
+      "content_hash": "",
+      "last_sent": 1792472764.0022993,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:torchneuron": {
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "normalized_title": "torchneuron",
+      "content_hash": "",
+      "last_sent": 1792472764.0022993,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help": {
+      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help",
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "normalized_title": "germany wants to lead the world in industrial ai",
+      "content_hash": "",
+      "last_sent": 1792472764.002317,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:germany wants to lead the world in industrial ai": {
+      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help",
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "normalized_title": "germany wants to lead the world in industrial ai",
+      "content_hash": "",
+      "last_sent": 1792472764.002317,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
