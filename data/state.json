@@ -1,13 +1,10 @@
 {
   "seenArticles": {
     "https://openai.com/index/eu-text-provenance": 1791311439.1861062,
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792435654.506804,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792517026.2275443,
     "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": 1791311439.1861615,
     "https://latent.space/p/ainews-reflection-beam-501b-a23b": 1791440864.4479697,
     "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle": 1791353681.3531725,
-    "https://huggingface.co/papers/2610.04616": 1791268648.6350274,
-    "https://simonwillison.net/2026/Oct/5/felix-rieseberg": 1791268648.6350372,
-    "https://devin.ai/blog/memory-and-dreaming": 1791268648.6350446,
     "https://huggingface.co/blog/tiiuae/falcon-emirati": 1791311439.1860747,
     "https://openai.com/index/advancing-computer-use-with-ironclad": 1791311439.1860936,
     "https://blogs.nvidia.com/blog/telecom-operators-open-models": 1791440864.4480698,
@@ -140,7 +137,7 @@
     "https://github.com/HKUDS/Vibe-Trading": 1792386063.722635,
     "https://huggingface.co/papers/2610.21459": 1792386063.7226546,
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": 1792472764.002343,
-    "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production": 1792435654.5067806,
+    "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production": 1792517026.2275033,
     "https://huggingface.co/papers/2610.22448": 1792435654.5068462,
     "https://arxiv.org/abs/2610.23921": 1792472764.002199,
     "https://openai.com/index/low-resource-programming-languages": 1792472764.0022244,
@@ -149,18 +146,23 @@
     "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code": 1792472764.0022786,
     "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center": 1792472764.0022933,
     "https://huggingface.co/blog/hf-torchneuron": 1792472764.002305,
-    "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help": 1792472764.0023265
+    "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help": 1792472764.0023265,
+    "https://huggingface.co/blog/allenai/fairstress": 1792517026.2274706,
+    "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity": 1792517026.227487,
+    "https://huggingface.co/blog/ibm-research/altk-evolve-bc": 1792517026.2275276,
+    "https://latent.space/p/ainews-not-much-happened-today-f09": 1792517026.227554,
+    "https://openai.com/index/ted-taylor-restaurant": 1792517026.2275643
   },
   "seenTweets": {},
   "seenVideos": {},
   "sentStories": {
     "title:not much happened today": {
-      "url": "https://latent.space/p/ainews-not-much-happened-today-60f",
+      "url": "https://latent.space/p/ainews-not-much-happened-today-f09",
       "title": "[AINews] not much happened today",
       "normalized_title": "not much happened today",
       "content_hash": "",
-      "last_sent": 1791612461.1701043,
-      "digest_type": "morning",
+      "last_sent": 1792517026.2275503,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://openai.com/index/eu-text-provenance": {
@@ -183,19 +185,19 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (29,631 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (29,693 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1792435654.5067964,
+      "last_sent": 1792517026.2275376,
       "digest_type": "evening",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (29,631 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (29,693 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1792435654.5067964,
+      "last_sent": 1792517026.2275376,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -250,60 +252,6 @@
       "normalized_title": "open and emergent problems in agentic privacy and security",
       "content_hash": "",
       "last_sent": 1791353681.3531663,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.04616": {
-      "url": "https://huggingface.co/papers/2610.04616",
-      "title": "PerturBot: Breaking Shortcut Priors in Vision-Language-Action Models with Perturbative Training",
-      "normalized_title": "perturbot breaking shortcut priors in vision language",
-      "content_hash": "",
-      "last_sent": 1791268648.6350203,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:perturbot breaking shortcut priors in vision language": {
-      "url": "https://huggingface.co/papers/2610.04616",
-      "title": "PerturBot: Breaking Shortcut Priors in Vision-Language-Action Models with Perturbative Training",
-      "normalized_title": "perturbot breaking shortcut priors in vision language",
-      "content_hash": "",
-      "last_sent": 1791268648.6350203,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/5/felix-rieseberg": {
-      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
-      "title": "Quoting Felix Rieseberg",
-      "normalized_title": "quoting felix rieseberg",
-      "content_hash": "",
-      "last_sent": 1791268648.6350343,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:quoting felix rieseberg": {
-      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
-      "title": "Quoting Felix Rieseberg",
-      "normalized_title": "quoting felix rieseberg",
-      "content_hash": "",
-      "last_sent": 1791268648.6350343,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://devin.ai/blog/memory-and-dreaming": {
-      "url": "https://devin.ai/blog/memory-and-dreaming",
-      "title": "Memory and dreaming: how Devin learns from working with you",
-      "normalized_title": "memory and dreaming",
-      "content_hash": "",
-      "last_sent": 1791268648.6350408,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:memory and dreaming": {
-      "url": "https://devin.ai/blog/memory-and-dreaming",
-      "title": "Memory and dreaming: how Devin learns from working with you",
-      "normalized_title": "memory and dreaming",
-      "content_hash": "",
-      "last_sent": 1791268648.6350408,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2778,7 +2726,7 @@
       "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
       "normalized_title": "nvidia advances agentic security for media from european public service broadcasting to global content production",
       "content_hash": "",
-      "last_sent": 1792435654.5067346,
+      "last_sent": 1792517026.2274935,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2787,7 +2735,7 @@
       "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
       "normalized_title": "nvidia advances agentic security for media from european public service broadcasting to global content production",
       "content_hash": "",
-      "last_sent": 1792435654.5067346,
+      "last_sent": 1792517026.2274935,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2960,6 +2908,87 @@
       "content_hash": "",
       "last_sent": 1792472764.002317,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/allenai/fairstress": {
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "normalized_title": "fairstress a deeper evaluation of fairness in llm decision",
+      "content_hash": "",
+      "last_sent": 1792517026.2274423,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:fairstress a deeper evaluation of fairness in llm decision": {
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "normalized_title": "fairstress a deeper evaluation of fairness in llm decision",
+      "content_hash": "",
+      "last_sent": 1792517026.2274423,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "normalized_title": "how 3 java champions are using github copilot for increased productivity",
+      "content_hash": "",
+      "last_sent": 1792517026.2274804,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:how 3 java champions are using github copilot for increased productivity": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "normalized_title": "how 3 java champions are using github copilot for increased productivity",
+      "content_hash": "",
+      "last_sent": 1792517026.2274804,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/ibm-research/altk-evolve-bc": {
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "normalized_title": "altk evolve how learned memory tops the τ²",
+      "content_hash": "",
+      "last_sent": 1792517026.2275126,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:altk evolve how learned memory tops the τ²": {
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "normalized_title": "altk evolve how learned memory tops the τ²",
+      "content_hash": "",
+      "last_sent": 1792517026.2275126,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-not-much-happened-today-f09": {
+      "url": "https://latent.space/p/ainews-not-much-happened-today-f09",
+      "title": "[AINews] not much happened today",
+      "normalized_title": "not much happened today",
+      "content_hash": "",
+      "last_sent": 1792517026.2275503,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/ted-taylor-restaurant": {
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "normalized_title": "franchisee reconciles cash in 94 less time with chatgpt work",
+      "content_hash": "",
+      "last_sent": 1792517026.2275584,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:franchisee reconciles cash in 94 less time with chatgpt work": {
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "normalized_title": "franchisee reconciles cash in 94 less time with chatgpt work",
+      "content_hash": "",
+      "last_sent": 1792517026.2275584,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
