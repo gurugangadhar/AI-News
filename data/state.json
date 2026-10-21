@@ -1,15 +1,9 @@
 {
   "seenArticles": {
-    "https://openai.com/index/eu-text-provenance": 1791311439.1861062,
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792517026.2275443,
-    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": 1791311439.1861615,
     "https://latent.space/p/ainews-reflection-beam-501b-a23b": 1791440864.4479697,
     "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle": 1791353681.3531725,
-    "https://huggingface.co/blog/tiiuae/falcon-emirati": 1791311439.1860747,
-    "https://openai.com/index/advancing-computer-use-with-ironclad": 1791311439.1860936,
     "https://blogs.nvidia.com/blog/telecom-operators-open-models": 1791440864.4480698,
-    "https://huggingface.co/papers/2605.16817": 1791311439.186138,
-    "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox": 1791311439.186151,
     "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": 1791440864.4479506,
     "https://simonwillison.net/2026/Oct/6/llm-openai-decisions": 1791353681.3531628,
     "https://openai.com/index/jump-trading": 1791353681.353183,
@@ -142,7 +136,7 @@
     "https://arxiv.org/abs/2610.23921": 1792472764.002199,
     "https://openai.com/index/low-resource-programming-languages": 1792472764.0022244,
     "https://huggingface.co/papers/2610.24611": 1792472764.002246,
-    "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": 1792472764.0022624,
+    "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": 1792559148.5924382,
     "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code": 1792472764.0022786,
     "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center": 1792472764.0022933,
     "https://huggingface.co/blog/hf-torchneuron": 1792472764.002305,
@@ -151,7 +145,13 @@
     "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity": 1792517026.227487,
     "https://huggingface.co/blog/ibm-research/altk-evolve-bc": 1792517026.2275276,
     "https://latent.space/p/ainews-not-much-happened-today-f09": 1792517026.227554,
-    "https://openai.com/index/ted-taylor-restaurant": 1792517026.2275643
+    "https://openai.com/index/ted-taylor-restaurant": 1792517026.2275643,
+    "https://huggingface.co/blog/nvidia/cosmos3-h-dreams": 1792559148.592323,
+    "https://latent.space/p/sfcompute2": 1792559148.592348,
+    "https://latent.space/p/tenex": 1792559148.5923738,
+    "https://simonwillison.net/2026/Oct/20/battledrones": 1792559148.5923965,
+    "https://openai.com/index/terminal-x": 1792559148.5924127,
+    "https://simonwillison.net/2026/Oct/20/emudhra-certificates": 1792559148.5924256
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -162,24 +162,6 @@
       "normalized_title": "not much happened today",
       "content_hash": "",
       "last_sent": 1792517026.2275503,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://openai.com/index/eu-text-provenance": {
-      "url": "https://openai.com/index/eu-text-provenance",
-      "title": "Our approach to EU text provenance rules",
-      "normalized_title": "our approach to eu text provenance rules",
-      "content_hash": "",
-      "last_sent": 1791311439.1860995,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:our approach to eu text provenance rules": {
-      "url": "https://openai.com/index/eu-text-provenance",
-      "title": "Our approach to EU text provenance rules",
-      "normalized_title": "our approach to eu text provenance rules",
-      "content_hash": "",
-      "last_sent": 1791311439.1860995,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -198,24 +180,6 @@
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
       "last_sent": 1792517026.2275376,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": {
-      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words",
-      "title": "Qwen3.8 27B addition in words",
-      "normalized_title": "qwen3 8 27b addition in words",
-      "content_hash": "",
-      "last_sent": 1791311439.1861553,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:qwen3 8 27b addition in words": {
-      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words",
-      "title": "Qwen3.8 27B addition in words",
-      "normalized_title": "qwen3 8 27b addition in words",
-      "content_hash": "",
-      "last_sent": 1791311439.1861553,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -255,42 +219,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/blog/tiiuae/falcon-emirati": {
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "normalized_title": "falcon emirati when an llm learns the dialect the culture and the nuance",
-      "content_hash": "",
-      "last_sent": 1791311439.1860464,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:falcon emirati when an llm learns the dialect the culture and the nuance": {
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "normalized_title": "falcon emirati when an llm learns the dialect the culture and the nuance",
-      "content_hash": "",
-      "last_sent": 1791311439.1860464,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://openai.com/index/advancing-computer-use-with-ironclad": {
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "title": "Advancing computer use with Ironclad",
-      "normalized_title": "advancing computer use with ironclad",
-      "content_hash": "",
-      "last_sent": 1791311439.1860874,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:advancing computer use with ironclad": {
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "title": "Advancing computer use with Ironclad",
-      "normalized_title": "advancing computer use with ironclad",
-      "content_hash": "",
-      "last_sent": 1791311439.1860874,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://blogs.nvidia.com/blog/telecom-operators-open-models": {
       "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models",
       "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
@@ -307,42 +235,6 @@
       "content_hash": "",
       "last_sent": 1791440864.4480624,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2605.16817": {
-      "url": "https://huggingface.co/papers/2605.16817",
-      "title": "Adaptive Fused Prior Transfer for Controllable Generative Image Compression (1 upvotes)",
-      "normalized_title": "adaptive fused prior transfer for controllable generative image compression",
-      "content_hash": "",
-      "last_sent": 1791311439.1861286,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:adaptive fused prior transfer for controllable generative image compression": {
-      "url": "https://huggingface.co/papers/2605.16817",
-      "title": "Adaptive Fused Prior Transfer for Controllable Generative Image Compression (1 upvotes)",
-      "normalized_title": "adaptive fused prior transfer for controllable generative image compression",
-      "content_hash": "",
-      "last_sent": 1791311439.1861286,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox": {
-      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox",
-      "title": "Scrimshaw Jukebox",
-      "normalized_title": "scrimshaw jukebox",
-      "content_hash": "",
-      "last_sent": 1791311439.1861467,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:scrimshaw jukebox": {
-      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox",
-      "title": "Scrimshaw Jukebox",
-      "normalized_title": "scrimshaw jukebox",
-      "content_hash": "",
-      "last_sent": 1791311439.1861467,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": {
@@ -2825,7 +2717,7 @@
       "title": "My obituary for programming",
       "normalized_title": "my obituary for programming",
       "content_hash": "",
-      "last_sent": 1792472764.002256,
+      "last_sent": 1792559148.5924313,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2834,7 +2726,7 @@
       "title": "My obituary for programming",
       "normalized_title": "my obituary for programming",
       "content_hash": "",
-      "last_sent": 1792472764.002256,
+      "last_sent": 1792559148.5924313,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2989,6 +2881,114 @@
       "content_hash": "",
       "last_sent": 1792517026.2275584,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/nvidia/cosmos3-h-dreams": {
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "normalized_title": "nvidia cosmos3 h dreams",
+      "content_hash": "",
+      "last_sent": 1792559148.5923016,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:nvidia cosmos3 h dreams": {
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "normalized_title": "nvidia cosmos3 h dreams",
+      "content_hash": "",
+      "last_sent": 1792559148.5923016,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/sfcompute2": {
+      "url": "https://latent.space/p/sfcompute2",
+      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
+      "normalized_title": "the programmable data center evan conrad sf compute",
+      "content_hash": "",
+      "last_sent": 1792559148.592333,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:the programmable data center evan conrad sf compute": {
+      "url": "https://latent.space/p/sfcompute2",
+      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
+      "normalized_title": "the programmable data center evan conrad sf compute",
+      "content_hash": "",
+      "last_sent": 1792559148.592333,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/tenex": {
+      "url": "https://latent.space/p/tenex",
+      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+      "normalized_title": "ai for the fortune 2000 how tenex builds an ai native sdlc alex lieberman cj hess",
+      "content_hash": "",
+      "last_sent": 1792559148.5923584,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:ai for the fortune 2000 how tenex builds an ai native sdlc alex lieberman cj hess": {
+      "url": "https://latent.space/p/tenex",
+      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+      "normalized_title": "ai for the fortune 2000 how tenex builds an ai native sdlc alex lieberman cj hess",
+      "content_hash": "",
+      "last_sent": 1792559148.5923584,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/20/battledrones": {
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones",
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "normalized_title": "battle drones a vibe coded rts with audio",
+      "content_hash": "",
+      "last_sent": 1792559148.5923867,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:battle drones a vibe coded rts with audio": {
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones",
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "normalized_title": "battle drones a vibe coded rts with audio",
+      "content_hash": "",
+      "last_sent": 1792559148.5923867,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/terminal-x": {
+      "url": "https://openai.com/index/terminal-x",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "normalized_title": "terminal x matches senior investor judgment 88 6 with gpt",
+      "content_hash": "",
+      "last_sent": 1792559148.592405,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:terminal x matches senior investor judgment 88 6 with gpt": {
+      "url": "https://openai.com/index/terminal-x",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "normalized_title": "terminal x matches senior investor judgment 88 6 with gpt",
+      "content_hash": "",
+      "last_sent": 1792559148.592405,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/20/emudhra-certificates": {
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates",
+      "title": "eMudhra Intermediate CA Compromise",
+      "normalized_title": "emudhra intermediate ca compromise",
+      "content_hash": "",
+      "last_sent": 1792559148.5924203,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:emudhra intermediate ca compromise": {
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates",
+      "title": "eMudhra Intermediate CA Compromise",
+      "normalized_title": "emudhra intermediate ca compromise",
+      "content_hash": "",
+      "last_sent": 1792559148.5924203,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
