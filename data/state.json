@@ -1,22 +1,13 @@
 {
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792517026.2275443,
-    "https://latent.space/p/ainews-reflection-beam-501b-a23b": 1791440864.4479697,
-    "https://blogs.nvidia.com/blog/telecom-operators-open-models": 1791440864.4480698,
-    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": 1791440864.4479506,
-    "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai": 1791440864.448043,
-    "https://openai.com/index/sharing-ai-progress-in-mathematics": 1791440864.448119,
-    "https://simonwillison.net/2026/Oct/7/jake-boggan": 1791440864.4481354,
     "https://latent.space/p/stacklok": 1791485757.5259569,
     "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": 1791485757.5259695,
     "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software": 1791485757.5259979,
     "https://huggingface.co/blog/LiquidAI/open-d1": 1791485757.5260224,
     "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging": 1791485757.5260444,
-    "https://devin.ai/blog/claude-haiku-5-5": 1791440864.4479828,
-    "https://huggingface.co/papers/2610.09684": 1791440864.4479978,
     "https://research.google/blog/does-better-work-always-mean-better-workers": 1791527140.2594364,
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event": 1791527140.259475,
-    "https://openai.com/index/teens-learn-and-plan": 1791440864.4481077,
     "https://simonwillison.net/2026/Oct/7/ben-affleck": 1791527140.259536,
     "https://huggingface.co/blog/tiiuae/falcon-asr": 1791485757.5259418,
     "https://latent.space/p/ainews-claude-haiku-55-better-than": 1791570438.3553574,
@@ -149,13 +140,19 @@
     "https://huggingface.co/blog/ibm-granite/granite-speech-5": 1792603494.0312088,
     "https://latent.space/p/ainews-deepseek-deepinfer-open-source": 1792603494.031235,
     "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents": 1792603494.031264,
-    "https://latent.space/p/claude-mods": 1792603494.031281,
+    "https://latent.space/p/claude-mods": 1792689737.6637168,
     "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": 1792603494.0312932,
-    "https://simonwillison.net/2026/Oct/21/panache": 1792603494.031305,
+    "https://simonwillison.net/2026/Oct/21/panache": 1792689737.6637743,
     "https://huggingface.co/blog/nvidia/kumo-relational": 1792645768.9899192,
     "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": 1792645768.9899418,
     "https://blogs.nvidia.com/blog/european-public-sector-open-models": 1792645768.9899592,
-    "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync": 1792645768.9900289
+    "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync": 1792645768.9900289,
+    "https://huggingface.co/blog/allenai/olmoearth-v1-3": 1792689737.6636786,
+    "https://openai.com/index/forward-deployed-engineering-means": 1792689737.663694,
+    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": 1792689737.6637053,
+    "https://huggingface.co/papers/2610.27861": 1792689737.6637356,
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types": 1792689737.6637595,
+    "https://simonwillison.net/2026/Oct/22/armin-ronacher": 1792689737.663791
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -185,114 +182,6 @@
       "content_hash": "",
       "last_sent": 1792517026.2275376,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-reflection-beam-501b-a23b": {
-      "url": "https://latent.space/p/ainews-reflection-beam-501b-a23b",
-      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "normalized_title": "reflection beam 501b",
-      "content_hash": "",
-      "last_sent": 1791440864.447961,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:reflection beam 501b": {
-      "url": "https://latent.space/p/ainews-reflection-beam-501b-a23b",
-      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "normalized_title": "reflection beam 501b",
-      "content_hash": "",
-      "last_sent": 1791440864.447961,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/telecom-operators-open-models": {
-      "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models",
-      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "normalized_title": "why telecom operators are building their ai strategy on open models",
-      "content_hash": "",
-      "last_sent": 1791440864.4480624,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:why telecom operators are building their ai strategy on open models": {
-      "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models",
-      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "normalized_title": "why telecom operators are building their ai strategy on open models",
-      "content_hash": "",
-      "last_sent": 1791440864.4480624,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": {
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "normalized_title": "embeddinggemma 2 an open lightweight multimodal embedding model",
-      "content_hash": "",
-      "last_sent": 1791440864.4479198,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:embeddinggemma 2 an open lightweight multimodal embedding model": {
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "normalized_title": "embeddinggemma 2 an open lightweight multimodal embedding model",
-      "content_hash": "",
-      "last_sent": 1791440864.4479198,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai": {
-      "url": "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
-      "normalized_title": "quasi riemann hypothesis openai publishes 722 math papers solving 90 of the top 500 open math problems the most significant moment in 100 years of mathematics",
-      "content_hash": "",
-      "last_sent": 1791440864.4480147,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:quasi riemann hypothesis openai publishes 722 math papers solving 90 of the top 500 open math problems the most significant moment in 100 years of mathematics": {
-      "url": "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
-      "normalized_title": "quasi riemann hypothesis openai publishes 722 math papers solving 90 of the top 500 open math problems the most significant moment in 100 years of mathematics",
-      "content_hash": "",
-      "last_sent": 1791440864.4480147,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/sharing-ai-progress-in-mathematics": {
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "title": "Sharing AI progress in mathematics",
-      "normalized_title": "sharing ai progress in mathematics",
-      "content_hash": "",
-      "last_sent": 1791440864.448114,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:sharing ai progress in mathematics": {
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "title": "Sharing AI progress in mathematics",
-      "normalized_title": "sharing ai progress in mathematics",
-      "content_hash": "",
-      "last_sent": 1791440864.448114,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/7/jake-boggan": {
-      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan",
-      "title": "Quoting Jake Boggan",
-      "normalized_title": "quoting jake boggan",
-      "content_hash": "",
-      "last_sent": 1791440864.4481316,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:quoting jake boggan": {
-      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan",
-      "title": "Quoting Jake Boggan",
-      "normalized_title": "quoting jake boggan",
-      "content_hash": "",
-      "last_sent": 1791440864.4481316,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://latent.space/p/stacklok": {
@@ -385,42 +274,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://devin.ai/blog/claude-haiku-5-5": {
-      "url": "https://devin.ai/blog/claude-haiku-5-5",
-      "title": "Claude Haiku 5.5 is now available in Devin",
-      "normalized_title": "claude haiku 5 5 is now available in devin",
-      "content_hash": "",
-      "last_sent": 1791440864.447977,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:claude haiku 5 5 is now available in devin": {
-      "url": "https://devin.ai/blog/claude-haiku-5-5",
-      "title": "Claude Haiku 5.5 is now available in Devin",
-      "normalized_title": "claude haiku 5 5 is now available in devin",
-      "content_hash": "",
-      "last_sent": 1791440864.447977,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.09684": {
-      "url": "https://huggingface.co/papers/2610.09684",
-      "title": "From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery (8 upvotes)",
-      "normalized_title": "from pareto to preference personalized test",
-      "content_hash": "",
-      "last_sent": 1791440864.4479883,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:from pareto to preference personalized test": {
-      "url": "https://huggingface.co/papers/2610.09684",
-      "title": "From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery (8 upvotes)",
-      "normalized_title": "from pareto to preference personalized test",
-      "content_hash": "",
-      "last_sent": 1791440864.4479883,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://research.google/blog/does-better-work-always-mean-better-workers": {
       "url": "https://research.google/blog/does-better-work-always-mean-better-workers",
       "title": "Does better work always mean better workers?",
@@ -454,24 +307,6 @@
       "normalized_title": "nvidia microsoft kick off a new beginning for windows pcs with rtx spark and ai agents",
       "content_hash": "",
       "last_sent": 1791527140.2594645,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/teens-learn-and-plan": {
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "normalized_title": "helping teens learn plan and shape the future of ai",
-      "content_hash": "",
-      "last_sent": 1791440864.4481013,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:helping teens learn plan and shape the future of ai": {
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "normalized_title": "helping teens learn plan and shape the future of ai",
-      "content_hash": "",
-      "last_sent": 1791440864.4481013,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2946,7 +2781,7 @@
       "title": "Claude Mods: Flipping the Harness Inside Out",
       "normalized_title": "claude mods",
       "content_hash": "",
-      "last_sent": 1792603494.0312755,
+      "last_sent": 1792689737.6637115,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2955,7 +2790,7 @@
       "title": "Claude Mods: Flipping the Harness Inside Out",
       "normalized_title": "claude mods",
       "content_hash": "",
-      "last_sent": 1792603494.0312755,
+      "last_sent": 1792689737.6637115,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2982,7 +2817,7 @@
       "title": "Panache — RTS Belle Époque pour mobile",
       "normalized_title": "panache",
       "content_hash": "",
-      "last_sent": 1792603494.0312998,
+      "last_sent": 1792689737.6637683,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2991,7 +2826,7 @@
       "title": "Panache — RTS Belle Époque pour mobile",
       "normalized_title": "panache",
       "content_hash": "",
-      "last_sent": 1792603494.0312998,
+      "last_sent": 1792689737.6637683,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -3065,6 +2900,114 @@
       "content_hash": "",
       "last_sent": 1792645768.9900227,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/allenai/olmoearth-v1-3": {
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "normalized_title": "olmoearth v1 3 state of the",
+      "content_hash": "",
+      "last_sent": 1792689737.6636527,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:olmoearth v1 3 state of the": {
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "normalized_title": "olmoearth v1 3 state of the",
+      "content_hash": "",
+      "last_sent": 1792689737.6636527,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/forward-deployed-engineering-means": {
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "title": "What FDE means at OpenAI",
+      "normalized_title": "what fde means at openai",
+      "content_hash": "",
+      "last_sent": 1792689737.6636887,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:what fde means at openai": {
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "title": "What FDE means at OpenAI",
+      "normalized_title": "what fde means at openai",
+      "content_hash": "",
+      "last_sent": 1792689737.6636887,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": {
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "normalized_title": "ensemble forecasting with ibm granite time",
+      "content_hash": "",
+      "last_sent": 1792689737.6636992,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:ensemble forecasting with ibm granite time": {
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "normalized_title": "ensemble forecasting with ibm granite time",
+      "content_hash": "",
+      "last_sent": 1792689737.6636992,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.27861": {
+      "url": "https://huggingface.co/papers/2610.27861",
+      "title": "RoboCasa-Shift: Stage-Aware Robustness Evaluation of Vision-Language-Action Policies in Long-Horizon Household Manipulation (2 upvotes)",
+      "normalized_title": "robocasa shift stage aware robustness evaluation of vision language action policies in long",
+      "content_hash": "",
+      "last_sent": 1792689737.6637225,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:robocasa shift stage aware robustness evaluation of vision language action policies in long": {
+      "url": "https://huggingface.co/papers/2610.27861",
+      "title": "RoboCasa-Shift: Stage-Aware Robustness Evaluation of Vision-Language-Action Policies in Long-Horizon Household Manipulation (2 upvotes)",
+      "normalized_title": "robocasa shift stage aware robustness evaluation of vision language action policies in long",
+      "content_hash": "",
+      "last_sent": 1792689737.6637225,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types": {
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "normalized_title": "beyond tree cover mapping the world s forest types",
+      "content_hash": "",
+      "last_sent": 1792689737.6637478,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:beyond tree cover mapping the world s forest types": {
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "normalized_title": "beyond tree cover mapping the world s forest types",
+      "content_hash": "",
+      "last_sent": 1792689737.6637478,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/22/armin-ronacher": {
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher",
+      "title": "Quoting Armin Ronacher",
+      "normalized_title": "quoting armin ronacher",
+      "content_hash": "",
+      "last_sent": 1792689737.6637852,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:quoting armin ronacher": {
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher",
+      "title": "Quoting Armin Ronacher",
+      "normalized_title": "quoting armin ronacher",
+      "content_hash": "",
+      "last_sent": 1792689737.6637852,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
