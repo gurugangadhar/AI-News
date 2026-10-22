@@ -9,12 +9,9 @@
     "https://simonwillison.net/2026/Oct/7/jake-boggan": 1791440864.4481354,
     "https://latent.space/p/stacklok": 1791485757.5259569,
     "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": 1791485757.5259695,
-    "https://openai.com/index/radisson": 1791399647.2053251,
     "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software": 1791485757.5259979,
     "https://huggingface.co/blog/LiquidAI/open-d1": 1791485757.5260224,
-    "https://openai.com/index/gpt-6-for-everyone": 1791399647.2053595,
     "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging": 1791485757.5260444,
-    "https://simonwillison.net/2026/Oct/6/victoria-kim": 1791399647.2053852,
     "https://devin.ai/blog/claude-haiku-5-5": 1791440864.4479828,
     "https://huggingface.co/papers/2610.09684": 1791440864.4479978,
     "https://research.google/blog/does-better-work-always-mean-better-workers": 1791527140.2594364,
@@ -144,17 +141,21 @@
     "https://openai.com/index/ted-taylor-restaurant": 1792517026.2275643,
     "https://huggingface.co/blog/nvidia/cosmos3-h-dreams": 1792559148.592323,
     "https://latent.space/p/sfcompute2": 1792559148.592348,
-    "https://latent.space/p/tenex": 1792559148.5923738,
-    "https://simonwillison.net/2026/Oct/20/battledrones": 1792559148.5923965,
+    "https://latent.space/p/tenex": 1792645768.9899867,
+    "https://simonwillison.net/2026/Oct/20/battledrones": 1792645768.990013,
     "https://openai.com/index/terminal-x": 1792559148.5924127,
-    "https://simonwillison.net/2026/Oct/20/emudhra-certificates": 1792559148.5924256,
+    "https://simonwillison.net/2026/Oct/20/emudhra-certificates": 1792645768.99004,
     "https://huggingface.co/blog/nvidia/kumo-forecast": 1792603494.0311878,
     "https://huggingface.co/blog/ibm-granite/granite-speech-5": 1792603494.0312088,
     "https://latent.space/p/ainews-deepseek-deepinfer-open-source": 1792603494.031235,
     "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents": 1792603494.031264,
     "https://latent.space/p/claude-mods": 1792603494.031281,
     "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": 1792603494.0312932,
-    "https://simonwillison.net/2026/Oct/21/panache": 1792603494.031305
+    "https://simonwillison.net/2026/Oct/21/panache": 1792603494.031305,
+    "https://huggingface.co/blog/nvidia/kumo-relational": 1792645768.9899192,
+    "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": 1792645768.9899418,
+    "https://blogs.nvidia.com/blog/european-public-sector-open-models": 1792645768.9899592,
+    "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync": 1792645768.9900289
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -330,24 +331,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://openai.com/index/radisson": {
-      "url": "https://openai.com/index/radisson",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "normalized_title": "radisson hotel group brings hotel discovery into chatgpt",
-      "content_hash": "",
-      "last_sent": 1791399647.2053177,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:radisson hotel group brings hotel discovery into chatgpt": {
-      "url": "https://openai.com/index/radisson",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "normalized_title": "radisson hotel group brings hotel discovery into chatgpt",
-      "content_hash": "",
-      "last_sent": 1791399647.2053177,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software": {
       "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
       "title": "Secret protection must scale with software",
@@ -384,24 +367,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://openai.com/index/gpt-6-for-everyone": {
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "normalized_title": "gpt",
-      "content_hash": "",
-      "last_sent": 1791399647.2053552,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:gpt": {
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "normalized_title": "gpt",
-      "content_hash": "",
-      "last_sent": 1791399647.2053552,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging": {
       "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging",
       "title": "Anti-Patterns in Software Blogging",
@@ -417,24 +382,6 @@
       "normalized_title": "anti",
       "content_hash": "",
       "last_sent": 1791485757.526041,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/6/victoria-kim": {
-      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim",
-      "title": "Quoting Victoria Kim",
-      "normalized_title": "quoting victoria kim",
-      "content_hash": "",
-      "last_sent": 1791399647.2053795,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:quoting victoria kim": {
-      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim",
-      "title": "Quoting Victoria Kim",
-      "normalized_title": "quoting victoria kim",
-      "content_hash": "",
-      "last_sent": 1791399647.2053795,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2855,7 +2802,7 @@
       "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
       "normalized_title": "ai for the fortune 2000 how tenex builds an ai native sdlc alex lieberman cj hess",
       "content_hash": "",
-      "last_sent": 1792559148.5923584,
+      "last_sent": 1792645768.9899666,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2864,7 +2811,7 @@
       "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
       "normalized_title": "ai for the fortune 2000 how tenex builds an ai native sdlc alex lieberman cj hess",
       "content_hash": "",
-      "last_sent": 1792559148.5923584,
+      "last_sent": 1792645768.9899666,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2873,7 +2820,7 @@
       "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
       "normalized_title": "battle drones a vibe coded rts with audio",
       "content_hash": "",
-      "last_sent": 1792559148.5923867,
+      "last_sent": 1792645768.9900022,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2882,7 +2829,7 @@
       "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
       "normalized_title": "battle drones a vibe coded rts with audio",
       "content_hash": "",
-      "last_sent": 1792559148.5923867,
+      "last_sent": 1792645768.9900022,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2909,7 +2856,7 @@
       "title": "eMudhra Intermediate CA Compromise",
       "normalized_title": "emudhra intermediate ca compromise",
       "content_hash": "",
-      "last_sent": 1792559148.5924203,
+      "last_sent": 1792645768.9900346,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2918,7 +2865,7 @@
       "title": "eMudhra Intermediate CA Compromise",
       "normalized_title": "emudhra intermediate ca compromise",
       "content_hash": "",
-      "last_sent": 1792559148.5924203,
+      "last_sent": 1792645768.9900346,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -3046,6 +2993,78 @@
       "content_hash": "",
       "last_sent": 1792603494.0312998,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/nvidia/kumo-relational": {
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "normalized_title": "nvidia kumo relational outperforms supervised machine learning on relational data no training required",
+      "content_hash": "",
+      "last_sent": 1792645768.9898887,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:nvidia kumo relational outperforms supervised machine learning on relational data no training required": {
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "normalized_title": "nvidia kumo relational outperforms supervised machine learning on relational data no training required",
+      "content_hash": "",
+      "last_sent": 1792645768.9898887,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "normalized_title": "how specializing the vocabulary of slms can cut inference cost by 77 in real applications",
+      "content_hash": "",
+      "last_sent": 1792645768.989932,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how specializing the vocabulary of slms can cut inference cost by 77 in real applications": {
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "normalized_title": "how specializing the vocabulary of slms can cut inference cost by 77 in real applications",
+      "content_hash": "",
+      "last_sent": 1792645768.989932,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/european-public-sector-open-models": {
+      "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models",
+      "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+      "normalized_title": "nvidia open models power a new wave of european public sector projects",
+      "content_hash": "",
+      "last_sent": 1792645768.9899518,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:nvidia open models power a new wave of european public sector projects": {
+      "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models",
+      "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+      "normalized_title": "nvidia open models power a new wave of european public sector projects",
+      "content_hash": "",
+      "last_sent": 1792645768.9899518,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync": {
+      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync",
+      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "normalized_title": "bringing the spark to europe",
+      "content_hash": "",
+      "last_sent": 1792645768.9900227,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:bringing the spark to europe": {
+      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync",
+      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "normalized_title": "bringing the spark to europe",
+      "content_hash": "",
+      "last_sent": 1792645768.9900227,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
