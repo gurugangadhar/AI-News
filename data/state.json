@@ -1,18 +1,10 @@
 {
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792517026.2275443,
-    "https://research.google/blog/does-better-work-always-mean-better-workers": 1791527140.2594364,
-    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event": 1791527140.259475,
-    "https://simonwillison.net/2026/Oct/7/ben-affleck": 1791527140.259536,
     "https://latent.space/p/ainews-claude-haiku-55-better-than": 1791570438.3553574,
     "https://anthropic.com/news/genesis-mission-commitment": 1791570438.3553824,
-    "https://huggingface.co/papers/2610.11959": 1791527140.259414,
-    "https://simonwillison.net/2026/Oct/9/ttok": 1791527140.2594483,
     "https://latent.space/p/ainews-not-much-happened-today-60f": 1791612461.17011,
     "https://openai.com/index/oracle": 1791612461.1701214,
-    "https://anthropic.com/news/2026-usage-policy-update": 1791527140.259505,
-    "https://openai.com/index/pollo-ai": 1791527140.2595239,
-    "https://simonwillison.net/2026/Oct/8/carson-gross": 1791527140.259545,
     "https://huggingface.co/blog/allenai/impactful-scheduling": 1791653112.7105105,
     "https://huggingface.co/papers/2606.03335": 1791570438.3554106,
     "https://simonwillison.net/2026/Oct/9/built-using-my-voice": 1791653112.7105224,
@@ -144,8 +136,8 @@
     "https://openai.com/index/forward-deployed-engineering-means": 1792689737.663694,
     "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": 1792689737.6637053,
     "https://huggingface.co/papers/2610.27861": 1792689737.6637356,
-    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types": 1792689737.6637595,
-    "https://simonwillison.net/2026/Oct/22/armin-ronacher": 1792689737.663791,
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types": 1792776016.2802572,
+    "https://simonwillison.net/2026/Oct/22/armin-ronacher": 1792776016.2802901,
     "https://huggingface.co/blog/microsoft/thinkingbox-training": 1792732146.8078434,
     "https://latent.space/p/modal-d": 1792732146.8078692,
     "https://simonwillison.net/2026/Oct/22/donating-agent-skills": 1792732146.8078887,
@@ -153,7 +145,14 @@
     "https://openai.com/index/decisions-api": 1792732146.807915,
     "https://openai.com/index/uber-chatgpt-work-rollout": 1792732146.8079276,
     "https://anthropic.com/news/open-call-guest-investigators-life-sciences": 1792732146.8079407,
-    "https://simonwillison.net/2026/Oct/22/de-staat-freedom": 1792732146.8079598
+    "https://simonwillison.net/2026/Oct/22/de-staat-freedom": 1792732146.8079598,
+    "https://latent.space/p/ai-is-getting-good-at-math": 1792776016.2801764,
+    "https://huggingface.co/blog/allenai/litpivot": 1792776016.2801933,
+    "https://openai.com/index/openai-nask-ai-safety-security-partnership": 1792776016.2802088,
+    "https://huggingface.co/papers/2610.31651": 1792776016.2802224,
+    "https://devin.ai/blog/vulnerability-fixes-plugin": 1792776016.2802331,
+    "https://latent.space/p/ainews-black-october": 1792776016.280243,
+    "https://huggingface.co/blog/torch-neuronx-model-support": 1792776016.280279
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -183,60 +182,6 @@
       "content_hash": "",
       "last_sent": 1792517026.2275376,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://research.google/blog/does-better-work-always-mean-better-workers": {
-      "url": "https://research.google/blog/does-better-work-always-mean-better-workers",
-      "title": "Does better work always mean better workers?",
-      "normalized_title": "does better work always mean better workers",
-      "content_hash": "",
-      "last_sent": 1791527140.2594275,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:does better work always mean better workers": {
-      "url": "https://research.google/blog/does-better-work-always-mean-better-workers",
-      "title": "Does better work always mean better workers?",
-      "normalized_title": "does better work always mean better workers",
-      "content_hash": "",
-      "last_sent": 1791527140.2594275,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event": {
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "normalized_title": "nvidia microsoft kick off a new beginning for windows pcs with rtx spark and ai agents",
-      "content_hash": "",
-      "last_sent": 1791527140.2594645,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:nvidia microsoft kick off a new beginning for windows pcs with rtx spark and ai agents": {
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "normalized_title": "nvidia microsoft kick off a new beginning for windows pcs with rtx spark and ai agents",
-      "content_hash": "",
-      "last_sent": 1791527140.2594645,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/7/ben-affleck": {
-      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck",
-      "title": "Quoting Ben Affleck",
-      "normalized_title": "quoting ben affleck",
-      "content_hash": "",
-      "last_sent": 1791527140.2595313,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:quoting ben affleck": {
-      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck",
-      "title": "Quoting Ben Affleck",
-      "normalized_title": "quoting ben affleck",
-      "content_hash": "",
-      "last_sent": 1791527140.2595313,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://latent.space/p/ainews-claude-haiku-55-better-than": {
@@ -275,42 +220,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://huggingface.co/papers/2610.11959": {
-      "url": "https://huggingface.co/papers/2610.11959",
-      "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement (26 upvotes)",
-      "normalized_title": "mimo v2 6 scaling reinforcement learning towards self",
-      "content_hash": "",
-      "last_sent": 1791527140.2593894,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:mimo v2 6 scaling reinforcement learning towards self": {
-      "url": "https://huggingface.co/papers/2610.11959",
-      "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement (26 upvotes)",
-      "normalized_title": "mimo v2 6 scaling reinforcement learning towards self",
-      "content_hash": "",
-      "last_sent": 1791527140.2593894,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/9/ttok": {
-      "url": "https://simonwillison.net/2026/Oct/9/ttok",
-      "title": "ttok 1.0",
-      "normalized_title": "ttok 1 0",
-      "content_hash": "",
-      "last_sent": 1791527140.2594442,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:ttok 1 0": {
-      "url": "https://simonwillison.net/2026/Oct/9/ttok",
-      "title": "ttok 1.0",
-      "normalized_title": "ttok 1 0",
-      "content_hash": "",
-      "last_sent": 1791527140.2594442,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://latent.space/p/ainews-not-much-happened-today-60f": {
       "url": "https://latent.space/p/ainews-not-much-happened-today-60f",
       "title": "[AINews] not much happened today",
@@ -335,60 +244,6 @@
       "normalized_title": "how oracle turns days of work into minutes with chatgpt and codex",
       "content_hash": "",
       "last_sent": 1791612461.1701155,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://anthropic.com/news/2026-usage-policy-update": {
-      "url": "https://anthropic.com/news/2026-usage-policy-update",
-      "title": "2026 Usage Policy update",
-      "normalized_title": "2026 usage policy update",
-      "content_hash": "",
-      "last_sent": 1791527140.2595007,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:2026 usage policy update": {
-      "url": "https://anthropic.com/news/2026-usage-policy-update",
-      "title": "2026 Usage Policy update",
-      "normalized_title": "2026 usage policy update",
-      "content_hash": "",
-      "last_sent": 1791527140.2595007,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/pollo-ai": {
-      "url": "https://openai.com/index/pollo-ai",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "normalized_title": "pollo ai turns creative ideas into campaigns with openai",
-      "content_hash": "",
-      "last_sent": 1791527140.259516,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:pollo ai turns creative ideas into campaigns with openai": {
-      "url": "https://openai.com/index/pollo-ai",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "normalized_title": "pollo ai turns creative ideas into campaigns with openai",
-      "content_hash": "",
-      "last_sent": 1791527140.259516,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/8/carson-gross": {
-      "url": "https://simonwillison.net/2026/Oct/8/carson-gross",
-      "title": "Quoting Carson Gross",
-      "normalized_title": "quoting carson gross",
-      "content_hash": "",
-      "last_sent": 1791527140.259541,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:quoting carson gross": {
-      "url": "https://simonwillison.net/2026/Oct/8/carson-gross",
-      "title": "Quoting Carson Gross",
-      "normalized_title": "quoting carson gross",
-      "content_hash": "",
-      "last_sent": 1791527140.259541,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2854,7 +2709,7 @@
       "title": "Beyond tree cover: mapping the world’s forest types",
       "normalized_title": "beyond tree cover mapping the world s forest types",
       "content_hash": "",
-      "last_sent": 1792689737.6637478,
+      "last_sent": 1792776016.280247,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2863,7 +2718,7 @@
       "title": "Beyond tree cover: mapping the world’s forest types",
       "normalized_title": "beyond tree cover mapping the world s forest types",
       "content_hash": "",
-      "last_sent": 1792689737.6637478,
+      "last_sent": 1792776016.280247,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2872,7 +2727,7 @@
       "title": "Quoting Armin Ronacher",
       "normalized_title": "quoting armin ronacher",
       "content_hash": "",
-      "last_sent": 1792689737.6637852,
+      "last_sent": 1792776016.2802854,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2881,7 +2736,7 @@
       "title": "Quoting Armin Ronacher",
       "normalized_title": "quoting armin ronacher",
       "content_hash": "",
-      "last_sent": 1792689737.6637852,
+      "last_sent": 1792776016.2802854,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -3027,6 +2882,132 @@
       "content_hash": "",
       "last_sent": 1792732146.8079534,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ai-is-getting-good-at-math": {
+      "url": "https://latent.space/p/ai-is-getting-good-at-math",
+      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "normalized_title": "ai is getting good at math here s why",
+      "content_hash": "",
+      "last_sent": 1792776016.2801502,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:ai is getting good at math here s why": {
+      "url": "https://latent.space/p/ai-is-getting-good-at-math",
+      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "normalized_title": "ai is getting good at math here s why",
+      "content_hash": "",
+      "last_sent": 1792776016.2801502,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/allenai/litpivot": {
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "normalized_title": "litpivot",
+      "content_hash": "",
+      "last_sent": 1792776016.2801867,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:litpivot": {
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "normalized_title": "litpivot",
+      "content_hash": "",
+      "last_sent": 1792776016.2801867,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/openai-nask-ai-safety-security-partnership": {
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "normalized_title": "openai and poland s nask partner to advance ai safety and security",
+      "content_hash": "",
+      "last_sent": 1792776016.2802,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:openai and poland s nask partner to advance ai safety and security": {
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "normalized_title": "openai and poland s nask partner to advance ai safety and security",
+      "content_hash": "",
+      "last_sent": 1792776016.2802,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.31651": {
+      "url": "https://huggingface.co/papers/2610.31651",
+      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds (1 upvotes)",
+      "normalized_title": "brickwright",
+      "content_hash": "",
+      "last_sent": 1792776016.2802172,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:brickwright": {
+      "url": "https://huggingface.co/papers/2610.31651",
+      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds (1 upvotes)",
+      "normalized_title": "brickwright",
+      "content_hash": "",
+      "last_sent": 1792776016.2802172,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://devin.ai/blog/vulnerability-fixes-plugin": {
+      "url": "https://devin.ai/blog/vulnerability-fixes-plugin",
+      "title": "Fixing Critical Node & PHP Flaws",
+      "normalized_title": "fixing critical node php flaws",
+      "content_hash": "",
+      "last_sent": 1792776016.280228,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:fixing critical node php flaws": {
+      "url": "https://devin.ai/blog/vulnerability-fixes-plugin",
+      "title": "Fixing Critical Node & PHP Flaws",
+      "normalized_title": "fixing critical node php flaws",
+      "content_hash": "",
+      "last_sent": 1792776016.280228,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-black-october": {
+      "url": "https://latent.space/p/ainews-black-october",
+      "title": "[AINews] Black October",
+      "normalized_title": "black october",
+      "content_hash": "",
+      "last_sent": 1792776016.2802386,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:black october": {
+      "url": "https://latent.space/p/ainews-black-october",
+      "title": "[AINews] Black October",
+      "normalized_title": "black october",
+      "content_hash": "",
+      "last_sent": 1792776016.2802386,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/torch-neuronx-model-support": {
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "normalized_title": "does your model run on aws trainium look it up",
+      "content_hash": "",
+      "last_sent": 1792776016.2802715,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:does your model run on aws trainium look it up": {
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "normalized_title": "does your model run on aws trainium look it up",
+      "content_hash": "",
+      "last_sent": 1792776016.2802715,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
