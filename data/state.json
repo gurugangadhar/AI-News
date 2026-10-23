@@ -1,17 +1,10 @@
 {
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792517026.2275443,
-    "https://latent.space/p/stacklok": 1791485757.5259569,
-    "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": 1791485757.5259695,
-    "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software": 1791485757.5259979,
-    "https://huggingface.co/blog/LiquidAI/open-d1": 1791485757.5260224,
-    "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging": 1791485757.5260444,
     "https://research.google/blog/does-better-work-always-mean-better-workers": 1791527140.2594364,
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event": 1791527140.259475,
     "https://simonwillison.net/2026/Oct/7/ben-affleck": 1791527140.259536,
-    "https://huggingface.co/blog/tiiuae/falcon-asr": 1791485757.5259418,
     "https://latent.space/p/ainews-claude-haiku-55-better-than": 1791570438.3553574,
-    "https://latent.space/p/periodic": 1791485757.5260105,
     "https://anthropic.com/news/genesis-mission-commitment": 1791570438.3553824,
     "https://huggingface.co/papers/2610.11959": 1791527140.259414,
     "https://simonwillison.net/2026/Oct/9/ttok": 1791527140.2594483,
@@ -152,7 +145,15 @@
     "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": 1792689737.6637053,
     "https://huggingface.co/papers/2610.27861": 1792689737.6637356,
     "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types": 1792689737.6637595,
-    "https://simonwillison.net/2026/Oct/22/armin-ronacher": 1792689737.663791
+    "https://simonwillison.net/2026/Oct/22/armin-ronacher": 1792689737.663791,
+    "https://huggingface.co/blog/microsoft/thinkingbox-training": 1792732146.8078434,
+    "https://latent.space/p/modal-d": 1792732146.8078692,
+    "https://simonwillison.net/2026/Oct/22/donating-agent-skills": 1792732146.8078887,
+    "https://arxiv.org/abs/2610.30157": 1792732146.8079016,
+    "https://openai.com/index/decisions-api": 1792732146.807915,
+    "https://openai.com/index/uber-chatgpt-work-rollout": 1792732146.8079276,
+    "https://anthropic.com/news/open-call-guest-investigators-life-sciences": 1792732146.8079407,
+    "https://simonwillison.net/2026/Oct/22/de-staat-freedom": 1792732146.8079598
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -181,96 +182,6 @@
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
       "last_sent": 1792517026.2275376,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/stacklok": {
-      "url": "https://latent.space/p/stacklok",
-      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
-      "normalized_title": "can a cloud native harness make agents reliable beyond the desktop",
-      "content_hash": "",
-      "last_sent": 1791485757.5259488,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:can a cloud native harness make agents reliable beyond the desktop": {
-      "url": "https://latent.space/p/stacklok",
-      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
-      "normalized_title": "can a cloud native harness make agents reliable beyond the desktop",
-      "content_hash": "",
-      "last_sent": 1791485757.5259488,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "normalized_title": "one model family two gold level results fine",
-      "content_hash": "",
-      "last_sent": 1791485757.525963,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:one model family two gold level results fine": {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "normalized_title": "one model family two gold level results fine",
-      "content_hash": "",
-      "last_sent": 1791485757.525963,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software": {
-      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-      "title": "Secret protection must scale with software",
-      "normalized_title": "secret protection must scale with software",
-      "content_hash": "",
-      "last_sent": 1791485757.5259943,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:secret protection must scale with software": {
-      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-      "title": "Secret protection must scale with software",
-      "normalized_title": "secret protection must scale with software",
-      "content_hash": "",
-      "last_sent": 1791485757.5259943,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/LiquidAI/open-d1": {
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "title": "Multimodal open d1 decision models for the edge",
-      "normalized_title": "multimodal open d1 decision models for the edge",
-      "content_hash": "",
-      "last_sent": 1791485757.5260186,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:multimodal open d1 decision models for the edge": {
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "title": "Multimodal open d1 decision models for the edge",
-      "normalized_title": "multimodal open d1 decision models for the edge",
-      "content_hash": "",
-      "last_sent": 1791485757.5260186,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging": {
-      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging",
-      "title": "Anti-Patterns in Software Blogging",
-      "normalized_title": "anti",
-      "content_hash": "",
-      "last_sent": 1791485757.526041,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:anti": {
-      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging",
-      "title": "Anti-Patterns in Software Blogging",
-      "normalized_title": "anti",
-      "content_hash": "",
-      "last_sent": 1791485757.526041,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -328,24 +239,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/blog/tiiuae/falcon-asr": {
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "title": "Introducing Falcon ASR",
-      "normalized_title": "introducing falcon asr",
-      "content_hash": "",
-      "last_sent": 1791485757.5259233,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:introducing falcon asr": {
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "title": "Introducing Falcon ASR",
-      "normalized_title": "introducing falcon asr",
-      "content_hash": "",
-      "last_sent": 1791485757.5259233,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://latent.space/p/ainews-claude-haiku-55-better-than": {
       "url": "https://latent.space/p/ainews-claude-haiku-55-better-than",
       "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
@@ -361,24 +254,6 @@
       "normalized_title": "claude haiku 5 5 better than gpt",
       "content_hash": "",
       "last_sent": 1791570438.3553224,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/periodic": {
-      "url": "https://latent.space/p/periodic",
-      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-      "normalized_title": "synthesis superintelligence from semiconductors to superconductors periodic labs liam fedus and ekin dogus cubuk",
-      "content_hash": "",
-      "last_sent": 1791485757.5260015,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:synthesis superintelligence from semiconductors to superconductors periodic labs liam fedus and ekin dogus cubuk": {
-      "url": "https://latent.space/p/periodic",
-      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-      "normalized_title": "synthesis superintelligence from semiconductors to superconductors periodic labs liam fedus and ekin dogus cubuk",
-      "content_hash": "",
-      "last_sent": 1791485757.5260015,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -3008,6 +2883,150 @@
       "content_hash": "",
       "last_sent": 1792689737.6637852,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/microsoft/thinkingbox-training": {
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "normalized_title": "turning database grading into rl rewards post",
+      "content_hash": "",
+      "last_sent": 1792732146.8078222,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:turning database grading into rl rewards post": {
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "normalized_title": "turning database grading into rl rewards post",
+      "content_hash": "",
+      "last_sent": 1792732146.8078222,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/modal-d": {
+      "url": "https://latent.space/p/modal-d",
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "normalized_title": "why ai compute comes in rectangles erik bernhardsson modal ceo",
+      "content_hash": "",
+      "last_sent": 1792732146.8078535,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:why ai compute comes in rectangles erik bernhardsson modal ceo": {
+      "url": "https://latent.space/p/modal-d",
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "normalized_title": "why ai compute comes in rectangles erik bernhardsson modal ceo",
+      "content_hash": "",
+      "last_sent": 1792732146.8078535,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/22/donating-agent-skills": {
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "normalized_title": "donating agent skills to the agentic ai foundation",
+      "content_hash": "",
+      "last_sent": 1792732146.8078814,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:donating agent skills to the agentic ai foundation": {
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "normalized_title": "donating agent skills to the agentic ai foundation",
+      "content_hash": "",
+      "last_sent": 1792732146.8078814,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://arxiv.org/abs/2610.30157": {
+      "url": "https://arxiv.org/abs/2610.30157",
+      "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
+      "normalized_title": "mcp vs cli for ai agents",
+      "content_hash": "",
+      "last_sent": 1792732146.8078957,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:mcp vs cli for ai agents": {
+      "url": "https://arxiv.org/abs/2610.30157",
+      "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
+      "normalized_title": "mcp vs cli for ai agents",
+      "content_hash": "",
+      "last_sent": 1792732146.8078957,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/decisions-api": {
+      "url": "https://openai.com/index/decisions-api",
+      "title": "Build more responsive apps with the Decisions API",
+      "normalized_title": "build more responsive apps with the decisions api",
+      "content_hash": "",
+      "last_sent": 1792732146.8079088,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:build more responsive apps with the decisions api": {
+      "url": "https://openai.com/index/decisions-api",
+      "title": "Build more responsive apps with the Decisions API",
+      "normalized_title": "build more responsive apps with the decisions api",
+      "content_hash": "",
+      "last_sent": 1792732146.8079088,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/uber-chatgpt-work-rollout": {
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "normalized_title": "uber brings chatgpt work to all employees with openai",
+      "content_hash": "",
+      "last_sent": 1792732146.8079214,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:uber brings chatgpt work to all employees with openai": {
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "normalized_title": "uber brings chatgpt work to all employees with openai",
+      "content_hash": "",
+      "last_sent": 1792732146.8079214,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://anthropic.com/news/open-call-guest-investigators-life-sciences": {
+      "url": "https://anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "title": "Open call for guest investigators in the life sciences",
+      "normalized_title": "open call for guest investigators in the life sciences",
+      "content_hash": "",
+      "last_sent": 1792732146.807934,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:open call for guest investigators in the life sciences": {
+      "url": "https://anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "title": "Open call for guest investigators in the life sciences",
+      "normalized_title": "open call for guest investigators in the life sciences",
+      "content_hash": "",
+      "last_sent": 1792732146.807934,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/22/de-staat-freedom": {
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom",
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "normalized_title": "de staat",
+      "content_hash": "",
+      "last_sent": 1792732146.8079534,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:de staat": {
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom",
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "normalized_title": "de staat",
+      "content_hash": "",
+      "last_sent": 1792732146.8079534,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
