@@ -1,16 +1,11 @@
 {
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792517026.2275443,
-    "https://latent.space/p/ainews-claude-haiku-55-better-than": 1791570438.3553574,
-    "https://anthropic.com/news/genesis-mission-commitment": 1791570438.3553824,
     "https://latent.space/p/ainews-not-much-happened-today-60f": 1791612461.17011,
     "https://openai.com/index/oracle": 1791612461.1701214,
     "https://huggingface.co/blog/allenai/impactful-scheduling": 1791653112.7105105,
-    "https://huggingface.co/papers/2606.03335": 1791570438.3554106,
     "https://simonwillison.net/2026/Oct/9/built-using-my-voice": 1791653112.7105224,
     "https://openai.com/index/sophos": 1791653112.7105343,
-    "https://huggingface.co/blog/building-with-ml-intern": 1791570438.3554533,
-    "https://simonwillison.net/2026/Oct/8/ttok": 1791570438.3554723,
     "https://simonwillison.net/2026/Oct/9/matthew-green": 1791653112.710545,
     "https://openai.com/index/asana-browser-agent": 1791698719.6519241,
     "https://latent.space/p/biohub-deepmind": 1791612461.170087,
@@ -138,21 +133,27 @@
     "https://huggingface.co/papers/2610.27861": 1792689737.6637356,
     "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types": 1792776016.2802572,
     "https://simonwillison.net/2026/Oct/22/armin-ronacher": 1792776016.2802901,
-    "https://huggingface.co/blog/microsoft/thinkingbox-training": 1792732146.8078434,
-    "https://latent.space/p/modal-d": 1792732146.8078692,
-    "https://simonwillison.net/2026/Oct/22/donating-agent-skills": 1792732146.8078887,
+    "https://huggingface.co/blog/microsoft/thinkingbox-training": 1792817636.8447309,
+    "https://latent.space/p/modal-d": 1792817636.8447506,
+    "https://simonwillison.net/2026/Oct/22/donating-agent-skills": 1792817636.8447604,
     "https://arxiv.org/abs/2610.30157": 1792732146.8079016,
     "https://openai.com/index/decisions-api": 1792732146.807915,
     "https://openai.com/index/uber-chatgpt-work-rollout": 1792732146.8079276,
     "https://anthropic.com/news/open-call-guest-investigators-life-sciences": 1792732146.8079407,
-    "https://simonwillison.net/2026/Oct/22/de-staat-freedom": 1792732146.8079598,
+    "https://simonwillison.net/2026/Oct/22/de-staat-freedom": 1792817636.8448253,
     "https://latent.space/p/ai-is-getting-good-at-math": 1792776016.2801764,
     "https://huggingface.co/blog/allenai/litpivot": 1792776016.2801933,
     "https://openai.com/index/openai-nask-ai-safety-security-partnership": 1792776016.2802088,
     "https://huggingface.co/papers/2610.31651": 1792776016.2802224,
     "https://devin.ai/blog/vulnerability-fixes-plugin": 1792776016.2802331,
     "https://latent.space/p/ainews-black-october": 1792776016.280243,
-    "https://huggingface.co/blog/torch-neuronx-model-support": 1792776016.280279
+    "https://huggingface.co/blog/torch-neuronx-model-support": 1792776016.280279,
+    "https://huggingface.co/papers/2610.04184": 1792817636.844772,
+    "https://simonwillison.net/2026/Oct/23/kimi-k31-pro": 1792817636.8447816,
+    "https://openai.com/index/securing-our-frontier-model-training-environment": 1792817636.8447876,
+    "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem": 1792817636.844794,
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4": 1792817636.8448107,
+    "https://simonwillison.net/2026/Oct/23/quick-study-painter": 1792817636.8448193
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -181,42 +182,6 @@
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
       "last_sent": 1792517026.2275376,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-claude-haiku-55-better-than": {
-      "url": "https://latent.space/p/ainews-claude-haiku-55-better-than",
-      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-      "normalized_title": "claude haiku 5 5 better than gpt",
-      "content_hash": "",
-      "last_sent": 1791570438.3553224,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:claude haiku 5 5 better than gpt": {
-      "url": "https://latent.space/p/ainews-claude-haiku-55-better-than",
-      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-      "normalized_title": "claude haiku 5 5 better than gpt",
-      "content_hash": "",
-      "last_sent": 1791570438.3553224,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://anthropic.com/news/genesis-mission-commitment": {
-      "url": "https://anthropic.com/news/genesis-mission-commitment",
-      "title": "Building on our commitment to American scientific discovery",
-      "normalized_title": "building on our commitment to american scientific discovery",
-      "content_hash": "",
-      "last_sent": 1791570438.3553731,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:building on our commitment to american scientific discovery": {
-      "url": "https://anthropic.com/news/genesis-mission-commitment",
-      "title": "Building on our commitment to American scientific discovery",
-      "normalized_title": "building on our commitment to american scientific discovery",
-      "content_hash": "",
-      "last_sent": 1791570438.3553731,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -265,24 +230,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://huggingface.co/papers/2606.03335": {
-      "url": "https://huggingface.co/papers/2606.03335",
-      "title": "A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning (1 upvotes)",
-      "normalized_title": "a gpu parallel framework for heterogeneous multi",
-      "content_hash": "",
-      "last_sent": 1791570438.3554013,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:a gpu parallel framework for heterogeneous multi": {
-      "url": "https://huggingface.co/papers/2606.03335",
-      "title": "A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning (1 upvotes)",
-      "normalized_title": "a gpu parallel framework for heterogeneous multi",
-      "content_hash": "",
-      "last_sent": 1791570438.3554013,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/9/built-using-my-voice": {
       "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice",
       "title": "A new feature for my blog, built using my voice",
@@ -316,42 +263,6 @@
       "normalized_title": "sophos cuts threat investigation time by 96 with openai daybreak",
       "content_hash": "",
       "last_sent": 1791653112.7105277,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/building-with-ml-intern": {
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "title": "The model that didn't exist, so you made it yourself",
-      "normalized_title": "the model that didn t exist so you made it yourself",
-      "content_hash": "",
-      "last_sent": 1791570438.3554468,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:the model that didn t exist so you made it yourself": {
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "title": "The model that didn't exist, so you made it yourself",
-      "normalized_title": "the model that didn t exist so you made it yourself",
-      "content_hash": "",
-      "last_sent": 1791570438.3554468,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/8/ttok": {
-      "url": "https://simonwillison.net/2026/Oct/8/ttok",
-      "title": "ttok 0.4",
-      "normalized_title": "ttok 0 4",
-      "content_hash": "",
-      "last_sent": 1791570438.3554673,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:ttok 0 4": {
-      "url": "https://simonwillison.net/2026/Oct/8/ttok",
-      "title": "ttok 0.4",
-      "normalized_title": "ttok 0 4",
-      "content_hash": "",
-      "last_sent": 1791570438.3554673,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2745,7 +2656,7 @@
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "normalized_title": "turning database grading into rl rewards post",
       "content_hash": "",
-      "last_sent": 1792732146.8078222,
+      "last_sent": 1792817636.8447104,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2754,7 +2665,7 @@
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "normalized_title": "turning database grading into rl rewards post",
       "content_hash": "",
-      "last_sent": 1792732146.8078222,
+      "last_sent": 1792817636.8447104,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2763,7 +2674,7 @@
       "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
       "normalized_title": "why ai compute comes in rectangles erik bernhardsson modal ceo",
       "content_hash": "",
-      "last_sent": 1792732146.8078535,
+      "last_sent": 1792817636.8447385,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2772,7 +2683,7 @@
       "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
       "normalized_title": "why ai compute comes in rectangles erik bernhardsson modal ceo",
       "content_hash": "",
-      "last_sent": 1792732146.8078535,
+      "last_sent": 1792817636.8447385,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2781,7 +2692,7 @@
       "title": "Donating Agent Skills to the Agentic AI Foundation",
       "normalized_title": "donating agent skills to the agentic ai foundation",
       "content_hash": "",
-      "last_sent": 1792732146.8078814,
+      "last_sent": 1792817636.8447568,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2790,7 +2701,7 @@
       "title": "Donating Agent Skills to the Agentic AI Foundation",
       "normalized_title": "donating agent skills to the agentic ai foundation",
       "content_hash": "",
-      "last_sent": 1792732146.8078814,
+      "last_sent": 1792817636.8447568,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2871,7 +2782,7 @@
       "title": "DE STAAT - FREEDOM (Official Music Video)",
       "normalized_title": "de staat",
       "content_hash": "",
-      "last_sent": 1792732146.8079534,
+      "last_sent": 1792817636.8448217,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2880,7 +2791,7 @@
       "title": "DE STAAT - FREEDOM (Official Music Video)",
       "normalized_title": "de staat",
       "content_hash": "",
-      "last_sent": 1792732146.8079534,
+      "last_sent": 1792817636.8448217,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -3008,6 +2919,114 @@
       "content_hash": "",
       "last_sent": 1792776016.2802715,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.04184": {
+      "url": "https://huggingface.co/papers/2610.04184",
+      "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement? (1 upvotes)",
+      "normalized_title": "evalresearchbench can ai agents build their own feedback for recursive self improvement",
+      "content_hash": "",
+      "last_sent": 1792817636.8447645,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:evalresearchbench can ai agents build their own feedback for recursive self improvement": {
+      "url": "https://huggingface.co/papers/2610.04184",
+      "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement? (1 upvotes)",
+      "normalized_title": "evalresearchbench can ai agents build their own feedback for recursive self improvement",
+      "content_hash": "",
+      "last_sent": 1792817636.8447645,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/23/kimi-k31-pro": {
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+      "title": "Introducing Kimi K3.1 Pro",
+      "normalized_title": "introducing kimi k3 1 pro",
+      "content_hash": "",
+      "last_sent": 1792817636.8447788,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:introducing kimi k3 1 pro": {
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+      "title": "Introducing Kimi K3.1 Pro",
+      "normalized_title": "introducing kimi k3 1 pro",
+      "content_hash": "",
+      "last_sent": 1792817636.8447788,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/securing-our-frontier-model-training-environment": {
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "title": "Securing our frontier model training environment",
+      "normalized_title": "securing our frontier model training environment",
+      "content_hash": "",
+      "last_sent": 1792817636.844785,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:securing our frontier model training environment": {
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "title": "Securing our frontier model training environment",
+      "normalized_title": "securing our frontier model training environment",
+      "content_hash": "",
+      "last_sent": 1792817636.844785,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem": {
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "normalized_title": "kazakhstan expands compute for its ai future",
+      "content_hash": "",
+      "last_sent": 1792817636.8447907,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:kazakhstan expands compute for its ai future": {
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "normalized_title": "kazakhstan expands compute for its ai future",
+      "content_hash": "",
+      "last_sent": 1792817636.8447907,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4": {
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4",
+      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+      "normalized_title": "cloud deployment incoming call of duty modern warfare 4 arrives on geforce now",
+      "content_hash": "",
+      "last_sent": 1792817636.8448026,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:cloud deployment incoming call of duty modern warfare 4 arrives on geforce now": {
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4",
+      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+      "normalized_title": "cloud deployment incoming call of duty modern warfare 4 arrives on geforce now",
+      "content_hash": "",
+      "last_sent": 1792817636.8448026,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/23/quick-study-painter": {
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter",
+      "title": "Quick Study",
+      "normalized_title": "quick study",
+      "content_hash": "",
+      "last_sent": 1792817636.8448172,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quick study": {
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter",
+      "title": "Quick Study",
+      "normalized_title": "quick study",
+      "content_hash": "",
+      "last_sent": 1792817636.8448172,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
