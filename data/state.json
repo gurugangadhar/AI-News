@@ -1,17 +1,12 @@
 {
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792517026.2275443,
-    "https://latent.space/p/ainews-not-much-happened-today-60f": 1791612461.17011,
-    "https://openai.com/index/oracle": 1791612461.1701214,
     "https://huggingface.co/blog/allenai/impactful-scheduling": 1791653112.7105105,
     "https://simonwillison.net/2026/Oct/9/built-using-my-voice": 1791653112.7105224,
     "https://openai.com/index/sophos": 1791653112.7105343,
     "https://simonwillison.net/2026/Oct/9/matthew-green": 1791653112.710545,
     "https://openai.com/index/asana-browser-agent": 1791698719.6519241,
-    "https://latent.space/p/biohub-deepmind": 1791612461.170087,
     "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare": 1791698719.6519463,
-    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1791612461.1701317,
-    "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day": 1791612461.1701448,
     "https://simonwillison.net/2026/Oct/10/the-new-york-times": 1791698719.651962,
     "https://latent.space/p/standard-bots": 1791785725.023058,
     "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": 1791785725.0230212,
@@ -141,19 +136,23 @@
     "https://openai.com/index/uber-chatgpt-work-rollout": 1792732146.8079276,
     "https://anthropic.com/news/open-call-guest-investigators-life-sciences": 1792732146.8079407,
     "https://simonwillison.net/2026/Oct/22/de-staat-freedom": 1792817636.8448253,
-    "https://latent.space/p/ai-is-getting-good-at-math": 1792776016.2801764,
-    "https://huggingface.co/blog/allenai/litpivot": 1792776016.2801933,
-    "https://openai.com/index/openai-nask-ai-safety-security-partnership": 1792776016.2802088,
+    "https://latent.space/p/ai-is-getting-good-at-math": 1792858125.7972257,
+    "https://huggingface.co/blog/allenai/litpivot": 1792858125.79724,
+    "https://openai.com/index/openai-nask-ai-safety-security-partnership": 1792858125.797256,
     "https://huggingface.co/papers/2610.31651": 1792776016.2802224,
     "https://devin.ai/blog/vulnerability-fixes-plugin": 1792776016.2802331,
-    "https://latent.space/p/ainews-black-october": 1792776016.280243,
-    "https://huggingface.co/blog/torch-neuronx-model-support": 1792776016.280279,
+    "https://latent.space/p/ainews-black-october": 1792858125.7972825,
+    "https://huggingface.co/blog/torch-neuronx-model-support": 1792858125.7972934,
     "https://huggingface.co/papers/2610.04184": 1792817636.844772,
     "https://simonwillison.net/2026/Oct/23/kimi-k31-pro": 1792817636.8447816,
     "https://openai.com/index/securing-our-frontier-model-training-environment": 1792817636.8447876,
     "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem": 1792817636.844794,
     "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4": 1792817636.8448107,
-    "https://simonwillison.net/2026/Oct/23/quick-study-painter": 1792817636.8448193
+    "https://simonwillison.net/2026/Oct/23/quick-study-painter": 1792817636.8448193,
+    "https://latent.space/p/ainews-kimi-31": 1792858125.797194,
+    "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening": 1792858125.7972713,
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models": 1792858125.797312,
+    "https://simonwillison.net/2026/Oct/24/battledrones": 1792858125.7973254
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -183,33 +182,6 @@
       "content_hash": "",
       "last_sent": 1792517026.2275376,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-not-much-happened-today-60f": {
-      "url": "https://latent.space/p/ainews-not-much-happened-today-60f",
-      "title": "[AINews] not much happened today",
-      "normalized_title": "not much happened today",
-      "content_hash": "",
-      "last_sent": 1791612461.1701043,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/oracle": {
-      "url": "https://openai.com/index/oracle",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "normalized_title": "how oracle turns days of work into minutes with chatgpt and codex",
-      "content_hash": "",
-      "last_sent": 1791612461.1701155,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:how oracle turns days of work into minutes with chatgpt and codex": {
-      "url": "https://openai.com/index/oracle",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "normalized_title": "how oracle turns days of work into minutes with chatgpt and codex",
-      "content_hash": "",
-      "last_sent": 1791612461.1701155,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://huggingface.co/blog/allenai/impactful-scheduling": {
@@ -302,24 +274,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://latent.space/p/biohub-deepmind": {
-      "url": "https://latent.space/p/biohub-deepmind",
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-      "normalized_title": "why alphafold didn t solve protein folding pushmeet kohli google deepmind sal candido biohub",
-      "content_hash": "",
-      "last_sent": 1791612461.1700704,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:why alphafold didn t solve protein folding pushmeet kohli google deepmind sal candido biohub": {
-      "url": "https://latent.space/p/biohub-deepmind",
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-      "normalized_title": "why alphafold didn t solve protein folding pushmeet kohli google deepmind sal candido biohub",
-      "content_hash": "",
-      "last_sent": 1791612461.1700704,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare": {
       "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare",
       "title": "Deno is joining Cloudflare",
@@ -335,42 +289,6 @@
       "normalized_title": "deno is joining cloudflare",
       "content_hash": "",
       "last_sent": 1791698719.651943,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": {
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "normalized_title": "into the omniverse",
-      "content_hash": "",
-      "last_sent": 1791612461.1701274,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:into the omniverse": {
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "normalized_title": "into the omniverse",
-      "content_hash": "",
-      "last_sent": 1791612461.1701274,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day": {
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day",
-      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-      "normalized_title": "rally up gears of war e day launches on geforce now",
-      "content_hash": "",
-      "last_sent": 1791612461.170136,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:rally up gears of war e day launches on geforce now": {
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day",
-      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-      "normalized_title": "rally up gears of war e day launches on geforce now",
-      "content_hash": "",
-      "last_sent": 1791612461.170136,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2800,7 +2718,7 @@
       "title": "AI Is Getting Good at Math. Here’s Why.",
       "normalized_title": "ai is getting good at math here s why",
       "content_hash": "",
-      "last_sent": 1792776016.2801502,
+      "last_sent": 1792858125.797214,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2809,7 +2727,7 @@
       "title": "AI Is Getting Good at Math. Here’s Why.",
       "normalized_title": "ai is getting good at math here s why",
       "content_hash": "",
-      "last_sent": 1792776016.2801502,
+      "last_sent": 1792858125.797214,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2818,7 +2736,7 @@
       "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
       "normalized_title": "litpivot",
       "content_hash": "",
-      "last_sent": 1792776016.2801867,
+      "last_sent": 1792858125.7972338,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2827,7 +2745,7 @@
       "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
       "normalized_title": "litpivot",
       "content_hash": "",
-      "last_sent": 1792776016.2801867,
+      "last_sent": 1792858125.7972338,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2836,7 +2754,7 @@
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "normalized_title": "openai and poland s nask partner to advance ai safety and security",
       "content_hash": "",
-      "last_sent": 1792776016.2802,
+      "last_sent": 1792858125.7972465,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2845,7 +2763,7 @@
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "normalized_title": "openai and poland s nask partner to advance ai safety and security",
       "content_hash": "",
-      "last_sent": 1792776016.2802,
+      "last_sent": 1792858125.7972465,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2890,7 +2808,7 @@
       "title": "[AINews] Black October",
       "normalized_title": "black october",
       "content_hash": "",
-      "last_sent": 1792776016.2802386,
+      "last_sent": 1792858125.797278,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2899,7 +2817,7 @@
       "title": "[AINews] Black October",
       "normalized_title": "black october",
       "content_hash": "",
-      "last_sent": 1792776016.2802386,
+      "last_sent": 1792858125.797278,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2908,7 +2826,7 @@
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
       "normalized_title": "does your model run on aws trainium look it up",
       "content_hash": "",
-      "last_sent": 1792776016.2802715,
+      "last_sent": 1792858125.797287,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2917,7 +2835,7 @@
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
       "normalized_title": "does your model run on aws trainium look it up",
       "content_hash": "",
-      "last_sent": 1792776016.2802715,
+      "last_sent": 1792858125.797287,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -3027,6 +2945,78 @@
       "content_hash": "",
       "last_sent": 1792817636.8448172,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-kimi-31": {
+      "url": "https://latent.space/p/ainews-kimi-31",
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "normalized_title": "kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
+      "content_hash": "",
+      "last_sent": 1792858125.7971601,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed": {
+      "url": "https://latent.space/p/ainews-kimi-31",
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "normalized_title": "kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
+      "content_hash": "",
+      "last_sent": 1792858125.7971601,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening": {
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "normalized_title": "bringing foundational models to the front lines of tb screening",
+      "content_hash": "",
+      "last_sent": 1792858125.7972646,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:bringing foundational models to the front lines of tb screening": {
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "normalized_title": "bringing foundational models to the front lines of tb screening",
+      "content_hash": "",
+      "last_sent": 1792858125.7972646,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models": {
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "title": "Build Your Own Reasoning Model: A Full Video Course",
+      "normalized_title": "build your own reasoning model",
+      "content_hash": "",
+      "last_sent": 1792858125.7973058,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:build your own reasoning model": {
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "title": "Build Your Own Reasoning Model: A Full Video Course",
+      "normalized_title": "build your own reasoning model",
+      "content_hash": "",
+      "last_sent": 1792858125.7973058,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/24/battledrones": {
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "normalized_title": "battledrones v14 compass rose a four player map",
+      "content_hash": "",
+      "last_sent": 1792858125.7973182,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:battledrones v14 compass rose a four player map": {
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "normalized_title": "battledrones v14 compass rose a four player map",
+      "content_hash": "",
+      "last_sent": 1792858125.7973182,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
