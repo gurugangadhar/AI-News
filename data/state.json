@@ -1,9 +1,6 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792517026.2275443,
-    "https://openai.com/index/asana-browser-agent": 1791698719.6519241,
-    "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare": 1791698719.6519463,
-    "https://simonwillison.net/2026/Oct/10/the-new-york-times": 1791698719.651962,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792946244.473137,
     "https://latent.space/p/standard-bots": 1791785725.023058,
     "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": 1791785725.0230212,
     "https://latent.space/p/nyc2026": 1791840081.2237797,
@@ -145,10 +142,10 @@
     "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem": 1792817636.844794,
     "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4": 1792817636.8448107,
     "https://simonwillison.net/2026/Oct/23/quick-study-painter": 1792904553.85174,
-    "https://latent.space/p/ainews-kimi-31": 1792858125.797194,
-    "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening": 1792858125.7972713,
-    "https://magazine.sebastianraschka.com/p/building-reasoning-models": 1792858125.797312,
-    "https://simonwillison.net/2026/Oct/24/battledrones": 1792858125.7973254,
+    "https://latent.space/p/ainews-kimi-31": 1792946244.4730883,
+    "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening": 1792946244.4731135,
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models": 1792946244.4731264,
+    "https://simonwillison.net/2026/Oct/24/battledrones": 1792946244.4731498,
     "https://huggingface.co/papers/2610.22722": 1792904553.8516862,
     "https://huggingface.co/papers/2610.30043": 1792904553.8517022,
     "https://openai.com/index/scaling-storage-one-billion-users-part-two": 1792904553.8517292
@@ -167,74 +164,20 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (29,693 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (29,915 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1792517026.2275376,
+      "last_sent": 1792946244.4731314,
       "digest_type": "evening",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (29,693 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (29,915 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1792517026.2275376,
+      "last_sent": 1792946244.4731314,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://openai.com/index/asana-browser-agent": {
-      "url": "https://openai.com/index/asana-browser-agent",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "normalized_title": "asana cuts model costs 76x in browser tests with gpt",
-      "content_hash": "",
-      "last_sent": 1791698719.6519027,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:asana cuts model costs 76x in browser tests with gpt": {
-      "url": "https://openai.com/index/asana-browser-agent",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "normalized_title": "asana cuts model costs 76x in browser tests with gpt",
-      "content_hash": "",
-      "last_sent": 1791698719.6519027,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare": {
-      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare",
-      "title": "Deno is joining Cloudflare",
-      "normalized_title": "deno is joining cloudflare",
-      "content_hash": "",
-      "last_sent": 1791698719.651943,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:deno is joining cloudflare": {
-      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare",
-      "title": "Deno is joining Cloudflare",
-      "normalized_title": "deno is joining cloudflare",
-      "content_hash": "",
-      "last_sent": 1791698719.651943,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/10/the-new-york-times": {
-      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times",
-      "title": "Quoting The New York Times",
-      "normalized_title": "quoting the new york times",
-      "content_hash": "",
-      "last_sent": 1791698719.6519585,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:quoting the new york times": {
-      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times",
-      "title": "Quoting The New York Times",
-      "normalized_title": "quoting the new york times",
-      "content_hash": "",
-      "last_sent": 1791698719.6519585,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://latent.space/p/standard-bots": {
@@ -2861,7 +2804,7 @@
       "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
       "normalized_title": "kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
       "content_hash": "",
-      "last_sent": 1792858125.7971601,
+      "last_sent": 1792946244.4730403,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2870,7 +2813,7 @@
       "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
       "normalized_title": "kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
       "content_hash": "",
-      "last_sent": 1792858125.7971601,
+      "last_sent": 1792946244.4730403,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2879,7 +2822,7 @@
       "title": "Bringing foundational models to the front lines of TB screening",
       "normalized_title": "bringing foundational models to the front lines of tb screening",
       "content_hash": "",
-      "last_sent": 1792858125.7972646,
+      "last_sent": 1792946244.4731066,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2888,16 +2831,16 @@
       "title": "Bringing foundational models to the front lines of TB screening",
       "normalized_title": "bringing foundational models to the front lines of tb screening",
       "content_hash": "",
-      "last_sent": 1792858125.7972646,
+      "last_sent": 1792946244.4731066,
       "digest_type": "evening",
       "score": 0.0
     },
     "https://magazine.sebastianraschka.com/p/building-reasoning-models": {
       "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "title": "Build Your Own Reasoning Model: A Full Video Course",
-      "normalized_title": "build your own reasoning model",
+      "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
+      "normalized_title": "building reasoning models from the ground up",
       "content_hash": "",
-      "last_sent": 1792858125.7973058,
+      "last_sent": 1792946244.4731205,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2915,7 +2858,7 @@
       "title": "battledrones v14: Compass Rose, a four player map",
       "normalized_title": "battledrones v14 compass rose a four player map",
       "content_hash": "",
-      "last_sent": 1792858125.7973182,
+      "last_sent": 1792946244.4731429,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2924,7 +2867,7 @@
       "title": "battledrones v14: Compass Rose, a four player map",
       "normalized_title": "battledrones v14 compass rose a four player map",
       "content_hash": "",
-      "last_sent": 1792858125.7973182,
+      "last_sent": 1792946244.4731429,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2980,6 +2923,15 @@
       "content_hash": "",
       "last_sent": 1792904553.851722,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:building reasoning models from the ground up": {
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
+      "normalized_title": "building reasoning models from the ground up",
+      "content_hash": "",
+      "last_sent": 1792946244.4731205,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
