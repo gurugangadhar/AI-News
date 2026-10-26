@@ -1,15 +1,10 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1792946244.473137,
-    "https://latent.space/p/standard-bots": 1791785725.023058,
-    "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": 1791785725.0230212,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793040334.7849746,
     "https://latent.space/p/nyc2026": 1791840081.2237797,
     "https://simonwillison.net/2026/Oct/10/python-actions": 1791840081.223803,
     "https://simonwillison.net/2026/Oct/11/dwarf-fortress": 1791840081.2238135,
     "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
-    "https://huggingface.co/papers/2610.12611": 1791785725.0230417,
-    "https://huggingface.co/papers/2610.12939": 1791785725.023071,
-    "https://arxiv.org/abs/2610.12542": 1791785725.023085,
     "https://latent.space/p/claude-dynamic-workflows": 1791919456.748359,
     "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase": 1791919456.7484252,
     "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories": 1791919456.748485,
@@ -150,7 +145,11 @@
     "https://openai.com/index/scaling-storage-one-billion-users-part-two": 1792904553.8517292,
     "https://huggingface.co/papers/2610.31066": 1792991165.141773,
     "https://simonwillison.net/2026/Oct/25/seam-cutter": 1792991165.1417863,
-    "https://huggingface.co/papers/2610.31162": 1792991165.141801
+    "https://huggingface.co/papers/2610.31162": 1792991165.141801,
+    "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps": 1793040334.7849433,
+    "https://openai.com/index/chatgpt-expanding-world-of-work": 1793040334.7849596,
+    "https://openai.com/index/fanatics-streamline-fan-experience": 1793040334.7849894,
+    "https://anthropic.com/news/s1-sec": 1793040334.785001
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -166,38 +165,20 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (29,915 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (29,980 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1792946244.4731314,
+      "last_sent": 1793040334.7849655,
       "digest_type": "evening",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (29,915 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (29,980 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1792946244.4731314,
+      "last_sent": 1793040334.7849655,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/standard-bots": {
-      "url": "https://latent.space/p/standard-bots",
-      "title": "Standard Bots Architecture: Low-Parameter Specialized Models Outperform Large Models in Industrial Robotics",
-      "normalized_title": "standard bots architecture low",
-      "content_hash": "",
-      "last_sent": 1791785725.0230498,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b": {
-      "url": "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "title": "Rise of Decision Models: OpenAI Decisions API and Microsoft-Decision-1 Shift LLM Classification",
-      "normalized_title": "rise of decision models openai decisions api and microsoft decision",
-      "content_hash": "",
-      "last_sent": 1791785725.0229971,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://latent.space/p/nyc2026": {
@@ -260,87 +241,6 @@
       "normalized_title": "deepseek reasonix cli",
       "content_hash": "",
       "last_sent": 1792386063.7225754,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:rise of decision models openai decisions api and microsoft decision": {
-      "url": "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "title": "Rise of Decision Models: OpenAI Decisions API and Microsoft-Decision-1 Shift LLM Classification",
-      "normalized_title": "rise of decision models openai decisions api and microsoft decision",
-      "content_hash": "",
-      "last_sent": 1791785725.0229971,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.12611": {
-      "url": "https://huggingface.co/papers/2610.12611",
-      "title": "SoftwareGym: Scaling GUI Computer-Use Agent Training via Synthesized Environments",
-      "normalized_title": "softwaregym scaling gui computer",
-      "content_hash": "",
-      "last_sent": 1791785725.0230339,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:softwaregym scaling gui computer": {
-      "url": "https://huggingface.co/papers/2610.12611",
-      "title": "SoftwareGym: Scaling GUI Computer-Use Agent Training via Synthesized Environments",
-      "normalized_title": "softwaregym scaling gui computer",
-      "content_hash": "",
-      "last_sent": 1791785725.0230339,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:standard bots architecture low": {
-      "url": "https://latent.space/p/standard-bots",
-      "title": "Standard Bots Architecture: Low-Parameter Specialized Models Outperform Large Models in Industrial Robotics",
-      "normalized_title": "standard bots architecture low",
-      "content_hash": "",
-      "last_sent": 1791785725.0230498,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.12939": {
-      "url": "https://huggingface.co/papers/2610.12939",
-      "title": "Surfing the Activation Wave: Information-Theoretic Layer Selection for Speculative Decoding",
-      "normalized_title": "surfing the activation wave information",
-      "content_hash": "",
-      "last_sent": 1791785725.0230644,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:surfing the activation wave information": {
-      "url": "https://huggingface.co/papers/2610.12939",
-      "title": "Surfing the Activation Wave: Information-Theoretic Layer Selection for Speculative Decoding",
-      "normalized_title": "surfing the activation wave information",
-      "content_hash": "",
-      "last_sent": 1791785725.0230644,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://arxiv.org/abs/2610.12542": {
-      "url": "https://arxiv.org/abs/2610.12542",
-      "title": "Controlled Study Disproves MCTS Superiority Over Randomized-Restart Schedulers in DAG Workflows",
-      "normalized_title": "controlled study disproves mcts superiority over randomized",
-      "content_hash": "",
-      "last_sent": 1791785725.0230782,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:controlled study disproves mcts superiority over randomized": {
-      "url": "https://arxiv.org/abs/2610.12542",
-      "title": "Controlled Study Disproves MCTS Superiority Over Randomized-Restart Schedulers in DAG Workflows",
-      "normalized_title": "controlled study disproves mcts superiority over randomized",
-      "content_hash": "",
-      "last_sent": 1791785725.0230782,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:python 3 15 0 released to actions python": {
-      "url": "https://simonwillison.net/2026/Oct/10/python-actions",
-      "title": "Python 3.15.0 Released to actions/python-versions for CI Pipelines",
-      "normalized_title": "python 3 15 0 released to actions python",
-      "content_hash": "",
-      "last_sent": 1791785725.0230923,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2952,6 +2852,78 @@
       "content_hash": "",
       "last_sent": 1792991165.1418238,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps": {
+      "url": "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps",
+      "title": "Supabase’s Plan for a Billion AI-Built Apps",
+      "normalized_title": "supabase s plan for a billion ai",
+      "content_hash": "",
+      "last_sent": 1793040334.784916,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:supabase s plan for a billion ai": {
+      "url": "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps",
+      "title": "Supabase’s Plan for a Billion AI-Built Apps",
+      "normalized_title": "supabase s plan for a billion ai",
+      "content_hash": "",
+      "last_sent": 1793040334.784916,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/chatgpt-expanding-world-of-work": {
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "title": "ChatGPT’s expanding world of work",
+      "normalized_title": "chatgpt s expanding world of work",
+      "content_hash": "",
+      "last_sent": 1793040334.7849529,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:chatgpt s expanding world of work": {
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "title": "ChatGPT’s expanding world of work",
+      "normalized_title": "chatgpt s expanding world of work",
+      "content_hash": "",
+      "last_sent": 1793040334.7849529,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/fanatics-streamline-fan-experience": {
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "normalized_title": "how fanatics and openai streamline the fan experience",
+      "content_hash": "",
+      "last_sent": 1793040334.7849832,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:how fanatics and openai streamline the fan experience": {
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "normalized_title": "how fanatics and openai streamline the fan experience",
+      "content_hash": "",
+      "last_sent": 1793040334.7849832,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://anthropic.com/news/s1-sec": {
+      "url": "https://anthropic.com/news/s1-sec",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "normalized_title": "anthropic files s",
+      "content_hash": "",
+      "last_sent": 1793040334.7849956,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:anthropic files s": {
+      "url": "https://anthropic.com/news/s1-sec",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "normalized_title": "anthropic files s",
+      "content_hash": "",
+      "last_sent": 1793040334.7849956,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
