@@ -7,7 +7,6 @@
     "https://simonwillison.net/2026/Oct/10/python-actions": 1791840081.223803,
     "https://simonwillison.net/2026/Oct/11/dwarf-fortress": 1791840081.2238135,
     "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
-    "https://huggingface.co/papers/2610.11216": 1791740699.0065746,
     "https://huggingface.co/papers/2610.12611": 1791785725.0230417,
     "https://huggingface.co/papers/2610.12939": 1791785725.023071,
     "https://arxiv.org/abs/2610.12542": 1791785725.023085,
@@ -79,8 +78,8 @@
     "https://simonwillison.net/2026/Oct/18/llm-echo": 1792472764.0023549,
     "https://huggingface.co/papers/2610.22602": 1792386063.7225976,
     "https://anthropic.com/news/public-benefit-fund": 1792435654.5068345,
-    "https://github.com/ZhuLinsen/daily_stock_analysis": 1792386063.7226245,
-    "https://github.com/HKUDS/Vibe-Trading": 1792386063.722635,
+    "https://github.com/ZhuLinsen/daily_stock_analysis": 1792991165.1418173,
+    "https://github.com/HKUDS/Vibe-Trading": 1792991165.1418288,
     "https://huggingface.co/papers/2610.21459": 1792386063.7226546,
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": 1792472764.002343,
     "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production": 1792517026.2275033,
@@ -148,7 +147,10 @@
     "https://simonwillison.net/2026/Oct/24/battledrones": 1792946244.4731498,
     "https://huggingface.co/papers/2610.22722": 1792904553.8516862,
     "https://huggingface.co/papers/2610.30043": 1792904553.8517022,
-    "https://openai.com/index/scaling-storage-one-billion-users-part-two": 1792904553.8517292
+    "https://openai.com/index/scaling-storage-one-billion-users-part-two": 1792904553.8517292,
+    "https://huggingface.co/papers/2610.31066": 1792991165.141773,
+    "https://simonwillison.net/2026/Oct/25/seam-cutter": 1792991165.1417863,
+    "https://huggingface.co/papers/2610.31162": 1792991165.141801
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -252,33 +254,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "title:rise of decision models openai and microsoft ship typed single": {
-      "url": "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "title": "Rise of Decision Models: OpenAI and Microsoft Ship Typed Single-Pass APIs",
-      "normalized_title": "rise of decision models openai and microsoft ship typed single",
-      "content_hash": "",
-      "last_sent": 1791740699.0064876,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:standard bots architecture low parameter specialized models for real": {
-      "url": "https://latent.space/p/standard-bots",
-      "title": "Standard Bots Architecture: Low-Parameter Specialized Models for Real-Time Execution",
-      "normalized_title": "standard bots architecture low parameter specialized models for real",
-      "content_hash": "",
-      "last_sent": 1791740699.0065238,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:tencentdb agent memory multi": {
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentDB-Agent-Memory: Multi-Asset Shared State for Agent Fleets",
-      "normalized_title": "tencentdb agent memory multi",
-      "content_hash": "",
-      "last_sent": 1791740699.0065436,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://github.com/esengine/DeepSeek-Reasonix": {
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "title": "DeepSeek-Reasonix: CLI-Based Autonomous Coding Agent for Complex SWE Tasks",
@@ -286,33 +261,6 @@
       "content_hash": "",
       "last_sent": 1792386063.7225754,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:deepseek reasonix": {
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "title": "DeepSeek-Reasonix: CLI Agent Architecture for Complex Code Refactoring",
-      "normalized_title": "deepseek reasonix",
-      "content_hash": "",
-      "last_sent": 1791740699.0065577,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.11216": {
-      "url": "https://huggingface.co/papers/2610.11216",
-      "title": "The Lattice of Transition Laws: Decoding Schedules Across Generative Paradigms",
-      "normalized_title": "the lattice of transition laws",
-      "content_hash": "",
-      "last_sent": 1791740699.006569,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:the lattice of transition laws": {
-      "url": "https://huggingface.co/papers/2610.11216",
-      "title": "The Lattice of Transition Laws: Decoding Schedules Across Generative Paradigms",
-      "normalized_title": "the lattice of transition laws",
-      "content_hash": "",
-      "last_sent": 1791740699.006569,
-      "digest_type": "evening",
       "score": 0.0
     },
     "title:rise of decision models openai decisions api and microsoft decision": {
@@ -1667,10 +1615,10 @@
     },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "title": "daily_stock_analysis: Multi-Market Agent Architecture for Automated Market Intelligence",
-      "normalized_title": "daily_stock_analysis multi",
+      "title": "ZhuLinsen/daily_stock_analysis (67,064 stars)",
+      "normalized_title": "zhulinsen daily_stock_analysis",
       "content_hash": "",
-      "last_sent": 1792386063.7226186,
+      "last_sent": 1792991165.141811,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1685,10 +1633,10 @@
     },
     "https://github.com/HKUDS/Vibe-Trading": {
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "title": "HKUDS Vibe-Trading: Agentic Framework for Algorithmic Strategy Backtesting",
-      "normalized_title": "hkuds vibe trading",
+      "title": "HKUDS/Vibe-Trading (36,701 stars)",
+      "normalized_title": "hkuds vibe",
       "content_hash": "",
-      "last_sent": 1792386063.7226303,
+      "last_sent": 1792991165.1418238,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2932,6 +2880,78 @@
       "content_hash": "",
       "last_sent": 1792946244.4731205,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.31066": {
+      "url": "https://huggingface.co/papers/2610.31066",
+      "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models (2 upvotes)",
+      "normalized_title": "dual exam",
+      "content_hash": "",
+      "last_sent": 1792991165.1417542,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:dual exam": {
+      "url": "https://huggingface.co/papers/2610.31066",
+      "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models (2 upvotes)",
+      "normalized_title": "dual exam",
+      "content_hash": "",
+      "last_sent": 1792991165.1417542,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/25/seam-cutter": {
+      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter",
+      "title": "Seam Cutter",
+      "normalized_title": "seam cutter",
+      "content_hash": "",
+      "last_sent": 1792991165.1417823,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:seam cutter": {
+      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter",
+      "title": "Seam Cutter",
+      "normalized_title": "seam cutter",
+      "content_hash": "",
+      "last_sent": 1792991165.1417823,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.31162": {
+      "url": "https://huggingface.co/papers/2610.31162",
+      "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games (16 upvotes)",
+      "normalized_title": "histeve 1 0 harnessing human interface vla agents for open",
+      "content_hash": "",
+      "last_sent": 1792991165.1417906,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:histeve 1 0 harnessing human interface vla agents for open": {
+      "url": "https://huggingface.co/papers/2610.31162",
+      "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games (16 upvotes)",
+      "normalized_title": "histeve 1 0 harnessing human interface vla agents for open",
+      "content_hash": "",
+      "last_sent": 1792991165.1417906,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:zhulinsen daily_stock_analysis": {
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis (67,064 stars)",
+      "normalized_title": "zhulinsen daily_stock_analysis",
+      "content_hash": "",
+      "last_sent": 1792991165.141811,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:hkuds vibe": {
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "title": "HKUDS/Vibe-Trading (36,701 stars)",
+      "normalized_title": "hkuds vibe",
+      "content_hash": "",
+      "last_sent": 1792991165.1418238,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
