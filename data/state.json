@@ -1,14 +1,10 @@
 {
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793040334.7849746,
-    "https://latent.space/p/nyc2026": 1791840081.2237797,
-    "https://simonwillison.net/2026/Oct/10/python-actions": 1791840081.223803,
-    "https://simonwillison.net/2026/Oct/11/dwarf-fortress": 1791840081.2238135,
     "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
     "https://latent.space/p/claude-dynamic-workflows": 1791919456.748359,
     "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase": 1791919456.7484252,
     "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories": 1791919456.748485,
-    "https://huggingface.co/papers/2610.12453": 1791840081.223757,
     "https://simonwillison.net/2026/Oct/12/python-3-15": 1791919456.7485201,
     "https://simonwillison.net/2026/Oct/12/datasette-ports": 1791919456.7485414,
     "https://huggingface.co/papers/2610.09116": 1791874715.5287576,
@@ -144,12 +140,17 @@
     "https://huggingface.co/papers/2610.30043": 1792904553.8517022,
     "https://openai.com/index/scaling-storage-one-billion-users-part-two": 1792904553.8517292,
     "https://huggingface.co/papers/2610.31066": 1792991165.141773,
-    "https://simonwillison.net/2026/Oct/25/seam-cutter": 1792991165.1417863,
+    "https://simonwillison.net/2026/Oct/25/seam-cutter": 1793078470.9966571,
     "https://huggingface.co/papers/2610.31162": 1792991165.141801,
     "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps": 1793040334.7849433,
     "https://openai.com/index/chatgpt-expanding-world-of-work": 1793040334.7849596,
     "https://openai.com/index/fanatics-streamline-fan-experience": 1793040334.7849894,
-    "https://anthropic.com/news/s1-sec": 1793040334.785001
+    "https://anthropic.com/news/s1-sec": 1793040334.785001,
+    "https://simonwillison.net/2026/Oct/26/gpt-61-terra": 1793078470.996611,
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities": 1793078470.9966252,
+    "https://simonwillison.net/2026/Oct/26/webframe-evaluation": 1793078470.9966385,
+    "https://simonwillison.net/2026/Oct/26/jason-koebler": 1793078470.9966478,
+    "https://openai.com/index/greptile-code-review-codex-astra": 1793078470.9966695
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -179,60 +180,6 @@
       "content_hash": "",
       "last_sent": 1793040334.7849655,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/nyc2026": {
-      "url": "https://latent.space/p/nyc2026",
-      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
-      "normalized_title": "nyc subscriber meetups",
-      "content_hash": "",
-      "last_sent": 1791840081.223774,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:nyc subscriber meetups": {
-      "url": "https://latent.space/p/nyc2026",
-      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
-      "normalized_title": "nyc subscriber meetups",
-      "content_hash": "",
-      "last_sent": 1791840081.223774,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/10/python-actions": {
-      "url": "https://simonwillison.net/2026/Oct/10/python-actions",
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "normalized_title": "python 3 15 0 added to actions python",
-      "content_hash": "",
-      "last_sent": 1791840081.2237968,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:python 3 15 0 added to actions python": {
-      "url": "https://simonwillison.net/2026/Oct/10/python-actions",
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "normalized_title": "python 3 15 0 added to actions python",
-      "content_hash": "",
-      "last_sent": 1791840081.2237968,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/11/dwarf-fortress": {
-      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress",
-      "title": "Dwarf Fortress uses version control now",
-      "normalized_title": "dwarf fortress uses version control now",
-      "content_hash": "",
-      "last_sent": 1791840081.223809,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:dwarf fortress uses version control now": {
-      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress",
-      "title": "Dwarf Fortress uses version control now",
-      "normalized_title": "dwarf fortress uses version control now",
-      "content_hash": "",
-      "last_sent": 1791840081.223809,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://github.com/esengine/DeepSeek-Reasonix": {
@@ -296,24 +243,6 @@
       "content_hash": "",
       "last_sent": 1791919456.7484705,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.12453": {
-      "url": "https://huggingface.co/papers/2610.12453",
-      "title": "Mental-Models for Multi-Agent Systems (1 upvotes)",
-      "normalized_title": "mental models for multi",
-      "content_hash": "",
-      "last_sent": 1791840081.2237518,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:mental models for multi": {
-      "url": "https://huggingface.co/papers/2610.12453",
-      "title": "Mental-Models for Multi-Agent Systems (1 upvotes)",
-      "normalized_title": "mental models for multi",
-      "content_hash": "",
-      "last_sent": 1791840081.2237518,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Oct/12/python-3-15": {
@@ -2805,7 +2734,7 @@
       "title": "Seam Cutter",
       "normalized_title": "seam cutter",
       "content_hash": "",
-      "last_sent": 1792991165.1417823,
+      "last_sent": 1793078470.9966526,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2814,7 +2743,7 @@
       "title": "Seam Cutter",
       "normalized_title": "seam cutter",
       "content_hash": "",
-      "last_sent": 1792991165.1417823,
+      "last_sent": 1793078470.9966526,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2924,6 +2853,96 @@
       "content_hash": "",
       "last_sent": 1793040334.7849956,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/26/gpt-61-terra": {
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+      "title": "GPT-6.1 Terra",
+      "normalized_title": "gpt",
+      "content_hash": "",
+      "last_sent": 1793078470.9965885,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:gpt": {
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+      "title": "GPT-6.1 Terra",
+      "normalized_title": "gpt",
+      "content_hash": "",
+      "last_sent": 1793078470.9965885,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities": {
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "title": "Working with academic communities to build scientific understanding",
+      "normalized_title": "working with academic communities to build scientific understanding",
+      "content_hash": "",
+      "last_sent": 1793078470.9966176,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:working with academic communities to build scientific understanding": {
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "title": "Working with academic communities to build scientific understanding",
+      "normalized_title": "working with academic communities to build scientific understanding",
+      "content_hash": "",
+      "last_sent": 1793078470.9966176,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/26/webframe-evaluation": {
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation",
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "normalized_title": "webframe",
+      "content_hash": "",
+      "last_sent": 1793078470.9966335,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:webframe": {
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation",
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "normalized_title": "webframe",
+      "content_hash": "",
+      "last_sent": 1793078470.9966335,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/26/jason-koebler": {
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler",
+      "title": "Quoting Jason Koebler",
+      "normalized_title": "quoting jason koebler",
+      "content_hash": "",
+      "last_sent": 1793078470.9966435,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quoting jason koebler": {
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler",
+      "title": "Quoting Jason Koebler",
+      "normalized_title": "quoting jason koebler",
+      "content_hash": "",
+      "last_sent": 1793078470.9966435,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/greptile-code-review-codex-astra": {
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "normalized_title": "greptile takes bug detection beyond code review with gpt",
+      "content_hash": "",
+      "last_sent": 1793078470.9966626,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:greptile takes bug detection beyond code review with gpt": {
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "normalized_title": "greptile takes bug detection beyond code review with gpt",
+      "content_hash": "",
+      "last_sent": 1793078470.9966626,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
