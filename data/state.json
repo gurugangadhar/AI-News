@@ -7,10 +7,7 @@
     "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories": 1791919456.748485,
     "https://simonwillison.net/2026/Oct/12/python-3-15": 1791919456.7485201,
     "https://simonwillison.net/2026/Oct/12/datasette-ports": 1791919456.7485414,
-    "https://huggingface.co/papers/2610.09116": 1791874715.5287576,
-    "https://simonwillison.net/2026/Oct/12/web-edit": 1791874715.528779,
     "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing": 1791954605.953734,
-    "https://huggingface.co/papers/2610.12933": 1791874715.5288377,
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates": 1791998597.4115782,
     "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": 1791998597.411625,
     "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise": 1792084414.6843412,
@@ -143,14 +140,21 @@
     "https://simonwillison.net/2026/Oct/25/seam-cutter": 1793078470.9966571,
     "https://huggingface.co/papers/2610.31162": 1792991165.141801,
     "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps": 1793040334.7849433,
-    "https://openai.com/index/chatgpt-expanding-world-of-work": 1793040334.7849596,
+    "https://openai.com/index/chatgpt-expanding-world-of-work": 1793124486.6930306,
     "https://openai.com/index/fanatics-streamline-fan-experience": 1793040334.7849894,
     "https://anthropic.com/news/s1-sec": 1793040334.785001,
     "https://simonwillison.net/2026/Oct/26/gpt-61-terra": 1793078470.996611,
     "https://openai.com/index/building-scientific-understanding-with-academic-communities": 1793078470.9966252,
     "https://simonwillison.net/2026/Oct/26/webframe-evaluation": 1793078470.9966385,
     "https://simonwillison.net/2026/Oct/26/jason-koebler": 1793078470.9966478,
-    "https://openai.com/index/greptile-code-review-codex-astra": 1793078470.9966695
+    "https://openai.com/index/greptile-code-review-codex-astra": 1793078470.9966695,
+    "https://latent.space/p/offline-coding": 1793124486.6929083,
+    "https://huggingface.co/blog/LiquidAI/lfm3": 1793124486.6929233,
+    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning": 1793124486.6929355,
+    "https://latent.space/p/ainews-anthropic-s1": 1793124486.6929605,
+    "https://huggingface.co/blog/allenai/novelty-bench": 1793124486.692984,
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": 1793124486.6929953,
+    "https://openai.com/index/oracle-apps-in-chatgpt": 1793124486.6930053
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -281,33 +285,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://huggingface.co/papers/2610.09116": {
-      "url": "https://huggingface.co/papers/2610.09116",
-      "title": "SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code (1 upvotes)",
-      "normalized_title": "splatify reproduce discover innovate from papers and ideas to trainable 3dgs code",
-      "content_hash": "",
-      "last_sent": 1791874715.5287306,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:splatify reproduce discover innovate from papers and ideas to trainable 3dgs code": {
-      "url": "https://huggingface.co/papers/2610.09116",
-      "title": "SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code (1 upvotes)",
-      "normalized_title": "splatify reproduce discover innovate from papers and ideas to trainable 3dgs code",
-      "content_hash": "",
-      "last_sent": 1791874715.5287306,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/12/web-edit": {
-      "url": "https://simonwillison.net/2026/Oct/12/web-edit",
-      "title": "web-edit 0.1a0",
-      "normalized_title": "web",
-      "content_hash": "",
-      "last_sent": 1791874715.5287738,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "title:web": {
       "url": "https://simonwillison.net/2026/Oct/17/web-edit",
       "title": "web-edit 0.1a2",
@@ -323,33 +300,6 @@
       "normalized_title": "nvidia announces new investments in france s startups",
       "content_hash": "",
       "last_sent": 1791954605.953728,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:from earth to orbit france s ecosystem delivers agentic computing at scale with nvidia": {
-      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing",
-      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
-      "normalized_title": "from earth to orbit france s ecosystem delivers agentic computing at scale with nvidia",
-      "content_hash": "",
-      "last_sent": 1791874715.5287836,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.12933": {
-      "url": "https://huggingface.co/papers/2610.12933",
-      "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training (2 upvotes)",
-      "normalized_title": "learning more by training less uncertainty guided progressive contraction for efficient reasoning post",
-      "content_hash": "",
-      "last_sent": 1791874715.5288253,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:learning more by training less uncertainty guided progressive contraction for efficient reasoning post": {
-      "url": "https://huggingface.co/papers/2610.12933",
-      "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training (2 upvotes)",
-      "normalized_title": "learning more by training less uncertainty guided progressive contraction for efficient reasoning post",
-      "content_hash": "",
-      "last_sent": 1791874715.5288253,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2806,7 +2756,7 @@
       "title": "ChatGPT’s expanding world of work",
       "normalized_title": "chatgpt s expanding world of work",
       "content_hash": "",
-      "last_sent": 1793040334.7849529,
+      "last_sent": 1793124486.6930182,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2815,7 +2765,7 @@
       "title": "ChatGPT’s expanding world of work",
       "normalized_title": "chatgpt s expanding world of work",
       "content_hash": "",
-      "last_sent": 1793040334.7849529,
+      "last_sent": 1793124486.6930182,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2943,6 +2893,132 @@
       "content_hash": "",
       "last_sent": 1793078470.9966626,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/offline-coding": {
+      "url": "https://latent.space/p/offline-coding",
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "normalized_title": "coding from the himalayas with an offline ai agent",
+      "content_hash": "",
+      "last_sent": 1793124486.692887,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:coding from the himalayas with an offline ai agent": {
+      "url": "https://latent.space/p/offline-coding",
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "normalized_title": "coding from the himalayas with an offline ai agent",
+      "content_hash": "",
+      "last_sent": 1793124486.692887,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/LiquidAI/lfm3": {
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "title": "Build specialized multimodal models with LFM3",
+      "normalized_title": "build specialized multimodal models with lfm3",
+      "content_hash": "",
+      "last_sent": 1793124486.6929176,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:build specialized multimodal models with lfm3": {
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "title": "Build specialized multimodal models with LFM3",
+      "normalized_title": "build specialized multimodal models with lfm3",
+      "content_hash": "",
+      "last_sent": 1793124486.6929176,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning": {
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "normalized_title": "the sleep framework",
+      "content_hash": "",
+      "last_sent": 1793124486.6929293,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:the sleep framework": {
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "normalized_title": "the sleep framework",
+      "content_hash": "",
+      "last_sent": 1793124486.6929293,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-anthropic-s1": {
+      "url": "https://latent.space/p/ainews-anthropic-s1",
+      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+      "normalized_title": "anthropic files for 2t ipo in 2 weeks 1400 growth rate 48 of revenue through cloud partners 85 margin 1b op profit in q2 134b cash in bank and 10b lifetime burn",
+      "content_hash": "",
+      "last_sent": 1793124486.6929414,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:anthropic files for 2t ipo in 2 weeks 1400 growth rate 48 of revenue through cloud partners 85 margin 1b op profit in q2 134b cash in bank and 10b lifetime burn": {
+      "url": "https://latent.space/p/ainews-anthropic-s1",
+      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+      "normalized_title": "anthropic files for 2t ipo in 2 weeks 1400 growth rate 48 of revenue through cloud partners 85 margin 1b op profit in q2 134b cash in bank and 10b lifetime burn",
+      "content_hash": "",
+      "last_sent": 1793124486.6929414,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/allenai/novelty-bench": {
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "normalized_title": "can we trust llms to judge whether a research idea is novel",
+      "content_hash": "",
+      "last_sent": 1793124486.6929772,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:can we trust llms to judge whether a research idea is novel": {
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "normalized_title": "can we trust llms to judge whether a research idea is novel",
+      "content_hash": "",
+      "last_sent": 1793124486.6929772,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": {
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+      "title": "Genie 4: A new generation of world simulation",
+      "normalized_title": "genie 4",
+      "content_hash": "",
+      "last_sent": 1793124486.6929908,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:genie 4": {
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+      "title": "Genie 4: A new generation of world simulation",
+      "normalized_title": "genie 4",
+      "content_hash": "",
+      "last_sent": 1793124486.6929908,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/oracle-apps-in-chatgpt": {
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "normalized_title": "openai expands partnership with oracle to bring its apps to chatgpt",
+      "content_hash": "",
+      "last_sent": 1793124486.6929991,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:openai expands partnership with oracle to bring its apps to chatgpt": {
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "normalized_title": "openai expands partnership with oracle to bring its apps to chatgpt",
+      "content_hash": "",
+      "last_sent": 1793124486.6929991,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
