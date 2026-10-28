@@ -1,26 +1,14 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793040334.7849746,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793167235.59743,
     "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
-    "https://latent.space/p/claude-dynamic-workflows": 1791919456.748359,
-    "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase": 1791919456.7484252,
-    "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories": 1791919456.748485,
-    "https://simonwillison.net/2026/Oct/12/python-3-15": 1791919456.7485201,
-    "https://simonwillison.net/2026/Oct/12/datasette-ports": 1791919456.7485414,
-    "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing": 1791954605.953734,
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates": 1791998597.4115782,
     "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": 1791998597.411625,
     "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise": 1792084414.6843412,
     "https://anthropic.com/engineering/redesigning-source-control": 1791998597.4116604,
-    "https://latent.space/p/ainews-meta-muse-wonder-and-wonder": 1791919456.7484546,
-    "https://openai.com/index/higgsfield-longer-videos-voice": 1791919456.748505,
     "https://simonwillison.net/2026/Oct/13/geoffrey-huntley": 1791998597.4117222,
-    "https://latent.space/p/dyna": 1791954605.9536793,
     "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely": 1792040236.4740734,
-    "https://huggingface.co/papers/2610.15765": 1791954605.953706,
     "https://deepmind.google/blog/on-device-ai-scam-detection-mddi": 1792040236.4742036,
-    "https://devin.ai/blog/gemini-4-argon": 1791954605.9537249,
-    "https://simonwillison.net/2026/Oct/13/web-edit": 1791954605.9537406,
     "https://simonwillison.net/2026/Oct/13/llm-gemini": 1792040236.4742177,
     "https://anthropic.com/news/singapore-office-opening": 1792084414.684361,
     "https://research.google/blog/analyzing-technical-documents-with-deep-review": 1792084414.6842818,
@@ -143,9 +131,9 @@
     "https://openai.com/index/chatgpt-expanding-world-of-work": 1793124486.6930306,
     "https://openai.com/index/fanatics-streamline-fan-experience": 1793040334.7849894,
     "https://anthropic.com/news/s1-sec": 1793040334.785001,
-    "https://simonwillison.net/2026/Oct/26/gpt-61-terra": 1793078470.996611,
-    "https://openai.com/index/building-scientific-understanding-with-academic-communities": 1793078470.9966252,
-    "https://simonwillison.net/2026/Oct/26/webframe-evaluation": 1793078470.9966385,
+    "https://simonwillison.net/2026/Oct/26/gpt-61-terra": 1793167235.5974083,
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities": 1793167235.597509,
+    "https://simonwillison.net/2026/Oct/26/webframe-evaluation": 1793167235.597418,
     "https://simonwillison.net/2026/Oct/26/jason-koebler": 1793078470.9966478,
     "https://openai.com/index/greptile-code-review-codex-astra": 1793078470.9966695,
     "https://latent.space/p/offline-coding": 1793124486.6929083,
@@ -154,7 +142,14 @@
     "https://latent.space/p/ainews-anthropic-s1": 1793124486.6929605,
     "https://huggingface.co/blog/allenai/novelty-bench": 1793124486.692984,
     "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": 1793124486.6929953,
-    "https://openai.com/index/oracle-apps-in-chatgpt": 1793124486.6930053
+    "https://openai.com/index/oracle-apps-in-chatgpt": 1793124486.6930053,
+    "https://latent.space/p/opus55": 1793167235.597381,
+    "https://huggingface.co/papers/2610.34674": 1793167235.5973969,
+    "https://openai.com/index/retell-ai": 1793167235.5974436,
+    "https://openai.com/index/check-point-daybreak": 1793167235.5974574,
+    "https://anthropic.com/research/early-progress-drug-development": 1793167235.597478,
+    "https://anthropic.com/news/expanding-partnership-gsa": 1793167235.5974934,
+    "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge": 1793167235.597521
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -170,20 +165,20 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (29,980 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,036 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793040334.7849655,
-      "digest_type": "evening",
+      "last_sent": 1793167235.5974228,
+      "digest_type": "morning",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (29,980 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,036 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793040334.7849655,
-      "digest_type": "evening",
+      "last_sent": 1793167235.5974228,
+      "digest_type": "morning",
       "score": 0.0
     },
     "https://github.com/esengine/DeepSeek-Reasonix": {
@@ -195,96 +190,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://latent.space/p/claude-dynamic-workflows": {
-      "url": "https://latent.space/p/claude-dynamic-workflows",
-      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "normalized_title": "how anthropic s dynamic workflows coordinate claude agents",
-      "content_hash": "",
-      "last_sent": 1791919456.7483306,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:how anthropic s dynamic workflows coordinate claude agents": {
-      "url": "https://latent.space/p/claude-dynamic-workflows",
-      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "normalized_title": "how anthropic s dynamic workflows coordinate claude agents",
-      "content_hash": "",
-      "last_sent": 1791919456.7483306,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase": {
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
-      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "normalized_title": "github copilot app for beginners",
-      "content_hash": "",
-      "last_sent": 1791919456.7484183,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:github copilot app for beginners": {
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
-      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "normalized_title": "github copilot app for beginners",
-      "content_hash": "",
-      "last_sent": 1791919456.7484183,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories": {
-      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
-      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-      "normalized_title": "ocp global summit amid ecosystem adoption nvidia opens vera rubin architecture to help scale ai factories worldwide",
-      "content_hash": "",
-      "last_sent": 1791919456.7484705,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:ocp global summit amid ecosystem adoption nvidia opens vera rubin architecture to help scale ai factories worldwide": {
-      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
-      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-      "normalized_title": "ocp global summit amid ecosystem adoption nvidia opens vera rubin architecture to help scale ai factories worldwide",
-      "content_hash": "",
-      "last_sent": 1791919456.7484705,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/12/python-3-15": {
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15",
-      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-      "normalized_title": "hello python 3 15 goodbye 3 10 and now i can use 3 11",
-      "content_hash": "",
-      "last_sent": 1791919456.7485118,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:hello python 3 15 goodbye 3 10 and now i can use 3 11": {
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15",
-      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-      "normalized_title": "hello python 3 15 goodbye 3 10 and now i can use 3 11",
-      "content_hash": "",
-      "last_sent": 1791919456.7485118,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/12/datasette-ports": {
-      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports",
-      "title": "datasette-ports 0.4",
-      "normalized_title": "datasette",
-      "content_hash": "",
-      "last_sent": 1791919456.7485373,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:datasette": {
-      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports",
-      "title": "datasette-ports 0.4",
-      "normalized_title": "datasette",
-      "content_hash": "",
-      "last_sent": 1791919456.7485373,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "title:web": {
       "url": "https://simonwillison.net/2026/Oct/17/web-edit",
       "title": "web-edit 0.1a2",
@@ -292,15 +197,6 @@
       "content_hash": "",
       "last_sent": 1792339261.5382972,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing": {
-      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing",
-      "title": "NVIDIA Announces New Investments in France’s Startups",
-      "normalized_title": "nvidia announces new investments in france s startups",
-      "content_hash": "",
-      "last_sent": 1791954605.953728,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates": {
@@ -375,42 +271,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://latent.space/p/ainews-meta-muse-wonder-and-wonder": {
-      "url": "https://latent.space/p/ainews-meta-muse-wonder-and-wonder",
-      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-      "normalized_title": "meta muse wonder wonder full msl s claude 5 5",
-      "content_hash": "",
-      "last_sent": 1791919456.748443,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:meta muse wonder wonder full msl s claude 5 5": {
-      "url": "https://latent.space/p/ainews-meta-muse-wonder-and-wonder",
-      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-      "normalized_title": "meta muse wonder wonder full msl s claude 5 5",
-      "content_hash": "",
-      "last_sent": 1791919456.748443,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://openai.com/index/higgsfield-longer-videos-voice": {
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "normalized_title": "higgsfield takes ai video from 1 minute to over 10",
-      "content_hash": "",
-      "last_sent": 1791919456.7484984,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:higgsfield takes ai video from 1 minute to over 10": {
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "normalized_title": "higgsfield takes ai video from 1 minute to over 10",
-      "content_hash": "",
-      "last_sent": 1791919456.7484984,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/13/geoffrey-huntley": {
       "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley",
       "title": "Quoting Geoffrey Huntley",
@@ -427,24 +287,6 @@
       "content_hash": "",
       "last_sent": 1791998597.4117177,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/dyna": {
-      "url": "https://latent.space/p/dyna",
-      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "normalized_title": "dyna 2 general purpose physical agents with hour long autonomy jason ma dyna robotics",
-      "content_hash": "",
-      "last_sent": 1791954605.9536502,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:dyna 2 general purpose physical agents with hour long autonomy jason ma dyna robotics": {
-      "url": "https://latent.space/p/dyna",
-      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "normalized_title": "dyna 2 general purpose physical agents with hour long autonomy jason ma dyna robotics",
-      "content_hash": "",
-      "last_sent": 1791954605.9536502,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely": {
@@ -465,75 +307,12 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/papers/2610.15765": {
-      "url": "https://huggingface.co/papers/2610.15765",
-      "title": "A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution (3 upvotes)",
-      "normalized_title": "a decade in a day synthesizing agent native interfaces from human",
-      "content_hash": "",
-      "last_sent": 1791954605.9536986,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:a decade in a day synthesizing agent native interfaces from human": {
-      "url": "https://huggingface.co/papers/2610.15765",
-      "title": "A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution (3 upvotes)",
-      "normalized_title": "a decade in a day synthesizing agent native interfaces from human",
-      "content_hash": "",
-      "last_sent": 1791954605.9536986,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://deepmind.google/blog/on-device-ai-scam-detection-mddi": {
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "normalized_title": "google deepmind and singapore government collaborate to build fine",
       "content_hash": "",
       "last_sent": 1792040236.4741938,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:google deepmind and singapore government announce new ai tool to protect citizens against scams": {
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-      "normalized_title": "google deepmind and singapore government announce new ai tool to protect citizens against scams",
-      "content_hash": "",
-      "last_sent": 1791954605.953712,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://devin.ai/blog/gemini-4-argon": {
-      "url": "https://devin.ai/blog/gemini-4-argon",
-      "title": "Gemini 4 Argon is now available in Devin",
-      "normalized_title": "gemini 4 argon is now available in devin",
-      "content_hash": "",
-      "last_sent": 1791954605.953722,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:gemini 4 argon is now available in devin": {
-      "url": "https://devin.ai/blog/gemini-4-argon",
-      "title": "Gemini 4 Argon is now available in Devin",
-      "normalized_title": "gemini 4 argon is now available in devin",
-      "content_hash": "",
-      "last_sent": 1791954605.953722,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:nvidia announces new investments in france s startups": {
-      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing",
-      "title": "NVIDIA Announces New Investments in France’s Startups",
-      "normalized_title": "nvidia announces new investments in france s startups",
-      "content_hash": "",
-      "last_sent": 1791954605.953728,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/13/web-edit": {
-      "url": "https://simonwillison.net/2026/Oct/13/web-edit",
-      "title": "web-edit 0.1a1",
-      "normalized_title": "web",
-      "content_hash": "",
-      "last_sent": 1791954605.9537382,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2810,7 +2589,7 @@
       "title": "GPT-6.1 Terra",
       "normalized_title": "gpt",
       "content_hash": "",
-      "last_sent": 1793078470.9965885,
+      "last_sent": 1793167235.5974028,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2819,7 +2598,7 @@
       "title": "GPT-6.1 Terra",
       "normalized_title": "gpt",
       "content_hash": "",
-      "last_sent": 1793078470.9965885,
+      "last_sent": 1793167235.5974028,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2828,7 +2607,7 @@
       "title": "Working with academic communities to build scientific understanding",
       "normalized_title": "working with academic communities to build scientific understanding",
       "content_hash": "",
-      "last_sent": 1793078470.9966176,
+      "last_sent": 1793167235.5975018,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2837,7 +2616,7 @@
       "title": "Working with academic communities to build scientific understanding",
       "normalized_title": "working with academic communities to build scientific understanding",
       "content_hash": "",
-      "last_sent": 1793078470.9966176,
+      "last_sent": 1793167235.5975018,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2846,7 +2625,7 @@
       "title": "webframe: evaluated as a scraper and a sandbox",
       "normalized_title": "webframe",
       "content_hash": "",
-      "last_sent": 1793078470.9966335,
+      "last_sent": 1793167235.5974133,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2855,7 +2634,7 @@
       "title": "webframe: evaluated as a scraper and a sandbox",
       "normalized_title": "webframe",
       "content_hash": "",
-      "last_sent": 1793078470.9966335,
+      "last_sent": 1793167235.5974133,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -3019,6 +2798,132 @@
       "content_hash": "",
       "last_sent": 1793124486.6929991,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/opus55": {
+      "url": "https://latent.space/p/opus55",
+      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+      "normalized_title": "how anthropic ships claude with claude",
+      "content_hash": "",
+      "last_sent": 1793167235.5973618,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how anthropic ships claude with claude": {
+      "url": "https://latent.space/p/opus55",
+      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+      "normalized_title": "how anthropic ships claude with claude",
+      "content_hash": "",
+      "last_sent": 1793167235.5973618,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.34674": {
+      "url": "https://huggingface.co/papers/2610.34674",
+      "title": "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation (3 upvotes)",
+      "normalized_title": "benchmarking obstacle",
+      "content_hash": "",
+      "last_sent": 1793167235.5973904,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:benchmarking obstacle": {
+      "url": "https://huggingface.co/papers/2610.34674",
+      "title": "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation (3 upvotes)",
+      "normalized_title": "benchmarking obstacle",
+      "content_hash": "",
+      "last_sent": 1793167235.5973904,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/retell-ai": {
+      "url": "https://openai.com/index/retell-ai",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "normalized_title": "retell uses openai models to help power 100m monthly calls",
+      "content_hash": "",
+      "last_sent": 1793167235.5974367,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:retell uses openai models to help power 100m monthly calls": {
+      "url": "https://openai.com/index/retell-ai",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "normalized_title": "retell uses openai models to help power 100m monthly calls",
+      "content_hash": "",
+      "last_sent": 1793167235.5974367,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/check-point-daybreak": {
+      "url": "https://openai.com/index/check-point-daybreak",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "normalized_title": "how check point accelerates vulnerability research with daybreak",
+      "content_hash": "",
+      "last_sent": 1793167235.597451,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how check point accelerates vulnerability research with daybreak": {
+      "url": "https://openai.com/index/check-point-daybreak",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "normalized_title": "how check point accelerates vulnerability research with daybreak",
+      "content_hash": "",
+      "last_sent": 1793167235.597451,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://anthropic.com/research/early-progress-drug-development": {
+      "url": "https://anthropic.com/research/early-progress-drug-development",
+      "title": "Early progress on accelerating drug development with Claude",
+      "normalized_title": "early progress on accelerating drug development with claude",
+      "content_hash": "",
+      "last_sent": 1793167235.5974705,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:early progress on accelerating drug development with claude": {
+      "url": "https://anthropic.com/research/early-progress-drug-development",
+      "title": "Early progress on accelerating drug development with Claude",
+      "normalized_title": "early progress on accelerating drug development with claude",
+      "content_hash": "",
+      "last_sent": 1793167235.5974705,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://anthropic.com/news/expanding-partnership-gsa": {
+      "url": "https://anthropic.com/news/expanding-partnership-gsa",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "normalized_title": "expanding our partnership with gsa to bring claude to all levels of government",
+      "content_hash": "",
+      "last_sent": 1793167235.5974853,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:expanding our partnership with gsa to bring claude to all levels of government": {
+      "url": "https://anthropic.com/news/expanding-partnership-gsa",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "normalized_title": "expanding our partnership with gsa to bring claude to all levels of government",
+      "content_hash": "",
+      "last_sent": 1793167235.5974853,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge": {
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge",
+      "title": "Game Boy Color on My Conference Badge",
+      "normalized_title": "game boy color on my conference badge",
+      "content_hash": "",
+      "last_sent": 1793167235.597516,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:game boy color on my conference badge": {
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge",
+      "title": "Game Boy Color on My Conference Badge",
+      "normalized_title": "game boy color on my conference badge",
+      "content_hash": "",
+      "last_sent": 1793167235.597516,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
