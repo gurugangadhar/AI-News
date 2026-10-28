@@ -2,17 +2,12 @@
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793167235.59743,
     "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
-    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates": 1791998597.4115782,
-    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": 1791998597.411625,
     "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise": 1792084414.6843412,
-    "https://anthropic.com/engineering/redesigning-source-control": 1791998597.4116604,
-    "https://simonwillison.net/2026/Oct/13/geoffrey-huntley": 1791998597.4117222,
     "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely": 1792040236.4740734,
     "https://deepmind.google/blog/on-device-ai-scam-detection-mddi": 1792040236.4742036,
     "https://simonwillison.net/2026/Oct/13/llm-gemini": 1792040236.4742177,
     "https://anthropic.com/news/singapore-office-opening": 1792084414.684361,
     "https://research.google/blog/analyzing-technical-documents-with-deep-review": 1792084414.6842818,
-    "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon": 1791998597.411675,
     "https://huggingface.co/blog/allenai/hiro-acev2": 1792084414.6844153,
     "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games": 1792084414.6844661,
     "https://latent.space/p/crossing-the-threshold": 1792126020.9870815,
@@ -137,10 +132,10 @@
     "https://simonwillison.net/2026/Oct/26/jason-koebler": 1793078470.9966478,
     "https://openai.com/index/greptile-code-review-codex-astra": 1793078470.9966695,
     "https://latent.space/p/offline-coding": 1793124486.6929083,
-    "https://huggingface.co/blog/LiquidAI/lfm3": 1793124486.6929233,
-    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning": 1793124486.6929355,
+    "https://huggingface.co/blog/LiquidAI/lfm3": 1793211945.9641042,
+    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning": 1793211945.9641342,
     "https://latent.space/p/ainews-anthropic-s1": 1793124486.6929605,
-    "https://huggingface.co/blog/allenai/novelty-bench": 1793124486.692984,
+    "https://huggingface.co/blog/allenai/novelty-bench": 1793211945.9641535,
     "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": 1793124486.6929953,
     "https://openai.com/index/oracle-apps-in-chatgpt": 1793124486.6930053,
     "https://latent.space/p/opus55": 1793167235.597381,
@@ -149,7 +144,14 @@
     "https://openai.com/index/check-point-daybreak": 1793167235.5974574,
     "https://anthropic.com/research/early-progress-drug-development": 1793167235.597478,
     "https://anthropic.com/news/expanding-partnership-gsa": 1793167235.5974934,
-    "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge": 1793167235.597521
+    "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge": 1793167235.597521,
+    "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands": 1793211945.9641163,
+    "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": 1793211945.9641259,
+    "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure": 1793211945.9641445,
+    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model": 1793211945.9641602,
+    "https://simonwillison.net/2026/Oct/28/github-octoverse-2026": 1793211945.9641733,
+    "https://simonwillison.net/2026/Oct/28/terk-terkowitz": 1793211945.964179,
+    "https://simonwillison.net/2026/Oct/28/vibe-game-development": 1793211945.9641848
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -199,42 +201,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates": {
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
-      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "normalized_title": "all systems go",
-      "content_hash": "",
-      "last_sent": 1791998597.4115577,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:all systems go": {
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
-      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "normalized_title": "all systems go",
-      "content_hash": "",
-      "last_sent": 1791998597.4115577,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": {
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "normalized_title": "run fast private agents on device with lfm2 5 24b",
-      "content_hash": "",
-      "last_sent": 1791998597.4116151,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:run fast private agents on device with lfm2 5 24b": {
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "normalized_title": "run fast private agents on device with lfm2 5 24b",
-      "content_hash": "",
-      "last_sent": 1791998597.4116151,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise": {
       "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
       "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
@@ -253,39 +219,12 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://anthropic.com/engineering/redesigning-source-control": {
-      "url": "https://anthropic.com/engineering/redesigning-source-control",
-      "title": "Redesigning source control at Anthropic",
-      "normalized_title": "redesigning source control at anthropic",
-      "content_hash": "",
-      "last_sent": 1791998597.411655,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "title:redesigning source control at anthropic": {
       "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic",
       "title": "Redesigning source control at Anthropic",
       "normalized_title": "redesigning source control at anthropic",
       "content_hash": "",
       "last_sent": 1792084414.6844444,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/13/geoffrey-huntley": {
-      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley",
-      "title": "Quoting Geoffrey Huntley",
-      "normalized_title": "quoting geoffrey huntley",
-      "content_hash": "",
-      "last_sent": 1791998597.4117177,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:quoting geoffrey huntley": {
-      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley",
-      "title": "Quoting Geoffrey Huntley",
-      "normalized_title": "quoting geoffrey huntley",
-      "content_hash": "",
-      "last_sent": 1791998597.4117177,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -367,24 +306,6 @@
       "normalized_title": "analyzing technical documents with deep review",
       "content_hash": "",
       "last_sent": 1792084414.6842592,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon": {
-      "url": "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
-      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-      "normalized_title": "ai engineer nyc gemini 4 argon vals ai benchmarks",
-      "content_hash": "",
-      "last_sent": 1791998597.4116666,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:ai engineer nyc gemini 4 argon vals ai benchmarks": {
-      "url": "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
-      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-      "normalized_title": "ai engineer nyc gemini 4 argon vals ai benchmarks",
-      "content_hash": "",
-      "last_sent": 1791998597.4116666,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2697,7 +2618,7 @@
       "title": "Build specialized multimodal models with LFM3",
       "normalized_title": "build specialized multimodal models with lfm3",
       "content_hash": "",
-      "last_sent": 1793124486.6929176,
+      "last_sent": 1793211945.9640841,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2706,7 +2627,7 @@
       "title": "Build specialized multimodal models with LFM3",
       "normalized_title": "build specialized multimodal models with lfm3",
       "content_hash": "",
-      "last_sent": 1793124486.6929176,
+      "last_sent": 1793211945.9640841,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2715,7 +2636,7 @@
       "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
       "normalized_title": "the sleep framework",
       "content_hash": "",
-      "last_sent": 1793124486.6929293,
+      "last_sent": 1793211945.9641304,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2724,7 +2645,7 @@
       "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
       "normalized_title": "the sleep framework",
       "content_hash": "",
-      "last_sent": 1793124486.6929293,
+      "last_sent": 1793211945.9641304,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2751,7 +2672,7 @@
       "title": "Can we trust LLMs to judge whether a research idea is novel?",
       "normalized_title": "can we trust llms to judge whether a research idea is novel",
       "content_hash": "",
-      "last_sent": 1793124486.6929772,
+      "last_sent": 1793211945.9641492,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2760,7 +2681,7 @@
       "title": "Can we trust LLMs to judge whether a research idea is novel?",
       "normalized_title": "can we trust llms to judge whether a research idea is novel",
       "content_hash": "",
-      "last_sent": 1793124486.6929772,
+      "last_sent": 1793211945.9641492,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2924,6 +2845,132 @@
       "content_hash": "",
       "last_sent": 1793167235.597516,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands": {
+      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands",
+      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+      "normalized_title": "how anthropic ships the 1 llm in the world safely",
+      "content_hash": "",
+      "last_sent": 1793211945.9641101,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:how anthropic ships the 1 llm in the world safely": {
+      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands",
+      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+      "normalized_title": "how anthropic ships the 1 llm in the world safely",
+      "content_hash": "",
+      "last_sent": 1793211945.9641101,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "normalized_title": "nvidia nemotron 3 5 transcribe and granary v2",
+      "content_hash": "",
+      "last_sent": 1793211945.9641216,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:nvidia nemotron 3 5 transcribe and granary v2": {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "normalized_title": "nvidia nemotron 3 5 transcribe and granary v2",
+      "content_hash": "",
+      "last_sent": 1793211945.9641216,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure": {
+      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure",
+      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "normalized_title": "anthropic ends coding interviews hunger beats tenure",
+      "content_hash": "",
+      "last_sent": 1793211945.964138,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:anthropic ends coding interviews hunger beats tenure": {
+      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure",
+      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "normalized_title": "anthropic ends coding interviews hunger beats tenure",
+      "content_hash": "",
+      "last_sent": 1793211945.964138,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model": {
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "normalized_title": "gemini 4 carbon",
+      "content_hash": "",
+      "last_sent": 1793211945.964158,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:gemini 4 carbon": {
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "normalized_title": "gemini 4 carbon",
+      "content_hash": "",
+      "last_sent": 1793211945.964158,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/28/github-octoverse-2026": {
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026",
+      "title": "GitHub Octoverse 2026",
+      "normalized_title": "github octoverse 2026",
+      "content_hash": "",
+      "last_sent": 1793211945.9641695,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:github octoverse 2026": {
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026",
+      "title": "GitHub Octoverse 2026",
+      "normalized_title": "github octoverse 2026",
+      "content_hash": "",
+      "last_sent": 1793211945.9641695,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/28/terk-terkowitz": {
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz",
+      "title": "Quoting Terk Terkowitz",
+      "normalized_title": "quoting terk terkowitz",
+      "content_hash": "",
+      "last_sent": 1793211945.9641767,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:quoting terk terkowitz": {
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz",
+      "title": "Quoting Terk Terkowitz",
+      "normalized_title": "quoting terk terkowitz",
+      "content_hash": "",
+      "last_sent": 1793211945.9641767,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/28/vibe-game-development": {
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development",
+      "title": "The October inflection point for vibe game development",
+      "normalized_title": "the october inflection point for vibe game development",
+      "content_hash": "",
+      "last_sent": 1793211945.9641817,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:the october inflection point for vibe game development": {
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development",
+      "title": "The October inflection point for vibe game development",
+      "normalized_title": "the october inflection point for vibe game development",
+      "content_hash": "",
+      "last_sent": 1793211945.9641817,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
