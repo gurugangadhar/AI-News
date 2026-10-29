@@ -2,19 +2,12 @@
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793167235.59743,
     "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
-    "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise": 1792084414.6843412,
-    "https://anthropic.com/news/singapore-office-opening": 1792084414.684361,
-    "https://research.google/blog/analyzing-technical-documents-with-deep-review": 1792084414.6842818,
-    "https://huggingface.co/blog/allenai/hiro-acev2": 1792084414.6844153,
-    "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games": 1792084414.6844661,
     "https://latent.space/p/crossing-the-threshold": 1792126020.9870815,
     "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges": 1792126020.987131,
     "https://simonwillison.net/2026/Oct/14/tree-appreciator": 1792126020.9872127,
     "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents": 1792169351.2061462,
-    "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": 1792084414.6843224,
     "https://latent.space/p/ainews-modals-1b-arr-16b-series-d": 1792169351.2062116,
     "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl": 1792169351.2061632,
-    "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic": 1792084414.6844506,
     "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": 1792169351.2062345,
     "https://anthropic.com/news/an-update-on-independent-evaluators": 1792126020.987096,
     "https://huggingface.co/blog/meta-muse-spark-open": 1792126020.9871123,
@@ -141,8 +134,8 @@
     "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands": 1793211945.9641163,
     "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": 1793211945.9641259,
     "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure": 1793211945.9641445,
-    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model": 1793211945.9641602,
-    "https://simonwillison.net/2026/Oct/28/github-octoverse-2026": 1793211945.9641733,
+    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model": 1793298882.7299566,
+    "https://simonwillison.net/2026/Oct/28/github-octoverse-2026": 1793298882.7299964,
     "https://simonwillison.net/2026/Oct/28/terk-terkowitz": 1793211945.964179,
     "https://simonwillison.net/2026/Oct/28/vibe-game-development": 1793211945.9641848,
     "https://latent.space/p/supabase": 1793254072.781807,
@@ -151,7 +144,15 @@
     "https://simonwillison.net/2026/Oct/28/ted-sanders": 1793254072.7818534,
     "https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions": 1793254072.781875,
     "https://openai.com/index/openai-servicenow-partnership-expansion": 1793254072.7818875,
-    "https://openai.com/index/legora": 1793254072.7819088
+    "https://openai.com/index/legora": 1793254072.7819088,
+    "https://huggingface.co/blog/mistral-large4": 1793298882.7298841,
+    "https://huggingface.co/papers/2610.35671": 1793298882.7299013,
+    "https://simonwillison.net/2026/Oct/29/ben-hylak": 1793298882.729911,
+    "https://huggingface.co/papers/2610.22507": 1793298882.729922,
+    "https://huggingface.co/blog/announcing-project-protostar": 1793298882.7299345,
+    "https://latent.space/p/elorian": 1793298882.7299457,
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": 1793298882.7299778,
+    "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": 1793298882.7299879
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -201,33 +202,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise": {
-      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
-      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-      "normalized_title": "github s model for secret detection",
-      "content_hash": "",
-      "last_sent": 1792084414.6843278,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:github s model for secret detection": {
-      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
-      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-      "normalized_title": "github s model for secret detection",
-      "content_hash": "",
-      "last_sent": 1792084414.6843278,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:redesigning source control at anthropic": {
-      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic",
-      "title": "Redesigning source control at Anthropic",
-      "normalized_title": "redesigning source control at anthropic",
-      "content_hash": "",
-      "last_sent": 1792084414.6844444,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "title:llm": {
       "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
       "title": "llm-echo 0.5",
@@ -235,78 +209,6 @@
       "content_hash": "",
       "last_sent": 1792472764.0023496,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://anthropic.com/news/singapore-office-opening": {
-      "url": "https://anthropic.com/news/singapore-office-opening",
-      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "normalized_title": "anthropic opens singapore office and signs mou with the government of singapore",
-      "content_hash": "",
-      "last_sent": 1792084414.684351,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:anthropic opens singapore office and signs mou with the government of singapore": {
-      "url": "https://anthropic.com/news/singapore-office-opening",
-      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "normalized_title": "anthropic opens singapore office and signs mou with the government of singapore",
-      "content_hash": "",
-      "last_sent": 1792084414.684351,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://research.google/blog/analyzing-technical-documents-with-deep-review": {
-      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
-      "title": "Analyzing technical documents with Deep Review",
-      "normalized_title": "analyzing technical documents with deep review",
-      "content_hash": "",
-      "last_sent": 1792084414.6842592,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:analyzing technical documents with deep review": {
-      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
-      "title": "Analyzing technical documents with Deep Review",
-      "normalized_title": "analyzing technical documents with deep review",
-      "content_hash": "",
-      "last_sent": 1792084414.6842592,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/allenai/hiro-acev2": {
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "normalized_title": "hiro acev2",
-      "content_hash": "",
-      "last_sent": 1792084414.684408,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:hiro acev2": {
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "normalized_title": "hiro acev2",
-      "content_hash": "",
-      "last_sent": 1792084414.684408,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games": {
-      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games",
-      "title": "AI is mass decompiling games. That's both awesome and scary.",
-      "normalized_title": "ai is mass decompiling games that s both awesome and scary",
-      "content_hash": "",
-      "last_sent": 1792084414.6844575,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:ai is mass decompiling games that s both awesome and scary": {
-      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games",
-      "title": "AI is mass decompiling games. That's both awesome and scary.",
-      "normalized_title": "ai is mass decompiling games that s both awesome and scary",
-      "content_hash": "",
-      "last_sent": 1792084414.6844575,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://latent.space/p/crossing-the-threshold": {
@@ -381,24 +283,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "title": "Apertus 1.5 Release Notes",
-      "normalized_title": "apertus 1 5 release notes",
-      "content_hash": "",
-      "last_sent": 1792084414.6843166,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:apertus 1 5 release notes": {
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "title": "Apertus 1.5 Release Notes",
-      "normalized_title": "apertus 1 5 release notes",
-      "content_hash": "",
-      "last_sent": 1792084414.6843166,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://latent.space/p/ainews-modals-1b-arr-16b-series-d": {
       "url": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d",
       "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
@@ -432,15 +316,6 @@
       "normalized_title": "open from data center to desktop",
       "content_hash": "",
       "last_sent": 1792169351.206156,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic": {
-      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic",
-      "title": "Redesigning source control at Anthropic",
-      "normalized_title": "redesigning source control at anthropic",
-      "content_hash": "",
-      "last_sent": 1792084414.6844444,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2789,7 +2664,7 @@
       "title": "Gemini 4 Carbon: Our next frontier model",
       "normalized_title": "gemini 4 carbon",
       "content_hash": "",
-      "last_sent": 1793211945.964158,
+      "last_sent": 1793298882.7299514,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2798,7 +2673,7 @@
       "title": "Gemini 4 Carbon: Our next frontier model",
       "normalized_title": "gemini 4 carbon",
       "content_hash": "",
-      "last_sent": 1793211945.964158,
+      "last_sent": 1793298882.7299514,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2807,7 +2682,7 @@
       "title": "GitHub Octoverse 2026",
       "normalized_title": "github octoverse 2026",
       "content_hash": "",
-      "last_sent": 1793211945.9641695,
+      "last_sent": 1793298882.7299926,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2816,7 +2691,7 @@
       "title": "GitHub Octoverse 2026",
       "normalized_title": "github octoverse 2026",
       "content_hash": "",
-      "last_sent": 1793211945.9641695,
+      "last_sent": 1793298882.7299926,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2980,6 +2855,150 @@
       "content_hash": "",
       "last_sent": 1793254072.7819006,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/mistral-large4": {
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "normalized_title": "welcome le chonk",
+      "content_hash": "",
+      "last_sent": 1793298882.729865,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:welcome le chonk": {
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "normalized_title": "welcome le chonk",
+      "content_hash": "",
+      "last_sent": 1793298882.729865,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.35671": {
+      "url": "https://huggingface.co/papers/2610.35671",
+      "title": "Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks (2 upvotes)",
+      "normalized_title": "evaluating deepseek v4 1 flash",
+      "content_hash": "",
+      "last_sent": 1793298882.7298903,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:evaluating deepseek v4 1 flash": {
+      "url": "https://huggingface.co/papers/2610.35671",
+      "title": "Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks (2 upvotes)",
+      "normalized_title": "evaluating deepseek v4 1 flash",
+      "content_hash": "",
+      "last_sent": 1793298882.7298903,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/29/ben-hylak": {
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak",
+      "title": "Quoting Ben Hylak",
+      "normalized_title": "quoting ben hylak",
+      "content_hash": "",
+      "last_sent": 1793298882.7299075,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:quoting ben hylak": {
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak",
+      "title": "Quoting Ben Hylak",
+      "normalized_title": "quoting ben hylak",
+      "content_hash": "",
+      "last_sent": 1793298882.7299075,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.22507": {
+      "url": "https://huggingface.co/papers/2610.22507",
+      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents (15 upvotes)",
+      "normalized_title": "realcli toward a unified evaluation of human",
+      "content_hash": "",
+      "last_sent": 1793298882.7299147,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:realcli toward a unified evaluation of human": {
+      "url": "https://huggingface.co/papers/2610.22507",
+      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents (15 upvotes)",
+      "normalized_title": "realcli toward a unified evaluation of human",
+      "content_hash": "",
+      "last_sent": 1793298882.7299147,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/announcing-project-protostar": {
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "normalized_title": "announcing project protostar making publicly funded science ai",
+      "content_hash": "",
+      "last_sent": 1793298882.7299283,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:announcing project protostar making publicly funded science ai": {
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "normalized_title": "announcing project protostar making publicly funded science ai",
+      "content_hash": "",
+      "last_sent": 1793298882.7299283,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/elorian": {
+      "url": "https://latent.space/p/elorian",
+      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+      "normalized_title": "can frontier models see past a decoy elorian tests visual reasoning",
+      "content_hash": "",
+      "last_sent": 1793298882.72994,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:can frontier models see past a decoy elorian tests visual reasoning": {
+      "url": "https://latent.space/p/elorian",
+      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+      "normalized_title": "can frontier models see past a decoy elorian tests visual reasoning",
+      "content_hash": "",
+      "last_sent": 1793298882.72994,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "normalized_title": "granite switch 4 1 1",
+      "content_hash": "",
+      "last_sent": 1793298882.7299674,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:granite switch 4 1 1": {
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "normalized_title": "granite switch 4 1 1",
+      "content_hash": "",
+      "last_sent": 1793298882.7299674,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": {
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "normalized_title": "building a multiplayer game world with autonomous fable",
+      "content_hash": "",
+      "last_sent": 1793298882.7299826,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:building a multiplayer game world with autonomous fable": {
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "normalized_title": "building a multiplayer game world with autonomous fable",
+      "content_hash": "",
+      "last_sent": 1793298882.7299826,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
