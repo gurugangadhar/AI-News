@@ -2,10 +2,6 @@
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793340520.143474,
     "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
-    "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents": 1792169351.2061462,
-    "https://latent.space/p/ainews-modals-1b-arr-16b-series-d": 1792169351.2062116,
-    "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl": 1792169351.2061632,
-    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": 1792169351.2062345,
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": 1792212352.302623,
     "https://latent.space/p/ainews-agents-disprove-polysemanticity": 1792212352.30273,
     "https://openai.com/index/introducing-the-rosalind-academic-plan": 1792212352.3026893,
@@ -141,18 +137,23 @@
     "https://openai.com/index/legora": 1793254072.7819088,
     "https://huggingface.co/blog/mistral-large4": 1793298882.7298841,
     "https://huggingface.co/papers/2610.35671": 1793298882.7299013,
-    "https://simonwillison.net/2026/Oct/29/ben-hylak": 1793298882.729911,
+    "https://simonwillison.net/2026/Oct/29/ben-hylak": 1793383708.867446,
     "https://huggingface.co/papers/2610.22507": 1793298882.729922,
-    "https://huggingface.co/blog/announcing-project-protostar": 1793298882.7299345,
-    "https://latent.space/p/elorian": 1793298882.7299457,
-    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": 1793298882.7299778,
-    "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": 1793298882.7299879,
+    "https://huggingface.co/blog/announcing-project-protostar": 1793383708.867486,
+    "https://latent.space/p/elorian": 1793383708.867559,
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": 1793383708.8675895,
+    "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": 1793383708.867534,
     "https://huggingface.co/papers/2610.21143": 1793340520.1434314,
     "https://openai.com/index/how-we-detect-frontier-model-misalignment": 1793340520.143487,
     "https://openai.com/index/updated-model-spec": 1793340520.143499,
     "https://openai.com/index/ropes-gray-ai-diligence": 1793340520.1435208,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1793340520.1435337,
-    "https://simonwillison.net/2026/Oct/29/api-credits": 1793340520.143546
+    "https://simonwillison.net/2026/Oct/29/api-credits": 1793340520.143546,
+    "https://huggingface.co/papers/2610.34298": 1793383708.867467,
+    "https://cursor.com/blog/claude-code-extension-security-notice": 1793383708.867513,
+    "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference": 1793383708.867546,
+    "https://huggingface.co/blog/nvidia/nemotron-halloween": 1793383708.8675776,
+    "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals": 1793383708.8676026
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -209,78 +210,6 @@
       "content_hash": "",
       "last_sent": 1792472764.0023496,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents": {
-      "url": "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents",
-      "title": "Vector stores in Agent Framework for Python: familiar foundations, streamlined for agents",
-      "normalized_title": "vector stores in agent framework for python familiar foundations streamlined for agents",
-      "content_hash": "",
-      "last_sent": 1792169351.2061355,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:vector stores in agent framework for python familiar foundations streamlined for agents": {
-      "url": "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents",
-      "title": "Vector stores in Agent Framework for Python: familiar foundations, streamlined for agents",
-      "normalized_title": "vector stores in agent framework for python familiar foundations streamlined for agents",
-      "content_hash": "",
-      "last_sent": 1792169351.2061355,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-modals-1b-arr-16b-series-d": {
-      "url": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "normalized_title": "modal s 1b arr 16b series d makes it nyc s newest ai infra decacorn 3x usage and 3x valuation in 5 months 15x in 1 yr",
-      "content_hash": "",
-      "last_sent": 1792169351.2061834,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:modal s 1b arr 16b series d makes it nyc s newest ai infra decacorn 3x usage and 3x valuation in 5 months 15x in 1 yr": {
-      "url": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "normalized_title": "modal s 1b arr 16b series d makes it nyc s newest ai infra decacorn 3x usage and 3x valuation in 5 months 15x in 1 yr",
-      "content_hash": "",
-      "last_sent": 1792169351.2061834,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl": {
-      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
-      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-      "normalized_title": "open from data center to desktop",
-      "content_hash": "",
-      "last_sent": 1792169351.206156,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:open from data center to desktop": {
-      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
-      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-      "normalized_title": "open from data center to desktop",
-      "content_hash": "",
-      "last_sent": 1792169351.206156,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": {
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "normalized_title": "anthropic tells investors quarterly revenue up nearly 50 to 16 8bn ahead of ipo",
-      "content_hash": "",
-      "last_sent": 1792169351.2062254,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:anthropic tells investors quarterly revenue up nearly 50 to 16 8bn ahead of ipo": {
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "normalized_title": "anthropic tells investors quarterly revenue up nearly 50 to 16 8bn ahead of ipo",
-      "content_hash": "",
-      "last_sent": 1792169351.2062254,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": {
@@ -2790,7 +2719,7 @@
       "title": "Quoting Ben Hylak",
       "normalized_title": "quoting ben hylak",
       "content_hash": "",
-      "last_sent": 1793298882.7299075,
+      "last_sent": 1793383708.8674254,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2799,7 +2728,7 @@
       "title": "Quoting Ben Hylak",
       "normalized_title": "quoting ben hylak",
       "content_hash": "",
-      "last_sent": 1793298882.7299075,
+      "last_sent": 1793383708.8674254,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2826,7 +2755,7 @@
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "normalized_title": "announcing project protostar making publicly funded science ai",
       "content_hash": "",
-      "last_sent": 1793298882.7299283,
+      "last_sent": 1793383708.867476,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2835,7 +2764,7 @@
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "normalized_title": "announcing project protostar making publicly funded science ai",
       "content_hash": "",
-      "last_sent": 1793298882.7299283,
+      "last_sent": 1793383708.867476,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2844,7 +2773,7 @@
       "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
       "normalized_title": "can frontier models see past a decoy elorian tests visual reasoning",
       "content_hash": "",
-      "last_sent": 1793298882.72994,
+      "last_sent": 1793383708.8675518,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2853,7 +2782,7 @@
       "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
       "normalized_title": "can frontier models see past a decoy elorian tests visual reasoning",
       "content_hash": "",
-      "last_sent": 1793298882.72994,
+      "last_sent": 1793383708.8675518,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2862,7 +2791,7 @@
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "normalized_title": "granite switch 4 1 1",
       "content_hash": "",
-      "last_sent": 1793298882.7299674,
+      "last_sent": 1793383708.8675818,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2871,7 +2800,7 @@
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "normalized_title": "granite switch 4 1 1",
       "content_hash": "",
-      "last_sent": 1793298882.7299674,
+      "last_sent": 1793383708.8675818,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2880,7 +2809,7 @@
       "title": "Building a multiplayer game world with autonomous Fable-class models",
       "normalized_title": "building a multiplayer game world with autonomous fable",
       "content_hash": "",
-      "last_sent": 1793298882.7299826,
+      "last_sent": 1793383708.8675263,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2889,7 +2818,7 @@
       "title": "Building a multiplayer game world with autonomous Fable-class models",
       "normalized_title": "building a multiplayer game world with autonomous fable",
       "content_hash": "",
-      "last_sent": 1793298882.7299826,
+      "last_sent": 1793383708.8675263,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2999,6 +2928,96 @@
       "content_hash": "",
       "last_sent": 1793340520.14354,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.34298": {
+      "url": "https://huggingface.co/papers/2610.34298",
+      "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents (2 upvotes)",
+      "normalized_title": "matched capabilities different behaviors",
+      "content_hash": "",
+      "last_sent": 1793383708.867456,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:matched capabilities different behaviors": {
+      "url": "https://huggingface.co/papers/2610.34298",
+      "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents (2 upvotes)",
+      "normalized_title": "matched capabilities different behaviors",
+      "content_hash": "",
+      "last_sent": 1793383708.867456,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://cursor.com/blog/claude-code-extension-security-notice": {
+      "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "title": "Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace",
+      "normalized_title": "security notice malicious version of anthropic claude",
+      "content_hash": "",
+      "last_sent": 1793383708.8674948,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:security notice malicious version of anthropic claude": {
+      "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "title": "Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace",
+      "normalized_title": "security notice malicious version of anthropic claude",
+      "content_hash": "",
+      "last_sent": 1793383708.8674948,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference": {
+      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference",
+      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+      "normalized_title": "building aie code",
+      "content_hash": "",
+      "last_sent": 1793383708.867541,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:building aie code": {
+      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference",
+      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+      "normalized_title": "building aie code",
+      "content_hash": "",
+      "last_sent": 1793383708.867541,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/nvidia/nemotron-halloween": {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "title": "nemotron-halloween",
+      "normalized_title": "nemotron",
+      "content_hash": "",
+      "last_sent": 1793383708.867573,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:nemotron": {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "title": "nemotron-halloween",
+      "normalized_title": "nemotron",
+      "content_hash": "",
+      "last_sent": 1793383708.867573,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals": {
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "normalized_title": "things that go beep in the night",
+      "content_hash": "",
+      "last_sent": 1793383708.8675957,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:things that go beep in the night": {
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "normalized_title": "things that go beep in the night",
+      "content_hash": "",
+      "last_sent": 1793383708.8675957,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
