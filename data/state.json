@@ -1,19 +1,13 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793167235.59743,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793340520.143474,
     "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
-    "https://latent.space/p/crossing-the-threshold": 1792126020.9870815,
-    "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges": 1792126020.987131,
-    "https://simonwillison.net/2026/Oct/14/tree-appreciator": 1792126020.9872127,
     "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents": 1792169351.2061462,
     "https://latent.space/p/ainews-modals-1b-arr-16b-series-d": 1792169351.2062116,
     "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl": 1792169351.2061632,
     "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": 1792169351.2062345,
-    "https://anthropic.com/news/an-update-on-independent-evaluators": 1792126020.987096,
-    "https://huggingface.co/blog/meta-muse-spark-open": 1792126020.9871123,
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": 1792212352.302623,
     "https://latent.space/p/ainews-agents-disprove-polysemanticity": 1792212352.30273,
-    "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": 1792126020.9871788,
     "https://openai.com/index/introducing-the-rosalind-academic-plan": 1792212352.3026893,
     "https://simonwillison.net/2026/Oct/15/chirp-pong": 1792212352.302767,
     "https://huggingface.co/blog/reflection-beam": 1792251990.6835504,
@@ -138,10 +132,10 @@
     "https://simonwillison.net/2026/Oct/28/github-octoverse-2026": 1793298882.7299964,
     "https://simonwillison.net/2026/Oct/28/terk-terkowitz": 1793211945.964179,
     "https://simonwillison.net/2026/Oct/28/vibe-game-development": 1793211945.9641848,
-    "https://latent.space/p/supabase": 1793254072.781807,
+    "https://latent.space/p/supabase": 1793340520.1434166,
     "https://huggingface.co/papers/2610.37230": 1793254072.7818246,
-    "https://latent.space/p/ainews-gemini-4-carbon": 1793254072.781841,
-    "https://simonwillison.net/2026/Oct/28/ted-sanders": 1793254072.7818534,
+    "https://latent.space/p/ainews-gemini-4-carbon": 1793340520.1434479,
+    "https://simonwillison.net/2026/Oct/28/ted-sanders": 1793340520.1434615,
     "https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions": 1793254072.781875,
     "https://openai.com/index/openai-servicenow-partnership-expansion": 1793254072.7818875,
     "https://openai.com/index/legora": 1793254072.7819088,
@@ -152,7 +146,13 @@
     "https://huggingface.co/blog/announcing-project-protostar": 1793298882.7299345,
     "https://latent.space/p/elorian": 1793298882.7299457,
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": 1793298882.7299778,
-    "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": 1793298882.7299879
+    "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": 1793298882.7299879,
+    "https://huggingface.co/papers/2610.21143": 1793340520.1434314,
+    "https://openai.com/index/how-we-detect-frontier-model-misalignment": 1793340520.143487,
+    "https://openai.com/index/updated-model-spec": 1793340520.143499,
+    "https://openai.com/index/ropes-gray-ai-diligence": 1793340520.1435208,
+    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1793340520.1435337,
+    "https://simonwillison.net/2026/Oct/29/api-credits": 1793340520.143546
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -168,19 +168,19 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,036 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,151 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793167235.5974228,
+      "last_sent": 1793340520.143467,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,036 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,151 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793167235.5974228,
+      "last_sent": 1793340520.143467,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -208,60 +208,6 @@
       "normalized_title": "llm",
       "content_hash": "",
       "last_sent": 1792472764.0023496,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/crossing-the-threshold": {
-      "url": "https://latent.space/p/crossing-the-threshold",
-      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-      "normalized_title": "crossing the threshold",
-      "content_hash": "",
-      "last_sent": 1792126020.987062,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:crossing the threshold": {
-      "url": "https://latent.space/p/crossing-the-threshold",
-      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-      "normalized_title": "crossing the threshold",
-      "content_hash": "",
-      "last_sent": 1792126020.987062,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges": {
-      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
-      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
-      "normalized_title": "putting earth ai to work geospatial agents for our planet s biggest challenges",
-      "content_hash": "",
-      "last_sent": 1792126020.987121,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:putting earth ai to work geospatial agents for our planet s biggest challenges": {
-      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
-      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
-      "normalized_title": "putting earth ai to work geospatial agents for our planet s biggest challenges",
-      "content_hash": "",
-      "last_sent": 1792126020.987121,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/14/tree-appreciator": {
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator",
-      "title": "Tree Appreciator",
-      "normalized_title": "tree appreciator",
-      "content_hash": "",
-      "last_sent": 1792126020.987208,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:tree appreciator": {
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator",
-      "title": "Tree Appreciator",
-      "normalized_title": "tree appreciator",
-      "content_hash": "",
-      "last_sent": 1792126020.987208,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -337,42 +283,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://anthropic.com/news/an-update-on-independent-evaluators": {
-      "url": "https://anthropic.com/news/an-update-on-independent-evaluators",
-      "title": "An update on independent evaluators",
-      "normalized_title": "an update on independent evaluators",
-      "content_hash": "",
-      "last_sent": 1792126020.9870903,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:an update on independent evaluators": {
-      "url": "https://anthropic.com/news/an-update-on-independent-evaluators",
-      "title": "An update on independent evaluators",
-      "normalized_title": "an update on independent evaluators",
-      "content_hash": "",
-      "last_sent": 1792126020.9870903,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/meta-muse-spark-open": {
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "normalized_title": "welcome muse spark open open weight frontier multimodal mixture of",
-      "content_hash": "",
-      "last_sent": 1792126020.987102,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:welcome muse spark open open weight frontier multimodal mixture of": {
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "normalized_title": "welcome muse spark open open weight frontier multimodal mixture of",
-      "content_hash": "",
-      "last_sent": 1792126020.987102,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": {
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
@@ -406,24 +316,6 @@
       "normalized_title": "agents disprove polysemanticity greatly improve interpretability alignment",
       "content_hash": "",
       "last_sent": 1792212352.3027213,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": {
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "title": "Teaching students to think and learn through questions",
-      "normalized_title": "teaching students to think and learn through questions",
-      "content_hash": "",
-      "last_sent": 1792126020.9871726,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:teaching students to think and learn through questions": {
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "title": "Teaching students to think and learn through questions",
-      "normalized_title": "teaching students to think and learn through questions",
-      "content_hash": "",
-      "last_sent": 1792126020.9871726,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2736,7 +2628,7 @@
       "title": "Why Agents Love Supabase",
       "normalized_title": "why agents love supabase",
       "content_hash": "",
-      "last_sent": 1793254072.7817888,
+      "last_sent": 1793340520.143392,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2745,7 +2637,7 @@
       "title": "Why Agents Love Supabase",
       "normalized_title": "why agents love supabase",
       "content_hash": "",
-      "last_sent": 1793254072.7817888,
+      "last_sent": 1793340520.143392,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2772,7 +2664,7 @@
       "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
       "normalized_title": "gemini 4 carbon tops leaderboards launches for cyber defenders",
       "content_hash": "",
-      "last_sent": 1793254072.781833,
+      "last_sent": 1793340520.1434376,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2781,7 +2673,7 @@
       "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
       "normalized_title": "gemini 4 carbon tops leaderboards launches for cyber defenders",
       "content_hash": "",
-      "last_sent": 1793254072.781833,
+      "last_sent": 1793340520.1434376,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2790,7 +2682,7 @@
       "title": "Quoting Ted Sanders",
       "normalized_title": "quoting ted sanders",
       "content_hash": "",
-      "last_sent": 1793254072.781849,
+      "last_sent": 1793340520.1434567,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2799,7 +2691,7 @@
       "title": "Quoting Ted Sanders",
       "normalized_title": "quoting ted sanders",
       "content_hash": "",
-      "last_sent": 1793254072.781849,
+      "last_sent": 1793340520.1434567,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2999,6 +2891,114 @@
       "content_hash": "",
       "last_sent": 1793298882.7299826,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.21143": {
+      "url": "https://huggingface.co/papers/2610.21143",
+      "title": "CoSTA: Compressed Speech Token Adaptation for Efficient Spoken Dialogue Models (3 upvotes)",
+      "normalized_title": "costa",
+      "content_hash": "",
+      "last_sent": 1793340520.1434245,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:costa": {
+      "url": "https://huggingface.co/papers/2610.21143",
+      "title": "CoSTA: Compressed Speech Token Adaptation for Efficient Spoken Dialogue Models (3 upvotes)",
+      "normalized_title": "costa",
+      "content_hash": "",
+      "last_sent": 1793340520.1434245,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/how-we-detect-frontier-model-misalignment": {
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "How we detect frontier model misalignment",
+      "normalized_title": "how we detect frontier model misalignment",
+      "content_hash": "",
+      "last_sent": 1793340520.1434815,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how we detect frontier model misalignment": {
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "How we detect frontier model misalignment",
+      "normalized_title": "how we detect frontier model misalignment",
+      "content_hash": "",
+      "last_sent": 1793340520.1434815,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/updated-model-spec": {
+      "url": "https://openai.com/index/updated-model-spec",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "normalized_title": "an updated model spec for more capable and beneficial ai",
+      "content_hash": "",
+      "last_sent": 1793340520.1434927,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:an updated model spec for more capable and beneficial ai": {
+      "url": "https://openai.com/index/updated-model-spec",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "normalized_title": "an updated model spec for more capable and beneficial ai",
+      "content_hash": "",
+      "last_sent": 1793340520.1434927,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/ropes-gray-ai-diligence": {
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "normalized_title": "how ropes gray is developing ai for transactional diligence",
+      "content_hash": "",
+      "last_sent": 1793340520.143512,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how ropes gray is developing ai for transactional diligence": {
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "normalized_title": "how ropes gray is developing ai for transactional diligence",
+      "content_hash": "",
+      "last_sent": 1793340520.143512,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": {
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "normalized_title": "into the omniverse",
+      "content_hash": "",
+      "last_sent": 1793340520.1435285,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:into the omniverse": {
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "normalized_title": "into the omniverse",
+      "content_hash": "",
+      "last_sent": 1793340520.1435285,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/29/api-credits": {
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "normalized_title": "api credits benefit for eligible chatgpt subscriptions",
+      "content_hash": "",
+      "last_sent": 1793340520.14354,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:api credits benefit for eligible chatgpt subscriptions": {
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "normalized_title": "api credits benefit for eligible chatgpt subscriptions",
+      "content_hash": "",
+      "last_sent": 1793340520.14354,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
