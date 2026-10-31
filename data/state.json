@@ -2,15 +2,10 @@
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793426646.006841,
     "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
-    "https://huggingface.co/blog/reflection-beam": 1792251990.6835504,
-    "https://deepmind.google/blog/accelerating-antimicrobial-discovery": 1792251990.6835914,
     "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": 1792339261.5382378,
     "https://simonwillison.net/2026/Oct/16/code-review": 1792339261.538251,
     "https://openai.com/index/itau-generative-ai": 1792299121.2081769,
     "https://latent.space/p/ainews-high-taste-testers-ep-1": 1792339261.5382218,
-    "https://huggingface.co/papers/2610.20680": 1792251990.6836252,
-    "https://openai.com/index/benefit-street-partners": 1792251990.6836407,
-    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite": 1792251990.6836553,
     "https://huggingface.co/papers/2610.21261": 1792299121.208124,
     "https://huggingface.co/papers/2610.21185": 1792299121.2081382,
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": 1792435654.5068583,
@@ -20,7 +15,7 @@
     "https://simonwillison.net/2026/Oct/18/llm-echo": 1792472764.0023549,
     "https://huggingface.co/papers/2610.22602": 1792386063.7225976,
     "https://anthropic.com/news/public-benefit-fund": 1792435654.5068345,
-    "https://github.com/ZhuLinsen/daily_stock_analysis": 1792991165.1418173,
+    "https://github.com/ZhuLinsen/daily_stock_analysis": 1793467174.3135014,
     "https://github.com/HKUDS/Vibe-Trading": 1792991165.1418288,
     "https://huggingface.co/papers/2610.21459": 1792386063.7226546,
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": 1792472764.002343,
@@ -146,16 +141,17 @@
     "https://simonwillison.net/2026/Oct/29/api-credits": 1793426646.006849,
     "https://huggingface.co/papers/2610.34298": 1793383708.867467,
     "https://cursor.com/blog/claude-code-extension-security-notice": 1793383708.867513,
-    "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference": 1793383708.867546,
-    "https://huggingface.co/blog/nvidia/nemotron-halloween": 1793383708.8675776,
-    "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals": 1793383708.8676026,
+    "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference": 1793467174.3134363,
+    "https://huggingface.co/blog/nvidia/nemotron-halloween": 1793467174.3134217,
+    "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals": 1793467174.3134496,
     "https://huggingface.co/papers/2610.39293": 1793426646.0068257,
     "https://simonwillison.net/2026/Oct/30/nesformer": 1793426646.006833,
     "https://huggingface.co/papers/2610.38681": 1793426646.0068576,
     "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c": 1793426646.0068684,
     "https://openai.com/index/helping-websites-express-ai-training-preferences": 1793426646.0068772,
     "https://openai.com/index/community-safety-report-and-new-protections-for-teens": 1793426646.006889,
-    "https://openai.com/index/fair-use-benefits-everyone": 1793426646.006895
+    "https://openai.com/index/fair-use-benefits-everyone": 1793426646.006895,
+    "https://latent.space/p/arca": 1793467174.3134646
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -212,42 +208,6 @@
       "content_hash": "",
       "last_sent": 1792472764.0023496,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/reflection-beam": {
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "normalized_title": "welcome beam a 501b open model you can own customize and scale",
-      "content_hash": "",
-      "last_sent": 1792251990.683521,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:welcome beam a 501b open model you can own customize and scale": {
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "normalized_title": "welcome beam a 501b open model you can own customize and scale",
-      "content_hash": "",
-      "last_sent": 1792251990.683521,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://deepmind.google/blog/accelerating-antimicrobial-discovery": {
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "normalized_title": "accelerating the search for antimicrobial peptides with google antigravity",
-      "content_hash": "",
-      "last_sent": 1792251990.6835823,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:accelerating the search for antimicrobial peptides with google antigravity": {
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "normalized_title": "accelerating the search for antimicrobial peptides with google antigravity",
-      "content_hash": "",
-      "last_sent": 1792251990.6835823,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": {
@@ -310,60 +270,6 @@
       "normalized_title": "high taste testers ep 1",
       "content_hash": "",
       "last_sent": 1792339261.5382018,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.20680": {
-      "url": "https://huggingface.co/papers/2610.20680",
-      "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility (1 upvotes)",
-      "normalized_title": "diminishing returns of data in sparse autoencoders",
-      "content_hash": "",
-      "last_sent": 1792251990.6836162,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:diminishing returns of data in sparse autoencoders": {
-      "url": "https://huggingface.co/papers/2610.20680",
-      "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility (1 upvotes)",
-      "normalized_title": "diminishing returns of data in sparse autoencoders",
-      "content_hash": "",
-      "last_sent": 1792251990.6836162,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://openai.com/index/benefit-street-partners": {
-      "url": "https://openai.com/index/benefit-street-partners",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "normalized_title": "benefit street partners answers questions faster with codex",
-      "content_hash": "",
-      "last_sent": 1792251990.6836333,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:benefit street partners answers questions faster with codex": {
-      "url": "https://openai.com/index/benefit-street-partners",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "normalized_title": "benefit street partners answers questions faster with codex",
-      "content_hash": "",
-      "last_sent": 1792251990.6836333,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite": {
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
-      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-      "normalized_title": "be there for the beginning",
-      "content_hash": "",
-      "last_sent": 1792251990.683649,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:be there for the beginning": {
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
-      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-      "normalized_title": "be there for the beginning",
-      "content_hash": "",
-      "last_sent": 1792251990.683649,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -576,11 +482,11 @@
     },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "title": "ZhuLinsen/daily_stock_analysis (67,064 stars)",
+      "title": "ZhuLinsen/daily_stock_analysis (67,331 stars)",
       "normalized_title": "zhulinsen daily_stock_analysis",
       "content_hash": "",
-      "last_sent": 1792991165.141811,
-      "digest_type": "morning",
+      "last_sent": 1793467174.3134716,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:daily_stock_analysis multi": {
@@ -1899,11 +1805,11 @@
     },
     "title:zhulinsen daily_stock_analysis": {
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "title": "ZhuLinsen/daily_stock_analysis (67,064 stars)",
+      "title": "ZhuLinsen/daily_stock_analysis (67,331 stars)",
       "normalized_title": "zhulinsen daily_stock_analysis",
       "content_hash": "",
-      "last_sent": 1792991165.141811,
-      "digest_type": "morning",
+      "last_sent": 1793467174.3134716,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:hkuds vibe": {
@@ -2874,7 +2780,7 @@
       "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
       "normalized_title": "building aie code",
       "content_hash": "",
-      "last_sent": 1793383708.867541,
+      "last_sent": 1793467174.3134286,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2883,7 +2789,7 @@
       "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
       "normalized_title": "building aie code",
       "content_hash": "",
-      "last_sent": 1793383708.867541,
+      "last_sent": 1793467174.3134286,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2892,7 +2798,7 @@
       "title": "nemotron-halloween",
       "normalized_title": "nemotron",
       "content_hash": "",
-      "last_sent": 1793383708.867573,
+      "last_sent": 1793467174.313405,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2901,7 +2807,7 @@
       "title": "nemotron-halloween",
       "normalized_title": "nemotron",
       "content_hash": "",
-      "last_sent": 1793383708.867573,
+      "last_sent": 1793467174.313405,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2910,7 +2816,7 @@
       "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
       "normalized_title": "things that go beep in the night",
       "content_hash": "",
-      "last_sent": 1793383708.8675957,
+      "last_sent": 1793467174.3134427,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2919,7 +2825,7 @@
       "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
       "normalized_title": "things that go beep in the night",
       "content_hash": "",
-      "last_sent": 1793383708.8675957,
+      "last_sent": 1793467174.3134427,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -3047,6 +2953,24 @@
       "content_hash": "",
       "last_sent": 1793426646.0068927,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/arca": {
+      "url": "https://latent.space/p/arca",
+      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "normalized_title": "agents prompt people using agents for long",
+      "content_hash": "",
+      "last_sent": 1793467174.3134575,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:agents prompt people using agents for long": {
+      "url": "https://latent.space/p/arca",
+      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "normalized_title": "agents prompt people using agents for long",
+      "content_hash": "",
+      "last_sent": 1793467174.3134575,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
