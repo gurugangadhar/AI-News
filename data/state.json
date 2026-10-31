@@ -1,14 +1,9 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793340520.143474,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793426646.006841,
     "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
-    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": 1792212352.302623,
-    "https://latent.space/p/ainews-agents-disprove-polysemanticity": 1792212352.30273,
-    "https://openai.com/index/introducing-the-rosalind-academic-plan": 1792212352.3026893,
-    "https://simonwillison.net/2026/Oct/15/chirp-pong": 1792212352.302767,
     "https://huggingface.co/blog/reflection-beam": 1792251990.6835504,
     "https://deepmind.google/blog/accelerating-antimicrobial-discovery": 1792251990.6835914,
-    "https://openai.com/index/stack-overflow-chatgpt-plugin": 1792212352.302673,
     "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": 1792339261.5382378,
     "https://simonwillison.net/2026/Oct/16/code-review": 1792339261.538251,
     "https://openai.com/index/itau-generative-ai": 1792299121.2081769,
@@ -147,13 +142,20 @@
     "https://openai.com/index/how-we-detect-frontier-model-misalignment": 1793340520.143487,
     "https://openai.com/index/updated-model-spec": 1793340520.143499,
     "https://openai.com/index/ropes-gray-ai-diligence": 1793340520.1435208,
-    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1793340520.1435337,
-    "https://simonwillison.net/2026/Oct/29/api-credits": 1793340520.143546,
+    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1793426646.0069013,
+    "https://simonwillison.net/2026/Oct/29/api-credits": 1793426646.006849,
     "https://huggingface.co/papers/2610.34298": 1793383708.867467,
     "https://cursor.com/blog/claude-code-extension-security-notice": 1793383708.867513,
     "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference": 1793383708.867546,
     "https://huggingface.co/blog/nvidia/nemotron-halloween": 1793383708.8675776,
-    "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals": 1793383708.8676026
+    "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals": 1793383708.8676026,
+    "https://huggingface.co/papers/2610.39293": 1793426646.0068257,
+    "https://simonwillison.net/2026/Oct/30/nesformer": 1793426646.006833,
+    "https://huggingface.co/papers/2610.38681": 1793426646.0068576,
+    "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c": 1793426646.0068684,
+    "https://openai.com/index/helping-websites-express-ai-training-preferences": 1793426646.0068772,
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens": 1793426646.006889,
+    "https://openai.com/index/fair-use-benefits-everyone": 1793426646.006895
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -169,19 +171,19 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,151 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,286 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793340520.143467,
+      "last_sent": 1793426646.0068362,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,151 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,286 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793340520.143467,
+      "last_sent": 1793426646.0068362,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -209,78 +211,6 @@
       "normalized_title": "llm",
       "content_hash": "",
       "last_sent": 1792472764.0023496,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "normalized_title": "granite switch 4 1 chat decisions and speech from one endpoint",
-      "content_hash": "",
-      "last_sent": 1792212352.302592,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:granite switch 4 1 chat decisions and speech from one endpoint": {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "normalized_title": "granite switch 4 1 chat decisions and speech from one endpoint",
-      "content_hash": "",
-      "last_sent": 1792212352.302592,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-agents-disprove-polysemanticity": {
-      "url": "https://latent.space/p/ainews-agents-disprove-polysemanticity",
-      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-      "normalized_title": "agents disprove polysemanticity greatly improve interpretability alignment",
-      "content_hash": "",
-      "last_sent": 1792212352.3027213,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:agents disprove polysemanticity greatly improve interpretability alignment": {
-      "url": "https://latent.space/p/ainews-agents-disprove-polysemanticity",
-      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-      "normalized_title": "agents disprove polysemanticity greatly improve interpretability alignment",
-      "content_hash": "",
-      "last_sent": 1792212352.3027213,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/introducing-the-rosalind-academic-plan": {
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "normalized_title": "bringing gpt",
-      "content_hash": "",
-      "last_sent": 1792212352.3026834,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:bringing gpt": {
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "normalized_title": "bringing gpt",
-      "content_hash": "",
-      "last_sent": 1792212352.3026834,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/15/chirp-pong": {
-      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong",
-      "title": "Chirp Pong",
-      "normalized_title": "chirp pong",
-      "content_hash": "",
-      "last_sent": 1792212352.3027613,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:chirp pong": {
-      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong",
-      "title": "Chirp Pong",
-      "normalized_title": "chirp pong",
-      "content_hash": "",
-      "last_sent": 1792212352.3027613,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -318,24 +248,6 @@
       "content_hash": "",
       "last_sent": 1792251990.6835823,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://openai.com/index/stack-overflow-chatgpt-plugin": {
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "normalized_title": "stack overflow for agents triples signups with chatgpt plugin",
-      "content_hash": "",
-      "last_sent": 1792212352.3026388,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:stack overflow for agents triples signups with chatgpt plugin": {
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "normalized_title": "stack overflow for agents triples signups with chatgpt plugin",
-      "content_hash": "",
-      "last_sent": 1792212352.3026388,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": {
@@ -380,15 +292,6 @@
       "normalized_title": "itaú deploys enterprise financial agent architecture to 300 000 customers",
       "content_hash": "",
       "last_sent": 1792299121.2081652,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:how itaú is building generative ai for its entire customer base": {
-      "url": "https://openai.com/index/itau-generative-ai",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "normalized_title": "how itaú is building generative ai for its entire customer base",
-      "content_hash": "",
-      "last_sent": 1792212352.3027387,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2899,7 +2802,7 @@
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "normalized_title": "into the omniverse",
       "content_hash": "",
-      "last_sent": 1793340520.1435285,
+      "last_sent": 1793426646.0068977,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2908,7 +2811,7 @@
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "normalized_title": "into the omniverse",
       "content_hash": "",
-      "last_sent": 1793340520.1435285,
+      "last_sent": 1793426646.0068977,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2917,7 +2820,7 @@
       "title": "API credits benefit for eligible ChatGPT subscriptions",
       "normalized_title": "api credits benefit for eligible chatgpt subscriptions",
       "content_hash": "",
-      "last_sent": 1793340520.14354,
+      "last_sent": 1793426646.0068452,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2926,7 +2829,7 @@
       "title": "API credits benefit for eligible ChatGPT subscriptions",
       "normalized_title": "api credits benefit for eligible chatgpt subscriptions",
       "content_hash": "",
-      "last_sent": 1793340520.14354,
+      "last_sent": 1793426646.0068452,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -3018,6 +2921,132 @@
       "content_hash": "",
       "last_sent": 1793383708.8675957,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.39293": {
+      "url": "https://huggingface.co/papers/2610.39293",
+      "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models (2 upvotes)",
+      "normalized_title": "unlocking any",
+      "content_hash": "",
+      "last_sent": 1793426646.0068102,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:unlocking any": {
+      "url": "https://huggingface.co/papers/2610.39293",
+      "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models (2 upvotes)",
+      "normalized_title": "unlocking any",
+      "content_hash": "",
+      "last_sent": 1793426646.0068102,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/30/nesformer": {
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer",
+      "title": "dbreunig/nesformer",
+      "normalized_title": "dbreunig nesformer",
+      "content_hash": "",
+      "last_sent": 1793426646.0068307,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:dbreunig nesformer": {
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer",
+      "title": "dbreunig/nesformer",
+      "normalized_title": "dbreunig nesformer",
+      "content_hash": "",
+      "last_sent": 1793426646.0068307,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.38681": {
+      "url": "https://huggingface.co/papers/2610.38681",
+      "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models (1 upvotes)",
+      "normalized_title": "weaken to strengthen weakening induced on policy self",
+      "content_hash": "",
+      "last_sent": 1793426646.0068529,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:weaken to strengthen weakening induced on policy self": {
+      "url": "https://huggingface.co/papers/2610.38681",
+      "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models (1 upvotes)",
+      "normalized_title": "weaken to strengthen weakening induced on policy self",
+      "content_hash": "",
+      "last_sent": 1793426646.0068529,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c": {
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c",
+      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "normalized_title": "google admits ai mode hurts search revenue 15 500b drop worst since 2004 ipo ai bear market coming",
+      "content_hash": "",
+      "last_sent": 1793426646.0068622,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:google admits ai mode hurts search revenue 15 500b drop worst since 2004 ipo ai bear market coming": {
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c",
+      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "normalized_title": "google admits ai mode hurts search revenue 15 500b drop worst since 2004 ipo ai bear market coming",
+      "content_hash": "",
+      "last_sent": 1793426646.0068622,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/helping-websites-express-ai-training-preferences": {
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "title": "Making it easier for websites to express AI training preferences",
+      "normalized_title": "making it easier for websites to express ai training preferences",
+      "content_hash": "",
+      "last_sent": 1793426646.0068738,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:making it easier for websites to express ai training preferences": {
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "title": "Making it easier for websites to express AI training preferences",
+      "normalized_title": "making it easier for websites to express ai training preferences",
+      "content_hash": "",
+      "last_sent": 1793426646.0068738,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens": {
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "title": "Community safety report and new protections for teens",
+      "normalized_title": "community safety report and new protections for teens",
+      "content_hash": "",
+      "last_sent": 1793426646.0068848,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:community safety report and new protections for teens": {
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "title": "Community safety report and new protections for teens",
+      "normalized_title": "community safety report and new protections for teens",
+      "content_hash": "",
+      "last_sent": 1793426646.0068848,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/fair-use-benefits-everyone": {
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "title": "Fair use benefits everyone",
+      "normalized_title": "fair use benefits everyone",
+      "content_hash": "",
+      "last_sent": 1793426646.0068927,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:fair use benefits everyone": {
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "title": "Fair use benefits everyone",
+      "normalized_title": "fair use benefits everyone",
+      "content_hash": "",
+      "last_sent": 1793426646.0068927,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
