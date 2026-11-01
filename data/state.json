@@ -2,18 +2,14 @@
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793514808.3979266,
     "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
-    "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": 1792339261.5382378,
-    "https://simonwillison.net/2026/Oct/16/code-review": 1792339261.538251,
-    "https://latent.space/p/ainews-high-taste-testers-ep-1": 1792339261.5382218,
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": 1792435654.5068583,
     "https://simonwillison.net/2026/Oct/17/document-currentscript": 1792435654.5068214,
-    "https://simonwillison.net/2026/Oct/17/web-edit": 1792339261.538301,
     "https://huggingface.co/papers/2610.21046": 1792386063.7225566,
     "https://simonwillison.net/2026/Oct/18/llm-echo": 1792472764.0023549,
     "https://huggingface.co/papers/2610.22602": 1792386063.7225976,
     "https://anthropic.com/news/public-benefit-fund": 1792435654.5068345,
-    "https://github.com/ZhuLinsen/daily_stock_analysis": 1793467174.3135014,
-    "https://github.com/HKUDS/Vibe-Trading": 1792991165.1418288,
+    "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
+    "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
     "https://huggingface.co/papers/2610.21459": 1792386063.7226546,
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": 1792472764.002343,
     "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production": 1792517026.2275033,
@@ -143,14 +139,15 @@
     "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals": 1793467174.3134496,
     "https://huggingface.co/papers/2610.39293": 1793514808.3978922,
     "https://simonwillison.net/2026/Oct/30/nesformer": 1793514808.3979073,
-    "https://huggingface.co/papers/2610.38681": 1793426646.0068576,
+    "https://huggingface.co/papers/2610.38681": 1793556115.4632218,
     "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c": 1793514808.3979523,
     "https://openai.com/index/helping-websites-express-ai-training-preferences": 1793514808.397968,
     "https://openai.com/index/community-safety-report-and-new-protections-for-teens": 1793514808.3979864,
     "https://openai.com/index/fair-use-benefits-everyone": 1793426646.006895,
-    "https://latent.space/p/arca": 1793467174.3134646,
+    "https://latent.space/p/arca": 1793556115.4632401,
     "https://simonwillison.net/2026/Oct/31/datasette-llm": 1793514808.3979163,
-    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": 1793514808.3979368
+    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": 1793514808.3979368,
+    "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": 1793556115.4632013
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -191,15 +188,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "title:web": {
-      "url": "https://simonwillison.net/2026/Oct/17/web-edit",
-      "title": "web-edit 0.1a2",
-      "normalized_title": "web",
-      "content_hash": "",
-      "last_sent": 1792339261.5382972,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "title:llm": {
       "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
       "title": "llm-echo 0.5",
@@ -207,60 +195,6 @@
       "content_hash": "",
       "last_sent": 1792472764.0023496,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": {
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
-      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-      "normalized_title": "grounding ai agents in biological reality",
-      "content_hash": "",
-      "last_sent": 1792339261.5382297,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:grounding ai agents in biological reality": {
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
-      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-      "normalized_title": "grounding ai agents in biological reality",
-      "content_hash": "",
-      "last_sent": 1792339261.5382297,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/16/code-review": {
-      "url": "https://simonwillison.net/2026/Oct/16/code-review",
-      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "normalized_title": "quoting addy osmani morgan westlee lunt and qing wang",
-      "content_hash": "",
-      "last_sent": 1792339261.5382438,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:quoting addy osmani morgan westlee lunt and qing wang": {
-      "url": "https://simonwillison.net/2026/Oct/16/code-review",
-      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "normalized_title": "quoting addy osmani morgan westlee lunt and qing wang",
-      "content_hash": "",
-      "last_sent": 1792339261.5382438,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-high-taste-testers-ep-1": {
-      "url": "https://latent.space/p/ainews-high-taste-testers-ep-1",
-      "title": "[AINews] High Taste Testers Ep. 1",
-      "normalized_title": "high taste testers ep 1",
-      "content_hash": "",
-      "last_sent": 1792339261.5382018,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:high taste testers ep 1": {
-      "url": "https://latent.space/p/ainews-high-taste-testers-ep-1",
-      "title": "[AINews] High Taste Testers Ep. 1",
-      "normalized_title": "high taste testers ep 1",
-      "content_hash": "",
-      "last_sent": 1792339261.5382018,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": {
@@ -278,15 +212,6 @@
       "normalized_title": "inline rendering with document currentscript",
       "content_hash": "",
       "last_sent": 1792435654.506811,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/17/web-edit": {
-      "url": "https://simonwillison.net/2026/Oct/17/web-edit",
-      "title": "web-edit 0.1a2",
-      "normalized_title": "web",
-      "content_hash": "",
-      "last_sent": 1792339261.5382972,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -382,10 +307,10 @@
     },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "title": "ZhuLinsen/daily_stock_analysis (67,331 stars)",
+      "title": "ZhuLinsen/daily_stock_analysis (67,390 stars)",
       "normalized_title": "zhulinsen daily_stock_analysis",
       "content_hash": "",
-      "last_sent": 1793467174.3134716,
+      "last_sent": 1793556115.4632485,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -400,11 +325,11 @@
     },
     "https://github.com/HKUDS/Vibe-Trading": {
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "title": "HKUDS/Vibe-Trading (36,701 stars)",
+      "title": "HKUDS/Vibe-Trading (37,362 stars)",
       "normalized_title": "hkuds vibe",
       "content_hash": "",
-      "last_sent": 1792991165.1418238,
-      "digest_type": "morning",
+      "last_sent": 1793556115.4632614,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:hkuds vibe trading": {
@@ -1705,20 +1630,20 @@
     },
     "title:zhulinsen daily_stock_analysis": {
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "title": "ZhuLinsen/daily_stock_analysis (67,331 stars)",
+      "title": "ZhuLinsen/daily_stock_analysis (67,390 stars)",
       "normalized_title": "zhulinsen daily_stock_analysis",
       "content_hash": "",
-      "last_sent": 1793467174.3134716,
+      "last_sent": 1793556115.4632485,
       "digest_type": "evening",
       "score": 0.0
     },
     "title:hkuds vibe": {
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "title": "HKUDS/Vibe-Trading (36,701 stars)",
+      "title": "HKUDS/Vibe-Trading (37,362 stars)",
       "normalized_title": "hkuds vibe",
       "content_hash": "",
-      "last_sent": 1792991165.1418238,
-      "digest_type": "morning",
+      "last_sent": 1793556115.4632614,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps": {
@@ -2767,20 +2692,20 @@
     },
     "https://huggingface.co/papers/2610.38681": {
       "url": "https://huggingface.co/papers/2610.38681",
-      "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models (1 upvotes)",
+      "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models (2 upvotes)",
       "normalized_title": "weaken to strengthen weakening induced on policy self",
       "content_hash": "",
-      "last_sent": 1793426646.0068529,
-      "digest_type": "morning",
+      "last_sent": 1793556115.4632087,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:weaken to strengthen weakening induced on policy self": {
       "url": "https://huggingface.co/papers/2610.38681",
-      "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models (1 upvotes)",
+      "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models (2 upvotes)",
       "normalized_title": "weaken to strengthen weakening induced on policy self",
       "content_hash": "",
-      "last_sent": 1793426646.0068529,
-      "digest_type": "morning",
+      "last_sent": 1793556115.4632087,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c": {
@@ -2860,7 +2785,7 @@
       "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
       "normalized_title": "agents prompt people using agents for long",
       "content_hash": "",
-      "last_sent": 1793467174.3134575,
+      "last_sent": 1793556115.4632325,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2869,7 +2794,7 @@
       "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
       "normalized_title": "agents prompt people using agents for long",
       "content_hash": "",
-      "last_sent": 1793467174.3134575,
+      "last_sent": 1793556115.4632325,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2907,6 +2832,24 @@
       "content_hash": "",
       "last_sent": 1793514808.3979325,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": {
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury",
+      "title": "Quoting Kyle Kingsbury",
+      "normalized_title": "quoting kyle kingsbury",
+      "content_hash": "",
+      "last_sent": 1793556115.463185,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:quoting kyle kingsbury": {
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury",
+      "title": "Quoting Kyle Kingsbury",
+      "normalized_title": "quoting kyle kingsbury",
+      "content_hash": "",
+      "last_sent": 1793556115.463185,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
