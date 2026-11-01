@@ -1,13 +1,10 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793426646.006841,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793514808.3979266,
     "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
     "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": 1792339261.5382378,
     "https://simonwillison.net/2026/Oct/16/code-review": 1792339261.538251,
-    "https://openai.com/index/itau-generative-ai": 1792299121.2081769,
     "https://latent.space/p/ainews-high-taste-testers-ep-1": 1792339261.5382218,
-    "https://huggingface.co/papers/2610.21261": 1792299121.208124,
-    "https://huggingface.co/papers/2610.21185": 1792299121.2081382,
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": 1792435654.5068583,
     "https://simonwillison.net/2026/Oct/17/document-currentscript": 1792435654.5068214,
     "https://simonwillison.net/2026/Oct/17/web-edit": 1792339261.538301,
@@ -144,14 +141,16 @@
     "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference": 1793467174.3134363,
     "https://huggingface.co/blog/nvidia/nemotron-halloween": 1793467174.3134217,
     "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals": 1793467174.3134496,
-    "https://huggingface.co/papers/2610.39293": 1793426646.0068257,
-    "https://simonwillison.net/2026/Oct/30/nesformer": 1793426646.006833,
+    "https://huggingface.co/papers/2610.39293": 1793514808.3978922,
+    "https://simonwillison.net/2026/Oct/30/nesformer": 1793514808.3979073,
     "https://huggingface.co/papers/2610.38681": 1793426646.0068576,
-    "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c": 1793426646.0068684,
-    "https://openai.com/index/helping-websites-express-ai-training-preferences": 1793426646.0068772,
-    "https://openai.com/index/community-safety-report-and-new-protections-for-teens": 1793426646.006889,
+    "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c": 1793514808.3979523,
+    "https://openai.com/index/helping-websites-express-ai-training-preferences": 1793514808.397968,
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens": 1793514808.3979864,
     "https://openai.com/index/fair-use-benefits-everyone": 1793426646.006895,
-    "https://latent.space/p/arca": 1793467174.3134646
+    "https://latent.space/p/arca": 1793467174.3134646,
+    "https://simonwillison.net/2026/Oct/31/datasette-llm": 1793514808.3979163,
+    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": 1793514808.3979368
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -167,19 +166,19 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,286 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,314 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793426646.0068362,
+      "last_sent": 1793514808.39792,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,286 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,314 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793426646.0068362,
+      "last_sent": 1793514808.39792,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -246,15 +245,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://openai.com/index/itau-generative-ai": {
-      "url": "https://openai.com/index/itau-generative-ai",
-      "title": "Itaú Deploys Enterprise Financial Agent Architecture to 300,000 Customers",
-      "normalized_title": "itaú deploys enterprise financial agent architecture to 300 000 customers",
-      "content_hash": "",
-      "last_sent": 1792299121.2081652,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://latent.space/p/ainews-high-taste-testers-ep-1": {
       "url": "https://latent.space/p/ainews-high-taste-testers-ep-1",
       "title": "[AINews] High Taste Testers Ep. 1",
@@ -273,60 +263,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "title:google research details closed": {
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
-      "title": "Google Research Details Closed-Loop Autonomous Wet Labs Using Agent Orchestration",
-      "normalized_title": "google research details closed",
-      "content_hash": "",
-      "last_sent": 1792299121.2080352,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:anthropic claude code team implements continuous in": {
-      "url": "https://simonwillison.net/2026/Oct/16/code-review",
-      "title": "Anthropic Claude Code Team Implements Continuous In-Flight Agentic Code Review",
-      "normalized_title": "anthropic claude code team implements continuous in",
-      "content_hash": "",
-      "last_sent": 1792299121.2080991,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.21261": {
-      "url": "https://huggingface.co/papers/2610.21261",
-      "title": "Sparse Autoencoder Feature Compositionality and Non-Additive Interactions Evaluated",
-      "normalized_title": "sparse autoencoder feature compositionality and non",
-      "content_hash": "",
-      "last_sent": 1792299121.208117,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:sparse autoencoder feature compositionality and non": {
-      "url": "https://huggingface.co/papers/2610.21261",
-      "title": "Sparse Autoencoder Feature Compositionality and Non-Additive Interactions Evaluated",
-      "normalized_title": "sparse autoencoder feature compositionality and non",
-      "content_hash": "",
-      "last_sent": 1792299121.208117,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.21185": {
-      "url": "https://huggingface.co/papers/2610.21185",
-      "title": "Mine, Sample, Render: Test-Time Structural Diversity Alignment for Generative Models",
-      "normalized_title": "mine sample render test",
-      "content_hash": "",
-      "last_sent": 1792299121.2081313,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:mine sample render test": {
-      "url": "https://huggingface.co/papers/2610.21185",
-      "title": "Mine, Sample, Render: Test-Time Structural Diversity Alignment for Generative Models",
-      "normalized_title": "mine sample render test",
-      "content_hash": "",
-      "last_sent": 1792299121.2081313,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": {
       "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
       "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
@@ -334,24 +270,6 @@
       "content_hash": "",
       "last_sent": 1792435654.5068526,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:nvidia launches blackwell rtx spark laptops with 128gb unified memory for edge inference": {
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
-      "title": "NVIDIA Launches Blackwell RTX Spark Laptops with 128GB Unified Memory for Edge Inference",
-      "normalized_title": "nvidia launches blackwell rtx spark laptops with 128gb unified memory for edge inference",
-      "content_hash": "",
-      "last_sent": 1792299121.208146,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:itaú deploys enterprise financial agent architecture to 300 000 customers": {
-      "url": "https://openai.com/index/itau-generative-ai",
-      "title": "Itaú Deploys Enterprise Financial Agent Architecture to 300,000 Customers",
-      "normalized_title": "itaú deploys enterprise financial agent architecture to 300 000 customers",
-      "content_hash": "",
-      "last_sent": 1792299121.2081652,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Oct/17/document-currentscript": {
@@ -363,15 +281,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "title:minimal self": {
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
-      "title": "Minimal Self-Replacing Dynamic Script Technique via document.currentScript",
-      "normalized_title": "minimal self",
-      "content_hash": "",
-      "last_sent": 1792299121.2081866,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/17/web-edit": {
       "url": "https://simonwillison.net/2026/Oct/17/web-edit",
       "title": "web-edit 0.1a2",
@@ -379,15 +288,6 @@
       "content_hash": "",
       "last_sent": 1792339261.5382972,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:web edit 0 1a2 released for remote multi": {
-      "url": "https://simonwillison.net/2026/Oct/17/web-edit",
-      "title": "web-edit 0.1a2 Released for Remote Multi-Device LLM Prompt Inspection",
-      "normalized_title": "web edit 0 1a2 released for remote multi",
-      "content_hash": "",
-      "last_sent": 1792299121.2082028,
-      "digest_type": "morning",
       "score": 0.0
     },
     "title:inline rendering with document currentscript": {
@@ -2834,7 +2734,7 @@
       "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models (2 upvotes)",
       "normalized_title": "unlocking any",
       "content_hash": "",
-      "last_sent": 1793426646.0068102,
+      "last_sent": 1793514808.3978689,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2843,7 +2743,7 @@
       "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models (2 upvotes)",
       "normalized_title": "unlocking any",
       "content_hash": "",
-      "last_sent": 1793426646.0068102,
+      "last_sent": 1793514808.3978689,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2852,7 +2752,7 @@
       "title": "dbreunig/nesformer",
       "normalized_title": "dbreunig nesformer",
       "content_hash": "",
-      "last_sent": 1793426646.0068307,
+      "last_sent": 1793514808.3979023,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2861,7 +2761,7 @@
       "title": "dbreunig/nesformer",
       "normalized_title": "dbreunig nesformer",
       "content_hash": "",
-      "last_sent": 1793426646.0068307,
+      "last_sent": 1793514808.3979023,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2888,7 +2788,7 @@
       "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
       "normalized_title": "google admits ai mode hurts search revenue 15 500b drop worst since 2004 ipo ai bear market coming",
       "content_hash": "",
-      "last_sent": 1793426646.0068622,
+      "last_sent": 1793514808.3979409,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2897,7 +2797,7 @@
       "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
       "normalized_title": "google admits ai mode hurts search revenue 15 500b drop worst since 2004 ipo ai bear market coming",
       "content_hash": "",
-      "last_sent": 1793426646.0068622,
+      "last_sent": 1793514808.3979409,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2906,7 +2806,7 @@
       "title": "Making it easier for websites to express AI training preferences",
       "normalized_title": "making it easier for websites to express ai training preferences",
       "content_hash": "",
-      "last_sent": 1793426646.0068738,
+      "last_sent": 1793514808.3979616,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2915,7 +2815,7 @@
       "title": "Making it easier for websites to express AI training preferences",
       "normalized_title": "making it easier for websites to express ai training preferences",
       "content_hash": "",
-      "last_sent": 1793426646.0068738,
+      "last_sent": 1793514808.3979616,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2924,7 +2824,7 @@
       "title": "Community safety report and new protections for teens",
       "normalized_title": "community safety report and new protections for teens",
       "content_hash": "",
-      "last_sent": 1793426646.0068848,
+      "last_sent": 1793514808.39798,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2933,7 +2833,7 @@
       "title": "Community safety report and new protections for teens",
       "normalized_title": "community safety report and new protections for teens",
       "content_hash": "",
-      "last_sent": 1793426646.0068848,
+      "last_sent": 1793514808.39798,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2971,6 +2871,42 @@
       "content_hash": "",
       "last_sent": 1793467174.3134575,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/31/datasette-llm": {
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
+      "title": "datasette-llm 0.1a9",
+      "normalized_title": "datasette",
+      "content_hash": "",
+      "last_sent": 1793514808.3979125,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:datasette": {
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
+      "title": "datasette-llm 0.1a9",
+      "normalized_title": "datasette",
+      "content_hash": "",
+      "last_sent": 1793514808.3979125,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": {
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+      "title": "How We Took Over ChatGPT Accounts",
+      "normalized_title": "how we took over chatgpt accounts",
+      "content_hash": "",
+      "last_sent": 1793514808.3979325,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how we took over chatgpt accounts": {
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+      "title": "How We Took Over ChatGPT Accounts",
+      "normalized_title": "how we took over chatgpt accounts",
+      "content_hash": "",
+      "last_sent": 1793514808.3979325,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
