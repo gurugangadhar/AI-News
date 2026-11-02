@@ -1,16 +1,12 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793514808.3979266,
-    "https://github.com/esengine/DeepSeek-Reasonix": 1792386063.7225833,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793601150.58935,
     "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": 1792435654.5068583,
     "https://simonwillison.net/2026/Oct/17/document-currentscript": 1792435654.5068214,
-    "https://huggingface.co/papers/2610.21046": 1792386063.7225566,
     "https://simonwillison.net/2026/Oct/18/llm-echo": 1792472764.0023549,
-    "https://huggingface.co/papers/2610.22602": 1792386063.7225976,
     "https://anthropic.com/news/public-benefit-fund": 1792435654.5068345,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
     "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
-    "https://huggingface.co/papers/2610.21459": 1792386063.7226546,
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": 1792472764.002343,
     "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production": 1792517026.2275033,
     "https://huggingface.co/papers/2610.22448": 1792435654.5068462,
@@ -145,9 +141,11 @@
     "https://openai.com/index/community-safety-report-and-new-protections-for-teens": 1793514808.3979864,
     "https://openai.com/index/fair-use-benefits-everyone": 1793426646.006895,
     "https://latent.space/p/arca": 1793556115.4632401,
-    "https://simonwillison.net/2026/Oct/31/datasette-llm": 1793514808.3979163,
-    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": 1793514808.3979368,
-    "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": 1793556115.4632013
+    "https://simonwillison.net/2026/Oct/31/datasette-llm": 1793601150.589338,
+    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": 1793601150.5893605,
+    "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": 1793556115.4632013,
+    "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first": 1793601150.589325,
+    "https://huggingface.co/papers/2610.41260": 1793601150.5893686
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -163,28 +161,19 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,314 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,343 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793514808.39792,
+      "last_sent": 1793601150.589343,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,314 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,343 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793514808.39792,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://github.com/esengine/DeepSeek-Reasonix": {
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "title": "DeepSeek-Reasonix: CLI-Based Autonomous Coding Agent for Complex SWE Tasks",
-      "normalized_title": "deepseek reasonix cli",
-      "content_hash": "",
-      "last_sent": 1792386063.7225754,
+      "last_sent": 1793601150.589343,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -233,57 +222,12 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://huggingface.co/papers/2610.21046": {
-      "url": "https://huggingface.co/papers/2610.21046",
-      "title": "PremiseCheck: Decoupled Verification Framework Slashes Hallucination Detection Latency and Cost",
-      "normalized_title": "premisecheck",
-      "content_hash": "",
-      "last_sent": 1792386063.722542,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:premisecheck": {
-      "url": "https://huggingface.co/papers/2610.21046",
-      "title": "PremiseCheck: Decoupled Verification Framework Slashes Hallucination Detection Latency and Cost",
-      "normalized_title": "premisecheck",
-      "content_hash": "",
-      "last_sent": 1792386063.722542,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/18/llm-echo": {
       "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
       "title": "llm-echo 0.5",
       "normalized_title": "llm",
       "content_hash": "",
       "last_sent": 1792472764.0023496,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:deepseek reasonix cli": {
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "title": "DeepSeek-Reasonix: CLI-Based Autonomous Coding Agent for Complex SWE Tasks",
-      "normalized_title": "deepseek reasonix cli",
-      "content_hash": "",
-      "last_sent": 1792386063.7225754,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.22602": {
-      "url": "https://huggingface.co/papers/2610.22602",
-      "title": "SABER Benchmark Identifies Critical Attribute-Object Binding Failures in Multimodal Retrieval",
-      "normalized_title": "saber benchmark identifies critical attribute",
-      "content_hash": "",
-      "last_sent": 1792386063.7225907,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:saber benchmark identifies critical attribute": {
-      "url": "https://huggingface.co/papers/2610.22602",
-      "title": "SABER Benchmark Identifies Critical Attribute-Object Binding Failures in Multimodal Retrieval",
-      "normalized_title": "saber benchmark identifies critical attribute",
-      "content_hash": "",
-      "last_sent": 1792386063.7225907,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -296,15 +240,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "title:anthropic establishes public benefit fund to direct corporate equity toward ai impact": {
-      "url": "https://anthropic.com/news/public-benefit-fund",
-      "title": "Anthropic Establishes Public Benefit Fund to Direct Corporate Equity Toward AI Impact",
-      "normalized_title": "anthropic establishes public benefit fund to direct corporate equity toward ai impact",
-      "content_hash": "",
-      "last_sent": 1792386063.7226036,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "title": "ZhuLinsen/daily_stock_analysis (67,390 stars)",
@@ -314,15 +249,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "title:daily_stock_analysis multi": {
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "title": "daily_stock_analysis: Multi-Market Agent Architecture for Automated Market Intelligence",
-      "normalized_title": "daily_stock_analysis multi",
-      "content_hash": "",
-      "last_sent": 1792386063.7226186,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://github.com/HKUDS/Vibe-Trading": {
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "title": "HKUDS/Vibe-Trading (37,362 stars)",
@@ -330,33 +256,6 @@
       "content_hash": "",
       "last_sent": 1793556115.4632614,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:hkuds vibe trading": {
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "title": "HKUDS Vibe-Trading: Agentic Framework for Algorithmic Strategy Backtesting",
-      "normalized_title": "hkuds vibe trading",
-      "content_hash": "",
-      "last_sent": 1792386063.7226303,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.21459": {
-      "url": "https://huggingface.co/papers/2610.21459",
-      "title": "Knowledge Transfer Probing Reveals Asymmetric Learning in Unified Multimodal Models",
-      "normalized_title": "knowledge transfer probing reveals asymmetric learning in unified multimodal models",
-      "content_hash": "",
-      "last_sent": 1792386063.7226458,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:knowledge transfer probing reveals asymmetric learning in unified multimodal models": {
-      "url": "https://huggingface.co/papers/2610.21459",
-      "title": "Knowledge Transfer Probing Reveals Asymmetric Learning in Unified Multimodal Models",
-      "normalized_title": "knowledge transfer probing reveals asymmetric learning in unified multimodal models",
-      "content_hash": "",
-      "last_sent": 1792386063.7226458,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": {
@@ -2803,7 +2702,7 @@
       "title": "datasette-llm 0.1a9",
       "normalized_title": "datasette",
       "content_hash": "",
-      "last_sent": 1793514808.3979125,
+      "last_sent": 1793601150.589333,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2812,7 +2711,7 @@
       "title": "datasette-llm 0.1a9",
       "normalized_title": "datasette",
       "content_hash": "",
-      "last_sent": 1793514808.3979125,
+      "last_sent": 1793601150.589333,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2821,7 +2720,7 @@
       "title": "How We Took Over ChatGPT Accounts",
       "normalized_title": "how we took over chatgpt accounts",
       "content_hash": "",
-      "last_sent": 1793514808.3979325,
+      "last_sent": 1793601150.5893555,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2830,7 +2729,7 @@
       "title": "How We Took Over ChatGPT Accounts",
       "normalized_title": "how we took over chatgpt accounts",
       "content_hash": "",
-      "last_sent": 1793514808.3979325,
+      "last_sent": 1793601150.5893555,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2850,6 +2749,42 @@
       "content_hash": "",
       "last_sent": 1793556115.463185,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first": {
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first",
+      "title": "If in doubt, delete the uv.lock file",
+      "normalized_title": "if in doubt delete the uv lock file",
+      "content_hash": "",
+      "last_sent": 1793601150.5893052,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:if in doubt delete the uv lock file": {
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first",
+      "title": "If in doubt, delete the uv.lock file",
+      "normalized_title": "if in doubt delete the uv lock file",
+      "content_hash": "",
+      "last_sent": 1793601150.5893052,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.41260": {
+      "url": "https://huggingface.co/papers/2610.41260",
+      "title": "SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement (1 upvotes)",
+      "normalized_title": "sketchdirector",
+      "content_hash": "",
+      "last_sent": 1793601150.5893645,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:sketchdirector": {
+      "url": "https://huggingface.co/papers/2610.41260",
+      "title": "SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement (1 upvotes)",
+      "normalized_title": "sketchdirector",
+      "content_hash": "",
+      "last_sent": 1793601150.5893645,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
