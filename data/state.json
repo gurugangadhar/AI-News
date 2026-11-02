@@ -1,15 +1,11 @@
 {
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793601150.58935,
-    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": 1792435654.5068583,
-    "https://simonwillison.net/2026/Oct/17/document-currentscript": 1792435654.5068214,
     "https://simonwillison.net/2026/Oct/18/llm-echo": 1792472764.0023549,
-    "https://anthropic.com/news/public-benefit-fund": 1792435654.5068345,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
     "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": 1792472764.002343,
     "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production": 1792517026.2275033,
-    "https://huggingface.co/papers/2610.22448": 1792435654.5068462,
     "https://arxiv.org/abs/2610.23921": 1792472764.002199,
     "https://openai.com/index/low-resource-programming-languages": 1792472764.0022244,
     "https://huggingface.co/papers/2610.24611": 1792472764.002246,
@@ -143,9 +139,15 @@
     "https://latent.space/p/arca": 1793556115.4632401,
     "https://simonwillison.net/2026/Oct/31/datasette-llm": 1793601150.589338,
     "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": 1793601150.5893605,
-    "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": 1793556115.4632013,
+    "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": 1793656287.612135,
     "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first": 1793601150.589325,
-    "https://huggingface.co/papers/2610.41260": 1793601150.5893686
+    "https://huggingface.co/papers/2610.41260": 1793601150.5893686,
+    "https://openai.com/index/lifeval": 1793656287.6120517,
+    "https://huggingface.co/papers/2610.36384": 1793656287.6120741,
+    "https://openai.com/index/grid-protectors-program": 1793656287.6120882,
+    "https://devin.ai/blog/hierarchical-budgets": 1793656287.6120975,
+    "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": 1793656287.6121135,
+    "https://openai.com/index/qodo-codex-plugin": 1793656287.6121254
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -186,42 +188,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration": {
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
-      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "normalized_title": "rtx spark ignites global celebration as new windows pcs arrive",
-      "content_hash": "",
-      "last_sent": 1792435654.5068526,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/17/document-currentscript": {
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
-      "title": "Inline rendering with document​.currentScript",
-      "normalized_title": "inline rendering with document currentscript",
-      "content_hash": "",
-      "last_sent": 1792435654.506811,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:inline rendering with document currentscript": {
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
-      "title": "Inline rendering with document​.currentScript",
-      "normalized_title": "inline rendering with document currentscript",
-      "content_hash": "",
-      "last_sent": 1792435654.506811,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:rtx spark ignites global celebration as new windows pcs arrive": {
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
-      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "normalized_title": "rtx spark ignites global celebration as new windows pcs arrive",
-      "content_hash": "",
-      "last_sent": 1792435654.5068526,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/18/llm-echo": {
       "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
       "title": "llm-echo 0.5",
@@ -229,15 +195,6 @@
       "content_hash": "",
       "last_sent": 1792472764.0023496,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://anthropic.com/news/public-benefit-fund": {
-      "url": "https://anthropic.com/news/public-benefit-fund",
-      "title": "Investing in the public benefit",
-      "normalized_title": "investing in the public benefit",
-      "content_hash": "",
-      "last_sent": 1792435654.5068293,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
@@ -291,33 +248,6 @@
       "normalized_title": "nvidia advances agentic security for media from european public service broadcasting to global content production",
       "content_hash": "",
       "last_sent": 1792517026.2274935,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:investing in the public benefit": {
-      "url": "https://anthropic.com/news/public-benefit-fund",
-      "title": "Investing in the public benefit",
-      "normalized_title": "investing in the public benefit",
-      "content_hash": "",
-      "last_sent": 1792435654.5068293,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.22448": {
-      "url": "https://huggingface.co/papers/2610.22448",
-      "title": "Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards (1 upvotes)",
-      "normalized_title": "lean4agenticrl advancing agentic rl with verifiable multi",
-      "content_hash": "",
-      "last_sent": 1792435654.5068386,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:lean4agenticrl advancing agentic rl with verifiable multi": {
-      "url": "https://huggingface.co/papers/2610.22448",
-      "title": "Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards (1 upvotes)",
-      "normalized_title": "lean4agenticrl advancing agentic rl with verifiable multi",
-      "content_hash": "",
-      "last_sent": 1792435654.5068386,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2738,8 +2668,8 @@
       "title": "Quoting Kyle Kingsbury",
       "normalized_title": "quoting kyle kingsbury",
       "content_hash": "",
-      "last_sent": 1793556115.463185,
-      "digest_type": "evening",
+      "last_sent": 1793656287.6121304,
+      "digest_type": "morning",
       "score": 0.0
     },
     "title:quoting kyle kingsbury": {
@@ -2747,8 +2677,8 @@
       "title": "Quoting Kyle Kingsbury",
       "normalized_title": "quoting kyle kingsbury",
       "content_hash": "",
-      "last_sent": 1793556115.463185,
-      "digest_type": "evening",
+      "last_sent": 1793656287.6121304,
+      "digest_type": "morning",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first": {
@@ -2784,6 +2714,114 @@
       "normalized_title": "sketchdirector",
       "content_hash": "",
       "last_sent": 1793601150.5893645,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/lifeval": {
+      "url": "https://openai.com/index/lifeval",
+      "title": "LifeVal",
+      "normalized_title": "lifeval",
+      "content_hash": "",
+      "last_sent": 1793656287.6120026,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:lifeval": {
+      "url": "https://openai.com/index/lifeval",
+      "title": "LifeVal",
+      "normalized_title": "lifeval",
+      "content_hash": "",
+      "last_sent": 1793656287.6120026,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2610.36384": {
+      "url": "https://huggingface.co/papers/2610.36384",
+      "title": "SOMA: A Benchmark for Fine-Grained Egocentric Behavior and Body-Motion Understanding (4 upvotes)",
+      "normalized_title": "soma a benchmark for fine grained egocentric behavior and body",
+      "content_hash": "",
+      "last_sent": 1793656287.612062,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:soma a benchmark for fine grained egocentric behavior and body": {
+      "url": "https://huggingface.co/papers/2610.36384",
+      "title": "SOMA: A Benchmark for Fine-Grained Egocentric Behavior and Body-Motion Understanding (4 upvotes)",
+      "normalized_title": "soma a benchmark for fine grained egocentric behavior and body",
+      "content_hash": "",
+      "last_sent": 1793656287.612062,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/grid-protectors-program": {
+      "url": "https://openai.com/index/grid-protectors-program",
+      "title": "Introducing the Grid Protectors Program",
+      "normalized_title": "introducing the grid protectors program",
+      "content_hash": "",
+      "last_sent": 1793656287.6120837,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:introducing the grid protectors program": {
+      "url": "https://openai.com/index/grid-protectors-program",
+      "title": "Introducing the Grid Protectors Program",
+      "normalized_title": "introducing the grid protectors program",
+      "content_hash": "",
+      "last_sent": 1793656287.6120837,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://devin.ai/blog/hierarchical-budgets": {
+      "url": "https://devin.ai/blog/hierarchical-budgets",
+      "title": "Hierarchical budgets: manage AI spend the way your company is organized",
+      "normalized_title": "hierarchical budgets",
+      "content_hash": "",
+      "last_sent": 1793656287.612093,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:hierarchical budgets": {
+      "url": "https://devin.ai/blog/hierarchical-budgets",
+      "title": "Hierarchical budgets: manage AI spend the way your company is organized",
+      "normalized_title": "hierarchical budgets",
+      "content_hash": "",
+      "last_sent": 1793656287.612093,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": {
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence",
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "normalized_title": "the u s census bureau and super intelligence",
+      "content_hash": "",
+      "last_sent": 1793656287.612102,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:the u s census bureau and super intelligence": {
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence",
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "normalized_title": "the u s census bureau and super intelligence",
+      "content_hash": "",
+      "last_sent": 1793656287.612102,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/qodo-codex-plugin": {
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "title": "Qodo builds context into AI code review with Codex",
+      "normalized_title": "qodo builds context into ai code review with codex",
+      "content_hash": "",
+      "last_sent": 1793656287.6121202,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:qodo builds context into ai code review with codex": {
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "title": "Qodo builds context into AI code review with Codex",
+      "normalized_title": "qodo builds context into ai code review with codex",
+      "content_hash": "",
+      "last_sent": 1793656287.6121202,
       "digest_type": "morning",
       "score": 0.0
     }
