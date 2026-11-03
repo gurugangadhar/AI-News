@@ -3,13 +3,7 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793689463.6893954,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
     "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
-    "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production": 1792517026.2275033,
     "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": 1792559148.5924382,
-    "https://huggingface.co/blog/allenai/fairstress": 1792517026.2274706,
-    "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity": 1792517026.227487,
-    "https://huggingface.co/blog/ibm-research/altk-evolve-bc": 1792517026.2275276,
-    "https://latent.space/p/ainews-not-much-happened-today-f09": 1792517026.227554,
-    "https://openai.com/index/ted-taylor-restaurant": 1792517026.2275643,
     "https://huggingface.co/blog/nvidia/cosmos3-h-dreams": 1792559148.592323,
     "https://latent.space/p/sfcompute2": 1792559148.592348,
     "https://latent.space/p/tenex": 1792645768.9899867,
@@ -133,7 +127,7 @@
     "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": 1793656287.612135,
     "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first": 1793601150.589325,
     "https://huggingface.co/papers/2610.41260": 1793601150.5893686,
-    "https://openai.com/index/lifeval": 1793656287.6120517,
+    "https://openai.com/index/lifeval": 1793734813.632844,
     "https://huggingface.co/papers/2610.36384": 1793656287.6120741,
     "https://openai.com/index/grid-protectors-program": 1793656287.6120882,
     "https://devin.ai/blog/hierarchical-budgets": 1793656287.6120975,
@@ -146,20 +140,18 @@
     "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of": 1793689463.6894166,
     "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": 1793689463.6894343,
     "https://openai.com/index/scaling-git-at-openai": 1793689463.6894717,
-    "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": 1793689463.689485
+    "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": 1793689463.689485,
+    "https://huggingface.co/blog/cwe-bench": 1793734813.6327865,
+    "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora": 1793734813.632814,
+    "https://huggingface.co/blog/ibm-research/palette-deck-building": 1793734813.6328325,
+    "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity": 1793734813.6328566,
+    "https://openai.com/index/heimstaden": 1793734813.6328702,
+    "https://openai.com/index/accelerating-engineering-for-the-physical-world": 1793734813.6328816,
+    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights": 1793734813.6329017
   },
   "seenTweets": {},
   "seenVideos": {},
   "sentStories": {
-    "title:not much happened today": {
-      "url": "https://latent.space/p/ainews-not-much-happened-today-f09",
-      "title": "[AINews] not much happened today",
-      "normalized_title": "not much happened today",
-      "content_hash": "",
-      "last_sent": 1792517026.2275503,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "title": "TencentCloud/TencentDB-Agent-Memory (30,365 stars)",
@@ -196,24 +188,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production": {
-      "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production",
-      "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-      "normalized_title": "nvidia advances agentic security for media from european public service broadcasting to global content production",
-      "content_hash": "",
-      "last_sent": 1792517026.2274935,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:nvidia advances agentic security for media from european public service broadcasting to global content production": {
-      "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production",
-      "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-      "normalized_title": "nvidia advances agentic security for media from european public service broadcasting to global content production",
-      "content_hash": "",
-      "last_sent": 1792517026.2274935,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": {
       "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
       "title": "My obituary for programming",
@@ -230,87 +204,6 @@
       "content_hash": "",
       "last_sent": 1792559148.5924313,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/allenai/fairstress": {
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "normalized_title": "fairstress a deeper evaluation of fairness in llm decision",
-      "content_hash": "",
-      "last_sent": 1792517026.2274423,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:fairstress a deeper evaluation of fairness in llm decision": {
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "normalized_title": "fairstress a deeper evaluation of fairness in llm decision",
-      "content_hash": "",
-      "last_sent": 1792517026.2274423,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity": {
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
-      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-      "normalized_title": "how 3 java champions are using github copilot for increased productivity",
-      "content_hash": "",
-      "last_sent": 1792517026.2274804,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:how 3 java champions are using github copilot for increased productivity": {
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
-      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-      "normalized_title": "how 3 java champions are using github copilot for increased productivity",
-      "content_hash": "",
-      "last_sent": 1792517026.2274804,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/ibm-research/altk-evolve-bc": {
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "normalized_title": "altk evolve how learned memory tops the τ²",
-      "content_hash": "",
-      "last_sent": 1792517026.2275126,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:altk evolve how learned memory tops the τ²": {
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "normalized_title": "altk evolve how learned memory tops the τ²",
-      "content_hash": "",
-      "last_sent": 1792517026.2275126,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-not-much-happened-today-f09": {
-      "url": "https://latent.space/p/ainews-not-much-happened-today-f09",
-      "title": "[AINews] not much happened today",
-      "normalized_title": "not much happened today",
-      "content_hash": "",
-      "last_sent": 1792517026.2275503,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://openai.com/index/ted-taylor-restaurant": {
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "normalized_title": "franchisee reconciles cash in 94 less time with chatgpt work",
-      "content_hash": "",
-      "last_sent": 1792517026.2275584,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:franchisee reconciles cash in 94 less time with chatgpt work": {
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "normalized_title": "franchisee reconciles cash in 94 less time with chatgpt work",
-      "content_hash": "",
-      "last_sent": 1792517026.2275584,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://huggingface.co/blog/nvidia/cosmos3-h-dreams": {
@@ -2559,8 +2452,8 @@
       "title": "LifeVal",
       "normalized_title": "lifeval",
       "content_hash": "",
-      "last_sent": 1793656287.6120026,
-      "digest_type": "morning",
+      "last_sent": 1793734813.632839,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:lifeval": {
@@ -2568,8 +2461,8 @@
       "title": "LifeVal",
       "normalized_title": "lifeval",
       "content_hash": "",
-      "last_sent": 1793656287.6120026,
-      "digest_type": "morning",
+      "last_sent": 1793734813.632839,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://huggingface.co/papers/2610.36384": {
@@ -2804,6 +2697,132 @@
       "content_hash": "",
       "last_sent": 1793689463.6894772,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/cwe-bench": {
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "normalized_title": "cwe bench v2 more coverage quality and transparency",
+      "content_hash": "",
+      "last_sent": 1793734813.632761,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:cwe bench v2 more coverage quality and transparency": {
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "normalized_title": "cwe bench v2 more coverage quality and transparency",
+      "content_hash": "",
+      "last_sent": 1793734813.632761,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora": {
+      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora",
+      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "normalized_title": "building legal agents when you can t see the data jacob lauritzen cto of legora",
+      "content_hash": "",
+      "last_sent": 1793734813.6327994,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:building legal agents when you can t see the data jacob lauritzen cto of legora": {
+      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora",
+      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "normalized_title": "building legal agents when you can t see the data jacob lauritzen cto of legora",
+      "content_hash": "",
+      "last_sent": 1793734813.6327994,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/ibm-research/palette-deck-building": {
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "normalized_title": "palette",
+      "content_hash": "",
+      "last_sent": 1793734813.6328266,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:palette": {
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "normalized_title": "palette",
+      "content_hash": "",
+      "last_sent": 1793734813.6328266,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity": {
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "normalized_title": "agentic cheminformatics with google antigravity",
+      "content_hash": "",
+      "last_sent": 1793734813.6328497,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:agentic cheminformatics with google antigravity": {
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "normalized_title": "agentic cheminformatics with google antigravity",
+      "content_hash": "",
+      "last_sent": 1793734813.6328497,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/heimstaden": {
+      "url": "https://openai.com/index/heimstaden",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "normalized_title": "heimstaden is changing residential real estate management with ai",
+      "content_hash": "",
+      "last_sent": 1793734813.6328633,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:heimstaden is changing residential real estate management with ai": {
+      "url": "https://openai.com/index/heimstaden",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "normalized_title": "heimstaden is changing residential real estate management with ai",
+      "content_hash": "",
+      "last_sent": 1793734813.6328633,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/accelerating-engineering-for-the-physical-world": {
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "title": "Accelerating engineering for the physical world",
+      "normalized_title": "accelerating engineering for the physical world",
+      "content_hash": "",
+      "last_sent": 1793734813.6328764,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:accelerating engineering for the physical world": {
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "title": "Accelerating engineering for the physical world",
+      "normalized_title": "accelerating engineering for the physical world",
+      "content_hash": "",
+      "last_sent": 1793734813.6328764,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights": {
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "normalized_title": "qwen 3 8 27b on my laptop can interpret model weights too",
+      "content_hash": "",
+      "last_sent": 1793734813.6328928,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:qwen 3 8 27b on my laptop can interpret model weights too": {
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "normalized_title": "qwen 3 8 27b on my laptop can interpret model weights too",
+      "content_hash": "",
+      "last_sent": 1793734813.6328928,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
