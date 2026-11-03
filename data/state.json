@@ -1,19 +1,10 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793601150.58935,
-    "https://simonwillison.net/2026/Oct/18/llm-echo": 1792472764.0023549,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793689463.6893954,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
     "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
-    "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": 1792472764.002343,
     "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production": 1792517026.2275033,
-    "https://arxiv.org/abs/2610.23921": 1792472764.002199,
-    "https://openai.com/index/low-resource-programming-languages": 1792472764.0022244,
-    "https://huggingface.co/papers/2610.24611": 1792472764.002246,
     "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": 1792559148.5924382,
-    "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code": 1792472764.0022786,
-    "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center": 1792472764.0022933,
-    "https://huggingface.co/blog/hf-torchneuron": 1792472764.002305,
-    "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help": 1792472764.0023265,
     "https://huggingface.co/blog/allenai/fairstress": 1792517026.2274706,
     "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity": 1792517026.227487,
     "https://huggingface.co/blog/ibm-research/altk-evolve-bc": 1792517026.2275276,
@@ -147,7 +138,15 @@
     "https://openai.com/index/grid-protectors-program": 1793656287.6120882,
     "https://devin.ai/blog/hierarchical-budgets": 1793656287.6120975,
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": 1793656287.6121135,
-    "https://openai.com/index/qodo-codex-plugin": 1793656287.6121254
+    "https://openai.com/index/qodo-codex-plugin": 1793656287.6121254,
+    "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora": 1793689463.689341,
+    "https://huggingface.co/papers/2611.01484": 1793689463.6893623,
+    "https://simonwillison.net/2026/Nov/2/llm": 1793689463.6893747,
+    "https://simonwillison.net/2026/Nov/3/october-newsletter": 1793689463.6893835,
+    "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of": 1793689463.6894166,
+    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": 1793689463.6894343,
+    "https://openai.com/index/scaling-git-at-openai": 1793689463.6894717,
+    "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": 1793689463.689485
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -163,37 +162,19 @@
     },
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,343 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,365 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793601150.589343,
+      "last_sent": 1793689463.6893883,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,343 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,365 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793601150.589343,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:llm": {
-      "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
-      "title": "llm-echo 0.5",
-      "normalized_title": "llm",
-      "content_hash": "",
-      "last_sent": 1792472764.0023496,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/18/llm-echo": {
-      "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
-      "title": "llm-echo 0.5",
-      "normalized_title": "llm",
-      "content_hash": "",
-      "last_sent": 1792472764.0023496,
+      "last_sent": 1793689463.6893883,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -215,24 +196,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": {
-      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
-      "title": "llm-tools-datasette 0.1.1",
-      "normalized_title": "llm tools",
-      "content_hash": "",
-      "last_sent": 1792472764.0023358,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:llm tools": {
-      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
-      "title": "llm-tools-datasette 0.1.1",
-      "normalized_title": "llm tools",
-      "content_hash": "",
-      "last_sent": 1792472764.0023358,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production": {
       "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production",
       "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
@@ -251,60 +214,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://arxiv.org/abs/2610.23921": {
-      "url": "https://arxiv.org/abs/2610.23921",
-      "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
-      "normalized_title": "doing less with more a first",
-      "content_hash": "",
-      "last_sent": 1792472764.0021698,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:doing less with more a first": {
-      "url": "https://arxiv.org/abs/2610.23921",
-      "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
-      "normalized_title": "doing less with more a first",
-      "content_hash": "",
-      "last_sent": 1792472764.0021698,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/low-resource-programming-languages": {
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "title": "Advancing coding in low‑resource programming languages",
-      "normalized_title": "advancing coding in low resource programming languages",
-      "content_hash": "",
-      "last_sent": 1792472764.0022113,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:advancing coding in low resource programming languages": {
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "title": "Advancing coding in low‑resource programming languages",
-      "normalized_title": "advancing coding in low resource programming languages",
-      "content_hash": "",
-      "last_sent": 1792472764.0022113,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.24611": {
-      "url": "https://huggingface.co/papers/2610.24611",
-      "title": "HSPR: Recovering Software-Agent Benchmark Scores via Hierarchical Posterior Inference (1 upvotes)",
-      "normalized_title": "hspr recovering software",
-      "content_hash": "",
-      "last_sent": 1792472764.002235,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:hspr recovering software": {
-      "url": "https://huggingface.co/papers/2610.24611",
-      "title": "HSPR: Recovering Software-Agent Benchmark Scores via Hierarchical Posterior Inference (1 upvotes)",
-      "normalized_title": "hspr recovering software",
-      "content_hash": "",
-      "last_sent": 1792472764.002235,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": {
       "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
       "title": "My obituary for programming",
@@ -320,78 +229,6 @@
       "normalized_title": "my obituary for programming",
       "content_hash": "",
       "last_sent": 1792559148.5924313,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code": {
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
-      "title": "How to continue a GitHub Copilot app session in VS Code",
-      "normalized_title": "how to continue a github copilot app session in vs code",
-      "content_hash": "",
-      "last_sent": 1792472764.0022697,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:how to continue a github copilot app session in vs code": {
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
-      "title": "How to continue a GitHub Copilot app session in VS Code",
-      "normalized_title": "how to continue a github copilot app session in vs code",
-      "content_hash": "",
-      "last_sent": 1792472764.0022697,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center": {
-      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
-      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "normalized_title": "spain",
-      "content_hash": "",
-      "last_sent": 1792472764.0022874,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:spain": {
-      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
-      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "normalized_title": "spain",
-      "content_hash": "",
-      "last_sent": 1792472764.0022874,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/hf-torchneuron": {
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "normalized_title": "torchneuron",
-      "content_hash": "",
-      "last_sent": 1792472764.0022993,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:torchneuron": {
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "normalized_title": "torchneuron",
-      "content_hash": "",
-      "last_sent": 1792472764.0022993,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help": {
-      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help",
-      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-      "normalized_title": "germany wants to lead the world in industrial ai",
-      "content_hash": "",
-      "last_sent": 1792472764.002317,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:germany wants to lead the world in industrial ai": {
-      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help",
-      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-      "normalized_title": "germany wants to lead the world in industrial ai",
-      "content_hash": "",
-      "last_sent": 1792472764.002317,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2822,6 +2659,150 @@
       "normalized_title": "qodo builds context into ai code review with codex",
       "content_hash": "",
       "last_sent": 1793656287.6121202,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora": {
+      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora",
+      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "normalized_title": "building ai for lawyers jacob lauritzen cto of legora",
+      "content_hash": "",
+      "last_sent": 1793689463.689318,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:building ai for lawyers jacob lauritzen cto of legora": {
+      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora",
+      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "normalized_title": "building ai for lawyers jacob lauritzen cto of legora",
+      "content_hash": "",
+      "last_sent": 1793689463.689318,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.01484": {
+      "url": "https://huggingface.co/papers/2611.01484",
+      "title": "CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents (6 upvotes)",
+      "normalized_title": "crossswe benchmarking cross",
+      "content_hash": "",
+      "last_sent": 1793689463.6893535,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:crossswe benchmarking cross": {
+      "url": "https://huggingface.co/papers/2611.01484",
+      "title": "CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents (6 upvotes)",
+      "normalized_title": "crossswe benchmarking cross",
+      "content_hash": "",
+      "last_sent": 1793689463.6893535,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/2/llm": {
+      "url": "https://simonwillison.net/2026/Nov/2/llm",
+      "title": "llm 0.37",
+      "normalized_title": "llm 0 37",
+      "content_hash": "",
+      "last_sent": 1793689463.6893702,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:llm 0 37": {
+      "url": "https://simonwillison.net/2026/Nov/2/llm",
+      "title": "llm 0.37",
+      "normalized_title": "llm 0 37",
+      "content_hash": "",
+      "last_sent": 1793689463.6893702,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/3/october-newsletter": {
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter",
+      "title": "October sponsors-only newsletter",
+      "normalized_title": "october sponsors",
+      "content_hash": "",
+      "last_sent": 1793689463.689379,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:october sponsors": {
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter",
+      "title": "October sponsors-only newsletter",
+      "normalized_title": "october sponsors",
+      "content_hash": "",
+      "last_sent": 1793689463.689379,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of": {
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of",
+      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "normalized_title": "llms can read write neural network weights weight space programming cuts autoresearch out of the rsi loop",
+      "content_hash": "",
+      "last_sent": 1793689463.6894035,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:llms can read write neural network weights weight space programming cuts autoresearch out of the rsi loop": {
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of",
+      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "normalized_title": "llms can read write neural network weights weight space programming cuts autoresearch out of the rsi loop",
+      "content_hash": "",
+      "last_sent": 1793689463.6894035,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": {
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "normalized_title": "rewarding defenders with bigger bug bounties",
+      "content_hash": "",
+      "last_sent": 1793689463.6894286,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:rewarding defenders with bigger bug bounties": {
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "normalized_title": "rewarding defenders with bigger bug bounties",
+      "content_hash": "",
+      "last_sent": 1793689463.6894286,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/scaling-git-at-openai": {
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "title": "Scaling Git at OpenAI",
+      "normalized_title": "scaling git at openai",
+      "content_hash": "",
+      "last_sent": 1793689463.689465,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:scaling git at openai": {
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "title": "Scaling Git at OpenAI",
+      "normalized_title": "scaling git at openai",
+      "content_hash": "",
+      "last_sent": 1793689463.689465,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": {
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "normalized_title": "i discovered a sound that leaks your exact location",
+      "content_hash": "",
+      "last_sent": 1793689463.6894772,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:i discovered a sound that leaks your exact location": {
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "normalized_title": "i discovered a sound that leaks your exact location",
+      "content_hash": "",
+      "last_sent": 1793689463.6894772,
       "digest_type": "morning",
       "score": 0.0
     }
