@@ -3,12 +3,8 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793689463.6893954,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
     "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
-    "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": 1792559148.5924382,
-    "https://huggingface.co/blog/nvidia/cosmos3-h-dreams": 1792559148.592323,
-    "https://latent.space/p/sfcompute2": 1792559148.592348,
     "https://latent.space/p/tenex": 1792645768.9899867,
     "https://simonwillison.net/2026/Oct/20/battledrones": 1792645768.990013,
-    "https://openai.com/index/terminal-x": 1792559148.5924127,
     "https://simonwillison.net/2026/Oct/20/emudhra-certificates": 1792645768.99004,
     "https://huggingface.co/blog/nvidia/kumo-forecast": 1792603494.0311878,
     "https://huggingface.co/blog/ibm-granite/granite-speech-5": 1792603494.0312088,
@@ -133,21 +129,25 @@
     "https://devin.ai/blog/hierarchical-budgets": 1793656287.6120975,
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": 1793656287.6121135,
     "https://openai.com/index/qodo-codex-plugin": 1793656287.6121254,
-    "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora": 1793689463.689341,
+    "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora": 1793774860.245866,
     "https://huggingface.co/papers/2611.01484": 1793689463.6893623,
-    "https://simonwillison.net/2026/Nov/2/llm": 1793689463.6893747,
-    "https://simonwillison.net/2026/Nov/3/october-newsletter": 1793689463.6893835,
-    "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of": 1793689463.6894166,
+    "https://simonwillison.net/2026/Nov/2/llm": 1793774860.245892,
+    "https://simonwillison.net/2026/Nov/3/october-newsletter": 1793774860.2459023,
+    "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of": 1793774860.2459426,
     "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": 1793689463.6894343,
     "https://openai.com/index/scaling-git-at-openai": 1793689463.6894717,
-    "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": 1793689463.689485,
+    "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": 1793774860.2459996,
     "https://huggingface.co/blog/cwe-bench": 1793734813.6327865,
     "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora": 1793734813.632814,
     "https://huggingface.co/blog/ibm-research/palette-deck-building": 1793734813.6328325,
     "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity": 1793734813.6328566,
     "https://openai.com/index/heimstaden": 1793734813.6328702,
     "https://openai.com/index/accelerating-engineering-for-the-physical-world": 1793734813.6328816,
-    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights": 1793734813.6329017
+    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights": 1793734813.6329017,
+    "https://huggingface.co/papers/2611.05255": 1793774860.245883,
+    "https://huggingface.co/papers/2611.02017": 1793774860.24592,
+    "https://openai.com/index/cisco-cyber": 1793774860.2459588,
+    "https://blogs.nvidia.com/blog/ai-semiconductor-fabs": 1793774860.2459831
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -188,60 +188,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": {
-      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
-      "title": "My obituary for programming",
-      "normalized_title": "my obituary for programming",
-      "content_hash": "",
-      "last_sent": 1792559148.5924313,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:my obituary for programming": {
-      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
-      "title": "My obituary for programming",
-      "normalized_title": "my obituary for programming",
-      "content_hash": "",
-      "last_sent": 1792559148.5924313,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/nvidia/cosmos3-h-dreams": {
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "normalized_title": "nvidia cosmos3 h dreams",
-      "content_hash": "",
-      "last_sent": 1792559148.5923016,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:nvidia cosmos3 h dreams": {
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "normalized_title": "nvidia cosmos3 h dreams",
-      "content_hash": "",
-      "last_sent": 1792559148.5923016,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/sfcompute2": {
-      "url": "https://latent.space/p/sfcompute2",
-      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "normalized_title": "the programmable data center evan conrad sf compute",
-      "content_hash": "",
-      "last_sent": 1792559148.592333,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:the programmable data center evan conrad sf compute": {
-      "url": "https://latent.space/p/sfcompute2",
-      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "normalized_title": "the programmable data center evan conrad sf compute",
-      "content_hash": "",
-      "last_sent": 1792559148.592333,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://latent.space/p/tenex": {
       "url": "https://latent.space/p/tenex",
       "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
@@ -275,24 +221,6 @@
       "normalized_title": "battle drones a vibe coded rts with audio",
       "content_hash": "",
       "last_sent": 1792645768.9900022,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/terminal-x": {
-      "url": "https://openai.com/index/terminal-x",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "normalized_title": "terminal x matches senior investor judgment 88 6 with gpt",
-      "content_hash": "",
-      "last_sent": 1792559148.592405,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:terminal x matches senior investor judgment 88 6 with gpt": {
-      "url": "https://openai.com/index/terminal-x",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "normalized_title": "terminal x matches senior investor judgment 88 6 with gpt",
-      "content_hash": "",
-      "last_sent": 1792559148.592405,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2560,7 +2488,7 @@
       "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
       "normalized_title": "building ai for lawyers jacob lauritzen cto of legora",
       "content_hash": "",
-      "last_sent": 1793689463.689318,
+      "last_sent": 1793774860.2458422,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2569,7 +2497,7 @@
       "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
       "normalized_title": "building ai for lawyers jacob lauritzen cto of legora",
       "content_hash": "",
-      "last_sent": 1793689463.689318,
+      "last_sent": 1793774860.2458422,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2596,7 +2524,7 @@
       "title": "llm 0.37",
       "normalized_title": "llm 0 37",
       "content_hash": "",
-      "last_sent": 1793689463.6893702,
+      "last_sent": 1793774860.2458875,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2605,7 +2533,7 @@
       "title": "llm 0.37",
       "normalized_title": "llm 0 37",
       "content_hash": "",
-      "last_sent": 1793689463.6893702,
+      "last_sent": 1793774860.2458875,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2614,7 +2542,7 @@
       "title": "October sponsors-only newsletter",
       "normalized_title": "october sponsors",
       "content_hash": "",
-      "last_sent": 1793689463.689379,
+      "last_sent": 1793774860.2458978,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2623,7 +2551,7 @@
       "title": "October sponsors-only newsletter",
       "normalized_title": "october sponsors",
       "content_hash": "",
-      "last_sent": 1793689463.689379,
+      "last_sent": 1793774860.2458978,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2632,7 +2560,7 @@
       "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
       "normalized_title": "llms can read write neural network weights weight space programming cuts autoresearch out of the rsi loop",
       "content_hash": "",
-      "last_sent": 1793689463.6894035,
+      "last_sent": 1793774860.2459304,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2641,7 +2569,7 @@
       "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
       "normalized_title": "llms can read write neural network weights weight space programming cuts autoresearch out of the rsi loop",
       "content_hash": "",
-      "last_sent": 1793689463.6894035,
+      "last_sent": 1793774860.2459304,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2686,7 +2614,7 @@
       "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
       "normalized_title": "i discovered a sound that leaks your exact location",
       "content_hash": "",
-      "last_sent": 1793689463.6894772,
+      "last_sent": 1793774860.2459915,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2695,7 +2623,7 @@
       "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
       "normalized_title": "i discovered a sound that leaks your exact location",
       "content_hash": "",
-      "last_sent": 1793689463.6894772,
+      "last_sent": 1793774860.2459915,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2823,6 +2751,78 @@
       "content_hash": "",
       "last_sent": 1793734813.6328928,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.05255": {
+      "url": "https://huggingface.co/papers/2611.05255",
+      "title": "Going Deeper With Memories",
+      "normalized_title": "going deeper with memories",
+      "content_hash": "",
+      "last_sent": 1793774860.245878,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:going deeper with memories": {
+      "url": "https://huggingface.co/papers/2611.05255",
+      "title": "Going Deeper With Memories",
+      "normalized_title": "going deeper with memories",
+      "content_hash": "",
+      "last_sent": 1793774860.245878,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.02017": {
+      "url": "https://huggingface.co/papers/2611.02017",
+      "title": "Switch-SWE: Do Coding Agents Hold Focus When Switching Between Unfinished Tasks? (1 upvotes)",
+      "normalized_title": "switch swe do coding agents hold focus when switching between unfinished tasks",
+      "content_hash": "",
+      "last_sent": 1793774860.2459085,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:switch swe do coding agents hold focus when switching between unfinished tasks": {
+      "url": "https://huggingface.co/papers/2611.02017",
+      "title": "Switch-SWE: Do Coding Agents Hold Focus When Switching Between Unfinished Tasks? (1 upvotes)",
+      "normalized_title": "switch swe do coding agents hold focus when switching between unfinished tasks",
+      "content_hash": "",
+      "last_sent": 1793774860.2459085,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/cisco-cyber": {
+      "url": "https://openai.com/index/cisco-cyber",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "normalized_title": "how cisco defends at machine speed with openai",
+      "content_hash": "",
+      "last_sent": 1793774860.245953,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how cisco defends at machine speed with openai": {
+      "url": "https://openai.com/index/cisco-cyber",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "normalized_title": "how cisco defends at machine speed with openai",
+      "content_hash": "",
+      "last_sent": 1793774860.245953,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/ai-semiconductor-fabs": {
+      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs",
+      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "normalized_title": "ai is changing how semiconductor fabs work",
+      "content_hash": "",
+      "last_sent": 1793774860.2459705,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:ai is changing how semiconductor fabs work": {
+      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs",
+      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "normalized_title": "ai is changing how semiconductor fabs work",
+      "content_hash": "",
+      "last_sent": 1793774860.2459705,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
