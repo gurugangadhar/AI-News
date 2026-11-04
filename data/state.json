@@ -6,12 +6,7 @@
     "https://latent.space/p/tenex": 1792645768.9899867,
     "https://simonwillison.net/2026/Oct/20/battledrones": 1792645768.990013,
     "https://simonwillison.net/2026/Oct/20/emudhra-certificates": 1792645768.99004,
-    "https://huggingface.co/blog/nvidia/kumo-forecast": 1792603494.0311878,
-    "https://huggingface.co/blog/ibm-granite/granite-speech-5": 1792603494.0312088,
-    "https://latent.space/p/ainews-deepseek-deepinfer-open-source": 1792603494.031235,
-    "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents": 1792603494.031264,
     "https://latent.space/p/claude-mods": 1792689737.6637168,
-    "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": 1792603494.0312932,
     "https://simonwillison.net/2026/Oct/21/panache": 1792689737.6637743,
     "https://huggingface.co/blog/nvidia/kumo-relational": 1792645768.9899192,
     "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": 1792645768.9899418,
@@ -139,15 +134,22 @@
     "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": 1793774860.2459996,
     "https://huggingface.co/blog/cwe-bench": 1793734813.6327865,
     "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora": 1793734813.632814,
-    "https://huggingface.co/blog/ibm-research/palette-deck-building": 1793734813.6328325,
-    "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity": 1793734813.6328566,
+    "https://huggingface.co/blog/ibm-research/palette-deck-building": 1793822227.1366277,
+    "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity": 1793822227.1366472,
     "https://openai.com/index/heimstaden": 1793734813.6328702,
-    "https://openai.com/index/accelerating-engineering-for-the-physical-world": 1793734813.6328816,
+    "https://openai.com/index/accelerating-engineering-for-the-physical-world": 1793822227.1366713,
     "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights": 1793734813.6329017,
     "https://huggingface.co/papers/2611.05255": 1793774860.245883,
     "https://huggingface.co/papers/2611.02017": 1793774860.24592,
     "https://openai.com/index/cisco-cyber": 1793774860.2459588,
-    "https://blogs.nvidia.com/blog/ai-semiconductor-fabs": 1793774860.2459831
+    "https://blogs.nvidia.com/blog/ai-semiconductor-fabs": 1793774860.2459831,
+    "https://devblogs.microsoft.com/agent-framework/give-your-coding-agent-a-head-start-with-microsoft-agent-framework-skills-for-net-and-python": 1793822227.1365857,
+    "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas": 1793822227.136599,
+    "https://simonwillison.net/2026/Nov/4/datasette-llm": 1793822227.1366065,
+    "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai": 1793822227.1366177,
+    "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": 1793822227.1366374,
+    "https://openai.com/index/daybreak-red-aws-govcloud": 1793822227.1366622,
+    "https://simonwillison.net/2026/Nov/3/llm": 1793822227.1366792
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -242,78 +244,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/blog/nvidia/kumo-forecast": {
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "normalized_title": "nvidia kumo forecast combines pretrained time",
-      "content_hash": "",
-      "last_sent": 1792603494.0311632,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:nvidia kumo forecast combines pretrained time": {
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "normalized_title": "nvidia kumo forecast combines pretrained time",
-      "content_hash": "",
-      "last_sent": 1792603494.0311632,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/ibm-granite/granite-speech-5": {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "normalized_title": "granite speech 5 0 transcribe translate and attribute more accurately and faster",
-      "content_hash": "",
-      "last_sent": 1792603494.0311975,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:granite speech 5 0 transcribe translate and attribute more accurately and faster": {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "normalized_title": "granite speech 5 0 transcribe translate and attribute more accurately and faster",
-      "content_hash": "",
-      "last_sent": 1792603494.0311975,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-deepseek-deepinfer-open-source": {
-      "url": "https://latent.space/p/ainews-deepseek-deepinfer-open-source",
-      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-      "normalized_title": "deepseek deepinfer open source sota inference running 155t toks day cluster making 22m day at 80 margin for a 81 day payback",
-      "content_hash": "",
-      "last_sent": 1792603494.031219,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:deepseek deepinfer open source sota inference running 155t toks day cluster making 22m day at 80 margin for a 81 day payback": {
-      "url": "https://latent.space/p/ainews-deepseek-deepinfer-open-source",
-      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-      "normalized_title": "deepseek deepinfer open source sota inference running 155t toks day cluster making 22m day at 80 margin for a 81 day payback",
-      "content_hash": "",
-      "last_sent": 1792603494.031219,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents": {
-      "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents",
-      "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-      "normalized_title": "nvidia cloud partners scale across europe sovereign open and built for safe ai agents",
-      "content_hash": "",
-      "last_sent": 1792603494.0312488,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:nvidia cloud partners scale across europe sovereign open and built for safe ai agents": {
-      "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents",
-      "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-      "normalized_title": "nvidia cloud partners scale across europe sovereign open and built for safe ai agents",
-      "content_hash": "",
-      "last_sent": 1792603494.0312488,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://latent.space/p/claude-mods": {
       "url": "https://latent.space/p/claude-mods",
       "title": "Claude Mods: Flipping the Harness Inside Out",
@@ -329,24 +259,6 @@
       "normalized_title": "claude mods",
       "content_hash": "",
       "last_sent": 1792689737.6637115,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": {
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "normalized_title": "profiling torchneuron system",
-      "content_hash": "",
-      "last_sent": 1792603494.031286,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:profiling torchneuron system": {
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "normalized_title": "profiling torchneuron system",
-      "content_hash": "",
-      "last_sent": 1792603494.031286,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2295,12 +2207,12 @@
       "score": 0.0
     },
     "title:datasette": {
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
-      "title": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm",
+      "title": "datasette-llm 0.1a10",
       "normalized_title": "datasette",
       "content_hash": "",
-      "last_sent": 1793601150.589333,
-      "digest_type": "morning",
+      "last_sent": 1793822227.1366038,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": {
@@ -2668,7 +2580,7 @@
       "title": "Palette: teaching a small model to build decks in your design language",
       "normalized_title": "palette",
       "content_hash": "",
-      "last_sent": 1793734813.6328266,
+      "last_sent": 1793822227.1366234,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2677,7 +2589,7 @@
       "title": "Palette: teaching a small model to build decks in your design language",
       "normalized_title": "palette",
       "content_hash": "",
-      "last_sent": 1793734813.6328266,
+      "last_sent": 1793822227.1366234,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2686,7 +2598,7 @@
       "title": "Agentic cheminformatics with Google Antigravity",
       "normalized_title": "agentic cheminformatics with google antigravity",
       "content_hash": "",
-      "last_sent": 1793734813.6328497,
+      "last_sent": 1793822227.136643,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2695,7 +2607,7 @@
       "title": "Agentic cheminformatics with Google Antigravity",
       "normalized_title": "agentic cheminformatics with google antigravity",
       "content_hash": "",
-      "last_sent": 1793734813.6328497,
+      "last_sent": 1793822227.136643,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2722,7 +2634,7 @@
       "title": "Accelerating engineering for the physical world",
       "normalized_title": "accelerating engineering for the physical world",
       "content_hash": "",
-      "last_sent": 1793734813.6328764,
+      "last_sent": 1793822227.1366675,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2731,7 +2643,7 @@
       "title": "Accelerating engineering for the physical world",
       "normalized_title": "accelerating engineering for the physical world",
       "content_hash": "",
-      "last_sent": 1793734813.6328764,
+      "last_sent": 1793822227.1366675,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2823,6 +2735,123 @@
       "content_hash": "",
       "last_sent": 1793774860.2459705,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://devblogs.microsoft.com/agent-framework/give-your-coding-agent-a-head-start-with-microsoft-agent-framework-skills-for-net-and-python": {
+      "url": "https://devblogs.microsoft.com/agent-framework/give-your-coding-agent-a-head-start-with-microsoft-agent-framework-skills-for-net-and-python",
+      "title": "Give your coding agent a head start with Microsoft Agent Framework skills for .NET and Python",
+      "normalized_title": "give your coding agent a head start with microsoft agent framework skills for net and python",
+      "content_hash": "",
+      "last_sent": 1793822227.1365588,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:give your coding agent a head start with microsoft agent framework skills for net and python": {
+      "url": "https://devblogs.microsoft.com/agent-framework/give-your-coding-agent-a-head-start-with-microsoft-agent-framework-skills-for-net-and-python",
+      "title": "Give your coding agent a head start with Microsoft Agent Framework skills for .NET and Python",
+      "normalized_title": "give your coding agent a head start with microsoft agent framework skills for net and python",
+      "content_hash": "",
+      "last_sent": 1793822227.1365588,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas": {
+      "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
+      "title": "Agile Deliberation: How AI helps humans define the gray areas",
+      "normalized_title": "agile deliberation",
+      "content_hash": "",
+      "last_sent": 1793822227.1365945,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:agile deliberation": {
+      "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
+      "title": "Agile Deliberation: How AI helps humans define the gray areas",
+      "normalized_title": "agile deliberation",
+      "content_hash": "",
+      "last_sent": 1793822227.1365945,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/4/datasette-llm": {
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm",
+      "title": "datasette-llm 0.1a10",
+      "normalized_title": "datasette",
+      "content_hash": "",
+      "last_sent": 1793822227.1366038,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai": {
+      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai",
+      "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+      "normalized_title": "behind latent space kill my saas jev ai in 2026",
+      "content_hash": "",
+      "last_sent": 1793822227.1366105,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:behind latent space kill my saas jev ai in 2026": {
+      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai",
+      "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+      "normalized_title": "behind latent space kill my saas jev ai in 2026",
+      "content_hash": "",
+      "last_sent": 1793822227.1366105,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "normalized_title": "dharma field extractor any document in structured fields in json out",
+      "content_hash": "",
+      "last_sent": 1793822227.1366317,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:dharma field extractor any document in structured fields in json out": {
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "normalized_title": "dharma field extractor any document in structured fields in json out",
+      "content_hash": "",
+      "last_sent": 1793822227.1366317,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/daybreak-red-aws-govcloud": {
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "normalized_title": "daybreak red is now available in aws govcloud",
+      "content_hash": "",
+      "last_sent": 1793822227.1366572,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:daybreak red is now available in aws govcloud": {
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "normalized_title": "daybreak red is now available in aws govcloud",
+      "content_hash": "",
+      "last_sent": 1793822227.1366572,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/3/llm": {
+      "url": "https://simonwillison.net/2026/Nov/3/llm",
+      "title": "llm 0.37.1",
+      "normalized_title": "llm 0 37 1",
+      "content_hash": "",
+      "last_sent": 1793822227.1366758,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:llm 0 37 1": {
+      "url": "https://simonwillison.net/2026/Nov/3/llm",
+      "title": "llm 0.37.1",
+      "normalized_title": "llm 0 37 1",
+      "content_hash": "",
+      "last_sent": 1793822227.1366758,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
