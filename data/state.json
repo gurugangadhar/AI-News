@@ -1,17 +1,10 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793689463.6893954,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793862544.9380572,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
     "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
-    "https://latent.space/p/tenex": 1792645768.9899867,
-    "https://simonwillison.net/2026/Oct/20/battledrones": 1792645768.990013,
-    "https://simonwillison.net/2026/Oct/20/emudhra-certificates": 1792645768.99004,
     "https://latent.space/p/claude-mods": 1792689737.6637168,
     "https://simonwillison.net/2026/Oct/21/panache": 1792689737.6637743,
-    "https://huggingface.co/blog/nvidia/kumo-relational": 1792645768.9899192,
-    "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": 1792645768.9899418,
-    "https://blogs.nvidia.com/blog/european-public-sector-open-models": 1792645768.9899592,
-    "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync": 1792645768.9900289,
     "https://huggingface.co/blog/allenai/olmoearth-v1-3": 1792689737.6636786,
     "https://openai.com/index/forward-deployed-engineering-means": 1792689737.663694,
     "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": 1792689737.6637053,
@@ -142,33 +135,39 @@
     "https://huggingface.co/papers/2611.05255": 1793774860.245883,
     "https://huggingface.co/papers/2611.02017": 1793774860.24592,
     "https://openai.com/index/cisco-cyber": 1793774860.2459588,
-    "https://blogs.nvidia.com/blog/ai-semiconductor-fabs": 1793774860.2459831,
+    "https://blogs.nvidia.com/blog/ai-semiconductor-fabs": 1793862544.9381647,
     "https://devblogs.microsoft.com/agent-framework/give-your-coding-agent-a-head-start-with-microsoft-agent-framework-skills-for-net-and-python": 1793822227.1365857,
     "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas": 1793822227.136599,
     "https://simonwillison.net/2026/Nov/4/datasette-llm": 1793822227.1366065,
     "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai": 1793822227.1366177,
     "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": 1793822227.1366374,
     "https://openai.com/index/daybreak-red-aws-govcloud": 1793822227.1366622,
-    "https://simonwillison.net/2026/Nov/3/llm": 1793822227.1366792
+    "https://simonwillison.net/2026/Nov/3/llm": 1793822227.1366792,
+    "https://huggingface.co/papers/2611.05304": 1793862544.9380774,
+    "https://huggingface.co/papers/2611.06728": 1793862544.9380972,
+    "https://openai.com/index/openai-to-acquire-pierre": 1793862544.9381166,
+    "https://openai.com/index/a-thousand-fewer-paths-to-root": 1793862544.9381318,
+    "https://latent.space/p/ainews-it-s-swapping-season": 1793862544.9381442,
+    "https://huggingface.co/blog/allenai/statebench": 1793862544.9381895
   },
   "seenTweets": {},
   "seenVideos": {},
   "sentStories": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,365 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,485 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793689463.6893883,
+      "last_sent": 1793862544.93803,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,365 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,485 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793689463.6893883,
+      "last_sent": 1793862544.93803,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -188,60 +187,6 @@
       "content_hash": "",
       "last_sent": 1793556115.4632614,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/tenex": {
-      "url": "https://latent.space/p/tenex",
-      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-      "normalized_title": "ai for the fortune 2000 how tenex builds an ai native sdlc alex lieberman cj hess",
-      "content_hash": "",
-      "last_sent": 1792645768.9899666,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:ai for the fortune 2000 how tenex builds an ai native sdlc alex lieberman cj hess": {
-      "url": "https://latent.space/p/tenex",
-      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-      "normalized_title": "ai for the fortune 2000 how tenex builds an ai native sdlc alex lieberman cj hess",
-      "content_hash": "",
-      "last_sent": 1792645768.9899666,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/20/battledrones": {
-      "url": "https://simonwillison.net/2026/Oct/20/battledrones",
-      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-      "normalized_title": "battle drones a vibe coded rts with audio",
-      "content_hash": "",
-      "last_sent": 1792645768.9900022,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:battle drones a vibe coded rts with audio": {
-      "url": "https://simonwillison.net/2026/Oct/20/battledrones",
-      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-      "normalized_title": "battle drones a vibe coded rts with audio",
-      "content_hash": "",
-      "last_sent": 1792645768.9900022,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/20/emudhra-certificates": {
-      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates",
-      "title": "eMudhra Intermediate CA Compromise",
-      "normalized_title": "emudhra intermediate ca compromise",
-      "content_hash": "",
-      "last_sent": 1792645768.9900346,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:emudhra intermediate ca compromise": {
-      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates",
-      "title": "eMudhra Intermediate CA Compromise",
-      "normalized_title": "emudhra intermediate ca compromise",
-      "content_hash": "",
-      "last_sent": 1792645768.9900346,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://latent.space/p/claude-mods": {
@@ -278,78 +223,6 @@
       "content_hash": "",
       "last_sent": 1792689737.6637683,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/nvidia/kumo-relational": {
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "normalized_title": "nvidia kumo relational outperforms supervised machine learning on relational data no training required",
-      "content_hash": "",
-      "last_sent": 1792645768.9898887,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:nvidia kumo relational outperforms supervised machine learning on relational data no training required": {
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "normalized_title": "nvidia kumo relational outperforms supervised machine learning on relational data no training required",
-      "content_hash": "",
-      "last_sent": 1792645768.9898887,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "normalized_title": "how specializing the vocabulary of slms can cut inference cost by 77 in real applications",
-      "content_hash": "",
-      "last_sent": 1792645768.989932,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:how specializing the vocabulary of slms can cut inference cost by 77 in real applications": {
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "normalized_title": "how specializing the vocabulary of slms can cut inference cost by 77 in real applications",
-      "content_hash": "",
-      "last_sent": 1792645768.989932,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/european-public-sector-open-models": {
-      "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models",
-      "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
-      "normalized_title": "nvidia open models power a new wave of european public sector projects",
-      "content_hash": "",
-      "last_sent": 1792645768.9899518,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:nvidia open models power a new wave of european public sector projects": {
-      "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models",
-      "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
-      "normalized_title": "nvidia open models power a new wave of european public sector projects",
-      "content_hash": "",
-      "last_sent": 1792645768.9899518,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync": {
-      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync",
-      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-      "normalized_title": "bringing the spark to europe",
-      "content_hash": "",
-      "last_sent": 1792645768.9900227,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:bringing the spark to europe": {
-      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync",
-      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-      "normalized_title": "bringing the spark to europe",
-      "content_hash": "",
-      "last_sent": 1792645768.9900227,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://huggingface.co/blog/allenai/olmoearth-v1-3": {
@@ -2724,7 +2597,7 @@
       "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
       "normalized_title": "ai is changing how semiconductor fabs work",
       "content_hash": "",
-      "last_sent": 1793774860.2459705,
+      "last_sent": 1793862544.9381504,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2733,7 +2606,7 @@
       "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
       "normalized_title": "ai is changing how semiconductor fabs work",
       "content_hash": "",
-      "last_sent": 1793774860.2459705,
+      "last_sent": 1793862544.9381504,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2852,6 +2725,114 @@
       "content_hash": "",
       "last_sent": 1793822227.1366758,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.05304": {
+      "url": "https://huggingface.co/papers/2611.05304",
+      "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers (1 upvotes)",
+      "normalized_title": "loopvq sub 1",
+      "content_hash": "",
+      "last_sent": 1793862544.9380686,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:loopvq sub 1": {
+      "url": "https://huggingface.co/papers/2611.05304",
+      "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers (1 upvotes)",
+      "normalized_title": "loopvq sub 1",
+      "content_hash": "",
+      "last_sent": 1793862544.9380686,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.06728": {
+      "url": "https://huggingface.co/papers/2611.06728",
+      "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit (41 upvotes)",
+      "normalized_title": "turns matter advancing streaming video rl via turn",
+      "content_hash": "",
+      "last_sent": 1793862544.9380853,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:turns matter advancing streaming video rl via turn": {
+      "url": "https://huggingface.co/papers/2611.06728",
+      "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit (41 upvotes)",
+      "normalized_title": "turns matter advancing streaming video rl via turn",
+      "content_hash": "",
+      "last_sent": 1793862544.9380853,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/openai-to-acquire-pierre": {
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "normalized_title": "openai to acquire pierre computer company inc",
+      "content_hash": "",
+      "last_sent": 1793862544.9381077,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:openai to acquire pierre computer company inc": {
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "normalized_title": "openai to acquire pierre computer company inc",
+      "content_hash": "",
+      "last_sent": 1793862544.9381077,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/a-thousand-fewer-paths-to-root": {
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "title": "A thousand fewer paths to root",
+      "normalized_title": "a thousand fewer paths to root",
+      "content_hash": "",
+      "last_sent": 1793862544.9381251,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:a thousand fewer paths to root": {
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "title": "A thousand fewer paths to root",
+      "normalized_title": "a thousand fewer paths to root",
+      "content_hash": "",
+      "last_sent": 1793862544.9381251,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-it-s-swapping-season": {
+      "url": "https://latent.space/p/ainews-it-s-swapping-season",
+      "title": "[AINews] It's Swapping Season",
+      "normalized_title": "it s swapping season",
+      "content_hash": "",
+      "last_sent": 1793862544.9381378,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:it s swapping season": {
+      "url": "https://latent.space/p/ainews-it-s-swapping-season",
+      "title": "[AINews] It's Swapping Season",
+      "normalized_title": "it s swapping season",
+      "content_hash": "",
+      "last_sent": 1793862544.9381378,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/allenai/statebench": {
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "normalized_title": "statebench",
+      "content_hash": "",
+      "last_sent": 1793862544.9381819,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:statebench": {
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "normalized_title": "statebench",
+      "content_hash": "",
+      "last_sent": 1793862544.9381819,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
