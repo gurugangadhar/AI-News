@@ -3,8 +3,6 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793948794.275777,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
     "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
-    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types": 1792776016.2802572,
-    "https://simonwillison.net/2026/Oct/22/armin-ronacher": 1792776016.2802901,
     "https://huggingface.co/blog/microsoft/thinkingbox-training": 1792817636.8447309,
     "https://latent.space/p/modal-d": 1792817636.8447506,
     "https://simonwillison.net/2026/Oct/22/donating-agent-skills": 1792817636.8447604,
@@ -12,8 +10,6 @@
     "https://latent.space/p/ai-is-getting-good-at-math": 1792858125.7972257,
     "https://huggingface.co/blog/allenai/litpivot": 1792858125.79724,
     "https://openai.com/index/openai-nask-ai-safety-security-partnership": 1792858125.797256,
-    "https://huggingface.co/papers/2610.31651": 1792776016.2802224,
-    "https://devin.ai/blog/vulnerability-fixes-plugin": 1792776016.2802331,
     "https://latent.space/p/ainews-black-october": 1792858125.7972825,
     "https://huggingface.co/blog/torch-neuronx-model-support": 1792858125.7972934,
     "https://huggingface.co/papers/2610.04184": 1792904553.8516536,
@@ -139,16 +135,21 @@
     "https://openai.com/index/a-thousand-fewer-paths-to-root": 1793862544.9381318,
     "https://latent.space/p/ainews-it-s-swapping-season": 1793948794.2758229,
     "https://huggingface.co/blog/allenai/statebench": 1793862544.9381895,
-    "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation": 1793909413.9130259,
+    "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation": 1793993700.5632029,
     "https://huggingface.co/blog/phonon-tts": 1793909413.913053,
-    "https://devin.ai/blog/devin-review-2": 1793909413.9130654,
+    "https://devin.ai/blog/devin-review-2": 1793993700.5632272,
     "https://openai.com/index/introducing-gpt-6-cyber": 1793909413.9131215,
-    "https://simonwillison.net/2026/Nov/5/paul-ford": 1793909413.9131417,
+    "https://simonwillison.net/2026/Nov/5/paul-ford": 1793993700.5632782,
     "https://huggingface.co/papers/2611.06741": 1793948794.27574,
     "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors": 1793948794.2757928,
     "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips": 1793948794.2758088,
     "https://openai.com/index/australian-universities-ai-native-graduates": 1793948794.275836,
-    "https://openai.com/index/cultfit-builds-with-codex": 1793948794.275857
+    "https://openai.com/index/cultfit-builds-with-codex": 1793948794.275857,
+    "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark": 1793993700.5631807,
+    "https://huggingface.co/blog/allenai/toyblocks": 1793993700.5632164,
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": 1793993700.563239,
+    "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks": 1793993700.5632517,
+    "https://simonwillison.net/2026/Nov/6/nilay-patel": 1793993700.563262
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -186,42 +187,6 @@
       "normalized_title": "hkuds vibe",
       "content_hash": "",
       "last_sent": 1793556115.4632614,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types": {
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "normalized_title": "beyond tree cover mapping the world s forest types",
-      "content_hash": "",
-      "last_sent": 1792776016.280247,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:beyond tree cover mapping the world s forest types": {
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "normalized_title": "beyond tree cover mapping the world s forest types",
-      "content_hash": "",
-      "last_sent": 1792776016.280247,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/22/armin-ronacher": {
-      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher",
-      "title": "Quoting Armin Ronacher",
-      "normalized_title": "quoting armin ronacher",
-      "content_hash": "",
-      "last_sent": 1792776016.2802854,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:quoting armin ronacher": {
-      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher",
-      "title": "Quoting Armin Ronacher",
-      "normalized_title": "quoting armin ronacher",
-      "content_hash": "",
-      "last_sent": 1792776016.2802854,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -348,42 +313,6 @@
       "normalized_title": "openai and poland s nask partner to advance ai safety and security",
       "content_hash": "",
       "last_sent": 1792858125.7972465,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.31651": {
-      "url": "https://huggingface.co/papers/2610.31651",
-      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds (1 upvotes)",
-      "normalized_title": "brickwright",
-      "content_hash": "",
-      "last_sent": 1792776016.2802172,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:brickwright": {
-      "url": "https://huggingface.co/papers/2610.31651",
-      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds (1 upvotes)",
-      "normalized_title": "brickwright",
-      "content_hash": "",
-      "last_sent": 1792776016.2802172,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://devin.ai/blog/vulnerability-fixes-plugin": {
-      "url": "https://devin.ai/blog/vulnerability-fixes-plugin",
-      "title": "Fixing Critical Node & PHP Flaws",
-      "normalized_title": "fixing critical node php flaws",
-      "content_hash": "",
-      "last_sent": 1792776016.280228,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:fixing critical node php flaws": {
-      "url": "https://devin.ai/blog/vulnerability-fixes-plugin",
-      "title": "Fixing Critical Node & PHP Flaws",
-      "normalized_title": "fixing critical node php flaws",
-      "content_hash": "",
-      "last_sent": 1792776016.280228,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2660,7 +2589,7 @@
       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
       "normalized_title": "new nvidia cosmos 3 open models for interactive world simulation",
       "content_hash": "",
-      "last_sent": 1793909413.9130185,
+      "last_sent": 1793993700.5631938,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2669,7 +2598,7 @@
       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
       "normalized_title": "new nvidia cosmos 3 open models for interactive world simulation",
       "content_hash": "",
-      "last_sent": 1793909413.9130185,
+      "last_sent": 1793993700.5631938,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2696,7 +2625,7 @@
       "title": "Devin Review 2.0",
       "normalized_title": "devin review 2 0",
       "content_hash": "",
-      "last_sent": 1793909413.9130611,
+      "last_sent": 1793993700.5632217,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2705,7 +2634,7 @@
       "title": "Devin Review 2.0",
       "normalized_title": "devin review 2 0",
       "content_hash": "",
-      "last_sent": 1793909413.9130611,
+      "last_sent": 1793993700.5632217,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2732,7 +2661,7 @@
       "title": "Quoting Paul Ford",
       "normalized_title": "quoting paul ford",
       "content_hash": "",
-      "last_sent": 1793909413.913138,
+      "last_sent": 1793993700.5632725,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2741,7 +2670,7 @@
       "title": "Quoting Paul Ford",
       "normalized_title": "quoting paul ford",
       "content_hash": "",
-      "last_sent": 1793909413.913138,
+      "last_sent": 1793993700.5632725,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2833,6 +2762,96 @@
       "content_hash": "",
       "last_sent": 1793948794.2758498,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark": {
+      "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark",
+      "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+      "normalized_title": "inkling 2 small 17a 594b trained in 68 hours on 12t tokens beating muse spark",
+      "content_hash": "",
+      "last_sent": 1793993700.563154,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:inkling 2 small 17a 594b trained in 68 hours on 12t tokens beating muse spark": {
+      "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark",
+      "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+      "normalized_title": "inkling 2 small 17a 594b trained in 68 hours on 12t tokens beating muse spark",
+      "content_hash": "",
+      "last_sent": 1793993700.563154,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/allenai/toyblocks": {
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "normalized_title": "toyblocks",
+      "content_hash": "",
+      "last_sent": 1793993700.5632114,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:toyblocks": {
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "normalized_title": "toyblocks",
+      "content_hash": "",
+      "last_sent": 1793993700.5632114,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "normalized_title": "measuring how ai agents handle everyday wet",
+      "content_hash": "",
+      "last_sent": 1793993700.5632331,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:measuring how ai agents handle everyday wet": {
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "normalized_title": "measuring how ai agents handle everyday wet",
+      "content_hash": "",
+      "last_sent": 1793993700.5632331,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks": {
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "normalized_title": "how nvidia open source tools are helping researchers build next",
+      "content_hash": "",
+      "last_sent": 1793993700.563245,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:how nvidia open source tools are helping researchers build next": {
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "normalized_title": "how nvidia open source tools are helping researchers build next",
+      "content_hash": "",
+      "last_sent": 1793993700.563245,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/6/nilay-patel": {
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel",
+      "title": "Quoting Nilay Patel",
+      "normalized_title": "quoting nilay patel",
+      "content_hash": "",
+      "last_sent": 1793993700.5632586,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:quoting nilay patel": {
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel",
+      "title": "Quoting Nilay Patel",
+      "normalized_title": "quoting nilay patel",
+      "content_hash": "",
+      "last_sent": 1793993700.5632586,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
