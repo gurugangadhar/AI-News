@@ -1,6 +1,6 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793862544.9380572,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793948794.275777,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
     "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
     "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types": 1792776016.2802572,
@@ -8,10 +8,6 @@
     "https://huggingface.co/blog/microsoft/thinkingbox-training": 1792817636.8447309,
     "https://latent.space/p/modal-d": 1792817636.8447506,
     "https://simonwillison.net/2026/Oct/22/donating-agent-skills": 1792817636.8447604,
-    "https://arxiv.org/abs/2610.30157": 1792732146.8079016,
-    "https://openai.com/index/decisions-api": 1792732146.807915,
-    "https://openai.com/index/uber-chatgpt-work-rollout": 1792732146.8079276,
-    "https://anthropic.com/news/open-call-guest-investigators-life-sciences": 1792732146.8079407,
     "https://simonwillison.net/2026/Oct/22/de-staat-freedom": 1792817636.8448253,
     "https://latent.space/p/ai-is-getting-good-at-math": 1792858125.7972257,
     "https://huggingface.co/blog/allenai/litpivot": 1792858125.79724,
@@ -85,7 +81,7 @@
     "https://openai.com/index/how-we-detect-frontier-model-misalignment": 1793340520.143487,
     "https://openai.com/index/updated-model-spec": 1793340520.143499,
     "https://openai.com/index/ropes-gray-ai-diligence": 1793340520.1435208,
-    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1793426646.0069013,
+    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1793948794.2757607,
     "https://simonwillison.net/2026/Oct/29/api-credits": 1793426646.006849,
     "https://huggingface.co/papers/2610.34298": 1793383708.867467,
     "https://cursor.com/blog/claude-code-extension-security-notice": 1793383708.867513,
@@ -141,32 +137,37 @@
     "https://huggingface.co/papers/2611.06728": 1793862544.9380972,
     "https://openai.com/index/openai-to-acquire-pierre": 1793862544.9381166,
     "https://openai.com/index/a-thousand-fewer-paths-to-root": 1793862544.9381318,
-    "https://latent.space/p/ainews-it-s-swapping-season": 1793862544.9381442,
+    "https://latent.space/p/ainews-it-s-swapping-season": 1793948794.2758229,
     "https://huggingface.co/blog/allenai/statebench": 1793862544.9381895,
     "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation": 1793909413.9130259,
     "https://huggingface.co/blog/phonon-tts": 1793909413.913053,
     "https://devin.ai/blog/devin-review-2": 1793909413.9130654,
     "https://openai.com/index/introducing-gpt-6-cyber": 1793909413.9131215,
-    "https://simonwillison.net/2026/Nov/5/paul-ford": 1793909413.9131417
+    "https://simonwillison.net/2026/Nov/5/paul-ford": 1793909413.9131417,
+    "https://huggingface.co/papers/2611.06741": 1793948794.27574,
+    "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors": 1793948794.2757928,
+    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips": 1793948794.2758088,
+    "https://openai.com/index/australian-universities-ai-native-graduates": 1793948794.275836,
+    "https://openai.com/index/cultfit-builds-with-codex": 1793948794.275857
   },
   "seenTweets": {},
   "seenVideos": {},
   "sentStories": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,485 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,556 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793862544.93803,
+      "last_sent": 1793948794.2757688,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,485 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,556 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793862544.93803,
+      "last_sent": 1793948794.2757688,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -275,78 +276,6 @@
       "normalized_title": "donating agent skills to the agentic ai foundation",
       "content_hash": "",
       "last_sent": 1792817636.8447568,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://arxiv.org/abs/2610.30157": {
-      "url": "https://arxiv.org/abs/2610.30157",
-      "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
-      "normalized_title": "mcp vs cli for ai agents",
-      "content_hash": "",
-      "last_sent": 1792732146.8078957,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:mcp vs cli for ai agents": {
-      "url": "https://arxiv.org/abs/2610.30157",
-      "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
-      "normalized_title": "mcp vs cli for ai agents",
-      "content_hash": "",
-      "last_sent": 1792732146.8078957,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/decisions-api": {
-      "url": "https://openai.com/index/decisions-api",
-      "title": "Build more responsive apps with the Decisions API",
-      "normalized_title": "build more responsive apps with the decisions api",
-      "content_hash": "",
-      "last_sent": 1792732146.8079088,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:build more responsive apps with the decisions api": {
-      "url": "https://openai.com/index/decisions-api",
-      "title": "Build more responsive apps with the Decisions API",
-      "normalized_title": "build more responsive apps with the decisions api",
-      "content_hash": "",
-      "last_sent": 1792732146.8079088,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/uber-chatgpt-work-rollout": {
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "normalized_title": "uber brings chatgpt work to all employees with openai",
-      "content_hash": "",
-      "last_sent": 1792732146.8079214,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:uber brings chatgpt work to all employees with openai": {
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "normalized_title": "uber brings chatgpt work to all employees with openai",
-      "content_hash": "",
-      "last_sent": 1792732146.8079214,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://anthropic.com/news/open-call-guest-investigators-life-sciences": {
-      "url": "https://anthropic.com/news/open-call-guest-investigators-life-sciences",
-      "title": "Open call for guest investigators in the life sciences",
-      "normalized_title": "open call for guest investigators in the life sciences",
-      "content_hash": "",
-      "last_sent": 1792732146.807934,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:open call for guest investigators in the life sciences": {
-      "url": "https://anthropic.com/news/open-call-guest-investigators-life-sciences",
-      "title": "Open call for guest investigators in the life sciences",
-      "normalized_title": "open call for guest investigators in the life sciences",
-      "content_hash": "",
-      "last_sent": 1792732146.807934,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1696,7 +1625,7 @@
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "normalized_title": "into the omniverse",
       "content_hash": "",
-      "last_sent": 1793426646.0068977,
+      "last_sent": 1793948794.275753,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1705,7 +1634,7 @@
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "normalized_title": "into the omniverse",
       "content_hash": "",
-      "last_sent": 1793426646.0068977,
+      "last_sent": 1793948794.275753,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2695,7 +2624,7 @@
       "title": "[AINews] It's Swapping Season",
       "normalized_title": "it s swapping season",
       "content_hash": "",
-      "last_sent": 1793862544.9381378,
+      "last_sent": 1793948794.2758164,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2704,7 +2633,7 @@
       "title": "[AINews] It's Swapping Season",
       "normalized_title": "it s swapping season",
       "content_hash": "",
-      "last_sent": 1793862544.9381378,
+      "last_sent": 1793948794.2758164,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2814,6 +2743,96 @@
       "content_hash": "",
       "last_sent": 1793909413.913138,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.06741": {
+      "url": "https://huggingface.co/papers/2611.06741",
+      "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing (4 upvotes)",
+      "normalized_title": "tailsteer trajectory tail steering for drift resistant multi",
+      "content_hash": "",
+      "last_sent": 1793948794.2757127,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:tailsteer trajectory tail steering for drift resistant multi": {
+      "url": "https://huggingface.co/papers/2611.06741",
+      "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing (4 upvotes)",
+      "normalized_title": "tailsteer trajectory tail steering for drift resistant multi",
+      "content_hash": "",
+      "last_sent": 1793948794.2757127,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors": {
+      "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
+      "title": "Detecting signs of hypertension using wearable sensors",
+      "normalized_title": "detecting signs of hypertension using wearable sensors",
+      "content_hash": "",
+      "last_sent": 1793948794.2757852,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:detecting signs of hypertension using wearable sensors": {
+      "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
+      "title": "Detecting signs of hypertension using wearable sensors",
+      "normalized_title": "detecting signs of hypertension using wearable sensors",
+      "content_hash": "",
+      "last_sent": 1793948794.2757852,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips": {
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "normalized_title": "gemini omni 1 2 flash fast and cost",
+      "content_hash": "",
+      "last_sent": 1793948794.2758002,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:gemini omni 1 2 flash fast and cost": {
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "normalized_title": "gemini omni 1 2 flash fast and cost",
+      "content_hash": "",
+      "last_sent": 1793948794.2758002,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/australian-universities-ai-native-graduates": {
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "title": "Australian universities are creating AI-native graduates",
+      "normalized_title": "australian universities are creating ai",
+      "content_hash": "",
+      "last_sent": 1793948794.2758296,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:australian universities are creating ai": {
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "title": "Australian universities are creating AI-native graduates",
+      "normalized_title": "australian universities are creating ai",
+      "content_hash": "",
+      "last_sent": 1793948794.2758296,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/cultfit-builds-with-codex": {
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "normalized_title": "cult fit builds operational muscle with codex",
+      "content_hash": "",
+      "last_sent": 1793948794.2758498,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:cult fit builds operational muscle with codex": {
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "normalized_title": "cult fit builds operational muscle with codex",
+      "content_hash": "",
+      "last_sent": 1793948794.2758498,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
