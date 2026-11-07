@@ -3,11 +3,6 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794032417.6473732,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
     "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
-    "https://latent.space/p/ai-is-getting-good-at-math": 1792858125.7972257,
-    "https://huggingface.co/blog/allenai/litpivot": 1792858125.79724,
-    "https://openai.com/index/openai-nask-ai-safety-security-partnership": 1792858125.797256,
-    "https://latent.space/p/ainews-black-october": 1792858125.7972825,
-    "https://huggingface.co/blog/torch-neuronx-model-support": 1792858125.7972934,
     "https://huggingface.co/papers/2610.04184": 1792904553.8516536,
     "https://simonwillison.net/2026/Oct/23/kimi-k31-pro": 1792904553.8516724,
     "https://openai.com/index/securing-our-frontier-model-training-environment": 1792904553.8517165,
@@ -129,7 +124,7 @@
     "https://openai.com/index/a-thousand-fewer-paths-to-root": 1793862544.9381318,
     "https://latent.space/p/ainews-it-s-swapping-season": 1793948794.2758229,
     "https://huggingface.co/blog/allenai/statebench": 1793862544.9381895,
-    "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation": 1793993700.5632029,
+    "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation": 1794073826.5050051,
     "https://huggingface.co/blog/phonon-tts": 1793909413.913053,
     "https://devin.ai/blog/devin-review-2": 1793993700.5632272,
     "https://openai.com/index/introducing-gpt-6-cyber": 1793909413.9131215,
@@ -139,11 +134,11 @@
     "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips": 1794032417.6473997,
     "https://openai.com/index/australian-universities-ai-native-graduates": 1793948794.275836,
     "https://openai.com/index/cultfit-builds-with-codex": 1793948794.275857,
-    "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark": 1793993700.5631807,
-    "https://huggingface.co/blog/allenai/toyblocks": 1793993700.5632164,
-    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": 1793993700.563239,
-    "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks": 1793993700.5632517,
-    "https://simonwillison.net/2026/Nov/6/nilay-patel": 1793993700.563262,
+    "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark": 1794073826.5049872,
+    "https://huggingface.co/blog/allenai/toyblocks": 1794073826.5050151,
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": 1794073826.5050244,
+    "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks": 1794073826.505044,
+    "https://simonwillison.net/2026/Nov/6/nilay-patel": 1794073826.5050335,
     "https://anthropic.com/research/components-of-agent-memory": 1794032417.6473079,
     "https://huggingface.co/papers/2611.06498": 1794032417.6473327,
     "https://latent.space/p/ainews-anthropic-ipo-whither-now": 1794032417.6473498,
@@ -187,96 +182,6 @@
       "normalized_title": "hkuds vibe",
       "content_hash": "",
       "last_sent": 1793556115.4632614,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ai-is-getting-good-at-math": {
-      "url": "https://latent.space/p/ai-is-getting-good-at-math",
-      "title": "AI Is Getting Good at Math. Here’s Why.",
-      "normalized_title": "ai is getting good at math here s why",
-      "content_hash": "",
-      "last_sent": 1792858125.797214,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:ai is getting good at math here s why": {
-      "url": "https://latent.space/p/ai-is-getting-good-at-math",
-      "title": "AI Is Getting Good at Math. Here’s Why.",
-      "normalized_title": "ai is getting good at math here s why",
-      "content_hash": "",
-      "last_sent": 1792858125.797214,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/allenai/litpivot": {
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "normalized_title": "litpivot",
-      "content_hash": "",
-      "last_sent": 1792858125.7972338,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:litpivot": {
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "normalized_title": "litpivot",
-      "content_hash": "",
-      "last_sent": 1792858125.7972338,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://openai.com/index/openai-nask-ai-safety-security-partnership": {
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "normalized_title": "openai and poland s nask partner to advance ai safety and security",
-      "content_hash": "",
-      "last_sent": 1792858125.7972465,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:openai and poland s nask partner to advance ai safety and security": {
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "normalized_title": "openai and poland s nask partner to advance ai safety and security",
-      "content_hash": "",
-      "last_sent": 1792858125.7972465,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-black-october": {
-      "url": "https://latent.space/p/ainews-black-october",
-      "title": "[AINews] Black October",
-      "normalized_title": "black october",
-      "content_hash": "",
-      "last_sent": 1792858125.797278,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:black october": {
-      "url": "https://latent.space/p/ainews-black-october",
-      "title": "[AINews] Black October",
-      "normalized_title": "black october",
-      "content_hash": "",
-      "last_sent": 1792858125.797278,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/torch-neuronx-model-support": {
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "normalized_title": "does your model run on aws trainium look it up",
-      "content_hash": "",
-      "last_sent": 1792858125.797287,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:does your model run on aws trainium look it up": {
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "normalized_title": "does your model run on aws trainium look it up",
-      "content_hash": "",
-      "last_sent": 1792858125.797287,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -394,15 +299,6 @@
       "normalized_title": "building reasoning models from the ground up",
       "content_hash": "",
       "last_sent": 1792946244.4731205,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:build your own reasoning model": {
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "title": "Build Your Own Reasoning Model: A Full Video Course",
-      "normalized_title": "build your own reasoning model",
-      "content_hash": "",
-      "last_sent": 1792858125.7973058,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2481,7 +2377,7 @@
       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
       "normalized_title": "new nvidia cosmos 3 open models for interactive world simulation",
       "content_hash": "",
-      "last_sent": 1793993700.5631938,
+      "last_sent": 1794073826.5049987,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2490,7 +2386,7 @@
       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
       "normalized_title": "new nvidia cosmos 3 open models for interactive world simulation",
       "content_hash": "",
-      "last_sent": 1793993700.5631938,
+      "last_sent": 1794073826.5049987,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2661,7 +2557,7 @@
       "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
       "normalized_title": "inkling 2 small 17a 594b trained in 68 hours on 12t tokens beating muse spark",
       "content_hash": "",
-      "last_sent": 1793993700.563154,
+      "last_sent": 1794073826.5049613,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2670,7 +2566,7 @@
       "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
       "normalized_title": "inkling 2 small 17a 594b trained in 68 hours on 12t tokens beating muse spark",
       "content_hash": "",
-      "last_sent": 1793993700.563154,
+      "last_sent": 1794073826.5049613,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2679,7 +2575,7 @@
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "normalized_title": "toyblocks",
       "content_hash": "",
-      "last_sent": 1793993700.5632114,
+      "last_sent": 1794073826.505011,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2688,7 +2584,7 @@
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "normalized_title": "toyblocks",
       "content_hash": "",
-      "last_sent": 1793993700.5632114,
+      "last_sent": 1794073826.505011,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2697,7 +2593,7 @@
       "title": "Measuring how AI agents handle everyday wet-lab science",
       "normalized_title": "measuring how ai agents handle everyday wet",
       "content_hash": "",
-      "last_sent": 1793993700.5632331,
+      "last_sent": 1794073826.50502,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2706,7 +2602,7 @@
       "title": "Measuring how AI agents handle everyday wet-lab science",
       "normalized_title": "measuring how ai agents handle everyday wet",
       "content_hash": "",
-      "last_sent": 1793993700.5632331,
+      "last_sent": 1794073826.50502,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2715,7 +2611,7 @@
       "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
       "normalized_title": "how nvidia open source tools are helping researchers build next",
       "content_hash": "",
-      "last_sent": 1793993700.563245,
+      "last_sent": 1794073826.505038,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2724,7 +2620,7 @@
       "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
       "normalized_title": "how nvidia open source tools are helping researchers build next",
       "content_hash": "",
-      "last_sent": 1793993700.563245,
+      "last_sent": 1794073826.505038,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2733,7 +2629,7 @@
       "title": "Quoting Nilay Patel",
       "normalized_title": "quoting nilay patel",
       "content_hash": "",
-      "last_sent": 1793993700.5632586,
+      "last_sent": 1794073826.50503,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2742,7 +2638,7 @@
       "title": "Quoting Nilay Patel",
       "normalized_title": "quoting nilay patel",
       "content_hash": "",
-      "last_sent": 1793993700.5632586,
+      "last_sent": 1794073826.50503,
       "digest_type": "evening",
       "score": 0.0
     },
