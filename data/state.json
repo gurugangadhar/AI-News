@@ -1,12 +1,8 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1793948794.275777,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794032417.6473732,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
     "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
-    "https://huggingface.co/blog/microsoft/thinkingbox-training": 1792817636.8447309,
-    "https://latent.space/p/modal-d": 1792817636.8447506,
-    "https://simonwillison.net/2026/Oct/22/donating-agent-skills": 1792817636.8447604,
-    "https://simonwillison.net/2026/Oct/22/de-staat-freedom": 1792817636.8448253,
     "https://latent.space/p/ai-is-getting-good-at-math": 1792858125.7972257,
     "https://huggingface.co/blog/allenai/litpivot": 1792858125.79724,
     "https://openai.com/index/openai-nask-ai-safety-security-partnership": 1792858125.797256,
@@ -15,8 +11,6 @@
     "https://huggingface.co/papers/2610.04184": 1792904553.8516536,
     "https://simonwillison.net/2026/Oct/23/kimi-k31-pro": 1792904553.8516724,
     "https://openai.com/index/securing-our-frontier-model-training-environment": 1792904553.8517165,
-    "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem": 1792817636.844794,
-    "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4": 1792817636.8448107,
     "https://simonwillison.net/2026/Oct/23/quick-study-painter": 1792904553.85174,
     "https://latent.space/p/ainews-kimi-31": 1792946244.4730883,
     "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening": 1792946244.4731135,
@@ -77,7 +71,7 @@
     "https://openai.com/index/how-we-detect-frontier-model-misalignment": 1793340520.143487,
     "https://openai.com/index/updated-model-spec": 1793340520.143499,
     "https://openai.com/index/ropes-gray-ai-diligence": 1793340520.1435208,
-    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1793948794.2757607,
+    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1794032417.647361,
     "https://simonwillison.net/2026/Oct/29/api-credits": 1793426646.006849,
     "https://huggingface.co/papers/2610.34298": 1793383708.867467,
     "https://cursor.com/blog/claude-code-extension-security-notice": 1793383708.867513,
@@ -142,33 +136,39 @@
     "https://simonwillison.net/2026/Nov/5/paul-ford": 1793993700.5632782,
     "https://huggingface.co/papers/2611.06741": 1793948794.27574,
     "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors": 1793948794.2757928,
-    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips": 1793948794.2758088,
+    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips": 1794032417.6473997,
     "https://openai.com/index/australian-universities-ai-native-graduates": 1793948794.275836,
     "https://openai.com/index/cultfit-builds-with-codex": 1793948794.275857,
     "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark": 1793993700.5631807,
     "https://huggingface.co/blog/allenai/toyblocks": 1793993700.5632164,
     "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": 1793993700.563239,
     "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks": 1793993700.5632517,
-    "https://simonwillison.net/2026/Nov/6/nilay-patel": 1793993700.563262
+    "https://simonwillison.net/2026/Nov/6/nilay-patel": 1793993700.563262,
+    "https://anthropic.com/research/components-of-agent-memory": 1794032417.6473079,
+    "https://huggingface.co/papers/2611.06498": 1794032417.6473327,
+    "https://latent.space/p/ainews-anthropic-ipo-whither-now": 1794032417.6473498,
+    "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich": 1794032417.6473868,
+    "https://huggingface.co/blog/open-asr-leaderboard-liva": 1794032417.6474204,
+    "https://openai.com/index/partnering-with-hacktron": 1794032417.6474388
   },
   "seenTweets": {},
   "seenVideos": {},
   "sentStories": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,556 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,588 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793948794.2757688,
+      "last_sent": 1794032417.6473668,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,556 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,588 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1793948794.2757688,
+      "last_sent": 1794032417.6473668,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -188,78 +188,6 @@
       "content_hash": "",
       "last_sent": 1793556115.4632614,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/microsoft/thinkingbox-training": {
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "normalized_title": "turning database grading into rl rewards post",
-      "content_hash": "",
-      "last_sent": 1792817636.8447104,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:turning database grading into rl rewards post": {
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "normalized_title": "turning database grading into rl rewards post",
-      "content_hash": "",
-      "last_sent": 1792817636.8447104,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/modal-d": {
-      "url": "https://latent.space/p/modal-d",
-      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-      "normalized_title": "why ai compute comes in rectangles erik bernhardsson modal ceo",
-      "content_hash": "",
-      "last_sent": 1792817636.8447385,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:why ai compute comes in rectangles erik bernhardsson modal ceo": {
-      "url": "https://latent.space/p/modal-d",
-      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-      "normalized_title": "why ai compute comes in rectangles erik bernhardsson modal ceo",
-      "content_hash": "",
-      "last_sent": 1792817636.8447385,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/22/donating-agent-skills": {
-      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "normalized_title": "donating agent skills to the agentic ai foundation",
-      "content_hash": "",
-      "last_sent": 1792817636.8447568,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:donating agent skills to the agentic ai foundation": {
-      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "normalized_title": "donating agent skills to the agentic ai foundation",
-      "content_hash": "",
-      "last_sent": 1792817636.8447568,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/22/de-staat-freedom": {
-      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom",
-      "title": "DE STAAT - FREEDOM (Official Music Video)",
-      "normalized_title": "de staat",
-      "content_hash": "",
-      "last_sent": 1792817636.8448217,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:de staat": {
-      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom",
-      "title": "DE STAAT - FREEDOM (Official Music Video)",
-      "normalized_title": "de staat",
-      "content_hash": "",
-      "last_sent": 1792817636.8448217,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://latent.space/p/ai-is-getting-good-at-math": {
@@ -403,42 +331,6 @@
       "normalized_title": "securing our frontier model training environment",
       "content_hash": "",
       "last_sent": 1792904553.851711,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem": {
-      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
-      "title": "Kazakhstan Expands Compute for Its AI Future",
-      "normalized_title": "kazakhstan expands compute for its ai future",
-      "content_hash": "",
-      "last_sent": 1792817636.8447907,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:kazakhstan expands compute for its ai future": {
-      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
-      "title": "Kazakhstan Expands Compute for Its AI Future",
-      "normalized_title": "kazakhstan expands compute for its ai future",
-      "content_hash": "",
-      "last_sent": 1792817636.8447907,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4": {
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4",
-      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
-      "normalized_title": "cloud deployment incoming call of duty modern warfare 4 arrives on geforce now",
-      "content_hash": "",
-      "last_sent": 1792817636.8448026,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:cloud deployment incoming call of duty modern warfare 4 arrives on geforce now": {
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4",
-      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
-      "normalized_title": "cloud deployment incoming call of duty modern warfare 4 arrives on geforce now",
-      "content_hash": "",
-      "last_sent": 1792817636.8448026,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1554,7 +1446,7 @@
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "normalized_title": "into the omniverse",
       "content_hash": "",
-      "last_sent": 1793948794.275753,
+      "last_sent": 1794032417.647355,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1563,7 +1455,7 @@
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "normalized_title": "into the omniverse",
       "content_hash": "",
-      "last_sent": 1793948794.275753,
+      "last_sent": 1794032417.647355,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2715,7 +2607,7 @@
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "normalized_title": "gemini omni 1 2 flash fast and cost",
       "content_hash": "",
-      "last_sent": 1793948794.2758002,
+      "last_sent": 1794032417.6473925,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2724,7 +2616,7 @@
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "normalized_title": "gemini omni 1 2 flash fast and cost",
       "content_hash": "",
-      "last_sent": 1793948794.2758002,
+      "last_sent": 1794032417.6473925,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2852,6 +2744,114 @@
       "content_hash": "",
       "last_sent": 1793993700.5632586,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://anthropic.com/research/components-of-agent-memory": {
+      "url": "https://anthropic.com/research/components-of-agent-memory",
+      "title": "The components of agent memory",
+      "normalized_title": "the components of agent memory",
+      "content_hash": "",
+      "last_sent": 1794032417.6472847,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:the components of agent memory": {
+      "url": "https://anthropic.com/research/components-of-agent-memory",
+      "title": "The components of agent memory",
+      "normalized_title": "the components of agent memory",
+      "content_hash": "",
+      "last_sent": 1794032417.6472847,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.06498": {
+      "url": "https://huggingface.co/papers/2611.06498",
+      "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation (1 upvotes)",
+      "normalized_title": "signed but steerable measuring and closing the text vector integrity gap in offline retrieval",
+      "content_hash": "",
+      "last_sent": 1794032417.647316,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:signed but steerable measuring and closing the text vector integrity gap in offline retrieval": {
+      "url": "https://huggingface.co/papers/2611.06498",
+      "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation (1 upvotes)",
+      "normalized_title": "signed but steerable measuring and closing the text vector integrity gap in offline retrieval",
+      "content_hash": "",
+      "last_sent": 1794032417.647316,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-anthropic-ipo-whither-now": {
+      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now",
+      "title": "[AINews] Anthropic IPO: Whither Now?",
+      "normalized_title": "anthropic ipo whither now",
+      "content_hash": "",
+      "last_sent": 1794032417.6473436,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:anthropic ipo whither now": {
+      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now",
+      "title": "[AINews] Anthropic IPO: Whither Now?",
+      "normalized_title": "anthropic ipo whither now",
+      "content_hash": "",
+      "last_sent": 1794032417.6473436,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich": {
+      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich",
+      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "normalized_title": "controlling biology fabian theis helmholtz munich",
+      "content_hash": "",
+      "last_sent": 1794032417.6473796,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:controlling biology fabian theis helmholtz munich": {
+      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich",
+      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "normalized_title": "controlling biology fabian theis helmholtz munich",
+      "content_hash": "",
+      "last_sent": 1794032417.6473796,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/open-asr-leaderboard-liva": {
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "normalized_title": "egyptian and nigerian english join the open asr leaderboard",
+      "content_hash": "",
+      "last_sent": 1794032417.6474133,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:egyptian and nigerian english join the open asr leaderboard": {
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "normalized_title": "egyptian and nigerian english join the open asr leaderboard",
+      "content_hash": "",
+      "last_sent": 1794032417.6474133,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/partnering-with-hacktron": {
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "normalized_title": "partnering with hacktron to find vulnerabilities in openai s systems",
+      "content_hash": "",
+      "last_sent": 1794032417.6474261,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:partnering with hacktron to find vulnerabilities in openai s systems": {
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "normalized_title": "partnering with hacktron to find vulnerabilities in openai s systems",
+      "content_hash": "",
+      "last_sent": 1794032417.6474261,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
