@@ -1,12 +1,8 @@
 {
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
-    "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
-    "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
-    "https://latent.space/p/ainews-kimi-31": 1792946244.4730883,
-    "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening": 1792946244.4731135,
-    "https://magazine.sebastianraschka.com/p/building-reasoning-models": 1792946244.4731264,
-    "https://simonwillison.net/2026/Oct/24/battledrones": 1792946244.4731498,
+    "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
+    "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://huggingface.co/papers/2610.31066": 1792991165.141773,
     "https://simonwillison.net/2026/Oct/25/seam-cutter": 1793078470.9966571,
     "https://huggingface.co/papers/2610.31162": 1792991165.141801,
@@ -139,7 +135,10 @@
     "https://huggingface.co/blog/open-asr-leaderboard-liva": 1794032417.6474204,
     "https://openai.com/index/partnering-with-hacktron": 1794119108.5849206,
     "https://simonwillison.net/2026/Nov/7/link-rel-next": 1794119108.5848742,
-    "https://huggingface.co/papers/2611.06500": 1794119108.584889
+    "https://huggingface.co/papers/2611.06500": 1794119108.584889,
+    "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering": 1794160855.3632653,
+    "https://github.com/esengine/DeepSeek-Reasonix": 1794160855.3632815,
+    "https://huggingface.co/papers/2611.04386": 1794160855.363298
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -164,91 +163,19 @@
     },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "title": "ZhuLinsen/daily_stock_analysis (67,390 stars)",
-      "normalized_title": "zhulinsen daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis: Scheduled Multi-Agent Financial Research System",
+      "normalized_title": "zhulinsen daily_stock_analysis scheduled multi",
       "content_hash": "",
-      "last_sent": 1793556115.4632485,
+      "last_sent": 1794160855.3633075,
       "digest_type": "evening",
       "score": 0.0
     },
     "https://github.com/HKUDS/Vibe-Trading": {
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "title": "HKUDS/Vibe-Trading (37,362 stars)",
-      "normalized_title": "hkuds vibe",
+      "title": "HKUDS/Vibe-Trading: Open-Source LLM-Driven Autonomous Trading Agent",
+      "normalized_title": "hkuds vibe trading open source llm",
       "content_hash": "",
-      "last_sent": 1793556115.4632614,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-kimi-31": {
-      "url": "https://latent.space/p/ainews-kimi-31",
-      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "normalized_title": "kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
-      "content_hash": "",
-      "last_sent": 1792946244.4730403,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed": {
-      "url": "https://latent.space/p/ainews-kimi-31",
-      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "normalized_title": "kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
-      "content_hash": "",
-      "last_sent": 1792946244.4730403,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening": {
-      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
-      "title": "Bringing foundational models to the front lines of TB screening",
-      "normalized_title": "bringing foundational models to the front lines of tb screening",
-      "content_hash": "",
-      "last_sent": 1792946244.4731066,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:bringing foundational models to the front lines of tb screening": {
-      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
-      "title": "Bringing foundational models to the front lines of TB screening",
-      "normalized_title": "bringing foundational models to the front lines of tb screening",
-      "content_hash": "",
-      "last_sent": 1792946244.4731066,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://magazine.sebastianraschka.com/p/building-reasoning-models": {
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
-      "normalized_title": "building reasoning models from the ground up",
-      "content_hash": "",
-      "last_sent": 1792946244.4731205,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/24/battledrones": {
-      "url": "https://simonwillison.net/2026/Oct/24/battledrones",
-      "title": "battledrones v14: Compass Rose, a four player map",
-      "normalized_title": "battledrones v14 compass rose a four player map",
-      "content_hash": "",
-      "last_sent": 1792946244.4731429,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:battledrones v14 compass rose a four player map": {
-      "url": "https://simonwillison.net/2026/Oct/24/battledrones",
-      "title": "battledrones v14: Compass Rose, a four player map",
-      "normalized_title": "battledrones v14 compass rose a four player map",
-      "content_hash": "",
-      "last_sent": 1792946244.4731429,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:building reasoning models from the ground up": {
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
-      "normalized_title": "building reasoning models from the ground up",
-      "content_hash": "",
-      "last_sent": 1792946244.4731205,
+      "last_sent": 1794160855.3633242,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2653,6 +2580,78 @@
       "content_hash": "",
       "last_sent": 1794119108.5848832,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+      "title": "GitHub Details the Shift to Agentic Engineering: Addressing PR Review Bottlenecks Across the SDLC",
+      "normalized_title": "github details the shift to agentic engineering",
+      "content_hash": "",
+      "last_sent": 1794160855.363245,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:github details the shift to agentic engineering": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+      "title": "GitHub Details the Shift to Agentic Engineering: Addressing PR Review Bottlenecks Across the SDLC",
+      "normalized_title": "github details the shift to agentic engineering",
+      "content_hash": "",
+      "last_sent": 1794160855.363245,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://github.com/esengine/DeepSeek-Reasonix": {
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "title": "DeepSeek-Reasonix: CLI Agent Framework for Complex Software Engineering Tasks",
+      "normalized_title": "deepseek reasonix",
+      "content_hash": "",
+      "last_sent": 1794160855.3632753,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:deepseek reasonix": {
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "title": "DeepSeek-Reasonix: CLI Agent Framework for Complex Software Engineering Tasks",
+      "normalized_title": "deepseek reasonix",
+      "content_hash": "",
+      "last_sent": 1794160855.3632753,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.04386": {
+      "url": "https://huggingface.co/papers/2611.04386",
+      "title": "StepX-OPD: Multi-Teacher On-Policy Distillation Merges Capabilities and Few-Step Sampling",
+      "normalized_title": "stepx opd multi teacher on policy distillation merges capabilities and few",
+      "content_hash": "",
+      "last_sent": 1794160855.3632874,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:stepx opd multi teacher on policy distillation merges capabilities and few": {
+      "url": "https://huggingface.co/papers/2611.04386",
+      "title": "StepX-OPD: Multi-Teacher On-Policy Distillation Merges Capabilities and Few-Step Sampling",
+      "normalized_title": "stepx opd multi teacher on policy distillation merges capabilities and few",
+      "content_hash": "",
+      "last_sent": 1794160855.3632874,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:zhulinsen daily_stock_analysis scheduled multi": {
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis: Scheduled Multi-Agent Financial Research System",
+      "normalized_title": "zhulinsen daily_stock_analysis scheduled multi",
+      "content_hash": "",
+      "last_sent": 1794160855.3633075,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:hkuds vibe trading open source llm": {
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "title": "HKUDS/Vibe-Trading: Open-Source LLM-Driven Autonomous Trading Agent",
+      "normalized_title": "hkuds vibe trading open source llm",
+      "content_hash": "",
+      "last_sent": 1794160855.3633242,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
