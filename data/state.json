@@ -1,19 +1,12 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794032417.6473732,
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1793556115.4632547,
     "https://github.com/HKUDS/Vibe-Trading": 1793556115.4632924,
-    "https://huggingface.co/papers/2610.04184": 1792904553.8516536,
-    "https://simonwillison.net/2026/Oct/23/kimi-k31-pro": 1792904553.8516724,
-    "https://openai.com/index/securing-our-frontier-model-training-environment": 1792904553.8517165,
-    "https://simonwillison.net/2026/Oct/23/quick-study-painter": 1792904553.85174,
     "https://latent.space/p/ainews-kimi-31": 1792946244.4730883,
     "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening": 1792946244.4731135,
     "https://magazine.sebastianraschka.com/p/building-reasoning-models": 1792946244.4731264,
     "https://simonwillison.net/2026/Oct/24/battledrones": 1792946244.4731498,
-    "https://huggingface.co/papers/2610.22722": 1792904553.8516862,
-    "https://huggingface.co/papers/2610.30043": 1792904553.8517022,
-    "https://openai.com/index/scaling-storage-one-billion-users-part-two": 1792904553.8517292,
     "https://huggingface.co/papers/2610.31066": 1792991165.141773,
     "https://simonwillison.net/2026/Oct/25/seam-cutter": 1793078470.9966571,
     "https://huggingface.co/papers/2610.31162": 1792991165.141801,
@@ -140,30 +133,32 @@
     "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks": 1794073826.505044,
     "https://simonwillison.net/2026/Nov/6/nilay-patel": 1794073826.5050335,
     "https://anthropic.com/research/components-of-agent-memory": 1794032417.6473079,
-    "https://huggingface.co/papers/2611.06498": 1794032417.6473327,
-    "https://latent.space/p/ainews-anthropic-ipo-whither-now": 1794032417.6473498,
-    "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich": 1794032417.6473868,
+    "https://huggingface.co/papers/2611.06498": 1794119108.5848207,
+    "https://latent.space/p/ainews-anthropic-ipo-whither-now": 1794119108.584844,
+    "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich": 1794119108.5849023,
     "https://huggingface.co/blog/open-asr-leaderboard-liva": 1794032417.6474204,
-    "https://openai.com/index/partnering-with-hacktron": 1794032417.6474388
+    "https://openai.com/index/partnering-with-hacktron": 1794119108.5849206,
+    "https://simonwillison.net/2026/Nov/7/link-rel-next": 1794119108.5848742,
+    "https://huggingface.co/papers/2611.06500": 1794119108.584889
   },
   "seenTweets": {},
   "seenVideos": {},
   "sentStories": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,588 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,628 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1794032417.6473668,
+      "last_sent": 1794119108.584851,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:tencentcloud tencentdb agent": {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,588 stars)",
+      "title": "TencentCloud/TencentDB-Agent-Memory (30,628 stars)",
       "normalized_title": "tencentcloud tencentdb agent",
       "content_hash": "",
-      "last_sent": 1794032417.6473668,
+      "last_sent": 1794119108.584851,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -183,78 +178,6 @@
       "content_hash": "",
       "last_sent": 1793556115.4632614,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.04184": {
-      "url": "https://huggingface.co/papers/2610.04184",
-      "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement? (18 upvotes)",
-      "normalized_title": "evalresearchbench can ai agents build their own feedback for recursive self improvement",
-      "content_hash": "",
-      "last_sent": 1792904553.8516219,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:evalresearchbench can ai agents build their own feedback for recursive self improvement": {
-      "url": "https://huggingface.co/papers/2610.04184",
-      "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement? (18 upvotes)",
-      "normalized_title": "evalresearchbench can ai agents build their own feedback for recursive self improvement",
-      "content_hash": "",
-      "last_sent": 1792904553.8516219,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/23/kimi-k31-pro": {
-      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
-      "title": "Introducing Kimi K3.1 Pro",
-      "normalized_title": "introducing kimi k3 1 pro",
-      "content_hash": "",
-      "last_sent": 1792904553.8516665,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:introducing kimi k3 1 pro": {
-      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
-      "title": "Introducing Kimi K3.1 Pro",
-      "normalized_title": "introducing kimi k3 1 pro",
-      "content_hash": "",
-      "last_sent": 1792904553.8516665,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/securing-our-frontier-model-training-environment": {
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "title": "Securing our frontier model training environment",
-      "normalized_title": "securing our frontier model training environment",
-      "content_hash": "",
-      "last_sent": 1792904553.851711,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:securing our frontier model training environment": {
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "title": "Securing our frontier model training environment",
-      "normalized_title": "securing our frontier model training environment",
-      "content_hash": "",
-      "last_sent": 1792904553.851711,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/23/quick-study-painter": {
-      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter",
-      "title": "Quick Study",
-      "normalized_title": "quick study",
-      "content_hash": "",
-      "last_sent": 1792904553.851736,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:quick study": {
-      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter",
-      "title": "Quick Study",
-      "normalized_title": "quick study",
-      "content_hash": "",
-      "last_sent": 1792904553.851736,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://latent.space/p/ainews-kimi-31": {
@@ -318,60 +241,6 @@
       "content_hash": "",
       "last_sent": 1792946244.4731429,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.22722": {
-      "url": "https://huggingface.co/papers/2610.22722",
-      "title": "The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems (9 upvotes)",
-      "normalized_title": "the llm attacker a unified red",
-      "content_hash": "",
-      "last_sent": 1792904553.851678,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:the llm attacker a unified red": {
-      "url": "https://huggingface.co/papers/2610.22722",
-      "title": "The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems (9 upvotes)",
-      "normalized_title": "the llm attacker a unified red",
-      "content_hash": "",
-      "last_sent": 1792904553.851678,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.30043": {
-      "url": "https://huggingface.co/papers/2610.30043",
-      "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments (8 upvotes)",
-      "normalized_title": "tarsphere a robot oriented full stack framework for long",
-      "content_hash": "",
-      "last_sent": 1792904553.8516932,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:tarsphere a robot oriented full stack framework for long": {
-      "url": "https://huggingface.co/papers/2610.30043",
-      "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments (8 upvotes)",
-      "normalized_title": "tarsphere a robot oriented full stack framework for long",
-      "content_hash": "",
-      "last_sent": 1792904553.8516932,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/scaling-storage-one-billion-users-part-two": {
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "normalized_title": "rapidly scaling online storage to serve over 1 billion chatgpt users",
-      "content_hash": "",
-      "last_sent": 1792904553.851722,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:rapidly scaling online storage to serve over 1 billion chatgpt users": {
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "normalized_title": "rapidly scaling online storage to serve over 1 billion chatgpt users",
-      "content_hash": "",
-      "last_sent": 1792904553.851722,
-      "digest_type": "morning",
       "score": 0.0
     },
     "title:building reasoning models from the ground up": {
@@ -2662,19 +2531,19 @@
     },
     "https://huggingface.co/papers/2611.06498": {
       "url": "https://huggingface.co/papers/2611.06498",
-      "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation (1 upvotes)",
+      "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation (4 upvotes)",
       "normalized_title": "signed but steerable measuring and closing the text vector integrity gap in offline retrieval",
       "content_hash": "",
-      "last_sent": 1794032417.647316,
+      "last_sent": 1794119108.5847888,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:signed but steerable measuring and closing the text vector integrity gap in offline retrieval": {
       "url": "https://huggingface.co/papers/2611.06498",
-      "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation (1 upvotes)",
+      "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation (4 upvotes)",
       "normalized_title": "signed but steerable measuring and closing the text vector integrity gap in offline retrieval",
       "content_hash": "",
-      "last_sent": 1794032417.647316,
+      "last_sent": 1794119108.5847888,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2683,7 +2552,7 @@
       "title": "[AINews] Anthropic IPO: Whither Now?",
       "normalized_title": "anthropic ipo whither now",
       "content_hash": "",
-      "last_sent": 1794032417.6473436,
+      "last_sent": 1794119108.5848367,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2692,7 +2561,7 @@
       "title": "[AINews] Anthropic IPO: Whither Now?",
       "normalized_title": "anthropic ipo whither now",
       "content_hash": "",
-      "last_sent": 1794032417.6473436,
+      "last_sent": 1794119108.5848367,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2701,7 +2570,7 @@
       "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
       "normalized_title": "controlling biology fabian theis helmholtz munich",
       "content_hash": "",
-      "last_sent": 1794032417.6473796,
+      "last_sent": 1794119108.5848951,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2710,7 +2579,7 @@
       "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
       "normalized_title": "controlling biology fabian theis helmholtz munich",
       "content_hash": "",
-      "last_sent": 1794032417.6473796,
+      "last_sent": 1794119108.5848951,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2737,7 +2606,7 @@
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "normalized_title": "partnering with hacktron to find vulnerabilities in openai s systems",
       "content_hash": "",
-      "last_sent": 1794032417.6474261,
+      "last_sent": 1794119108.58491,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2746,7 +2615,43 @@
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "normalized_title": "partnering with hacktron to find vulnerabilities in openai s systems",
       "content_hash": "",
-      "last_sent": 1794032417.6474261,
+      "last_sent": 1794119108.58491,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/7/link-rel-next": {
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "normalized_title": "datasette 3046 don t serve link rel next http headers to firefox for html pages",
+      "content_hash": "",
+      "last_sent": 1794119108.5848646,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:datasette 3046 don t serve link rel next http headers to firefox for html pages": {
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "normalized_title": "datasette 3046 don t serve link rel next http headers to firefox for html pages",
+      "content_hash": "",
+      "last_sent": 1794119108.5848646,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.06500": {
+      "url": "https://huggingface.co/papers/2611.06500",
+      "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents (4 upvotes)",
+      "normalized_title": "tools need not speak in text",
+      "content_hash": "",
+      "last_sent": 1794119108.5848832,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:tools need not speak in text": {
+      "url": "https://huggingface.co/papers/2611.06500",
+      "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents (4 upvotes)",
+      "normalized_title": "tools need not speak in text",
+      "content_hash": "",
+      "last_sent": 1794119108.5848832,
       "digest_type": "morning",
       "score": 0.0
     }
