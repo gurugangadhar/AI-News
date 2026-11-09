@@ -4,10 +4,7 @@
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://simonwillison.net/2026/Oct/25/seam-cutter": 1793078470.9966571,
-    "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps": 1793040334.7849433,
     "https://openai.com/index/chatgpt-expanding-world-of-work": 1793124486.6930306,
-    "https://openai.com/index/fanatics-streamline-fan-experience": 1793040334.7849894,
-    "https://anthropic.com/news/s1-sec": 1793040334.785001,
     "https://simonwillison.net/2026/Oct/26/gpt-61-terra": 1793167235.5974083,
     "https://openai.com/index/building-scientific-understanding-with-academic-communities": 1793167235.597509,
     "https://simonwillison.net/2026/Oct/26/webframe-evaluation": 1793167235.597418,
@@ -144,7 +141,12 @@
     "https://blogs.nvidia.com/blog/korea-secure-agentic-ai": 1794207462.0034285,
     "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration": 1794207462.0034435,
     "https://simonwillison.net/2026/Nov/9/hn-50421091": 1794207462.0034564,
-    "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust": 1794207462.003475
+    "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust": 1794207462.003475,
+    "https://anthropic.com/claude-fable-and-mythos-5-2": 1794263634.3503644,
+    "https://latent.space/p/handshake": 1794263634.3503833,
+    "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": 1794263634.350398,
+    "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl": 1794263634.3504095,
+    "https://openai.com/index/chatgpt-enterprise-aws-marketplace": 1794263634.3504174
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -221,24 +223,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps": {
-      "url": "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps",
-      "title": "Supabase’s Plan for a Billion AI-Built Apps",
-      "normalized_title": "supabase s plan for a billion ai",
-      "content_hash": "",
-      "last_sent": 1793040334.784916,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:supabase s plan for a billion ai": {
-      "url": "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps",
-      "title": "Supabase’s Plan for a Billion AI-Built Apps",
-      "normalized_title": "supabase s plan for a billion ai",
-      "content_hash": "",
-      "last_sent": 1793040334.784916,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://openai.com/index/chatgpt-expanding-world-of-work": {
       "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
       "title": "ChatGPT’s expanding world of work",
@@ -254,42 +238,6 @@
       "normalized_title": "chatgpt s expanding world of work",
       "content_hash": "",
       "last_sent": 1793124486.6930182,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://openai.com/index/fanatics-streamline-fan-experience": {
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "normalized_title": "how fanatics and openai streamline the fan experience",
-      "content_hash": "",
-      "last_sent": 1793040334.7849832,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:how fanatics and openai streamline the fan experience": {
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "normalized_title": "how fanatics and openai streamline the fan experience",
-      "content_hash": "",
-      "last_sent": 1793040334.7849832,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://anthropic.com/news/s1-sec": {
-      "url": "https://anthropic.com/news/s1-sec",
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "normalized_title": "anthropic files s",
-      "content_hash": "",
-      "last_sent": 1793040334.7849956,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:anthropic files s": {
-      "url": "https://anthropic.com/news/s1-sec",
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "normalized_title": "anthropic files s",
-      "content_hash": "",
-      "last_sent": 1793040334.7849956,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2765,6 +2713,96 @@
       "normalized_title": "parse_number as a sqlite extension",
       "content_hash": "",
       "last_sent": 1794207462.0034678,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://anthropic.com/claude-fable-and-mythos-5-2": {
+      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "normalized_title": "introducing claude fable 5 2 and claude mythos 5 2",
+      "content_hash": "",
+      "last_sent": 1794263634.3503404,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:introducing claude fable 5 2 and claude mythos 5 2": {
+      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "normalized_title": "introducing claude fable 5 2 and claude mythos 5 2",
+      "content_hash": "",
+      "last_sent": 1794263634.3503404,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/handshake": {
+      "url": "https://latent.space/p/handshake",
+      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+      "normalized_title": "what frontier labs buy a data deep dive with handshake ai garrett lord team",
+      "content_hash": "",
+      "last_sent": 1794263634.3503704,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:what frontier labs buy a data deep dive with handshake ai garrett lord team": {
+      "url": "https://latent.space/p/handshake",
+      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+      "normalized_title": "what frontier labs buy a data deep dive with handshake ai garrett lord team",
+      "content_hash": "",
+      "last_sent": 1794263634.3503704,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "normalized_title": "nemotron personas finance japan a synthetic dataset capturing japan s demographics and financial context",
+      "content_hash": "",
+      "last_sent": 1794263634.3503902,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:nemotron personas finance japan a synthetic dataset capturing japan s demographics and financial context": {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "normalized_title": "nemotron personas finance japan a synthetic dataset capturing japan s demographics and financial context",
+      "content_hash": "",
+      "last_sent": 1794263634.3503902,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl": {
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl",
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "normalized_title": "practice makes precise at corl nvidia and partners reveal how robots rehearse delicate work in simulation",
+      "content_hash": "",
+      "last_sent": 1794263634.3504035,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:practice makes precise at corl nvidia and partners reveal how robots rehearse delicate work in simulation": {
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl",
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "normalized_title": "practice makes precise at corl nvidia and partners reveal how robots rehearse delicate work in simulation",
+      "content_hash": "",
+      "last_sent": 1794263634.3504035,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/chatgpt-enterprise-aws-marketplace": {
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "normalized_title": "chatgpt enterprise now available in aws marketplace",
+      "content_hash": "",
+      "last_sent": 1794263634.3504143,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:chatgpt enterprise now available in aws marketplace": {
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "normalized_title": "chatgpt enterprise now available in aws marketplace",
+      "content_hash": "",
+      "last_sent": 1794263634.3504143,
       "digest_type": "morning",
       "score": 0.0
     }
