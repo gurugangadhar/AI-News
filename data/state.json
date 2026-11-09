@@ -3,9 +3,7 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
-    "https://huggingface.co/papers/2610.31066": 1792991165.141773,
     "https://simonwillison.net/2026/Oct/25/seam-cutter": 1793078470.9966571,
-    "https://huggingface.co/papers/2610.31162": 1792991165.141801,
     "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps": 1793040334.7849433,
     "https://openai.com/index/chatgpt-expanding-world-of-work": 1793124486.6930306,
     "https://openai.com/index/fanatics-streamline-fan-experience": 1793040334.7849894,
@@ -134,11 +132,19 @@
     "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich": 1794119108.5849023,
     "https://huggingface.co/blog/open-asr-leaderboard-liva": 1794032417.6474204,
     "https://openai.com/index/partnering-with-hacktron": 1794119108.5849206,
-    "https://simonwillison.net/2026/Nov/7/link-rel-next": 1794119108.5848742,
+    "https://simonwillison.net/2026/Nov/7/link-rel-next": 1794207462.0034919,
     "https://huggingface.co/papers/2611.06500": 1794119108.584889,
     "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering": 1794160855.3632653,
     "https://github.com/esengine/DeepSeek-Reasonix": 1794160855.3632815,
-    "https://huggingface.co/papers/2611.04386": 1794160855.363298
+    "https://huggingface.co/papers/2611.04386": 1794160855.363298,
+    "https://latent.space/p/cs146s": 1794207462.0033534,
+    "https://simonwillison.net/2026/Nov/9/details-summary": 1794207462.0033748,
+    "https://huggingface.co/papers/2611.04720": 1794207462.0033958,
+    "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem": 1794207462.0034132,
+    "https://blogs.nvidia.com/blog/korea-secure-agentic-ai": 1794207462.0034285,
+    "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration": 1794207462.0034435,
+    "https://simonwillison.net/2026/Nov/9/hn-50421091": 1794207462.0034564,
+    "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust": 1794207462.003475
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -179,24 +185,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://huggingface.co/papers/2610.31066": {
-      "url": "https://huggingface.co/papers/2610.31066",
-      "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models (2 upvotes)",
-      "normalized_title": "dual exam",
-      "content_hash": "",
-      "last_sent": 1792991165.1417542,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:dual exam": {
-      "url": "https://huggingface.co/papers/2610.31066",
-      "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models (2 upvotes)",
-      "normalized_title": "dual exam",
-      "content_hash": "",
-      "last_sent": 1792991165.1417542,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/25/seam-cutter": {
       "url": "https://simonwillison.net/2026/Oct/25/seam-cutter",
       "title": "Seam Cutter",
@@ -212,24 +200,6 @@
       "normalized_title": "seam cutter",
       "content_hash": "",
       "last_sent": 1793078470.9966526,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.31162": {
-      "url": "https://huggingface.co/papers/2610.31162",
-      "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games (16 upvotes)",
-      "normalized_title": "histeve 1 0 harnessing human interface vla agents for open",
-      "content_hash": "",
-      "last_sent": 1792991165.1417906,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:histeve 1 0 harnessing human interface vla agents for open": {
-      "url": "https://huggingface.co/papers/2610.31162",
-      "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games (16 upvotes)",
-      "normalized_title": "histeve 1 0 harnessing human interface vla agents for open",
-      "content_hash": "",
-      "last_sent": 1792991165.1417906,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2551,7 +2521,7 @@
       "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
       "normalized_title": "datasette 3046 don t serve link rel next http headers to firefox for html pages",
       "content_hash": "",
-      "last_sent": 1794119108.5848646,
+      "last_sent": 1794207462.0034811,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2560,7 +2530,7 @@
       "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
       "normalized_title": "datasette 3046 don t serve link rel next http headers to firefox for html pages",
       "content_hash": "",
-      "last_sent": 1794119108.5848646,
+      "last_sent": 1794207462.0034811,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2652,6 +2622,150 @@
       "content_hash": "",
       "last_sent": 1794160855.3633242,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/cs146s": {
+      "url": "https://latent.space/p/cs146s",
+      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "normalized_title": "how stanford teaches ai native engineering mihail eric monaco",
+      "content_hash": "",
+      "last_sent": 1794207462.0033262,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how stanford teaches ai native engineering mihail eric monaco": {
+      "url": "https://latent.space/p/cs146s",
+      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "normalized_title": "how stanford teaches ai native engineering mihail eric monaco",
+      "content_hash": "",
+      "last_sent": 1794207462.0033262,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/9/details-summary": {
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary",
+      "title": "Hide your slop PR descriptions behind <details><summary>",
+      "normalized_title": "hide your slop pr descriptions behind details summary",
+      "content_hash": "",
+      "last_sent": 1794207462.0033665,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:hide your slop pr descriptions behind details summary": {
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary",
+      "title": "Hide your slop PR descriptions behind <details><summary>",
+      "normalized_title": "hide your slop pr descriptions behind details summary",
+      "content_hash": "",
+      "last_sent": 1794207462.0033665,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.04720": {
+      "url": "https://huggingface.co/papers/2611.04720",
+      "title": "OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer (2 upvotes)",
+      "normalized_title": "onetrans gsr a generative slate ranking paradigm unifying reranking and mix",
+      "content_hash": "",
+      "last_sent": 1794207462.0033827,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:onetrans gsr a generative slate ranking paradigm unifying reranking and mix": {
+      "url": "https://huggingface.co/papers/2611.04720",
+      "title": "OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer (2 upvotes)",
+      "normalized_title": "onetrans gsr a generative slate ranking paradigm unifying reranking and mix",
+      "content_hash": "",
+      "last_sent": 1794207462.0033827,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem": {
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "normalized_title": "korea advances physical ai across industries with nvidia",
+      "content_hash": "",
+      "last_sent": 1794207462.003407,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:korea advances physical ai across industries with nvidia": {
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "normalized_title": "korea advances physical ai across industries with nvidia",
+      "content_hash": "",
+      "last_sent": 1794207462.003407,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/korea-secure-agentic-ai": {
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "normalized_title": "korea s ai ecosystem advances and secures agentic ai with nvidia",
+      "content_hash": "",
+      "last_sent": 1794207462.00342,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:korea s ai ecosystem advances and secures agentic ai with nvidia": {
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "normalized_title": "korea s ai ecosystem advances and secures agentic ai with nvidia",
+      "content_hash": "",
+      "last_sent": 1794207462.00342,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration": {
+      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "normalized_title": "from chips to skills nvidia and korea expand sovereign ai collaboration",
+      "content_hash": "",
+      "last_sent": 1794207462.003436,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:from chips to skills nvidia and korea expand sovereign ai collaboration": {
+      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "normalized_title": "from chips to skills nvidia and korea expand sovereign ai collaboration",
+      "content_hash": "",
+      "last_sent": 1794207462.003436,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/9/hn-50421091": {
+      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "normalized_title": "the web is more than enough by paul ford",
+      "content_hash": "",
+      "last_sent": 1794207462.0034506,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:the web is more than enough by paul ford": {
+      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "normalized_title": "the web is more than enough by paul ford",
+      "content_hash": "",
+      "last_sent": 1794207462.0034506,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust": {
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "normalized_title": "parse_number as a sqlite extension",
+      "content_hash": "",
+      "last_sent": 1794207462.0034678,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:parse_number as a sqlite extension": {
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "normalized_title": "parse_number as a sqlite extension",
+      "content_hash": "",
+      "last_sent": 1794207462.0034678,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
