@@ -3,17 +3,13 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
-    "https://openai.com/index/chatgpt-expanding-world-of-work": 1793124486.6930306,
     "https://simonwillison.net/2026/Oct/26/gpt-61-terra": 1793167235.5974083,
     "https://openai.com/index/building-scientific-understanding-with-academic-communities": 1793167235.597509,
     "https://simonwillison.net/2026/Oct/26/webframe-evaluation": 1793167235.597418,
-    "https://latent.space/p/offline-coding": 1793124486.6929083,
     "https://huggingface.co/blog/LiquidAI/lfm3": 1793211945.9641042,
     "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning": 1793211945.9641342,
-    "https://latent.space/p/ainews-anthropic-s1": 1793124486.6929605,
     "https://huggingface.co/blog/allenai/novelty-bench": 1793211945.9641535,
     "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": 1793254072.7818632,
-    "https://openai.com/index/oracle-apps-in-chatgpt": 1793124486.6930053,
     "https://latent.space/p/opus55": 1793167235.597381,
     "https://huggingface.co/papers/2610.34674": 1793167235.5973969,
     "https://openai.com/index/retell-ai": 1793167235.5974436,
@@ -139,9 +135,9 @@
     "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration": 1794207462.0034435,
     "https://simonwillison.net/2026/Nov/9/hn-50421091": 1794207462.0034564,
     "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust": 1794207462.003475,
-    "https://anthropic.com/claude-fable-and-mythos-5-2": 1794263634.3503644,
-    "https://latent.space/p/handshake": 1794263634.3503833,
-    "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": 1794263634.350398,
+    "https://anthropic.com/claude-fable-and-mythos-5-2": 1794340515.6319494,
+    "https://latent.space/p/handshake": 1794340515.631994,
+    "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": 1794340515.6320243,
     "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl": 1794263634.3504095,
     "https://openai.com/index/chatgpt-enterprise-aws-marketplace": 1794263634.3504174,
     "https://simonwillison.net/2026/Nov/10/muse-ember": 1794296117.4320579,
@@ -151,7 +147,10 @@
     "https://openai.com/index/coderabbit-codex-daybreak": 1794296117.4320922,
     "https://openai.com/index/control-room": 1794296117.4321036,
     "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52": 1794296117.4321094,
-    "https://simonwillison.net/2026/Nov/10/yonkers-rises": 1794296117.432114
+    "https://simonwillison.net/2026/Nov/10/yonkers-rises": 1794296117.432114,
+    "https://latent.space/p/naiveai": 1794340515.631964,
+    "https://deepmind.google/blog/gemini-4-carbon-is-now-available": 1794340515.6319745,
+    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": 1794340515.63201
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -210,24 +209,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://openai.com/index/chatgpt-expanding-world-of-work": {
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "title": "ChatGPT’s expanding world of work",
-      "normalized_title": "chatgpt s expanding world of work",
-      "content_hash": "",
-      "last_sent": 1793124486.6930182,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:chatgpt s expanding world of work": {
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "title": "ChatGPT’s expanding world of work",
-      "normalized_title": "chatgpt s expanding world of work",
-      "content_hash": "",
-      "last_sent": 1793124486.6930182,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/26/gpt-61-terra": {
       "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
       "title": "GPT-6.1 Terra",
@@ -282,24 +263,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://latent.space/p/offline-coding": {
-      "url": "https://latent.space/p/offline-coding",
-      "title": "Coding From the Himalayas With an Offline AI Agent",
-      "normalized_title": "coding from the himalayas with an offline ai agent",
-      "content_hash": "",
-      "last_sent": 1793124486.692887,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:coding from the himalayas with an offline ai agent": {
-      "url": "https://latent.space/p/offline-coding",
-      "title": "Coding From the Himalayas With an Offline AI Agent",
-      "normalized_title": "coding from the himalayas with an offline ai agent",
-      "content_hash": "",
-      "last_sent": 1793124486.692887,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://huggingface.co/blog/LiquidAI/lfm3": {
       "url": "https://huggingface.co/blog/LiquidAI/lfm3",
       "title": "Build specialized multimodal models with LFM3",
@@ -333,24 +296,6 @@
       "normalized_title": "the sleep framework",
       "content_hash": "",
       "last_sent": 1793211945.9641304,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-anthropic-s1": {
-      "url": "https://latent.space/p/ainews-anthropic-s1",
-      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-      "normalized_title": "anthropic files for 2t ipo in 2 weeks 1400 growth rate 48 of revenue through cloud partners 85 margin 1b op profit in q2 134b cash in bank and 10b lifetime burn",
-      "content_hash": "",
-      "last_sent": 1793124486.6929414,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:anthropic files for 2t ipo in 2 weeks 1400 growth rate 48 of revenue through cloud partners 85 margin 1b op profit in q2 134b cash in bank and 10b lifetime burn": {
-      "url": "https://latent.space/p/ainews-anthropic-s1",
-      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-      "normalized_title": "anthropic files for 2t ipo in 2 weeks 1400 growth rate 48 of revenue through cloud partners 85 margin 1b op profit in q2 134b cash in bank and 10b lifetime burn",
-      "content_hash": "",
-      "last_sent": 1793124486.6929414,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -388,24 +333,6 @@
       "content_hash": "",
       "last_sent": 1793254072.781858,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/oracle-apps-in-chatgpt": {
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "normalized_title": "openai expands partnership with oracle to bring its apps to chatgpt",
-      "content_hash": "",
-      "last_sent": 1793124486.6929991,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:openai expands partnership with oracle to bring its apps to chatgpt": {
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "normalized_title": "openai expands partnership with oracle to bring its apps to chatgpt",
-      "content_hash": "",
-      "last_sent": 1793124486.6929991,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://latent.space/p/opus55": {
@@ -2672,8 +2599,8 @@
       "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
       "normalized_title": "introducing claude fable 5 2 and claude mythos 5 2",
       "content_hash": "",
-      "last_sent": 1794263634.3503404,
-      "digest_type": "morning",
+      "last_sent": 1794340515.6319265,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:introducing claude fable 5 2 and claude mythos 5 2": {
@@ -2681,8 +2608,8 @@
       "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
       "normalized_title": "introducing claude fable 5 2 and claude mythos 5 2",
       "content_hash": "",
-      "last_sent": 1794263634.3503404,
-      "digest_type": "morning",
+      "last_sent": 1794340515.6319265,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://latent.space/p/handshake": {
@@ -2690,8 +2617,8 @@
       "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
       "normalized_title": "what frontier labs buy a data deep dive with handshake ai garrett lord team",
       "content_hash": "",
-      "last_sent": 1794263634.3503704,
-      "digest_type": "morning",
+      "last_sent": 1794340515.6319788,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:what frontier labs buy a data deep dive with handshake ai garrett lord team": {
@@ -2699,8 +2626,8 @@
       "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
       "normalized_title": "what frontier labs buy a data deep dive with handshake ai garrett lord team",
       "content_hash": "",
-      "last_sent": 1794263634.3503704,
-      "digest_type": "morning",
+      "last_sent": 1794340515.6319788,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": {
@@ -2708,8 +2635,8 @@
       "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
       "normalized_title": "nemotron personas finance japan a synthetic dataset capturing japan s demographics and financial context",
       "content_hash": "",
-      "last_sent": 1794263634.3503902,
-      "digest_type": "morning",
+      "last_sent": 1794340515.6320145,
+      "digest_type": "evening",
       "score": 0.0
     },
     "title:nemotron personas finance japan a synthetic dataset capturing japan s demographics and financial context": {
@@ -2717,8 +2644,8 @@
       "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
       "normalized_title": "nemotron personas finance japan a synthetic dataset capturing japan s demographics and financial context",
       "content_hash": "",
-      "last_sent": 1794263634.3503902,
-      "digest_type": "morning",
+      "last_sent": 1794340515.6320145,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl": {
@@ -2899,6 +2826,60 @@
       "content_hash": "",
       "last_sent": 1794296117.4321125,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/naiveai": {
+      "url": "https://latent.space/p/naiveai",
+      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+      "normalized_title": "naiveai promises 2 100 tokens per second how well does it code",
+      "content_hash": "",
+      "last_sent": 1794340515.631958,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:naiveai promises 2 100 tokens per second how well does it code": {
+      "url": "https://latent.space/p/naiveai",
+      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+      "normalized_title": "naiveai promises 2 100 tokens per second how well does it code",
+      "content_hash": "",
+      "last_sent": 1794340515.631958,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://deepmind.google/blog/gemini-4-carbon-is-now-available": {
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "title": "Gemini 4 Carbon is now available",
+      "normalized_title": "gemini 4 carbon is now available",
+      "content_hash": "",
+      "last_sent": 1794340515.6319706,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:gemini 4 carbon is now available": {
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "title": "Gemini 4 Carbon is now available",
+      "normalized_title": "gemini 4 carbon is now available",
+      "content_hash": "",
+      "last_sent": 1794340515.6319706,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": {
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "normalized_title": "gemini robotics 2 5 accelerates real",
+      "content_hash": "",
+      "last_sent": 1794340515.6320052,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:gemini robotics 2 5 accelerates real": {
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "normalized_title": "gemini robotics 2 5 accelerates real",
+      "content_hash": "",
+      "last_sent": 1794340515.6320052,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
