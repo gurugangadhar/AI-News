@@ -3,13 +3,10 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
-    "https://simonwillison.net/2026/Oct/25/seam-cutter": 1793078470.9966571,
     "https://openai.com/index/chatgpt-expanding-world-of-work": 1793124486.6930306,
     "https://simonwillison.net/2026/Oct/26/gpt-61-terra": 1793167235.5974083,
     "https://openai.com/index/building-scientific-understanding-with-academic-communities": 1793167235.597509,
     "https://simonwillison.net/2026/Oct/26/webframe-evaluation": 1793167235.597418,
-    "https://simonwillison.net/2026/Oct/26/jason-koebler": 1793078470.9966478,
-    "https://openai.com/index/greptile-code-review-codex-astra": 1793078470.9966695,
     "https://latent.space/p/offline-coding": 1793124486.6929083,
     "https://huggingface.co/blog/LiquidAI/lfm3": 1793211945.9641042,
     "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning": 1793211945.9641342,
@@ -134,10 +131,10 @@
     "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering": 1794160855.3632653,
     "https://github.com/esengine/DeepSeek-Reasonix": 1794160855.3632815,
     "https://huggingface.co/papers/2611.04386": 1794160855.363298,
-    "https://latent.space/p/cs146s": 1794207462.0033534,
+    "https://latent.space/p/cs146s": 1794296117.4320443,
     "https://simonwillison.net/2026/Nov/9/details-summary": 1794207462.0033748,
     "https://huggingface.co/papers/2611.04720": 1794207462.0033958,
-    "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem": 1794207462.0034132,
+    "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem": 1794296117.4320762,
     "https://blogs.nvidia.com/blog/korea-secure-agentic-ai": 1794207462.0034285,
     "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration": 1794207462.0034435,
     "https://simonwillison.net/2026/Nov/9/hn-50421091": 1794207462.0034564,
@@ -146,7 +143,15 @@
     "https://latent.space/p/handshake": 1794263634.3503833,
     "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": 1794263634.350398,
     "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl": 1794263634.3504095,
-    "https://openai.com/index/chatgpt-enterprise-aws-marketplace": 1794263634.3504174
+    "https://openai.com/index/chatgpt-enterprise-aws-marketplace": 1794263634.3504174,
+    "https://simonwillison.net/2026/Nov/10/muse-ember": 1794296117.4320579,
+    "https://devin.ai/blog/claude-fable-5-2": 1794296117.4320648,
+    "https://simonwillison.net/2026/Nov/9/llm-anthropic": 1794296117.4320703,
+    "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins": 1794296117.4320848,
+    "https://openai.com/index/coderabbit-codex-daybreak": 1794296117.4320922,
+    "https://openai.com/index/control-room": 1794296117.4321036,
+    "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52": 1794296117.4321094,
+    "https://simonwillison.net/2026/Nov/10/yonkers-rises": 1794296117.432114
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -185,24 +190,6 @@
       "content_hash": "",
       "last_sent": 1794160855.3633242,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/25/seam-cutter": {
-      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter",
-      "title": "Seam Cutter",
-      "normalized_title": "seam cutter",
-      "content_hash": "",
-      "last_sent": 1793078470.9966526,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:seam cutter": {
-      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter",
-      "title": "Seam Cutter",
-      "normalized_title": "seam cutter",
-      "content_hash": "",
-      "last_sent": 1793078470.9966526,
-      "digest_type": "morning",
       "score": 0.0
     },
     "title:zhulinsen daily_stock_analysis": {
@@ -292,42 +279,6 @@
       "normalized_title": "webframe",
       "content_hash": "",
       "last_sent": 1793167235.5974133,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/26/jason-koebler": {
-      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler",
-      "title": "Quoting Jason Koebler",
-      "normalized_title": "quoting jason koebler",
-      "content_hash": "",
-      "last_sent": 1793078470.9966435,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:quoting jason koebler": {
-      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler",
-      "title": "Quoting Jason Koebler",
-      "normalized_title": "quoting jason koebler",
-      "content_hash": "",
-      "last_sent": 1793078470.9966435,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/greptile-code-review-codex-astra": {
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "normalized_title": "greptile takes bug detection beyond code review with gpt",
-      "content_hash": "",
-      "last_sent": 1793078470.9966626,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:greptile takes bug detection beyond code review with gpt": {
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "normalized_title": "greptile takes bug detection beyond code review with gpt",
-      "content_hash": "",
-      "last_sent": 1793078470.9966626,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2577,7 +2528,7 @@
       "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
       "normalized_title": "how stanford teaches ai native engineering mihail eric monaco",
       "content_hash": "",
-      "last_sent": 1794207462.0033262,
+      "last_sent": 1794296117.432023,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2586,7 +2537,7 @@
       "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
       "normalized_title": "how stanford teaches ai native engineering mihail eric monaco",
       "content_hash": "",
-      "last_sent": 1794207462.0033262,
+      "last_sent": 1794296117.432023,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2631,7 +2582,7 @@
       "title": "Korea Advances Physical AI Across Industries With NVIDIA",
       "normalized_title": "korea advances physical ai across industries with nvidia",
       "content_hash": "",
-      "last_sent": 1794207462.003407,
+      "last_sent": 1794296117.4320724,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2640,7 +2591,7 @@
       "title": "Korea Advances Physical AI Across Industries With NVIDIA",
       "normalized_title": "korea advances physical ai across industries with nvidia",
       "content_hash": "",
-      "last_sent": 1794207462.003407,
+      "last_sent": 1794296117.4320724,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2803,6 +2754,150 @@
       "normalized_title": "chatgpt enterprise now available in aws marketplace",
       "content_hash": "",
       "last_sent": 1794263634.3504143,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/10/muse-ember": {
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "normalized_title": "introducing our smallest most efficient model",
+      "content_hash": "",
+      "last_sent": 1794296117.432052,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:introducing our smallest most efficient model": {
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "normalized_title": "introducing our smallest most efficient model",
+      "content_hash": "",
+      "last_sent": 1794296117.432052,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://devin.ai/blog/claude-fable-5-2": {
+      "url": "https://devin.ai/blog/claude-fable-5-2",
+      "title": "Claude Fable 5.2 is now available in Devin",
+      "normalized_title": "claude fable 5 2 is now available in devin",
+      "content_hash": "",
+      "last_sent": 1794296117.4320614,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:claude fable 5 2 is now available in devin": {
+      "url": "https://devin.ai/blog/claude-fable-5-2",
+      "title": "Claude Fable 5.2 is now available in Devin",
+      "normalized_title": "claude fable 5 2 is now available in devin",
+      "content_hash": "",
+      "last_sent": 1794296117.4320614,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/9/llm-anthropic": {
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic",
+      "title": "llm-anthropic 0.31",
+      "normalized_title": "llm",
+      "content_hash": "",
+      "last_sent": 1794296117.4320679,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:llm": {
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic",
+      "title": "llm-anthropic 0.31",
+      "normalized_title": "llm",
+      "content_hash": "",
+      "last_sent": 1794296117.4320679,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins": {
+      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins",
+      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+      "normalized_title": "fable 5 2 retakes world 1 llm spot as ant ipo roadshow begins",
+      "content_hash": "",
+      "last_sent": 1794296117.43208,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:fable 5 2 retakes world 1 llm spot as ant ipo roadshow begins": {
+      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins",
+      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+      "normalized_title": "fable 5 2 retakes world 1 llm spot as ant ipo roadshow begins",
+      "content_hash": "",
+      "last_sent": 1794296117.43208,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/coderabbit-codex-daybreak": {
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "normalized_title": "coderabbit scales agentic software development and ships 20x more",
+      "content_hash": "",
+      "last_sent": 1794296117.432089,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:coderabbit scales agentic software development and ships 20x more": {
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "normalized_title": "coderabbit scales agentic software development and ships 20x more",
+      "content_hash": "",
+      "last_sent": 1794296117.432089,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/control-room": {
+      "url": "https://openai.com/index/control-room",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "normalized_title": "control room",
+      "content_hash": "",
+      "last_sent": 1794296117.4321,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:control room": {
+      "url": "https://openai.com/index/control-room",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "normalized_title": "control room",
+      "content_hash": "",
+      "last_sent": 1794296117.4321,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52": {
+      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52",
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "normalized_title": "quoting prompting claude fable 5 2",
+      "content_hash": "",
+      "last_sent": 1794296117.4321067,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quoting prompting claude fable 5 2": {
+      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52",
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "normalized_title": "quoting prompting claude fable 5 2",
+      "content_hash": "",
+      "last_sent": 1794296117.4321067,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/10/yonkers-rises": {
+      "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises",
+      "title": "Yonkers Rises",
+      "normalized_title": "yonkers rises",
+      "content_hash": "",
+      "last_sent": 1794296117.4321125,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:yonkers rises": {
+      "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises",
+      "title": "Yonkers Rises",
+      "normalized_title": "yonkers rises",
+      "content_hash": "",
+      "last_sent": 1794296117.4321125,
       "digest_type": "morning",
       "score": 0.0
     }
