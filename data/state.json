@@ -3,17 +3,9 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
-    "https://huggingface.co/blog/LiquidAI/lfm3": 1793211945.9641042,
-    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning": 1793211945.9641342,
-    "https://huggingface.co/blog/allenai/novelty-bench": 1793211945.9641535,
     "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": 1793254072.7818632,
-    "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands": 1793211945.9641163,
-    "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": 1793211945.9641259,
-    "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure": 1793211945.9641445,
     "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model": 1793298882.7299566,
     "https://simonwillison.net/2026/Oct/28/github-octoverse-2026": 1793298882.7299964,
-    "https://simonwillison.net/2026/Oct/28/terk-terkowitz": 1793211945.964179,
-    "https://simonwillison.net/2026/Oct/28/vibe-game-development": 1793211945.9641848,
     "https://latent.space/p/supabase": 1793340520.1434166,
     "https://huggingface.co/papers/2610.37230": 1793254072.7818246,
     "https://latent.space/p/ainews-gemini-4-carbon": 1793340520.1434479,
@@ -139,14 +131,21 @@
     "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52": 1794380045.2767751,
     "https://simonwillison.net/2026/Nov/10/yonkers-rises": 1794380045.2767816,
     "https://latent.space/p/naiveai": 1794340515.631964,
-    "https://deepmind.google/blog/gemini-4-carbon-is-now-available": 1794340515.6319745,
+    "https://deepmind.google/blog/gemini-4-carbon-is-now-available": 1794426308.7478516,
     "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": 1794340515.63201,
     "https://latent.space/p/resend": 1794380045.2766907,
     "https://huggingface.co/blog/qvac/botpsy": 1794380045.276706,
     "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure": 1794380045.2767162,
     "https://devin.ai/blog/claude-mythos-5-2-security": 1794380045.2767246,
     "https://deepmind.google/blog/introducing-alphaproof-code": 1794380045.2767313,
-    "https://simonwillison.net/2026/Nov/10/llm-gemini": 1794380045.276767
+    "https://simonwillison.net/2026/Nov/10/llm-gemini": 1794380045.276767,
+    "https://huggingface.co/blog/hub-gcp-marketplace": 1794426308.747867,
+    "https://simonwillison.net/2026/Nov/11/llm": 1794426308.7478817,
+    "https://anthropic.com/news/roadshow-launch": 1794426308.7478926,
+    "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate": 1794426308.747908,
+    "https://latent.space/p/codex-work": 1794426308.7479222,
+    "https://huggingface.co/blog/token-pooling": 1794426308.747934,
+    "https://simonwillison.net/2026/Nov/11/tools-tags": 1794426308.7479527
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -205,60 +204,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://huggingface.co/blog/LiquidAI/lfm3": {
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "title": "Build specialized multimodal models with LFM3",
-      "normalized_title": "build specialized multimodal models with lfm3",
-      "content_hash": "",
-      "last_sent": 1793211945.9640841,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:build specialized multimodal models with lfm3": {
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "title": "Build specialized multimodal models with LFM3",
-      "normalized_title": "build specialized multimodal models with lfm3",
-      "content_hash": "",
-      "last_sent": 1793211945.9640841,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning": {
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
-      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "normalized_title": "the sleep framework",
-      "content_hash": "",
-      "last_sent": 1793211945.9641304,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:the sleep framework": {
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
-      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "normalized_title": "the sleep framework",
-      "content_hash": "",
-      "last_sent": 1793211945.9641304,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/allenai/novelty-bench": {
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "normalized_title": "can we trust llms to judge whether a research idea is novel",
-      "content_hash": "",
-      "last_sent": 1793211945.9641492,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:can we trust llms to judge whether a research idea is novel": {
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "normalized_title": "can we trust llms to judge whether a research idea is novel",
-      "content_hash": "",
-      "last_sent": 1793211945.9641492,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": {
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
       "title": "Genie 4: A new generation of world simulation",
@@ -275,60 +220,6 @@
       "content_hash": "",
       "last_sent": 1793254072.781858,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands": {
-      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands",
-      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
-      "normalized_title": "how anthropic ships the 1 llm in the world safely",
-      "content_hash": "",
-      "last_sent": 1793211945.9641101,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:how anthropic ships the 1 llm in the world safely": {
-      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands",
-      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
-      "normalized_title": "how anthropic ships the 1 llm in the world safely",
-      "content_hash": "",
-      "last_sent": 1793211945.9641101,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "normalized_title": "nvidia nemotron 3 5 transcribe and granary v2",
-      "content_hash": "",
-      "last_sent": 1793211945.9641216,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:nvidia nemotron 3 5 transcribe and granary v2": {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "normalized_title": "nvidia nemotron 3 5 transcribe and granary v2",
-      "content_hash": "",
-      "last_sent": 1793211945.9641216,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure": {
-      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure",
-      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
-      "normalized_title": "anthropic ends coding interviews hunger beats tenure",
-      "content_hash": "",
-      "last_sent": 1793211945.964138,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:anthropic ends coding interviews hunger beats tenure": {
-      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure",
-      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
-      "normalized_title": "anthropic ends coding interviews hunger beats tenure",
-      "content_hash": "",
-      "last_sent": 1793211945.964138,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model": {
@@ -364,42 +255,6 @@
       "normalized_title": "github octoverse 2026",
       "content_hash": "",
       "last_sent": 1793298882.7299926,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/28/terk-terkowitz": {
-      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz",
-      "title": "Quoting Terk Terkowitz",
-      "normalized_title": "quoting terk terkowitz",
-      "content_hash": "",
-      "last_sent": 1793211945.9641767,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:quoting terk terkowitz": {
-      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz",
-      "title": "Quoting Terk Terkowitz",
-      "normalized_title": "quoting terk terkowitz",
-      "content_hash": "",
-      "last_sent": 1793211945.9641767,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/28/vibe-game-development": {
-      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development",
-      "title": "The October inflection point for vibe game development",
-      "normalized_title": "the october inflection point for vibe game development",
-      "content_hash": "",
-      "last_sent": 1793211945.9641817,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:the october inflection point for vibe game development": {
-      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development",
-      "title": "The October inflection point for vibe game development",
-      "normalized_title": "the october inflection point for vibe game development",
-      "content_hash": "",
-      "last_sent": 1793211945.9641817,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2667,7 +2522,7 @@
       "title": "Gemini 4 Carbon is now available",
       "normalized_title": "gemini 4 carbon is now available",
       "content_hash": "",
-      "last_sent": 1794340515.6319706,
+      "last_sent": 1794426308.747831,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2676,7 +2531,7 @@
       "title": "Gemini 4 Carbon is now available",
       "normalized_title": "gemini 4 carbon is now available",
       "content_hash": "",
-      "last_sent": 1794340515.6319706,
+      "last_sent": 1794426308.747831,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2795,6 +2650,132 @@
       "content_hash": "",
       "last_sent": 1794380045.276763,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/hub-gcp-marketplace": {
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "normalized_title": "pay for hugging face hub with your google cloud account",
+      "content_hash": "",
+      "last_sent": 1794426308.74786,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:pay for hugging face hub with your google cloud account": {
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "normalized_title": "pay for hugging face hub with your google cloud account",
+      "content_hash": "",
+      "last_sent": 1794426308.74786,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/11/llm": {
+      "url": "https://simonwillison.net/2026/Nov/11/llm",
+      "title": "llm 0.37.2",
+      "normalized_title": "llm 0 37 2",
+      "content_hash": "",
+      "last_sent": 1794426308.7478771,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:llm 0 37 2": {
+      "url": "https://simonwillison.net/2026/Nov/11/llm",
+      "title": "llm 0.37.2",
+      "normalized_title": "llm 0 37 2",
+      "content_hash": "",
+      "last_sent": 1794426308.7478771,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://anthropic.com/news/roadshow-launch": {
+      "url": "https://anthropic.com/news/roadshow-launch",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "normalized_title": "anthropic launches roadshow for proposed initial public offering",
+      "content_hash": "",
+      "last_sent": 1794426308.7478867,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:anthropic launches roadshow for proposed initial public offering": {
+      "url": "https://anthropic.com/news/roadshow-launch",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "normalized_title": "anthropic launches roadshow for proposed initial public offering",
+      "content_hash": "",
+      "last_sent": 1794426308.7478867,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate": {
+      "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate",
+      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+      "normalized_title": "mercor 750m series d at 20b valuation 3b run rate",
+      "content_hash": "",
+      "last_sent": 1794426308.747899,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:mercor 750m series d at 20b valuation 3b run rate": {
+      "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate",
+      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+      "normalized_title": "mercor 750m series d at 20b valuation 3b run rate",
+      "content_hash": "",
+      "last_sent": 1794426308.747899,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/codex-work": {
+      "url": "https://latent.space/p/codex-work",
+      "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
+      "normalized_title": "ai engineer code summit",
+      "content_hash": "",
+      "last_sent": 1794426308.7479162,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:ai engineer code summit": {
+      "url": "https://latent.space/p/codex-work",
+      "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
+      "normalized_title": "ai engineer code summit",
+      "content_hash": "",
+      "last_sent": 1794426308.7479162,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/token-pooling": {
+      "url": "https://huggingface.co/blog/token-pooling",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "normalized_title": "token pooling aware training for multi",
+      "content_hash": "",
+      "last_sent": 1794426308.747928,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:token pooling aware training for multi": {
+      "url": "https://huggingface.co/blog/token-pooling",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "normalized_title": "token pooling aware training for multi",
+      "content_hash": "",
+      "last_sent": 1794426308.747928,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/11/tools-tags": {
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags",
+      "title": "Browse tools.simonwillison.net by tag",
+      "normalized_title": "browse tools simonwillison net by tag",
+      "content_hash": "",
+      "last_sent": 1794426308.7479463,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:browse tools simonwillison net by tag": {
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags",
+      "title": "Browse tools.simonwillison.net by tag",
+      "normalized_title": "browse tools simonwillison net by tag",
+      "content_hash": "",
+      "last_sent": 1794426308.7479463,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
