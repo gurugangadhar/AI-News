@@ -3,16 +3,11 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
-    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": 1793254072.7818632,
     "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model": 1793298882.7299566,
     "https://simonwillison.net/2026/Oct/28/github-octoverse-2026": 1793298882.7299964,
     "https://latent.space/p/supabase": 1793340520.1434166,
-    "https://huggingface.co/papers/2610.37230": 1793254072.7818246,
     "https://latent.space/p/ainews-gemini-4-carbon": 1793340520.1434479,
     "https://simonwillison.net/2026/Oct/28/ted-sanders": 1793340520.1434615,
-    "https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions": 1793254072.781875,
-    "https://openai.com/index/openai-servicenow-partnership-expansion": 1793254072.7818875,
-    "https://openai.com/index/legora": 1793254072.7819088,
     "https://huggingface.co/blog/mistral-large4": 1793298882.7298841,
     "https://huggingface.co/papers/2610.35671": 1793298882.7299013,
     "https://simonwillison.net/2026/Oct/29/ben-hylak": 1793383708.867446,
@@ -134,10 +129,10 @@
     "https://deepmind.google/blog/gemini-4-carbon-is-now-available": 1794426308.7478516,
     "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": 1794340515.63201,
     "https://latent.space/p/resend": 1794380045.2766907,
-    "https://huggingface.co/blog/qvac/botpsy": 1794380045.276706,
-    "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure": 1794380045.2767162,
-    "https://devin.ai/blog/claude-mythos-5-2-security": 1794380045.2767246,
-    "https://deepmind.google/blog/introducing-alphaproof-code": 1794380045.2767313,
+    "https://huggingface.co/blog/qvac/botpsy": 1794468610.9850018,
+    "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure": 1794468610.9850135,
+    "https://devin.ai/blog/claude-mythos-5-2-security": 1794468610.9850225,
+    "https://deepmind.google/blog/introducing-alphaproof-code": 1794468610.9850307,
     "https://simonwillison.net/2026/Nov/10/llm-gemini": 1794380045.276767,
     "https://huggingface.co/blog/hub-gcp-marketplace": 1794426308.747867,
     "https://simonwillison.net/2026/Nov/11/llm": 1794426308.7478817,
@@ -145,7 +140,12 @@
     "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate": 1794426308.747908,
     "https://latent.space/p/codex-work": 1794426308.7479222,
     "https://huggingface.co/blog/token-pooling": 1794426308.747934,
-    "https://simonwillison.net/2026/Nov/11/tools-tags": 1794426308.7479527
+    "https://simonwillison.net/2026/Nov/11/tools-tags": 1794426308.7479527,
+    "https://latent.space/p/ainews-d-day-decision-models-day": 1794468610.9849887,
+    "https://latent.space/p/jev-revolution": 1794468610.9850378,
+    "https://openai.com/index/jiostar-vijay-seshadri": 1794468610.9850512,
+    "https://simonwillison.net/2026/Nov/11/aws-emulator": 1794468610.9850693,
+    "https://simonwillison.net/2026/Nov/11/gemini-decisions-api": 1794468610.9850771
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -204,24 +204,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": {
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
-      "title": "Genie 4: A new generation of world simulation",
-      "normalized_title": "genie 4",
-      "content_hash": "",
-      "last_sent": 1793254072.781858,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:genie 4": {
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
-      "title": "Genie 4: A new generation of world simulation",
-      "normalized_title": "genie 4",
-      "content_hash": "",
-      "last_sent": 1793254072.781858,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model": {
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
       "title": "Gemini 4 Carbon: Our next frontier model",
@@ -276,24 +258,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/papers/2610.37230": {
-      "url": "https://huggingface.co/papers/2610.37230",
-      "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving (2 upvotes)",
-      "normalized_title": "tao tool aware joint scheduling for llm",
-      "content_hash": "",
-      "last_sent": 1793254072.7818143,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:tao tool aware joint scheduling for llm": {
-      "url": "https://huggingface.co/papers/2610.37230",
-      "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving (2 upvotes)",
-      "normalized_title": "tao tool aware joint scheduling for llm",
-      "content_hash": "",
-      "last_sent": 1793254072.7818143,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://latent.space/p/ainews-gemini-4-carbon": {
       "url": "https://latent.space/p/ainews-gemini-4-carbon",
       "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
@@ -327,60 +291,6 @@
       "normalized_title": "quoting ted sanders",
       "content_hash": "",
       "last_sent": 1793340520.1434567,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
-      "url": "https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "title": "AI for Science expands to foundations and research institutions",
-      "normalized_title": "ai for science expands to foundations and research institutions",
-      "content_hash": "",
-      "last_sent": 1793254072.7818682,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:ai for science expands to foundations and research institutions": {
-      "url": "https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "title": "AI for Science expands to foundations and research institutions",
-      "normalized_title": "ai for science expands to foundations and research institutions",
-      "content_hash": "",
-      "last_sent": 1793254072.7818682,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/openai-servicenow-partnership-expansion": {
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "normalized_title": "openai and servicenow expand partnership across enterprise workflows",
-      "content_hash": "",
-      "last_sent": 1793254072.7818813,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:openai and servicenow expand partnership across enterprise workflows": {
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "normalized_title": "openai and servicenow expand partnership across enterprise workflows",
-      "content_hash": "",
-      "last_sent": 1793254072.7818813,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/legora": {
-      "url": "https://openai.com/index/legora",
-      "title": "Legora is building the agentic operating system for legal work",
-      "normalized_title": "legora is building the agentic operating system for legal work",
-      "content_hash": "",
-      "last_sent": 1793254072.7819006,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:legora is building the agentic operating system for legal work": {
-      "url": "https://openai.com/index/legora",
-      "title": "Legora is building the agentic operating system for legal work",
-      "normalized_title": "legora is building the agentic operating system for legal work",
-      "content_hash": "",
-      "last_sent": 1793254072.7819006,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2576,7 +2486,7 @@
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "normalized_title": "botpsy on device personal assistant with a sub billion",
       "content_hash": "",
-      "last_sent": 1794380045.2766974,
+      "last_sent": 1794468610.9849935,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2585,7 +2495,7 @@
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "normalized_title": "botpsy on device personal assistant with a sub billion",
       "content_hash": "",
-      "last_sent": 1794380045.2766974,
+      "last_sent": 1794468610.9849935,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2594,7 +2504,7 @@
       "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
       "normalized_title": "nvidia expands open source commitment with openshell donation and new ai infrastructure",
       "content_hash": "",
-      "last_sent": 1794380045.2767117,
+      "last_sent": 1794468610.9850085,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2603,7 +2513,7 @@
       "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
       "normalized_title": "nvidia expands open source commitment with openshell donation and new ai infrastructure",
       "content_hash": "",
-      "last_sent": 1794380045.2767117,
+      "last_sent": 1794468610.9850085,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2612,7 +2522,7 @@
       "title": "Claude Mythos 5.2 is now available in Devin Security",
       "normalized_title": "claude mythos 5 2 is now available in devin security",
       "content_hash": "",
-      "last_sent": 1794380045.2767205,
+      "last_sent": 1794468610.985018,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2621,7 +2531,7 @@
       "title": "Claude Mythos 5.2 is now available in Devin Security",
       "normalized_title": "claude mythos 5 2 is now available in devin security",
       "content_hash": "",
-      "last_sent": 1794380045.2767205,
+      "last_sent": 1794468610.985018,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2630,7 +2540,7 @@
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
       "normalized_title": "introducing alphaproof code",
       "content_hash": "",
-      "last_sent": 1794380045.2767282,
+      "last_sent": 1794468610.9850266,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2639,7 +2549,7 @@
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
       "normalized_title": "introducing alphaproof code",
       "content_hash": "",
-      "last_sent": 1794380045.2767282,
+      "last_sent": 1794468610.9850266,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2776,6 +2686,96 @@
       "content_hash": "",
       "last_sent": 1794426308.7479463,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-d-day-decision-models-day": {
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day",
+      "title": "[AINews] D-Day (Decision Models Day)",
+      "normalized_title": "d",
+      "content_hash": "",
+      "last_sent": 1794468610.9849694,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:d": {
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day",
+      "title": "[AINews] D-Day (Decision Models Day)",
+      "normalized_title": "d",
+      "content_hash": "",
+      "last_sent": 1794468610.9849694,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/jev-revolution": {
+      "url": "https://latent.space/p/jev-revolution",
+      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "normalized_title": "the jev revolution",
+      "content_hash": "",
+      "last_sent": 1794468610.9850347,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:the jev revolution": {
+      "url": "https://latent.space/p/jev-revolution",
+      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "normalized_title": "the jev revolution",
+      "content_hash": "",
+      "last_sent": 1794468610.9850347,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/jiostar-vijay-seshadri": {
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "normalized_title": "jiostar s chief architect on ai discovery at 500m",
+      "content_hash": "",
+      "last_sent": 1794468610.9850414,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:jiostar s chief architect on ai discovery at 500m": {
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "normalized_title": "jiostar s chief architect on ai discovery at 500m",
+      "content_hash": "",
+      "last_sent": 1794468610.9850414,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/11/aws-emulator": {
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+      "title": "aws-emulator",
+      "normalized_title": "aws",
+      "content_hash": "",
+      "last_sent": 1794468610.9850626,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:aws": {
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+      "title": "aws-emulator",
+      "normalized_title": "aws",
+      "content_hash": "",
+      "last_sent": 1794468610.9850626,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/11/gemini-decisions-api": {
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api",
+      "title": "Gemini Decisions API",
+      "normalized_title": "gemini decisions api",
+      "content_hash": "",
+      "last_sent": 1794468610.985073,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:gemini decisions api": {
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api",
+      "title": "Gemini Decisions API",
+      "normalized_title": "gemini decisions api",
+      "content_hash": "",
+      "last_sent": 1794468610.985073,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
