@@ -3,15 +3,10 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
-    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model": 1793298882.7299566,
-    "https://simonwillison.net/2026/Oct/28/github-octoverse-2026": 1793298882.7299964,
     "https://latent.space/p/supabase": 1793340520.1434166,
     "https://latent.space/p/ainews-gemini-4-carbon": 1793340520.1434479,
     "https://simonwillison.net/2026/Oct/28/ted-sanders": 1793340520.1434615,
-    "https://huggingface.co/blog/mistral-large4": 1793298882.7298841,
-    "https://huggingface.co/papers/2610.35671": 1793298882.7299013,
     "https://simonwillison.net/2026/Oct/29/ben-hylak": 1793383708.867446,
-    "https://huggingface.co/papers/2610.22507": 1793298882.729922,
     "https://huggingface.co/blog/announcing-project-protostar": 1793383708.867486,
     "https://latent.space/p/elorian": 1793383708.867559,
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": 1793383708.8675895,
@@ -135,17 +130,22 @@
     "https://deepmind.google/blog/introducing-alphaproof-code": 1794468610.9850307,
     "https://simonwillison.net/2026/Nov/10/llm-gemini": 1794380045.276767,
     "https://huggingface.co/blog/hub-gcp-marketplace": 1794426308.747867,
-    "https://simonwillison.net/2026/Nov/11/llm": 1794426308.7478817,
+    "https://simonwillison.net/2026/Nov/11/llm": 1794514337.040153,
     "https://anthropic.com/news/roadshow-launch": 1794426308.7478926,
-    "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate": 1794426308.747908,
+    "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate": 1794514337.0401628,
     "https://latent.space/p/codex-work": 1794426308.7479222,
     "https://huggingface.co/blog/token-pooling": 1794426308.747934,
-    "https://simonwillison.net/2026/Nov/11/tools-tags": 1794426308.7479527,
+    "https://simonwillison.net/2026/Nov/11/tools-tags": 1794514337.0401971,
     "https://latent.space/p/ainews-d-day-decision-models-day": 1794468610.9849887,
     "https://latent.space/p/jev-revolution": 1794468610.9850378,
     "https://openai.com/index/jiostar-vijay-seshadri": 1794468610.9850512,
     "https://simonwillison.net/2026/Nov/11/aws-emulator": 1794468610.9850693,
-    "https://simonwillison.net/2026/Nov/11/gemini-decisions-api": 1794468610.9850771
+    "https://simonwillison.net/2026/Nov/11/gemini-decisions-api": 1794468610.9850771,
+    "https://deepmind.google/blog/introducing-gemini-4-hydrogen": 1794514337.0401256,
+    "https://huggingface.co/papers/2611.12304": 1794514337.0401375,
+    "https://huggingface.co/blog/3d-lora-finetuning": 1794514337.0401456,
+    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": 1794514337.040174,
+    "https://blogs.nvidia.com/blog/ai-recycling-startups": 1794514337.040182
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -204,42 +204,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model": {
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "normalized_title": "gemini 4 carbon",
-      "content_hash": "",
-      "last_sent": 1793298882.7299514,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:gemini 4 carbon": {
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "normalized_title": "gemini 4 carbon",
-      "content_hash": "",
-      "last_sent": 1793298882.7299514,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/28/github-octoverse-2026": {
-      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026",
-      "title": "GitHub Octoverse 2026",
-      "normalized_title": "github octoverse 2026",
-      "content_hash": "",
-      "last_sent": 1793298882.7299926,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:github octoverse 2026": {
-      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026",
-      "title": "GitHub Octoverse 2026",
-      "normalized_title": "github octoverse 2026",
-      "content_hash": "",
-      "last_sent": 1793298882.7299926,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://latent.space/p/supabase": {
       "url": "https://latent.space/p/supabase",
       "title": "Why Agents Love Supabase",
@@ -294,42 +258,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/blog/mistral-large4": {
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "normalized_title": "welcome le chonk",
-      "content_hash": "",
-      "last_sent": 1793298882.729865,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:welcome le chonk": {
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "normalized_title": "welcome le chonk",
-      "content_hash": "",
-      "last_sent": 1793298882.729865,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.35671": {
-      "url": "https://huggingface.co/papers/2610.35671",
-      "title": "Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks (2 upvotes)",
-      "normalized_title": "evaluating deepseek v4 1 flash",
-      "content_hash": "",
-      "last_sent": 1793298882.7298903,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:evaluating deepseek v4 1 flash": {
-      "url": "https://huggingface.co/papers/2610.35671",
-      "title": "Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks (2 upvotes)",
-      "normalized_title": "evaluating deepseek v4 1 flash",
-      "content_hash": "",
-      "last_sent": 1793298882.7298903,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/29/ben-hylak": {
       "url": "https://simonwillison.net/2026/Oct/29/ben-hylak",
       "title": "Quoting Ben Hylak",
@@ -345,24 +273,6 @@
       "normalized_title": "quoting ben hylak",
       "content_hash": "",
       "last_sent": 1793383708.8674254,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.22507": {
-      "url": "https://huggingface.co/papers/2610.22507",
-      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents (15 upvotes)",
-      "normalized_title": "realcli toward a unified evaluation of human",
-      "content_hash": "",
-      "last_sent": 1793298882.7299147,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:realcli toward a unified evaluation of human": {
-      "url": "https://huggingface.co/papers/2610.22507",
-      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents (15 upvotes)",
-      "normalized_title": "realcli toward a unified evaluation of human",
-      "content_hash": "",
-      "last_sent": 1793298882.7299147,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2585,7 +2495,7 @@
       "title": "llm 0.37.2",
       "normalized_title": "llm 0 37 2",
       "content_hash": "",
-      "last_sent": 1794426308.7478771,
+      "last_sent": 1794514337.0401487,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2594,7 +2504,7 @@
       "title": "llm 0.37.2",
       "normalized_title": "llm 0 37 2",
       "content_hash": "",
-      "last_sent": 1794426308.7478771,
+      "last_sent": 1794514337.0401487,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2621,7 +2531,7 @@
       "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
       "normalized_title": "mercor 750m series d at 20b valuation 3b run rate",
       "content_hash": "",
-      "last_sent": 1794426308.747899,
+      "last_sent": 1794514337.0401568,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2630,7 +2540,7 @@
       "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
       "normalized_title": "mercor 750m series d at 20b valuation 3b run rate",
       "content_hash": "",
-      "last_sent": 1794426308.747899,
+      "last_sent": 1794514337.0401568,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2675,7 +2585,7 @@
       "title": "Browse tools.simonwillison.net by tag",
       "normalized_title": "browse tools simonwillison net by tag",
       "content_hash": "",
-      "last_sent": 1794426308.7479463,
+      "last_sent": 1794514337.0401924,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2684,7 +2594,7 @@
       "title": "Browse tools.simonwillison.net by tag",
       "normalized_title": "browse tools simonwillison net by tag",
       "content_hash": "",
-      "last_sent": 1794426308.7479463,
+      "last_sent": 1794514337.0401924,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2776,6 +2686,96 @@
       "content_hash": "",
       "last_sent": 1794468610.985073,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://deepmind.google/blog/introducing-gemini-4-hydrogen": {
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "normalized_title": "introducing gemini 4 hydrogen",
+      "content_hash": "",
+      "last_sent": 1794514337.040105,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:introducing gemini 4 hydrogen": {
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "normalized_title": "introducing gemini 4 hydrogen",
+      "content_hash": "",
+      "last_sent": 1794514337.040105,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.12304": {
+      "url": "https://huggingface.co/papers/2611.12304",
+      "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale (11 upvotes)",
+      "normalized_title": "evolving infra agent",
+      "content_hash": "",
+      "last_sent": 1794514337.0401306,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:evolving infra agent": {
+      "url": "https://huggingface.co/papers/2611.12304",
+      "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale (11 upvotes)",
+      "normalized_title": "evolving infra agent",
+      "content_hash": "",
+      "last_sent": 1794514337.0401306,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/3d-lora-finetuning": {
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "normalized_title": "the definitive fine",
+      "content_hash": "",
+      "last_sent": 1794514337.040142,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:the definitive fine": {
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "normalized_title": "the definitive fine",
+      "content_hash": "",
+      "last_sent": 1794514337.040142,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": {
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "normalized_title": "llmon an llm native markup language now in granite 4 1 3b and 8b",
+      "content_hash": "",
+      "last_sent": 1794514337.0401688,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:llmon an llm native markup language now in granite 4 1 3b and 8b": {
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "normalized_title": "llmon an llm native markup language now in granite 4 1 3b and 8b",
+      "content_hash": "",
+      "last_sent": 1794514337.0401688,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/ai-recycling-startups": {
+      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups",
+      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "normalized_title": "how ai helps recyclers turn mixed waste into reusable material",
+      "content_hash": "",
+      "last_sent": 1794514337.0401788,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:how ai helps recyclers turn mixed waste into reusable material": {
+      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups",
+      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "normalized_title": "how ai helps recyclers turn mixed waste into reusable material",
+      "content_hash": "",
+      "last_sent": 1794514337.0401788,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
