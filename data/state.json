@@ -3,18 +3,11 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
-    "https://latent.space/p/supabase": 1793340520.1434166,
-    "https://latent.space/p/ainews-gemini-4-carbon": 1793340520.1434479,
-    "https://simonwillison.net/2026/Oct/28/ted-sanders": 1793340520.1434615,
     "https://simonwillison.net/2026/Oct/29/ben-hylak": 1793383708.867446,
     "https://huggingface.co/blog/announcing-project-protostar": 1793383708.867486,
     "https://latent.space/p/elorian": 1793383708.867559,
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": 1793383708.8675895,
     "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": 1793383708.867534,
-    "https://huggingface.co/papers/2610.21143": 1793340520.1434314,
-    "https://openai.com/index/how-we-detect-frontier-model-misalignment": 1793340520.143487,
-    "https://openai.com/index/updated-model-spec": 1793340520.143499,
-    "https://openai.com/index/ropes-gray-ai-diligence": 1793340520.1435208,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1794032417.647361,
     "https://simonwillison.net/2026/Oct/29/api-credits": 1793426646.006849,
     "https://huggingface.co/papers/2610.34298": 1793383708.867467,
@@ -136,16 +129,22 @@
     "https://latent.space/p/codex-work": 1794426308.7479222,
     "https://huggingface.co/blog/token-pooling": 1794426308.747934,
     "https://simonwillison.net/2026/Nov/11/tools-tags": 1794514337.0401971,
-    "https://latent.space/p/ainews-d-day-decision-models-day": 1794468610.9849887,
-    "https://latent.space/p/jev-revolution": 1794468610.9850378,
+    "https://latent.space/p/ainews-d-day-decision-models-day": 1794553222.3680642,
+    "https://latent.space/p/jev-revolution": 1794553222.3681006,
     "https://openai.com/index/jiostar-vijay-seshadri": 1794468610.9850512,
-    "https://simonwillison.net/2026/Nov/11/aws-emulator": 1794468610.9850693,
-    "https://simonwillison.net/2026/Nov/11/gemini-decisions-api": 1794468610.9850771,
+    "https://simonwillison.net/2026/Nov/11/aws-emulator": 1794553222.368131,
+    "https://simonwillison.net/2026/Nov/11/gemini-decisions-api": 1794553222.36819,
     "https://deepmind.google/blog/introducing-gemini-4-hydrogen": 1794514337.0401256,
     "https://huggingface.co/papers/2611.12304": 1794514337.0401375,
     "https://huggingface.co/blog/3d-lora-finetuning": 1794514337.0401456,
     "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": 1794514337.040174,
-    "https://blogs.nvidia.com/blog/ai-recycling-startups": 1794514337.040182
+    "https://blogs.nvidia.com/blog/ai-recycling-startups": 1794514337.040182,
+    "https://latent.space/p/artcraft": 1794553222.368084,
+    "https://huggingface.co/papers/2611.08219": 1794553222.368117,
+    "https://openai.com/business/customer-stories/amplitude": 1794553222.3681448,
+    "https://openai.com/business/customer-stories/gondola": 1794553222.3681588,
+    "https://openai.com/business/customer-stories/holidays-extras-codex": 1794553222.368178,
+    "https://simonwillison.net/2026/Nov/12/llm-gemini": 1794553222.3681982
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -202,60 +201,6 @@
       "content_hash": "",
       "last_sent": 1793556115.4632614,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/supabase": {
-      "url": "https://latent.space/p/supabase",
-      "title": "Why Agents Love Supabase",
-      "normalized_title": "why agents love supabase",
-      "content_hash": "",
-      "last_sent": 1793340520.143392,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:why agents love supabase": {
-      "url": "https://latent.space/p/supabase",
-      "title": "Why Agents Love Supabase",
-      "normalized_title": "why agents love supabase",
-      "content_hash": "",
-      "last_sent": 1793340520.143392,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-gemini-4-carbon": {
-      "url": "https://latent.space/p/ainews-gemini-4-carbon",
-      "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-      "normalized_title": "gemini 4 carbon tops leaderboards launches for cyber defenders",
-      "content_hash": "",
-      "last_sent": 1793340520.1434376,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:gemini 4 carbon tops leaderboards launches for cyber defenders": {
-      "url": "https://latent.space/p/ainews-gemini-4-carbon",
-      "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-      "normalized_title": "gemini 4 carbon tops leaderboards launches for cyber defenders",
-      "content_hash": "",
-      "last_sent": 1793340520.1434376,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/28/ted-sanders": {
-      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
-      "title": "Quoting Ted Sanders",
-      "normalized_title": "quoting ted sanders",
-      "content_hash": "",
-      "last_sent": 1793340520.1434567,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:quoting ted sanders": {
-      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
-      "title": "Quoting Ted Sanders",
-      "normalized_title": "quoting ted sanders",
-      "content_hash": "",
-      "last_sent": 1793340520.1434567,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Oct/29/ben-hylak": {
@@ -346,78 +291,6 @@
       "content_hash": "",
       "last_sent": 1793383708.8675263,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.21143": {
-      "url": "https://huggingface.co/papers/2610.21143",
-      "title": "CoSTA: Compressed Speech Token Adaptation for Efficient Spoken Dialogue Models (3 upvotes)",
-      "normalized_title": "costa",
-      "content_hash": "",
-      "last_sent": 1793340520.1434245,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:costa": {
-      "url": "https://huggingface.co/papers/2610.21143",
-      "title": "CoSTA: Compressed Speech Token Adaptation for Efficient Spoken Dialogue Models (3 upvotes)",
-      "normalized_title": "costa",
-      "content_hash": "",
-      "last_sent": 1793340520.1434245,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/how-we-detect-frontier-model-misalignment": {
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "title": "How we detect frontier model misalignment",
-      "normalized_title": "how we detect frontier model misalignment",
-      "content_hash": "",
-      "last_sent": 1793340520.1434815,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:how we detect frontier model misalignment": {
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "title": "How we detect frontier model misalignment",
-      "normalized_title": "how we detect frontier model misalignment",
-      "content_hash": "",
-      "last_sent": 1793340520.1434815,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/updated-model-spec": {
-      "url": "https://openai.com/index/updated-model-spec",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "normalized_title": "an updated model spec for more capable and beneficial ai",
-      "content_hash": "",
-      "last_sent": 1793340520.1434927,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:an updated model spec for more capable and beneficial ai": {
-      "url": "https://openai.com/index/updated-model-spec",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "normalized_title": "an updated model spec for more capable and beneficial ai",
-      "content_hash": "",
-      "last_sent": 1793340520.1434927,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/ropes-gray-ai-diligence": {
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "normalized_title": "how ropes gray is developing ai for transactional diligence",
-      "content_hash": "",
-      "last_sent": 1793340520.143512,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:how ropes gray is developing ai for transactional diligence": {
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "normalized_title": "how ropes gray is developing ai for transactional diligence",
-      "content_hash": "",
-      "last_sent": 1793340520.143512,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": {
@@ -2221,11 +2094,11 @@
       "score": 0.0
     },
     "title:llm": {
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini",
-      "title": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini",
+      "title": "llm-gemini 0.37",
       "normalized_title": "llm",
       "content_hash": "",
-      "last_sent": 1794380045.276763,
+      "last_sent": 1794553222.3681948,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2603,7 +2476,7 @@
       "title": "[AINews] D-Day (Decision Models Day)",
       "normalized_title": "d",
       "content_hash": "",
-      "last_sent": 1794468610.9849694,
+      "last_sent": 1794553222.3680298,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2612,7 +2485,7 @@
       "title": "[AINews] D-Day (Decision Models Day)",
       "normalized_title": "d",
       "content_hash": "",
-      "last_sent": 1794468610.9849694,
+      "last_sent": 1794553222.3680298,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2621,7 +2494,7 @@
       "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
       "normalized_title": "the jev revolution",
       "content_hash": "",
-      "last_sent": 1794468610.9850347,
+      "last_sent": 1794553222.3680944,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2630,7 +2503,7 @@
       "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
       "normalized_title": "the jev revolution",
       "content_hash": "",
-      "last_sent": 1794468610.9850347,
+      "last_sent": 1794553222.3680944,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2657,7 +2530,7 @@
       "title": "aws-emulator",
       "normalized_title": "aws",
       "content_hash": "",
-      "last_sent": 1794468610.9850626,
+      "last_sent": 1794553222.3681273,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2666,7 +2539,7 @@
       "title": "aws-emulator",
       "normalized_title": "aws",
       "content_hash": "",
-      "last_sent": 1794468610.9850626,
+      "last_sent": 1794553222.3681273,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2675,7 +2548,7 @@
       "title": "Gemini Decisions API",
       "normalized_title": "gemini decisions api",
       "content_hash": "",
-      "last_sent": 1794468610.985073,
+      "last_sent": 1794553222.368185,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2684,7 +2557,7 @@
       "title": "Gemini Decisions API",
       "normalized_title": "gemini decisions api",
       "content_hash": "",
-      "last_sent": 1794468610.985073,
+      "last_sent": 1794553222.368185,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2776,6 +2649,105 @@
       "content_hash": "",
       "last_sent": 1794514337.0401788,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/artcraft": {
+      "url": "https://latent.space/p/artcraft",
+      "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+      "normalized_title": "ai ambition artcraft cloned photoshop and now wants to rebuild everything",
+      "content_hash": "",
+      "last_sent": 1794553222.3680725,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:ai ambition artcraft cloned photoshop and now wants to rebuild everything": {
+      "url": "https://latent.space/p/artcraft",
+      "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+      "normalized_title": "ai ambition artcraft cloned photoshop and now wants to rebuild everything",
+      "content_hash": "",
+      "last_sent": 1794553222.3680725,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.08219": {
+      "url": "https://huggingface.co/papers/2611.08219",
+      "title": "Agent-R^2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+      "normalized_title": "agent r 2 scaling agents for realistic productivity work via real",
+      "content_hash": "",
+      "last_sent": 1794553222.3681068,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:agent r 2 scaling agents for realistic productivity work via real": {
+      "url": "https://huggingface.co/papers/2611.08219",
+      "title": "Agent-R^2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+      "normalized_title": "agent r 2 scaling agents for realistic productivity work via real",
+      "content_hash": "",
+      "last_sent": 1794553222.3681068,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/business/customer-stories/amplitude": {
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "normalized_title": "how amplitude ships product improvements in 1",
+      "content_hash": "",
+      "last_sent": 1794553222.368135,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how amplitude ships product improvements in 1": {
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "normalized_title": "how amplitude ships product improvements in 1",
+      "content_hash": "",
+      "last_sent": 1794553222.368135,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/business/customer-stories/gondola": {
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "normalized_title": "gondola doubles revenue as its team builds more with codex",
+      "content_hash": "",
+      "last_sent": 1794553222.3681521,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:gondola doubles revenue as its team builds more with codex": {
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "normalized_title": "gondola doubles revenue as its team builds more with codex",
+      "content_hash": "",
+      "last_sent": 1794553222.3681521,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/business/customer-stories/holidays-extras-codex": {
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "normalized_title": "holiday extras is rethinking what it can build with codex",
+      "content_hash": "",
+      "last_sent": 1794553222.3681707,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:holiday extras is rethinking what it can build with codex": {
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "normalized_title": "holiday extras is rethinking what it can build with codex",
+      "content_hash": "",
+      "last_sent": 1794553222.3681707,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/12/llm-gemini": {
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini",
+      "title": "llm-gemini 0.37",
+      "normalized_title": "llm",
+      "content_hash": "",
+      "last_sent": 1794553222.3681948,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
