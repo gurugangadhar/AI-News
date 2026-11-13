@@ -3,15 +3,8 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
-    "https://simonwillison.net/2026/Oct/29/ben-hylak": 1793383708.867446,
-    "https://huggingface.co/blog/announcing-project-protostar": 1793383708.867486,
-    "https://latent.space/p/elorian": 1793383708.867559,
-    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": 1793383708.8675895,
-    "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": 1793383708.867534,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1794032417.647361,
     "https://simonwillison.net/2026/Oct/29/api-credits": 1793426646.006849,
-    "https://huggingface.co/papers/2610.34298": 1793383708.867467,
-    "https://cursor.com/blog/claude-code-extension-security-notice": 1793383708.867513,
     "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference": 1793467174.3134363,
     "https://huggingface.co/blog/nvidia/nemotron-halloween": 1793467174.3134217,
     "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals": 1793467174.3134496,
@@ -134,7 +127,7 @@
     "https://openai.com/index/jiostar-vijay-seshadri": 1794468610.9850512,
     "https://simonwillison.net/2026/Nov/11/aws-emulator": 1794553222.368131,
     "https://simonwillison.net/2026/Nov/11/gemini-decisions-api": 1794553222.36819,
-    "https://deepmind.google/blog/introducing-gemini-4-hydrogen": 1794514337.0401256,
+    "https://deepmind.google/blog/introducing-gemini-4-hydrogen": 1794599669.7110198,
     "https://huggingface.co/papers/2611.12304": 1794514337.0401375,
     "https://huggingface.co/blog/3d-lora-finetuning": 1794514337.0401456,
     "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": 1794514337.040174,
@@ -144,7 +137,13 @@
     "https://openai.com/business/customer-stories/amplitude": 1794553222.3681448,
     "https://openai.com/business/customer-stories/gondola": 1794553222.3681588,
     "https://openai.com/business/customer-stories/holidays-extras-codex": 1794553222.368178,
-    "https://simonwillison.net/2026/Nov/12/llm-gemini": 1794553222.3681982
+    "https://simonwillison.net/2026/Nov/12/llm-gemini": 1794553222.3681982,
+    "https://devin.ai/blog/devin-apps": 1794599669.7110326,
+    "https://huggingface.co/blog/ggml-org/llama-cpp-v1": 1794599669.7110445,
+    "https://huggingface.co/blog/allenai/xybench": 1794599669.711057,
+    "https://arxiv.org/abs/2611.14681": 1794599669.7110665,
+    "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia": 1794599669.7110782,
+    "https://openai.com/index/introducing-chatgpt-wallet": 1794599669.711089
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -203,96 +202,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://simonwillison.net/2026/Oct/29/ben-hylak": {
-      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak",
-      "title": "Quoting Ben Hylak",
-      "normalized_title": "quoting ben hylak",
-      "content_hash": "",
-      "last_sent": 1793383708.8674254,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:quoting ben hylak": {
-      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak",
-      "title": "Quoting Ben Hylak",
-      "normalized_title": "quoting ben hylak",
-      "content_hash": "",
-      "last_sent": 1793383708.8674254,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/announcing-project-protostar": {
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "normalized_title": "announcing project protostar making publicly funded science ai",
-      "content_hash": "",
-      "last_sent": 1793383708.867476,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:announcing project protostar making publicly funded science ai": {
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "normalized_title": "announcing project protostar making publicly funded science ai",
-      "content_hash": "",
-      "last_sent": 1793383708.867476,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/elorian": {
-      "url": "https://latent.space/p/elorian",
-      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
-      "normalized_title": "can frontier models see past a decoy elorian tests visual reasoning",
-      "content_hash": "",
-      "last_sent": 1793383708.8675518,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:can frontier models see past a decoy elorian tests visual reasoning": {
-      "url": "https://latent.space/p/elorian",
-      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
-      "normalized_title": "can frontier models see past a decoy elorian tests visual reasoning",
-      "content_hash": "",
-      "last_sent": 1793383708.8675518,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "normalized_title": "granite switch 4 1 1",
-      "content_hash": "",
-      "last_sent": 1793383708.8675818,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:granite switch 4 1 1": {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "normalized_title": "granite switch 4 1 1",
-      "content_hash": "",
-      "last_sent": 1793383708.8675818,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": {
-      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
-      "title": "Building a multiplayer game world with autonomous Fable-class models",
-      "normalized_title": "building a multiplayer game world with autonomous fable",
-      "content_hash": "",
-      "last_sent": 1793383708.8675263,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:building a multiplayer game world with autonomous fable": {
-      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
-      "title": "Building a multiplayer game world with autonomous Fable-class models",
-      "normalized_title": "building a multiplayer game world with autonomous fable",
-      "content_hash": "",
-      "last_sent": 1793383708.8675263,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": {
       "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -327,42 +236,6 @@
       "content_hash": "",
       "last_sent": 1793426646.0068452,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.34298": {
-      "url": "https://huggingface.co/papers/2610.34298",
-      "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents (2 upvotes)",
-      "normalized_title": "matched capabilities different behaviors",
-      "content_hash": "",
-      "last_sent": 1793383708.867456,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:matched capabilities different behaviors": {
-      "url": "https://huggingface.co/papers/2610.34298",
-      "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents (2 upvotes)",
-      "normalized_title": "matched capabilities different behaviors",
-      "content_hash": "",
-      "last_sent": 1793383708.867456,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://cursor.com/blog/claude-code-extension-security-notice": {
-      "url": "https://cursor.com/blog/claude-code-extension-security-notice",
-      "title": "Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace",
-      "normalized_title": "security notice malicious version of anthropic claude",
-      "content_hash": "",
-      "last_sent": 1793383708.8674948,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:security notice malicious version of anthropic claude": {
-      "url": "https://cursor.com/blog/claude-code-extension-security-notice",
-      "title": "Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace",
-      "normalized_title": "security notice malicious version of anthropic claude",
-      "content_hash": "",
-      "last_sent": 1793383708.8674948,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference": {
@@ -2566,7 +2439,7 @@
       "title": "Introducing Gemini 4 Hydrogen",
       "normalized_title": "introducing gemini 4 hydrogen",
       "content_hash": "",
-      "last_sent": 1794514337.040105,
+      "last_sent": 1794599669.7110007,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2575,7 +2448,7 @@
       "title": "Introducing Gemini 4 Hydrogen",
       "normalized_title": "introducing gemini 4 hydrogen",
       "content_hash": "",
-      "last_sent": 1794514337.040105,
+      "last_sent": 1794599669.7110007,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2748,6 +2621,114 @@
       "content_hash": "",
       "last_sent": 1794553222.3681948,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://devin.ai/blog/devin-apps": {
+      "url": "https://devin.ai/blog/devin-apps",
+      "title": "Introducing Devin Apps",
+      "normalized_title": "introducing devin apps",
+      "content_hash": "",
+      "last_sent": 1794599669.7110279,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:introducing devin apps": {
+      "url": "https://devin.ai/blog/devin-apps",
+      "title": "Introducing Devin Apps",
+      "normalized_title": "introducing devin apps",
+      "content_hash": "",
+      "last_sent": 1794599669.7110279,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/ggml-org/llama-cpp-v1": {
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "normalized_title": "llama cpp v1 0 0",
+      "content_hash": "",
+      "last_sent": 1794599669.7110372,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:llama cpp v1 0 0": {
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "normalized_title": "llama cpp v1 0 0",
+      "content_hash": "",
+      "last_sent": 1794599669.7110372,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/allenai/xybench": {
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "title": "XYBench: Helping with the problem behind the question",
+      "normalized_title": "xybench",
+      "content_hash": "",
+      "last_sent": 1794599669.7110522,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:xybench": {
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "title": "XYBench: Helping with the problem behind the question",
+      "normalized_title": "xybench",
+      "content_hash": "",
+      "last_sent": 1794599669.7110522,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://arxiv.org/abs/2611.14681": {
+      "url": "https://arxiv.org/abs/2611.14681",
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "normalized_title": "together compiler",
+      "content_hash": "",
+      "last_sent": 1794599669.7110617,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:together compiler": {
+      "url": "https://arxiv.org/abs/2611.14681",
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "normalized_title": "together compiler",
+      "content_hash": "",
+      "last_sent": 1794599669.7110617,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia": {
+      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia",
+      "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+      "normalized_title": "jensen huang resigns after 33 years leading nvidia",
+      "content_hash": "",
+      "last_sent": 1794599669.711071,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:jensen huang resigns after 33 years leading nvidia": {
+      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia",
+      "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+      "normalized_title": "jensen huang resigns after 33 years leading nvidia",
+      "content_hash": "",
+      "last_sent": 1794599669.711071,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/introducing-chatgpt-wallet": {
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "title": "Introducing ChatGPT Wallet",
+      "normalized_title": "introducing chatgpt wallet",
+      "content_hash": "",
+      "last_sent": 1794599669.7110848,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:introducing chatgpt wallet": {
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "title": "Introducing ChatGPT Wallet",
+      "normalized_title": "introducing chatgpt wallet",
+      "content_hash": "",
+      "last_sent": 1794599669.7110848,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
