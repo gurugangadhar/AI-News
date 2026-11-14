@@ -4,7 +4,6 @@
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1794032417.647361,
-    "https://simonwillison.net/2026/Oct/29/api-credits": 1793426646.006849,
     "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference": 1793467174.3134363,
     "https://huggingface.co/blog/nvidia/nemotron-halloween": 1793467174.3134217,
     "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals": 1793467174.3134496,
@@ -14,7 +13,6 @@
     "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c": 1793514808.3979523,
     "https://openai.com/index/helping-websites-express-ai-training-preferences": 1793514808.397968,
     "https://openai.com/index/community-safety-report-and-new-protections-for-teens": 1793514808.3979864,
-    "https://openai.com/index/fair-use-benefits-everyone": 1793426646.006895,
     "https://latent.space/p/arca": 1793556115.4632401,
     "https://simonwillison.net/2026/Oct/31/datasette-llm": 1793601150.589338,
     "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": 1793601150.5893605,
@@ -132,18 +130,23 @@
     "https://huggingface.co/blog/3d-lora-finetuning": 1794514337.0401456,
     "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": 1794514337.040174,
     "https://blogs.nvidia.com/blog/ai-recycling-startups": 1794514337.040182,
-    "https://latent.space/p/artcraft": 1794553222.368084,
+    "https://latent.space/p/artcraft": 1794639015.3396182,
     "https://huggingface.co/papers/2611.08219": 1794553222.368117,
-    "https://openai.com/business/customer-stories/amplitude": 1794553222.3681448,
+    "https://openai.com/business/customer-stories/amplitude": 1794639015.3396883,
     "https://openai.com/business/customer-stories/gondola": 1794553222.3681588,
     "https://openai.com/business/customer-stories/holidays-extras-codex": 1794553222.368178,
-    "https://simonwillison.net/2026/Nov/12/llm-gemini": 1794553222.3681982,
+    "https://simonwillison.net/2026/Nov/12/llm-gemini": 1794639015.3397052,
     "https://devin.ai/blog/devin-apps": 1794599669.7110326,
     "https://huggingface.co/blog/ggml-org/llama-cpp-v1": 1794599669.7110445,
     "https://huggingface.co/blog/allenai/xybench": 1794599669.711057,
     "https://arxiv.org/abs/2611.14681": 1794599669.7110665,
     "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia": 1794599669.7110782,
-    "https://openai.com/index/introducing-chatgpt-wallet": 1794599669.711089
+    "https://openai.com/index/introducing-chatgpt-wallet": 1794599669.711089,
+    "https://cursor.com/blog/security-incident-update": 1794639015.3396335,
+    "https://simonwillison.net/2026/Nov/13/datasette-cluster-map": 1794639015.3396418,
+    "https://huggingface.co/papers/2611.10439": 1794639015.3396547,
+    "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": 1794639015.3396661,
+    "https://anthropic.com/research/building-strong-safety-evaluations": 1794639015.339675
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -217,24 +220,6 @@
       "normalized_title": "into the omniverse",
       "content_hash": "",
       "last_sent": 1794032417.647355,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/29/api-credits": {
-      "url": "https://simonwillison.net/2026/Oct/29/api-credits",
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "normalized_title": "api credits benefit for eligible chatgpt subscriptions",
-      "content_hash": "",
-      "last_sent": 1793426646.0068452,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:api credits benefit for eligible chatgpt subscriptions": {
-      "url": "https://simonwillison.net/2026/Oct/29/api-credits",
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "normalized_title": "api credits benefit for eligible chatgpt subscriptions",
-      "content_hash": "",
-      "last_sent": 1793426646.0068452,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -397,24 +382,6 @@
       "normalized_title": "community safety report and new protections for teens",
       "content_hash": "",
       "last_sent": 1793514808.39798,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/fair-use-benefits-everyone": {
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "title": "Fair use benefits everyone",
-      "normalized_title": "fair use benefits everyone",
-      "content_hash": "",
-      "last_sent": 1793426646.0068927,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:fair use benefits everyone": {
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "title": "Fair use benefits everyone",
-      "normalized_title": "fair use benefits everyone",
-      "content_hash": "",
-      "last_sent": 1793426646.0068927,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1971,7 +1938,7 @@
       "title": "llm-gemini 0.37",
       "normalized_title": "llm",
       "content_hash": "",
-      "last_sent": 1794553222.3681948,
+      "last_sent": 1794639015.3397007,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2529,7 +2496,7 @@
       "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
       "normalized_title": "ai ambition artcraft cloned photoshop and now wants to rebuild everything",
       "content_hash": "",
-      "last_sent": 1794553222.3680725,
+      "last_sent": 1794639015.339591,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2538,7 +2505,7 @@
       "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
       "normalized_title": "ai ambition artcraft cloned photoshop and now wants to rebuild everything",
       "content_hash": "",
-      "last_sent": 1794553222.3680725,
+      "last_sent": 1794639015.339591,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2565,7 +2532,7 @@
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "normalized_title": "how amplitude ships product improvements in 1",
       "content_hash": "",
-      "last_sent": 1794553222.368135,
+      "last_sent": 1794639015.3396788,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2574,7 +2541,7 @@
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "normalized_title": "how amplitude ships product improvements in 1",
       "content_hash": "",
-      "last_sent": 1794553222.368135,
+      "last_sent": 1794639015.3396788,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2619,7 +2586,7 @@
       "title": "llm-gemini 0.37",
       "normalized_title": "llm",
       "content_hash": "",
-      "last_sent": 1794553222.3681948,
+      "last_sent": 1794639015.3397007,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2729,6 +2696,96 @@
       "content_hash": "",
       "last_sent": 1794599669.7110848,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://cursor.com/blog/security-incident-update": {
+      "url": "https://cursor.com/blog/security-incident-update",
+      "title": "An update on our recent security incident",
+      "normalized_title": "an update on our recent security incident",
+      "content_hash": "",
+      "last_sent": 1794639015.3396285,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:an update on our recent security incident": {
+      "url": "https://cursor.com/blog/security-incident-update",
+      "title": "An update on our recent security incident",
+      "normalized_title": "an update on our recent security incident",
+      "content_hash": "",
+      "last_sent": 1794639015.3396285,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/13/datasette-cluster-map": {
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map",
+      "title": "datasette-cluster-map 0.19",
+      "normalized_title": "datasette cluster",
+      "content_hash": "",
+      "last_sent": 1794639015.339638,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:datasette cluster": {
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map",
+      "title": "datasette-cluster-map 0.19",
+      "normalized_title": "datasette cluster",
+      "content_hash": "",
+      "last_sent": 1794639015.339638,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.10439": {
+      "url": "https://huggingface.co/papers/2611.10439",
+      "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction (5 upvotes)",
+      "normalized_title": "who remembers what multi granularity memory extraction for multi user multi",
+      "content_hash": "",
+      "last_sent": 1794639015.339646,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:who remembers what multi granularity memory extraction for multi user multi": {
+      "url": "https://huggingface.co/papers/2611.10439",
+      "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction (5 upvotes)",
+      "normalized_title": "who remembers what multi granularity memory extraction for multi user multi",
+      "content_hash": "",
+      "last_sent": 1794639015.339646,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": {
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "normalized_title": "build a robot pick and",
+      "content_hash": "",
+      "last_sent": 1794639015.3396616,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:build a robot pick and": {
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "normalized_title": "build a robot pick and",
+      "content_hash": "",
+      "last_sent": 1794639015.3396616,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://anthropic.com/research/building-strong-safety-evaluations": {
+      "url": "https://anthropic.com/research/building-strong-safety-evaluations",
+      "title": "Building strong safety evaluations",
+      "normalized_title": "building strong safety evaluations",
+      "content_hash": "",
+      "last_sent": 1794639015.3396714,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:building strong safety evaluations": {
+      "url": "https://anthropic.com/research/building-strong-safety-evaluations",
+      "title": "Building strong safety evaluations",
+      "normalized_title": "building strong safety evaluations",
+      "content_hash": "",
+      "last_sent": 1794639015.3396714,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
