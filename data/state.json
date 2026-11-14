@@ -4,9 +4,6 @@
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1794032417.647361,
-    "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference": 1793467174.3134363,
-    "https://huggingface.co/blog/nvidia/nemotron-halloween": 1793467174.3134217,
-    "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals": 1793467174.3134496,
     "https://huggingface.co/papers/2610.39293": 1793514808.3978922,
     "https://simonwillison.net/2026/Oct/30/nesformer": 1793514808.3979073,
     "https://huggingface.co/papers/2610.38681": 1793556115.4632218,
@@ -136,17 +133,20 @@
     "https://openai.com/business/customer-stories/gondola": 1794553222.3681588,
     "https://openai.com/business/customer-stories/holidays-extras-codex": 1794553222.368178,
     "https://simonwillison.net/2026/Nov/12/llm-gemini": 1794639015.3397052,
-    "https://devin.ai/blog/devin-apps": 1794599669.7110326,
-    "https://huggingface.co/blog/ggml-org/llama-cpp-v1": 1794599669.7110445,
-    "https://huggingface.co/blog/allenai/xybench": 1794599669.711057,
+    "https://devin.ai/blog/devin-apps": 1794680463.7474358,
+    "https://huggingface.co/blog/ggml-org/llama-cpp-v1": 1794680463.7474513,
+    "https://huggingface.co/blog/allenai/xybench": 1794680463.7474642,
     "https://arxiv.org/abs/2611.14681": 1794599669.7110665,
-    "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia": 1794599669.7110782,
-    "https://openai.com/index/introducing-chatgpt-wallet": 1794599669.711089,
+    "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia": 1794680463.747489,
+    "https://openai.com/index/introducing-chatgpt-wallet": 1794680463.747475,
     "https://cursor.com/blog/security-incident-update": 1794639015.3396335,
     "https://simonwillison.net/2026/Nov/13/datasette-cluster-map": 1794639015.3396418,
     "https://huggingface.co/papers/2611.10439": 1794639015.3396547,
     "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": 1794639015.3396661,
-    "https://anthropic.com/research/building-strong-safety-evaluations": 1794639015.339675
+    "https://anthropic.com/research/building-strong-safety-evaluations": 1794639015.339675,
+    "https://latent.space/p/ainews-the-no-ai-slop-manifesto": 1794680463.7474196,
+    "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams": 1794680463.7475035,
+    "https://simonwillison.net/2026/Nov/13/datasette-leaflet": 1794680463.7475245
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -221,60 +221,6 @@
       "content_hash": "",
       "last_sent": 1794032417.647355,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference": {
-      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference",
-      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-      "normalized_title": "building aie code",
-      "content_hash": "",
-      "last_sent": 1793467174.3134286,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:building aie code": {
-      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference",
-      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-      "normalized_title": "building aie code",
-      "content_hash": "",
-      "last_sent": 1793467174.3134286,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/nvidia/nemotron-halloween": {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "title": "nemotron-halloween",
-      "normalized_title": "nemotron",
-      "content_hash": "",
-      "last_sent": 1793467174.313405,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:nemotron": {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "title": "nemotron-halloween",
-      "normalized_title": "nemotron",
-      "content_hash": "",
-      "last_sent": 1793467174.313405,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals": {
-      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "normalized_title": "things that go beep in the night",
-      "content_hash": "",
-      "last_sent": 1793467174.3134427,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:things that go beep in the night": {
-      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "normalized_title": "things that go beep in the night",
-      "content_hash": "",
-      "last_sent": 1793467174.3134427,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://huggingface.co/papers/2610.39293": {
@@ -413,11 +359,11 @@
       "score": 0.0
     },
     "title:datasette": {
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm",
-      "title": "datasette-llm 0.1a10",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet",
+      "title": "datasette-leaflet 0.3",
       "normalized_title": "datasette",
       "content_hash": "",
-      "last_sent": 1793909413.9131284,
+      "last_sent": 1794680463.7475183,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2595,7 +2541,7 @@
       "title": "Introducing Devin Apps",
       "normalized_title": "introducing devin apps",
       "content_hash": "",
-      "last_sent": 1794599669.7110279,
+      "last_sent": 1794680463.747429,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2604,7 +2550,7 @@
       "title": "Introducing Devin Apps",
       "normalized_title": "introducing devin apps",
       "content_hash": "",
-      "last_sent": 1794599669.7110279,
+      "last_sent": 1794680463.747429,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2613,7 +2559,7 @@
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "normalized_title": "llama cpp v1 0 0",
       "content_hash": "",
-      "last_sent": 1794599669.7110372,
+      "last_sent": 1794680463.7474427,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2622,7 +2568,7 @@
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "normalized_title": "llama cpp v1 0 0",
       "content_hash": "",
-      "last_sent": 1794599669.7110372,
+      "last_sent": 1794680463.7474427,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2631,7 +2577,7 @@
       "title": "XYBench: Helping with the problem behind the question",
       "normalized_title": "xybench",
       "content_hash": "",
-      "last_sent": 1794599669.7110522,
+      "last_sent": 1794680463.7474592,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2640,7 +2586,7 @@
       "title": "XYBench: Helping with the problem behind the question",
       "normalized_title": "xybench",
       "content_hash": "",
-      "last_sent": 1794599669.7110522,
+      "last_sent": 1794680463.7474592,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2667,7 +2613,7 @@
       "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
       "normalized_title": "jensen huang resigns after 33 years leading nvidia",
       "content_hash": "",
-      "last_sent": 1794599669.711071,
+      "last_sent": 1794680463.7474806,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2676,7 +2622,7 @@
       "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
       "normalized_title": "jensen huang resigns after 33 years leading nvidia",
       "content_hash": "",
-      "last_sent": 1794599669.711071,
+      "last_sent": 1794680463.7474806,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2685,7 +2631,7 @@
       "title": "Introducing ChatGPT Wallet",
       "normalized_title": "introducing chatgpt wallet",
       "content_hash": "",
-      "last_sent": 1794599669.7110848,
+      "last_sent": 1794680463.7474697,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2694,7 +2640,7 @@
       "title": "Introducing ChatGPT Wallet",
       "normalized_title": "introducing chatgpt wallet",
       "content_hash": "",
-      "last_sent": 1794599669.7110848,
+      "last_sent": 1794680463.7474697,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2786,6 +2732,51 @@
       "content_hash": "",
       "last_sent": 1794639015.3396714,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-the-no-ai-slop-manifesto": {
+      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto",
+      "title": "[AINews] The No AI Slop Manifesto",
+      "normalized_title": "the no ai slop manifesto",
+      "content_hash": "",
+      "last_sent": 1794680463.7473958,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:the no ai slop manifesto": {
+      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto",
+      "title": "[AINews] The No AI Slop Manifesto",
+      "normalized_title": "the no ai slop manifesto",
+      "content_hash": "",
+      "last_sent": 1794680463.7473958,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams": {
+      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "normalized_title": "how ai is helping care teams get patients the right care sooner",
+      "content_hash": "",
+      "last_sent": 1794680463.747496,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:how ai is helping care teams get patients the right care sooner": {
+      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "normalized_title": "how ai is helping care teams get patients the right care sooner",
+      "content_hash": "",
+      "last_sent": 1794680463.747496,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/13/datasette-leaflet": {
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet",
+      "title": "datasette-leaflet 0.3",
+      "normalized_title": "datasette",
+      "content_hash": "",
+      "last_sent": 1794680463.7475183,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
