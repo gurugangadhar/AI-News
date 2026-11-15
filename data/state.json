@@ -1,11 +1,9 @@
 {
   "seenArticles": {
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
-    "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
+    "https://github.com/ZhuLinsen/daily_stock_analysis": 1794769287.539631,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1794032417.647361,
-    "https://huggingface.co/papers/2610.38681": 1793556115.4632218,
-    "https://latent.space/p/arca": 1793556115.4632401,
     "https://simonwillison.net/2026/Oct/31/datasette-llm": 1793601150.589338,
     "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": 1793601150.5893605,
     "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": 1793656287.612135,
@@ -139,11 +137,14 @@
     "https://huggingface.co/papers/2611.10439": 1794725692.4115517,
     "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": 1794725692.4115627,
     "https://anthropic.com/research/building-strong-safety-evaluations": 1794639015.339675,
-    "https://latent.space/p/ainews-the-no-ai-slop-manifesto": 1794680463.7474196,
+    "https://latent.space/p/ainews-the-no-ai-slop-manifesto": 1794769287.539589,
     "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams": 1794680463.7475035,
     "https://simonwillison.net/2026/Nov/13/datasette-leaflet": 1794680463.7475245,
     "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature": 1794725692.4115756,
-    "https://openai.com/business/customer-stories/shield": 1794725692.4115915
+    "https://openai.com/business/customer-stories/shield": 1794725692.4115915,
+    "https://simonwillison.net/2026/Nov/14/datasette-llm": 1794769287.5395997,
+    "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings": 1794769287.5396097,
+    "https://huggingface.co/papers/2611.16728": 1794769287.5396202
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -168,10 +169,10 @@
     },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "title": "ZhuLinsen/daily_stock_analysis: Scheduled Multi-Agent Financial Research System",
-      "normalized_title": "zhulinsen daily_stock_analysis scheduled multi",
+      "title": "ZhuLinsen/daily_stock_analysis (72,453 stars)",
+      "normalized_title": "zhulinsen daily_stock_analysis",
       "content_hash": "",
-      "last_sent": 1794160855.3633075,
+      "last_sent": 1794769287.5396252,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -186,19 +187,10 @@
     },
     "title:zhulinsen daily_stock_analysis": {
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "title": "ZhuLinsen/daily_stock_analysis (67,390 stars)",
+      "title": "ZhuLinsen/daily_stock_analysis (72,453 stars)",
       "normalized_title": "zhulinsen daily_stock_analysis",
       "content_hash": "",
-      "last_sent": 1793556115.4632485,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:hkuds vibe": {
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "title": "HKUDS/Vibe-Trading (37,362 stars)",
-      "normalized_title": "hkuds vibe",
-      "content_hash": "",
-      "last_sent": 1793556115.4632614,
+      "last_sent": 1794769287.5396252,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -220,42 +212,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/papers/2610.38681": {
-      "url": "https://huggingface.co/papers/2610.38681",
-      "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models (2 upvotes)",
-      "normalized_title": "weaken to strengthen weakening induced on policy self",
-      "content_hash": "",
-      "last_sent": 1793556115.4632087,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:weaken to strengthen weakening induced on policy self": {
-      "url": "https://huggingface.co/papers/2610.38681",
-      "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models (2 upvotes)",
-      "normalized_title": "weaken to strengthen weakening induced on policy self",
-      "content_hash": "",
-      "last_sent": 1793556115.4632087,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/arca": {
-      "url": "https://latent.space/p/arca",
-      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-      "normalized_title": "agents prompt people using agents for long",
-      "content_hash": "",
-      "last_sent": 1793556115.4632325,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:agents prompt people using agents for long": {
-      "url": "https://latent.space/p/arca",
-      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-      "normalized_title": "agents prompt people using agents for long",
-      "content_hash": "",
-      "last_sent": 1793556115.4632325,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Oct/31/datasette-llm": {
       "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
       "title": "datasette-llm 0.1a9",
@@ -266,11 +222,11 @@
       "score": 0.0
     },
     "title:datasette": {
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet",
-      "title": "datasette-leaflet 0.3",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+      "title": "datasette-llm 0.1a11",
       "normalized_title": "datasette",
       "content_hash": "",
-      "last_sent": 1794680463.7475183,
+      "last_sent": 1794769287.5395958,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2646,7 +2602,7 @@
       "title": "[AINews] The No AI Slop Manifesto",
       "normalized_title": "the no ai slop manifesto",
       "content_hash": "",
-      "last_sent": 1794680463.7473958,
+      "last_sent": 1794769287.5395715,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2655,7 +2611,7 @@
       "title": "[AINews] The No AI Slop Manifesto",
       "normalized_title": "the no ai slop manifesto",
       "content_hash": "",
-      "last_sent": 1794680463.7473958,
+      "last_sent": 1794769287.5395715,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2720,6 +2676,51 @@
       "content_hash": "",
       "last_sent": 1794725692.4115872,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/14/datasette-llm": {
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+      "title": "datasette-llm 0.1a11",
+      "normalized_title": "datasette",
+      "content_hash": "",
+      "last_sent": 1794769287.5395958,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings": {
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "normalized_title": "understanding positional embeddings in modern llms",
+      "content_hash": "",
+      "last_sent": 1794769287.5396042,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:understanding positional embeddings in modern llms": {
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "normalized_title": "understanding positional embeddings in modern llms",
+      "content_hash": "",
+      "last_sent": 1794769287.5396042,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.16728": {
+      "url": "https://huggingface.co/papers/2611.16728",
+      "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming (1 upvotes)",
+      "normalized_title": "egox egocentric cross",
+      "content_hash": "",
+      "last_sent": 1794769287.539614,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:egox egocentric cross": {
+      "url": "https://huggingface.co/papers/2611.16728",
+      "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming (1 upvotes)",
+      "normalized_title": "egox egocentric cross",
+      "content_hash": "",
+      "last_sent": 1794769287.539614,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
