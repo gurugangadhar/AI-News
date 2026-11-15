@@ -4,12 +4,7 @@
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794160855.363316,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1794032417.647361,
-    "https://huggingface.co/papers/2610.39293": 1793514808.3978922,
-    "https://simonwillison.net/2026/Oct/30/nesformer": 1793514808.3979073,
     "https://huggingface.co/papers/2610.38681": 1793556115.4632218,
-    "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c": 1793514808.3979523,
-    "https://openai.com/index/helping-websites-express-ai-training-preferences": 1793514808.397968,
-    "https://openai.com/index/community-safety-report-and-new-protections-for-teens": 1793514808.3979864,
     "https://latent.space/p/arca": 1793556115.4632401,
     "https://simonwillison.net/2026/Oct/31/datasette-llm": 1793601150.589338,
     "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": 1793601150.5893605,
@@ -139,14 +134,16 @@
     "https://arxiv.org/abs/2611.14681": 1794599669.7110665,
     "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia": 1794680463.747489,
     "https://openai.com/index/introducing-chatgpt-wallet": 1794680463.747475,
-    "https://cursor.com/blog/security-incident-update": 1794639015.3396335,
-    "https://simonwillison.net/2026/Nov/13/datasette-cluster-map": 1794639015.3396418,
-    "https://huggingface.co/papers/2611.10439": 1794639015.3396547,
-    "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": 1794639015.3396661,
+    "https://cursor.com/blog/security-incident-update": 1794725692.411538,
+    "https://simonwillison.net/2026/Nov/13/datasette-cluster-map": 1794725692.4115837,
+    "https://huggingface.co/papers/2611.10439": 1794725692.4115517,
+    "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": 1794725692.4115627,
     "https://anthropic.com/research/building-strong-safety-evaluations": 1794639015.339675,
     "https://latent.space/p/ainews-the-no-ai-slop-manifesto": 1794680463.7474196,
     "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams": 1794680463.7475035,
-    "https://simonwillison.net/2026/Nov/13/datasette-leaflet": 1794680463.7475245
+    "https://simonwillison.net/2026/Nov/13/datasette-leaflet": 1794680463.7475245,
+    "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature": 1794725692.4115756,
+    "https://openai.com/business/customer-stories/shield": 1794725692.4115915
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -223,42 +220,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/papers/2610.39293": {
-      "url": "https://huggingface.co/papers/2610.39293",
-      "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models (2 upvotes)",
-      "normalized_title": "unlocking any",
-      "content_hash": "",
-      "last_sent": 1793514808.3978689,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:unlocking any": {
-      "url": "https://huggingface.co/papers/2610.39293",
-      "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models (2 upvotes)",
-      "normalized_title": "unlocking any",
-      "content_hash": "",
-      "last_sent": 1793514808.3978689,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/30/nesformer": {
-      "url": "https://simonwillison.net/2026/Oct/30/nesformer",
-      "title": "dbreunig/nesformer",
-      "normalized_title": "dbreunig nesformer",
-      "content_hash": "",
-      "last_sent": 1793514808.3979023,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:dbreunig nesformer": {
-      "url": "https://simonwillison.net/2026/Oct/30/nesformer",
-      "title": "dbreunig/nesformer",
-      "normalized_title": "dbreunig nesformer",
-      "content_hash": "",
-      "last_sent": 1793514808.3979023,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://huggingface.co/papers/2610.38681": {
       "url": "https://huggingface.co/papers/2610.38681",
       "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models (2 upvotes)",
@@ -275,60 +236,6 @@
       "content_hash": "",
       "last_sent": 1793556115.4632087,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c": {
-      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c",
-      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
-      "normalized_title": "google admits ai mode hurts search revenue 15 500b drop worst since 2004 ipo ai bear market coming",
-      "content_hash": "",
-      "last_sent": 1793514808.3979409,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:google admits ai mode hurts search revenue 15 500b drop worst since 2004 ipo ai bear market coming": {
-      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c",
-      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
-      "normalized_title": "google admits ai mode hurts search revenue 15 500b drop worst since 2004 ipo ai bear market coming",
-      "content_hash": "",
-      "last_sent": 1793514808.3979409,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/helping-websites-express-ai-training-preferences": {
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "title": "Making it easier for websites to express AI training preferences",
-      "normalized_title": "making it easier for websites to express ai training preferences",
-      "content_hash": "",
-      "last_sent": 1793514808.3979616,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:making it easier for websites to express ai training preferences": {
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "title": "Making it easier for websites to express AI training preferences",
-      "normalized_title": "making it easier for websites to express ai training preferences",
-      "content_hash": "",
-      "last_sent": 1793514808.3979616,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/community-safety-report-and-new-protections-for-teens": {
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "title": "Community safety report and new protections for teens",
-      "normalized_title": "community safety report and new protections for teens",
-      "content_hash": "",
-      "last_sent": 1793514808.39798,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:community safety report and new protections for teens": {
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "title": "Community safety report and new protections for teens",
-      "normalized_title": "community safety report and new protections for teens",
-      "content_hash": "",
-      "last_sent": 1793514808.39798,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://latent.space/p/arca": {
@@ -2649,7 +2556,7 @@
       "title": "An update on our recent security incident",
       "normalized_title": "an update on our recent security incident",
       "content_hash": "",
-      "last_sent": 1794639015.3396285,
+      "last_sent": 1794725692.411519,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2658,7 +2565,7 @@
       "title": "An update on our recent security incident",
       "normalized_title": "an update on our recent security incident",
       "content_hash": "",
-      "last_sent": 1794639015.3396285,
+      "last_sent": 1794725692.411519,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2667,7 +2574,7 @@
       "title": "datasette-cluster-map 0.19",
       "normalized_title": "datasette cluster",
       "content_hash": "",
-      "last_sent": 1794639015.339638,
+      "last_sent": 1794725692.4115806,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2676,25 +2583,25 @@
       "title": "datasette-cluster-map 0.19",
       "normalized_title": "datasette cluster",
       "content_hash": "",
-      "last_sent": 1794639015.339638,
+      "last_sent": 1794725692.4115806,
       "digest_type": "morning",
       "score": 0.0
     },
     "https://huggingface.co/papers/2611.10439": {
       "url": "https://huggingface.co/papers/2611.10439",
-      "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction (5 upvotes)",
+      "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction (8 upvotes)",
       "normalized_title": "who remembers what multi granularity memory extraction for multi user multi",
       "content_hash": "",
-      "last_sent": 1794639015.339646,
+      "last_sent": 1794725692.4115431,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:who remembers what multi granularity memory extraction for multi user multi": {
       "url": "https://huggingface.co/papers/2611.10439",
-      "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction (5 upvotes)",
+      "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction (8 upvotes)",
       "normalized_title": "who remembers what multi granularity memory extraction for multi user multi",
       "content_hash": "",
-      "last_sent": 1794639015.339646,
+      "last_sent": 1794725692.4115431,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2703,7 +2610,7 @@
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "normalized_title": "build a robot pick and",
       "content_hash": "",
-      "last_sent": 1794639015.3396616,
+      "last_sent": 1794725692.4115582,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2712,7 +2619,7 @@
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "normalized_title": "build a robot pick and",
       "content_hash": "",
-      "last_sent": 1794639015.3396616,
+      "last_sent": 1794725692.4115582,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2777,6 +2684,42 @@
       "content_hash": "",
       "last_sent": 1794680463.7475183,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature": {
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
+      "title": "Advancing science & engineering with Antigravity’s /teamwork",
+      "normalized_title": "advancing science engineering with antigravity s teamwork",
+      "content_hash": "",
+      "last_sent": 1794725692.4115665,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:advancing science engineering with antigravity s teamwork": {
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
+      "title": "Advancing science & engineering with Antigravity’s /teamwork",
+      "normalized_title": "advancing science engineering with antigravity s teamwork",
+      "content_hash": "",
+      "last_sent": 1794725692.4115665,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/business/customer-stories/shield": {
+      "url": "https://openai.com/business/customer-stories/shield",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "normalized_title": "shield helps technicians hand off legacy portal work with openai",
+      "content_hash": "",
+      "last_sent": 1794725692.4115872,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:shield helps technicians hand off legacy portal work with openai": {
+      "url": "https://openai.com/business/customer-stories/shield",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "normalized_title": "shield helps technicians hand off legacy portal work with openai",
+      "content_hash": "",
+      "last_sent": 1794725692.4115872,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
