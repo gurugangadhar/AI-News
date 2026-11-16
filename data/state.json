@@ -4,13 +4,7 @@
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794769287.539631,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1794032417.647361,
-    "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": 1793656287.612135,
     "https://openai.com/index/lifeval": 1793734813.632844,
-    "https://huggingface.co/papers/2610.36384": 1793656287.6120741,
-    "https://openai.com/index/grid-protectors-program": 1793656287.6120882,
-    "https://devin.ai/blog/hierarchical-budgets": 1793656287.6120975,
-    "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": 1793656287.6121135,
-    "https://openai.com/index/qodo-codex-plugin": 1793656287.6121254,
     "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora": 1793774860.245866,
     "https://huggingface.co/papers/2611.01484": 1793689463.6893623,
     "https://simonwillison.net/2026/Nov/2/llm": 1793774860.245892,
@@ -139,7 +133,7 @@
     "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature": 1794725692.4115756,
     "https://openai.com/business/customer-stories/shield": 1794725692.4115915,
     "https://simonwillison.net/2026/Nov/14/datasette-llm": 1794769287.5395997,
-    "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings": 1794769287.5396097,
+    "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings": 1794867784.599349,
     "https://huggingface.co/papers/2611.16728": 1794769287.5396202,
     "https://huggingface.co/papers/2611.18130": 1794812167.1285558,
     "https://huggingface.co/papers/2611.16378": 1794812167.1285775,
@@ -147,7 +141,16 @@
     "https://simonwillison.net/2026/Nov/15/datasette": 1794812167.1286266,
     "https://simonwillison.net/2026/Nov/15/datasette-2": 1794812167.1286383,
     "https://openai.com/index/step-toward-defining-the-standard-model": 1794812167.128652,
-    "https://openai.com/index/our-new-blog-for-science": 1794812167.1286662
+    "https://openai.com/index/our-new-blog-for-science": 1794812167.1286662,
+    "https://huggingface.co/blog/openrouter": 1794867784.5992312,
+    "https://latent.space/p/bfl": 1794867784.5992556,
+    "https://simonwillison.net/2026/Nov/15/datasette-apps": 1794867784.599271,
+    "https://devin.ai/blog/cognition-mckinsey-alliance": 1794867784.5992858,
+    "https://huggingface.co/papers/2611.18550": 1794867784.5993013,
+    "https://blogs.nvidia.com/blog/lambda-photonics": 1794867784.5993145,
+    "https://openai.com/index/strengthening-online-child-safety": 1794867784.599328,
+    "https://openai.com/index/expanding-chatgpt-for-academic-researchers": 1794867784.5993605,
+    "https://openai.com/index/science-at-the-frontier": 1794867784.59937
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -216,29 +219,11 @@
       "score": 0.0
     },
     "title:datasette": {
-      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
-      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps",
+      "title": "datasette-apps 0.4a0",
       "normalized_title": "datasette",
       "content_hash": "",
-      "last_sent": 1794769287.5395958,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": {
-      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury",
-      "title": "Quoting Kyle Kingsbury",
-      "normalized_title": "quoting kyle kingsbury",
-      "content_hash": "",
-      "last_sent": 1793656287.6121304,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:quoting kyle kingsbury": {
-      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury",
-      "title": "Quoting Kyle Kingsbury",
-      "normalized_title": "quoting kyle kingsbury",
-      "content_hash": "",
-      "last_sent": 1793656287.6121304,
+      "last_sent": 1794867784.5992668,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -258,96 +243,6 @@
       "content_hash": "",
       "last_sent": 1793734813.632839,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.36384": {
-      "url": "https://huggingface.co/papers/2610.36384",
-      "title": "SOMA: A Benchmark for Fine-Grained Egocentric Behavior and Body-Motion Understanding (4 upvotes)",
-      "normalized_title": "soma a benchmark for fine grained egocentric behavior and body",
-      "content_hash": "",
-      "last_sent": 1793656287.612062,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:soma a benchmark for fine grained egocentric behavior and body": {
-      "url": "https://huggingface.co/papers/2610.36384",
-      "title": "SOMA: A Benchmark for Fine-Grained Egocentric Behavior and Body-Motion Understanding (4 upvotes)",
-      "normalized_title": "soma a benchmark for fine grained egocentric behavior and body",
-      "content_hash": "",
-      "last_sent": 1793656287.612062,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/grid-protectors-program": {
-      "url": "https://openai.com/index/grid-protectors-program",
-      "title": "Introducing the Grid Protectors Program",
-      "normalized_title": "introducing the grid protectors program",
-      "content_hash": "",
-      "last_sent": 1793656287.6120837,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:introducing the grid protectors program": {
-      "url": "https://openai.com/index/grid-protectors-program",
-      "title": "Introducing the Grid Protectors Program",
-      "normalized_title": "introducing the grid protectors program",
-      "content_hash": "",
-      "last_sent": 1793656287.6120837,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://devin.ai/blog/hierarchical-budgets": {
-      "url": "https://devin.ai/blog/hierarchical-budgets",
-      "title": "Hierarchical budgets: manage AI spend the way your company is organized",
-      "normalized_title": "hierarchical budgets",
-      "content_hash": "",
-      "last_sent": 1793656287.612093,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:hierarchical budgets": {
-      "url": "https://devin.ai/blog/hierarchical-budgets",
-      "title": "Hierarchical budgets: manage AI spend the way your company is organized",
-      "normalized_title": "hierarchical budgets",
-      "content_hash": "",
-      "last_sent": 1793656287.612093,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": {
-      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence",
-      "title": "The U.S. Census Bureau and “Super Intelligence”",
-      "normalized_title": "the u s census bureau and super intelligence",
-      "content_hash": "",
-      "last_sent": 1793656287.612102,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:the u s census bureau and super intelligence": {
-      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence",
-      "title": "The U.S. Census Bureau and “Super Intelligence”",
-      "normalized_title": "the u s census bureau and super intelligence",
-      "content_hash": "",
-      "last_sent": 1793656287.612102,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/qodo-codex-plugin": {
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "title": "Qodo builds context into AI code review with Codex",
-      "normalized_title": "qodo builds context into ai code review with codex",
-      "content_hash": "",
-      "last_sent": 1793656287.6121202,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:qodo builds context into ai code review with codex": {
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "title": "Qodo builds context into AI code review with Codex",
-      "normalized_title": "qodo builds context into ai code review with codex",
-      "content_hash": "",
-      "last_sent": 1793656287.6121202,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora": {
@@ -2632,8 +2527,8 @@
       "title": "Understanding Positional Embeddings in Modern LLMs",
       "normalized_title": "understanding positional embeddings in modern llms",
       "content_hash": "",
-      "last_sent": 1794769287.5396042,
-      "digest_type": "evening",
+      "last_sent": 1794867784.5993416,
+      "digest_type": "morning",
       "score": 0.0
     },
     "title:understanding positional embeddings in modern llms": {
@@ -2641,8 +2536,8 @@
       "title": "Understanding Positional Embeddings in Modern LLMs",
       "normalized_title": "understanding positional embeddings in modern llms",
       "content_hash": "",
-      "last_sent": 1794769287.5396042,
-      "digest_type": "evening",
+      "last_sent": 1794867784.5993416,
+      "digest_type": "morning",
       "score": 0.0
     },
     "https://huggingface.co/papers/2611.16728": {
@@ -2786,6 +2681,159 @@
       "normalized_title": "our new blog for science",
       "content_hash": "",
       "last_sent": 1794812167.1286607,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/openrouter": {
+      "url": "https://huggingface.co/blog/openrouter",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "normalized_title": "hugging face and openrouter join forces to make open",
+      "content_hash": "",
+      "last_sent": 1794867784.5992117,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:hugging face and openrouter join forces to make open": {
+      "url": "https://huggingface.co/blog/openrouter",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "normalized_title": "hugging face and openrouter join forces to make open",
+      "content_hash": "",
+      "last_sent": 1794867784.5992117,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/bfl": {
+      "url": "https://latent.space/p/bfl",
+      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "normalized_title": "building visual intelligence andreas blattmann dustin podell black forest labs",
+      "content_hash": "",
+      "last_sent": 1794867784.5992408,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:building visual intelligence andreas blattmann dustin podell black forest labs": {
+      "url": "https://latent.space/p/bfl",
+      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "normalized_title": "building visual intelligence andreas blattmann dustin podell black forest labs",
+      "content_hash": "",
+      "last_sent": 1794867784.5992408,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/15/datasette-apps": {
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps",
+      "title": "datasette-apps 0.4a0",
+      "normalized_title": "datasette",
+      "content_hash": "",
+      "last_sent": 1794867784.5992668,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://devin.ai/blog/cognition-mckinsey-alliance": {
+      "url": "https://devin.ai/blog/cognition-mckinsey-alliance",
+      "title": "Cognition and McKinsey form an alliance to help enterprises prove the value of AI in software engineering",
+      "normalized_title": "cognition and mckinsey form an alliance to help enterprises prove the value of ai in software engineering",
+      "content_hash": "",
+      "last_sent": 1794867784.5992765,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:cognition and mckinsey form an alliance to help enterprises prove the value of ai in software engineering": {
+      "url": "https://devin.ai/blog/cognition-mckinsey-alliance",
+      "title": "Cognition and McKinsey form an alliance to help enterprises prove the value of AI in software engineering",
+      "normalized_title": "cognition and mckinsey form an alliance to help enterprises prove the value of ai in software engineering",
+      "content_hash": "",
+      "last_sent": 1794867784.5992765,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.18550": {
+      "url": "https://huggingface.co/papers/2611.18550",
+      "title": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
+      "normalized_title": "restoring diversity in distilled image and video generators by probing activations",
+      "content_hash": "",
+      "last_sent": 1794867784.5992944,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:restoring diversity in distilled image and video generators by probing activations": {
+      "url": "https://huggingface.co/papers/2611.18550",
+      "title": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
+      "normalized_title": "restoring diversity in distilled image and video generators by probing activations",
+      "content_hash": "",
+      "last_sent": 1794867784.5992944,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/lambda-photonics": {
+      "url": "https://blogs.nvidia.com/blog/lambda-photonics",
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "normalized_title": "lambda boosts ai factory resiliency and efficiency with nvidia photonics",
+      "content_hash": "",
+      "last_sent": 1794867784.5993083,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:lambda boosts ai factory resiliency and efficiency with nvidia photonics": {
+      "url": "https://blogs.nvidia.com/blog/lambda-photonics",
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "normalized_title": "lambda boosts ai factory resiliency and efficiency with nvidia photonics",
+      "content_hash": "",
+      "last_sent": 1794867784.5993083,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/strengthening-online-child-safety": {
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "normalized_title": "strengthening the fight against online child sexual abuse with new tools and support",
+      "content_hash": "",
+      "last_sent": 1794867784.5993211,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:strengthening the fight against online child sexual abuse with new tools and support": {
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "normalized_title": "strengthening the fight against online child sexual abuse with new tools and support",
+      "content_hash": "",
+      "last_sent": 1794867784.5993211,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/expanding-chatgpt-for-academic-researchers": {
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "title": "Broadening access to AI for scientists",
+      "normalized_title": "broadening access to ai for scientists",
+      "content_hash": "",
+      "last_sent": 1794867784.5993557,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:broadening access to ai for scientists": {
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "title": "Broadening access to AI for scientists",
+      "normalized_title": "broadening access to ai for scientists",
+      "content_hash": "",
+      "last_sent": 1794867784.5993557,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/science-at-the-frontier": {
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "normalized_title": "science at the frontier",
+      "content_hash": "",
+      "last_sent": 1794867784.5993652,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:science at the frontier": {
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "normalized_title": "science at the frontier",
+      "content_hash": "",
+      "last_sent": 1794867784.5993652,
       "digest_type": "morning",
       "score": 0.0
     }
