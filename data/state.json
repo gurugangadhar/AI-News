@@ -4,11 +4,7 @@
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794769287.539631,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1794032417.647361,
-    "https://simonwillison.net/2026/Oct/31/datasette-llm": 1793601150.589338,
-    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": 1793601150.5893605,
     "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": 1793656287.612135,
-    "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first": 1793601150.589325,
-    "https://huggingface.co/papers/2610.41260": 1793601150.5893686,
     "https://openai.com/index/lifeval": 1793734813.632844,
     "https://huggingface.co/papers/2610.36384": 1793656287.6120741,
     "https://openai.com/index/grid-protectors-program": 1793656287.6120882,
@@ -144,7 +140,14 @@
     "https://openai.com/business/customer-stories/shield": 1794725692.4115915,
     "https://simonwillison.net/2026/Nov/14/datasette-llm": 1794769287.5395997,
     "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings": 1794769287.5396097,
-    "https://huggingface.co/papers/2611.16728": 1794769287.5396202
+    "https://huggingface.co/papers/2611.16728": 1794769287.5396202,
+    "https://huggingface.co/papers/2611.18130": 1794812167.1285558,
+    "https://huggingface.co/papers/2611.16378": 1794812167.1285775,
+    "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup": 1794812167.128607,
+    "https://simonwillison.net/2026/Nov/15/datasette": 1794812167.1286266,
+    "https://simonwillison.net/2026/Nov/15/datasette-2": 1794812167.1286383,
+    "https://openai.com/index/step-toward-defining-the-standard-model": 1794812167.128652,
+    "https://openai.com/index/our-new-blog-for-science": 1794812167.1286662
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -212,15 +215,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://simonwillison.net/2026/Oct/31/datasette-llm": {
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
-      "title": "datasette-llm 0.1a9",
-      "normalized_title": "datasette",
-      "content_hash": "",
-      "last_sent": 1793601150.589333,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "title:datasette": {
       "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
       "title": "datasette-llm 0.1a11",
@@ -228,24 +222,6 @@
       "content_hash": "",
       "last_sent": 1794769287.5395958,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": {
-      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
-      "title": "How We Took Over ChatGPT Accounts",
-      "normalized_title": "how we took over chatgpt accounts",
-      "content_hash": "",
-      "last_sent": 1793601150.5893555,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:how we took over chatgpt accounts": {
-      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
-      "title": "How We Took Over ChatGPT Accounts",
-      "normalized_title": "how we took over chatgpt accounts",
-      "content_hash": "",
-      "last_sent": 1793601150.5893555,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": {
@@ -263,42 +239,6 @@
       "normalized_title": "quoting kyle kingsbury",
       "content_hash": "",
       "last_sent": 1793656287.6121304,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first": {
-      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first",
-      "title": "If in doubt, delete the uv.lock file",
-      "normalized_title": "if in doubt delete the uv lock file",
-      "content_hash": "",
-      "last_sent": 1793601150.5893052,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:if in doubt delete the uv lock file": {
-      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first",
-      "title": "If in doubt, delete the uv.lock file",
-      "normalized_title": "if in doubt delete the uv lock file",
-      "content_hash": "",
-      "last_sent": 1793601150.5893052,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2610.41260": {
-      "url": "https://huggingface.co/papers/2610.41260",
-      "title": "SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement (1 upvotes)",
-      "normalized_title": "sketchdirector",
-      "content_hash": "",
-      "last_sent": 1793601150.5893645,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:sketchdirector": {
-      "url": "https://huggingface.co/papers/2610.41260",
-      "title": "SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement (1 upvotes)",
-      "normalized_title": "sketchdirector",
-      "content_hash": "",
-      "last_sent": 1793601150.5893645,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2721,6 +2661,132 @@
       "content_hash": "",
       "last_sent": 1794769287.539614,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.18130": {
+      "url": "https://huggingface.co/papers/2611.18130",
+      "title": "JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams (1 upvotes)",
+      "normalized_title": "jfinbench",
+      "content_hash": "",
+      "last_sent": 1794812167.1285243,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:jfinbench": {
+      "url": "https://huggingface.co/papers/2611.18130",
+      "title": "JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams (1 upvotes)",
+      "normalized_title": "jfinbench",
+      "content_hash": "",
+      "last_sent": 1794812167.1285243,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.16378": {
+      "url": "https://huggingface.co/papers/2611.16378",
+      "title": "Evidence-Governed Adoption of Self-Generated Updates in Autonomous AI Agents (1 upvotes)",
+      "normalized_title": "evidence governed adoption of self",
+      "content_hash": "",
+      "last_sent": 1794812167.1285667,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:evidence governed adoption of self": {
+      "url": "https://huggingface.co/papers/2611.16378",
+      "title": "Evidence-Governed Adoption of Self-Generated Updates in Autonomous AI Agents (1 upvotes)",
+      "normalized_title": "evidence governed adoption of self",
+      "content_hash": "",
+      "last_sent": 1794812167.1285667,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup": {
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup",
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "normalized_title": "ai day seoul brings together korea s industry leaders startups and developer communities",
+      "content_hash": "",
+      "last_sent": 1794812167.1285884,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:ai day seoul brings together korea s industry leaders startups and developer communities": {
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup",
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "normalized_title": "ai day seoul brings together korea s industry leaders startups and developer communities",
+      "content_hash": "",
+      "last_sent": 1794812167.1285884,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/15/datasette": {
+      "url": "https://simonwillison.net/2026/Nov/15/datasette",
+      "title": "datasette 1.0a43",
+      "normalized_title": "datasette 1 0a43",
+      "content_hash": "",
+      "last_sent": 1794812167.1286209,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:datasette 1 0a43": {
+      "url": "https://simonwillison.net/2026/Nov/15/datasette",
+      "title": "datasette 1.0a43",
+      "normalized_title": "datasette 1 0a43",
+      "content_hash": "",
+      "last_sent": 1794812167.1286209,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/15/datasette-2": {
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-2",
+      "title": "datasette 0.65.6",
+      "normalized_title": "datasette 0 65 6",
+      "content_hash": "",
+      "last_sent": 1794812167.1286323,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:datasette 0 65 6": {
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-2",
+      "title": "datasette 0.65.6",
+      "normalized_title": "datasette 0 65 6",
+      "content_hash": "",
+      "last_sent": 1794812167.1286323,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/step-toward-defining-the-standard-model": {
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "normalized_title": "a step toward defining the standard model on a lattice",
+      "content_hash": "",
+      "last_sent": 1794812167.1286438,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:a step toward defining the standard model on a lattice": {
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "normalized_title": "a step toward defining the standard model on a lattice",
+      "content_hash": "",
+      "last_sent": 1794812167.1286438,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/our-new-blog-for-science": {
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "title": "Our new blog for science",
+      "normalized_title": "our new blog for science",
+      "content_hash": "",
+      "last_sent": 1794812167.1286607,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:our new blog for science": {
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "title": "Our new blog for science",
+      "normalized_title": "our new blog for science",
+      "content_hash": "",
+      "last_sent": 1794812167.1286607,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
