@@ -4,19 +4,14 @@
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794769287.539631,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1794032417.647361,
-    "https://openai.com/index/lifeval": 1793734813.632844,
     "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora": 1793774860.245866,
     "https://simonwillison.net/2026/Nov/2/llm": 1793774860.245892,
     "https://simonwillison.net/2026/Nov/3/october-newsletter": 1793774860.2459023,
     "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of": 1793774860.2459426,
     "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": 1793774860.2459996,
-    "https://huggingface.co/blog/cwe-bench": 1793734813.6327865,
-    "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora": 1793734813.632814,
     "https://huggingface.co/blog/ibm-research/palette-deck-building": 1793822227.1366277,
     "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity": 1793822227.1366472,
-    "https://openai.com/index/heimstaden": 1793734813.6328702,
     "https://openai.com/index/accelerating-engineering-for-the-physical-world": 1793822227.1366713,
-    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights": 1793734813.6329017,
     "https://huggingface.co/papers/2611.05255": 1793774860.245883,
     "https://huggingface.co/papers/2611.02017": 1793774860.24592,
     "https://openai.com/index/cisco-cyber": 1793774860.2459588,
@@ -139,21 +134,28 @@
     "https://simonwillison.net/2026/Nov/15/datasette-2": 1794812167.1286383,
     "https://openai.com/index/step-toward-defining-the-standard-model": 1794812167.128652,
     "https://openai.com/index/our-new-blog-for-science": 1794812167.1286662,
-    "https://huggingface.co/blog/openrouter": 1794867784.5992312,
-    "https://latent.space/p/bfl": 1794867784.5992556,
+    "https://huggingface.co/blog/openrouter": 1794949789.7922697,
+    "https://latent.space/p/bfl": 1794949789.7923546,
     "https://simonwillison.net/2026/Nov/15/datasette-apps": 1794867784.599271,
     "https://devin.ai/blog/cognition-mckinsey-alliance": 1794867784.5992858,
     "https://huggingface.co/papers/2611.18550": 1794867784.5993013,
     "https://blogs.nvidia.com/blog/lambda-photonics": 1794867784.5993145,
     "https://openai.com/index/strengthening-online-child-safety": 1794867784.599328,
-    "https://openai.com/index/expanding-chatgpt-for-academic-researchers": 1794867784.5993605,
-    "https://openai.com/index/science-at-the-frontier": 1794867784.59937,
+    "https://openai.com/index/expanding-chatgpt-for-academic-researchers": 1794949789.7923903,
+    "https://openai.com/index/science-at-the-frontier": 1794949789.792399,
     "https://huggingface.co/papers/2611.21218": 1794903307.564151,
     "https://simonwillison.net/2026/Nov/17/go-proverbs": 1794903307.5641706,
     "https://simonwillison.net/2026/Nov/16/llm": 1794903307.5641766,
     "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai": 1794903307.564184,
     "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain": 1794903307.5641992,
-    "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26": 1794903307.5642097
+    "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26": 1794903307.5642097,
+    "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026": 1794949789.7922542,
+    "https://devin.ai/blog/introducing-devin-bots": 1794949789.7922812,
+    "https://latent.space/p/cloudflare": 1794949789.7922895,
+    "https://huggingface.co/papers/2611.17610": 1794949789.7923262,
+    "https://openai.com/index/introducing-gpt-6-2-astra-sol": 1794949789.7923677,
+    "https://openai.com/index/introducing-openai-for-chile": 1794949789.7923815,
+    "https://simonwillison.net/2026/Nov/15/datasette-maplibre": 1794949789.7924056
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -222,30 +224,12 @@
       "score": 0.0
     },
     "title:datasette": {
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps",
-      "title": "datasette-apps 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre",
+      "title": "datasette-maplibre 0.1a0",
       "normalized_title": "datasette",
       "content_hash": "",
-      "last_sent": 1794867784.5992668,
+      "last_sent": 1794949789.792403,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/lifeval": {
-      "url": "https://openai.com/index/lifeval",
-      "title": "LifeVal",
-      "normalized_title": "lifeval",
-      "content_hash": "",
-      "last_sent": 1793734813.632839,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:lifeval": {
-      "url": "https://openai.com/index/lifeval",
-      "title": "LifeVal",
-      "normalized_title": "lifeval",
-      "content_hash": "",
-      "last_sent": 1793734813.632839,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora": {
@@ -338,42 +322,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/blog/cwe-bench": {
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "normalized_title": "cwe bench v2 more coverage quality and transparency",
-      "content_hash": "",
-      "last_sent": 1793734813.632761,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:cwe bench v2 more coverage quality and transparency": {
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "normalized_title": "cwe bench v2 more coverage quality and transparency",
-      "content_hash": "",
-      "last_sent": 1793734813.632761,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora": {
-      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora",
-      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-      "normalized_title": "building legal agents when you can t see the data jacob lauritzen cto of legora",
-      "content_hash": "",
-      "last_sent": 1793734813.6327994,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:building legal agents when you can t see the data jacob lauritzen cto of legora": {
-      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora",
-      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-      "normalized_title": "building legal agents when you can t see the data jacob lauritzen cto of legora",
-      "content_hash": "",
-      "last_sent": 1793734813.6327994,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://huggingface.co/blog/ibm-research/palette-deck-building": {
       "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
       "title": "Palette: teaching a small model to build decks in your design language",
@@ -410,24 +358,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://openai.com/index/heimstaden": {
-      "url": "https://openai.com/index/heimstaden",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "normalized_title": "heimstaden is changing residential real estate management with ai",
-      "content_hash": "",
-      "last_sent": 1793734813.6328633,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:heimstaden is changing residential real estate management with ai": {
-      "url": "https://openai.com/index/heimstaden",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "normalized_title": "heimstaden is changing residential real estate management with ai",
-      "content_hash": "",
-      "last_sent": 1793734813.6328633,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://openai.com/index/accelerating-engineering-for-the-physical-world": {
       "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "title": "Accelerating engineering for the physical world",
@@ -443,24 +373,6 @@
       "normalized_title": "accelerating engineering for the physical world",
       "content_hash": "",
       "last_sent": 1793822227.1366675,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights": {
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "normalized_title": "qwen 3 8 27b on my laptop can interpret model weights too",
-      "content_hash": "",
-      "last_sent": 1793734813.6328928,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:qwen 3 8 27b on my laptop can interpret model weights too": {
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "normalized_title": "qwen 3 8 27b on my laptop can interpret model weights too",
-      "content_hash": "",
-      "last_sent": 1793734813.6328928,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2638,7 +2550,7 @@
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "normalized_title": "hugging face and openrouter join forces to make open",
       "content_hash": "",
-      "last_sent": 1794867784.5992117,
+      "last_sent": 1794949789.7922626,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2647,7 +2559,7 @@
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "normalized_title": "hugging face and openrouter join forces to make open",
       "content_hash": "",
-      "last_sent": 1794867784.5992117,
+      "last_sent": 1794949789.7922626,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2656,7 +2568,7 @@
       "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
       "normalized_title": "building visual intelligence andreas blattmann dustin podell black forest labs",
       "content_hash": "",
-      "last_sent": 1794867784.5992408,
+      "last_sent": 1794949789.792341,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2665,7 +2577,7 @@
       "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
       "normalized_title": "building visual intelligence andreas blattmann dustin podell black forest labs",
       "content_hash": "",
-      "last_sent": 1794867784.5992408,
+      "last_sent": 1794949789.792341,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2755,7 +2667,7 @@
       "title": "Broadening access to AI for scientists",
       "normalized_title": "broadening access to ai for scientists",
       "content_hash": "",
-      "last_sent": 1794867784.5993557,
+      "last_sent": 1794949789.7923853,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2764,7 +2676,7 @@
       "title": "Broadening access to AI for scientists",
       "normalized_title": "broadening access to ai for scientists",
       "content_hash": "",
-      "last_sent": 1794867784.5993557,
+      "last_sent": 1794949789.7923853,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2773,7 +2685,7 @@
       "title": "Science at the Frontier: How scientists use ChatGPT",
       "normalized_title": "science at the frontier",
       "content_hash": "",
-      "last_sent": 1794867784.5993652,
+      "last_sent": 1794949789.7923946,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2782,7 +2694,7 @@
       "title": "Science at the Frontier: How scientists use ChatGPT",
       "normalized_title": "science at the frontier",
       "content_hash": "",
-      "last_sent": 1794867784.5993652,
+      "last_sent": 1794949789.7923946,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2891,6 +2803,123 @@
       "normalized_title": "nvidia dgx spark developer kit turns a desk into a supercomputing lab",
       "content_hash": "",
       "last_sent": 1794903307.5642052,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026": {
+      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026",
+      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+      "normalized_title": "perplexity hits a 1b revenue run rate up 4x in 2026",
+      "content_hash": "",
+      "last_sent": 1794949789.7922356,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:perplexity hits a 1b revenue run rate up 4x in 2026": {
+      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026",
+      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+      "normalized_title": "perplexity hits a 1b revenue run rate up 4x in 2026",
+      "content_hash": "",
+      "last_sent": 1794949789.7922356,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://devin.ai/blog/introducing-devin-bots": {
+      "url": "https://devin.ai/blog/introducing-devin-bots",
+      "title": "Introducing Devin Bots: from tasks to outcomes",
+      "normalized_title": "introducing devin bots",
+      "content_hash": "",
+      "last_sent": 1794949789.7922776,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:introducing devin bots": {
+      "url": "https://devin.ai/blog/introducing-devin-bots",
+      "title": "Introducing Devin Bots: from tasks to outcomes",
+      "normalized_title": "introducing devin bots",
+      "content_hash": "",
+      "last_sent": 1794949789.7922776,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/cloudflare": {
+      "url": "https://latent.space/p/cloudflare",
+      "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+      "normalized_title": "cloudflare joins the jevolution and labels itself a neolab",
+      "content_hash": "",
+      "last_sent": 1794949789.7922847,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:cloudflare joins the jevolution and labels itself a neolab": {
+      "url": "https://latent.space/p/cloudflare",
+      "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+      "normalized_title": "cloudflare joins the jevolution and labels itself a neolab",
+      "content_hash": "",
+      "last_sent": 1794949789.7922847,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.17610": {
+      "url": "https://huggingface.co/papers/2611.17610",
+      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "normalized_title": "more agents more samples or more thinking untangling coordination ensembling and test time compute in multi",
+      "content_hash": "",
+      "last_sent": 1794949789.792295,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:more agents more samples or more thinking untangling coordination ensembling and test time compute in multi": {
+      "url": "https://huggingface.co/papers/2611.17610",
+      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "normalized_title": "more agents more samples or more thinking untangling coordination ensembling and test time compute in multi",
+      "content_hash": "",
+      "last_sent": 1794949789.792295,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/introducing-gpt-6-2-astra-sol": {
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "normalized_title": "introducing gpt",
+      "content_hash": "",
+      "last_sent": 1794949789.7923644,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:introducing gpt": {
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "normalized_title": "introducing gpt",
+      "content_hash": "",
+      "last_sent": 1794949789.7923644,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/introducing-openai-for-chile": {
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "title": "Introducing OpenAI for Chile",
+      "normalized_title": "introducing openai for chile",
+      "content_hash": "",
+      "last_sent": 1794949789.7923768,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:introducing openai for chile": {
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "title": "Introducing OpenAI for Chile",
+      "normalized_title": "introducing openai for chile",
+      "content_hash": "",
+      "last_sent": 1794949789.7923768,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/15/datasette-maplibre": {
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre",
+      "title": "datasette-maplibre 0.1a0",
+      "normalized_title": "datasette",
+      "content_hash": "",
+      "last_sent": 1794949789.792403,
       "digest_type": "morning",
       "score": 0.0
     }
