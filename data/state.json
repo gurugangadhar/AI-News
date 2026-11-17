@@ -6,12 +6,9 @@
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1794032417.647361,
     "https://openai.com/index/lifeval": 1793734813.632844,
     "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora": 1793774860.245866,
-    "https://huggingface.co/papers/2611.01484": 1793689463.6893623,
     "https://simonwillison.net/2026/Nov/2/llm": 1793774860.245892,
     "https://simonwillison.net/2026/Nov/3/october-newsletter": 1793774860.2459023,
     "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of": 1793774860.2459426,
-    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": 1793689463.6894343,
-    "https://openai.com/index/scaling-git-at-openai": 1793689463.6894717,
     "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": 1793774860.2459996,
     "https://huggingface.co/blog/cwe-bench": 1793734813.6327865,
     "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora": 1793734813.632814,
@@ -138,7 +135,7 @@
     "https://huggingface.co/papers/2611.18130": 1794812167.1285558,
     "https://huggingface.co/papers/2611.16378": 1794812167.1285775,
     "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup": 1794812167.128607,
-    "https://simonwillison.net/2026/Nov/15/datasette": 1794812167.1286266,
+    "https://simonwillison.net/2026/Nov/15/datasette": 1794903307.5641618,
     "https://simonwillison.net/2026/Nov/15/datasette-2": 1794812167.1286383,
     "https://openai.com/index/step-toward-defining-the-standard-model": 1794812167.128652,
     "https://openai.com/index/our-new-blog-for-science": 1794812167.1286662,
@@ -150,7 +147,13 @@
     "https://blogs.nvidia.com/blog/lambda-photonics": 1794867784.5993145,
     "https://openai.com/index/strengthening-online-child-safety": 1794867784.599328,
     "https://openai.com/index/expanding-chatgpt-for-academic-researchers": 1794867784.5993605,
-    "https://openai.com/index/science-at-the-frontier": 1794867784.59937
+    "https://openai.com/index/science-at-the-frontier": 1794867784.59937,
+    "https://huggingface.co/papers/2611.21218": 1794903307.564151,
+    "https://simonwillison.net/2026/Nov/17/go-proverbs": 1794903307.5641706,
+    "https://simonwillison.net/2026/Nov/16/llm": 1794903307.5641766,
+    "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai": 1794903307.564184,
+    "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain": 1794903307.5641992,
+    "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26": 1794903307.5642097
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -263,24 +266,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/papers/2611.01484": {
-      "url": "https://huggingface.co/papers/2611.01484",
-      "title": "CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents (6 upvotes)",
-      "normalized_title": "crossswe benchmarking cross",
-      "content_hash": "",
-      "last_sent": 1793689463.6893535,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:crossswe benchmarking cross": {
-      "url": "https://huggingface.co/papers/2611.01484",
-      "title": "CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents (6 upvotes)",
-      "normalized_title": "crossswe benchmarking cross",
-      "content_hash": "",
-      "last_sent": 1793689463.6893535,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Nov/2/llm": {
       "url": "https://simonwillison.net/2026/Nov/2/llm",
       "title": "llm 0.37",
@@ -332,42 +317,6 @@
       "normalized_title": "llms can read write neural network weights weight space programming cuts autoresearch out of the rsi loop",
       "content_hash": "",
       "last_sent": 1793774860.2459304,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": {
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "normalized_title": "rewarding defenders with bigger bug bounties",
-      "content_hash": "",
-      "last_sent": 1793689463.6894286,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:rewarding defenders with bigger bug bounties": {
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "normalized_title": "rewarding defenders with bigger bug bounties",
-      "content_hash": "",
-      "last_sent": 1793689463.6894286,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/scaling-git-at-openai": {
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "title": "Scaling Git at OpenAI",
-      "normalized_title": "scaling git at openai",
-      "content_hash": "",
-      "last_sent": 1793689463.689465,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:scaling git at openai": {
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "title": "Scaling Git at OpenAI",
-      "normalized_title": "scaling git at openai",
-      "content_hash": "",
-      "last_sent": 1793689463.689465,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2617,7 +2566,7 @@
       "title": "datasette 1.0a43",
       "normalized_title": "datasette 1 0a43",
       "content_hash": "",
-      "last_sent": 1794812167.1286209,
+      "last_sent": 1794903307.564156,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2626,7 +2575,7 @@
       "title": "datasette 1.0a43",
       "normalized_title": "datasette 1 0a43",
       "content_hash": "",
-      "last_sent": 1794812167.1286209,
+      "last_sent": 1794903307.564156,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2834,6 +2783,114 @@
       "normalized_title": "science at the frontier",
       "content_hash": "",
       "last_sent": 1794867784.5993652,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.21218": {
+      "url": "https://huggingface.co/papers/2611.21218",
+      "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare (13 upvotes)",
+      "normalized_title": "inclusionmed",
+      "content_hash": "",
+      "last_sent": 1794903307.564131,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:inclusionmed": {
+      "url": "https://huggingface.co/papers/2611.21218",
+      "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare (13 upvotes)",
+      "normalized_title": "inclusionmed",
+      "content_hash": "",
+      "last_sent": 1794903307.564131,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/17/go-proverbs": {
+      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs",
+      "title": "Quoting Go Proverbs",
+      "normalized_title": "quoting go proverbs",
+      "content_hash": "",
+      "last_sent": 1794903307.5641673,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quoting go proverbs": {
+      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs",
+      "title": "Quoting Go Proverbs",
+      "normalized_title": "quoting go proverbs",
+      "content_hash": "",
+      "last_sent": 1794903307.5641673,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/16/llm": {
+      "url": "https://simonwillison.net/2026/Nov/16/llm",
+      "title": "llm 0.37.3",
+      "normalized_title": "llm 0 37 3",
+      "content_hash": "",
+      "last_sent": 1794903307.5641732,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:llm 0 37 3": {
+      "url": "https://simonwillison.net/2026/Nov/16/llm",
+      "title": "llm 0.37.3",
+      "normalized_title": "llm 0 37 3",
+      "content_hash": "",
+      "last_sent": 1794903307.5641732,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai": {
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "normalized_title": "strengthening nato and allied cyber defenses with ai",
+      "content_hash": "",
+      "last_sent": 1794903307.5641794,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:strengthening nato and allied cyber defenses with ai": {
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "normalized_title": "strengthening nato and allied cyber defenses with ai",
+      "content_hash": "",
+      "last_sent": 1794903307.5641794,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain": {
+      "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "normalized_title": "how the world s most advanced ai infrastructure supply chain invents the future",
+      "content_hash": "",
+      "last_sent": 1794903307.5641887,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how the world s most advanced ai infrastructure supply chain invents the future": {
+      "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "normalized_title": "how the world s most advanced ai infrastructure supply chain invents the future",
+      "content_hash": "",
+      "last_sent": 1794903307.5641887,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26": {
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26",
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "normalized_title": "nvidia dgx spark developer kit turns a desk into a supercomputing lab",
+      "content_hash": "",
+      "last_sent": 1794903307.5642052,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:nvidia dgx spark developer kit turns a desk into a supercomputing lab": {
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26",
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "normalized_title": "nvidia dgx spark developer kit turns a desk into a supercomputing lab",
+      "content_hash": "",
+      "last_sent": 1794903307.5642052,
       "digest_type": "morning",
       "score": 0.0
     }
