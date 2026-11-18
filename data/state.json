@@ -4,17 +4,9 @@
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794769287.539631,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1794032417.647361,
-    "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora": 1793774860.245866,
-    "https://simonwillison.net/2026/Nov/2/llm": 1793774860.245892,
-    "https://simonwillison.net/2026/Nov/3/october-newsletter": 1793774860.2459023,
-    "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of": 1793774860.2459426,
-    "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": 1793774860.2459996,
     "https://huggingface.co/blog/ibm-research/palette-deck-building": 1793822227.1366277,
     "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity": 1793822227.1366472,
     "https://openai.com/index/accelerating-engineering-for-the-physical-world": 1793822227.1366713,
-    "https://huggingface.co/papers/2611.05255": 1793774860.245883,
-    "https://huggingface.co/papers/2611.02017": 1793774860.24592,
-    "https://openai.com/index/cisco-cyber": 1793774860.2459588,
     "https://blogs.nvidia.com/blog/ai-semiconductor-fabs": 1793862544.9381647,
     "https://devblogs.microsoft.com/agent-framework/give-your-coding-agent-a-head-start-with-microsoft-agent-framework-skills-for-net-and-python": 1793909413.913005,
     "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas": 1793909413.913038,
@@ -144,9 +136,9 @@
     "https://openai.com/index/expanding-chatgpt-for-academic-researchers": 1794949789.7923903,
     "https://openai.com/index/science-at-the-frontier": 1794949789.792399,
     "https://huggingface.co/papers/2611.21218": 1794903307.564151,
-    "https://simonwillison.net/2026/Nov/17/go-proverbs": 1794903307.5641706,
+    "https://simonwillison.net/2026/Nov/17/go-proverbs": 1794988056.1827726,
     "https://simonwillison.net/2026/Nov/16/llm": 1794903307.5641766,
-    "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai": 1794903307.564184,
+    "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai": 1794988056.1827888,
     "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain": 1794903307.5641992,
     "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26": 1794903307.5642097,
     "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026": 1794949789.7922542,
@@ -155,7 +147,13 @@
     "https://huggingface.co/papers/2611.17610": 1794949789.7923262,
     "https://openai.com/index/introducing-gpt-6-2-astra-sol": 1794949789.7923677,
     "https://openai.com/index/introducing-openai-for-chile": 1794949789.7923815,
-    "https://simonwillison.net/2026/Nov/15/datasette-maplibre": 1794949789.7924056
+    "https://simonwillison.net/2026/Nov/15/datasette-maplibre": 1794949789.7924056,
+    "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents": 1794988056.1827333,
+    "https://huggingface.co/papers/2611.21152": 1794988056.182748,
+    "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol": 1794988056.1827638,
+    "https://openai.com/index/introducing-chatgpt-for-sales": 1794988056.1827798,
+    "https://blogs.nvidia.com/blog/ian-buck-sc26": 1794988056.1827998,
+    "https://simonwillison.net/2026/Nov/17/datasette-lite": 1794988056.1828141
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -232,96 +230,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora": {
-      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora",
-      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-      "normalized_title": "building ai for lawyers jacob lauritzen cto of legora",
-      "content_hash": "",
-      "last_sent": 1793774860.2458422,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:building ai for lawyers jacob lauritzen cto of legora": {
-      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora",
-      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-      "normalized_title": "building ai for lawyers jacob lauritzen cto of legora",
-      "content_hash": "",
-      "last_sent": 1793774860.2458422,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/2/llm": {
-      "url": "https://simonwillison.net/2026/Nov/2/llm",
-      "title": "llm 0.37",
-      "normalized_title": "llm 0 37",
-      "content_hash": "",
-      "last_sent": 1793774860.2458875,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:llm 0 37": {
-      "url": "https://simonwillison.net/2026/Nov/2/llm",
-      "title": "llm 0.37",
-      "normalized_title": "llm 0 37",
-      "content_hash": "",
-      "last_sent": 1793774860.2458875,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/3/october-newsletter": {
-      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter",
-      "title": "October sponsors-only newsletter",
-      "normalized_title": "october sponsors",
-      "content_hash": "",
-      "last_sent": 1793774860.2458978,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:october sponsors": {
-      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter",
-      "title": "October sponsors-only newsletter",
-      "normalized_title": "october sponsors",
-      "content_hash": "",
-      "last_sent": 1793774860.2458978,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of": {
-      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of",
-      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-      "normalized_title": "llms can read write neural network weights weight space programming cuts autoresearch out of the rsi loop",
-      "content_hash": "",
-      "last_sent": 1793774860.2459304,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:llms can read write neural network weights weight space programming cuts autoresearch out of the rsi loop": {
-      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of",
-      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-      "normalized_title": "llms can read write neural network weights weight space programming cuts autoresearch out of the rsi loop",
-      "content_hash": "",
-      "last_sent": 1793774860.2459304,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": {
-      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location",
-      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-      "normalized_title": "i discovered a sound that leaks your exact location",
-      "content_hash": "",
-      "last_sent": 1793774860.2459915,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:i discovered a sound that leaks your exact location": {
-      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location",
-      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-      "normalized_title": "i discovered a sound that leaks your exact location",
-      "content_hash": "",
-      "last_sent": 1793774860.2459915,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://huggingface.co/blog/ibm-research/palette-deck-building": {
       "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
       "title": "Palette: teaching a small model to build decks in your design language",
@@ -374,60 +282,6 @@
       "content_hash": "",
       "last_sent": 1793822227.1366675,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2611.05255": {
-      "url": "https://huggingface.co/papers/2611.05255",
-      "title": "Going Deeper With Memories",
-      "normalized_title": "going deeper with memories",
-      "content_hash": "",
-      "last_sent": 1793774860.245878,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:going deeper with memories": {
-      "url": "https://huggingface.co/papers/2611.05255",
-      "title": "Going Deeper With Memories",
-      "normalized_title": "going deeper with memories",
-      "content_hash": "",
-      "last_sent": 1793774860.245878,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2611.02017": {
-      "url": "https://huggingface.co/papers/2611.02017",
-      "title": "Switch-SWE: Do Coding Agents Hold Focus When Switching Between Unfinished Tasks? (1 upvotes)",
-      "normalized_title": "switch swe do coding agents hold focus when switching between unfinished tasks",
-      "content_hash": "",
-      "last_sent": 1793774860.2459085,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:switch swe do coding agents hold focus when switching between unfinished tasks": {
-      "url": "https://huggingface.co/papers/2611.02017",
-      "title": "Switch-SWE: Do Coding Agents Hold Focus When Switching Between Unfinished Tasks? (1 upvotes)",
-      "normalized_title": "switch swe do coding agents hold focus when switching between unfinished tasks",
-      "content_hash": "",
-      "last_sent": 1793774860.2459085,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/cisco-cyber": {
-      "url": "https://openai.com/index/cisco-cyber",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "normalized_title": "how cisco defends at machine speed with openai",
-      "content_hash": "",
-      "last_sent": 1793774860.245953,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:how cisco defends at machine speed with openai": {
-      "url": "https://openai.com/index/cisco-cyber",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "normalized_title": "how cisco defends at machine speed with openai",
-      "content_hash": "",
-      "last_sent": 1793774860.245953,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://blogs.nvidia.com/blog/ai-semiconductor-fabs": {
@@ -2721,7 +2575,7 @@
       "title": "Quoting Go Proverbs",
       "normalized_title": "quoting go proverbs",
       "content_hash": "",
-      "last_sent": 1794903307.5641673,
+      "last_sent": 1794988056.1827676,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2730,7 +2584,7 @@
       "title": "Quoting Go Proverbs",
       "normalized_title": "quoting go proverbs",
       "content_hash": "",
-      "last_sent": 1794903307.5641673,
+      "last_sent": 1794988056.1827676,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2757,7 +2611,7 @@
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "normalized_title": "strengthening nato and allied cyber defenses with ai",
       "content_hash": "",
-      "last_sent": 1794903307.5641794,
+      "last_sent": 1794988056.1827831,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2766,7 +2620,7 @@
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "normalized_title": "strengthening nato and allied cyber defenses with ai",
       "content_hash": "",
-      "last_sent": 1794903307.5641794,
+      "last_sent": 1794988056.1827831,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2920,6 +2774,114 @@
       "normalized_title": "datasette",
       "content_hash": "",
       "last_sent": 1794949789.792403,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents": {
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents",
+      "title": "External sandboxes for coding agents",
+      "normalized_title": "external sandboxes for coding agents",
+      "content_hash": "",
+      "last_sent": 1794988056.1827135,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:external sandboxes for coding agents": {
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents",
+      "title": "External sandboxes for coding agents",
+      "normalized_title": "external sandboxes for coding agents",
+      "content_hash": "",
+      "last_sent": 1794988056.1827135,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.21152": {
+      "url": "https://huggingface.co/papers/2611.21152",
+      "title": "From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop (1 upvotes)",
+      "normalized_title": "from repositories to training environments scaling long",
+      "content_hash": "",
+      "last_sent": 1794988056.182739,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:from repositories to training environments scaling long": {
+      "url": "https://huggingface.co/papers/2611.21152",
+      "title": "From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop (1 upvotes)",
+      "normalized_title": "from repositories to training environments scaling long",
+      "content_hash": "",
+      "last_sent": 1794988056.182739,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol": {
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol",
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "normalized_title": "gpt 6 2 astra and gpt 6 2 sol",
+      "content_hash": "",
+      "last_sent": 1794988056.1827543,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:gpt 6 2 astra and gpt 6 2 sol": {
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol",
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "normalized_title": "gpt 6 2 astra and gpt 6 2 sol",
+      "content_hash": "",
+      "last_sent": 1794988056.1827543,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/introducing-chatgpt-for-sales": {
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "title": "Introducing ChatGPT for Sales",
+      "normalized_title": "introducing chatgpt for sales",
+      "content_hash": "",
+      "last_sent": 1794988056.1827772,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:introducing chatgpt for sales": {
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "title": "Introducing ChatGPT for Sales",
+      "normalized_title": "introducing chatgpt for sales",
+      "content_hash": "",
+      "last_sent": 1794988056.1827772,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/ian-buck-sc26": {
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26",
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "normalized_title": "ian buck kicks off nvidia s week at sc26 as science enters the age of agents",
+      "content_hash": "",
+      "last_sent": 1794988056.1827934,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:ian buck kicks off nvidia s week at sc26 as science enters the age of agents": {
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26",
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "normalized_title": "ian buck kicks off nvidia s week at sc26 as science enters the age of agents",
+      "content_hash": "",
+      "last_sent": 1794988056.1827934,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/17/datasette-lite": {
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "normalized_title": "running the full server",
+      "content_hash": "",
+      "last_sent": 1794988056.1828098,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:running the full server": {
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "normalized_title": "running the full server",
+      "content_hash": "",
+      "last_sent": 1794988056.1828098,
       "digest_type": "morning",
       "score": 0.0
     }
