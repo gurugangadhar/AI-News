@@ -5,8 +5,6 @@
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795160175.2490861,
     "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation": 1794073826.5050051,
-    "https://devin.ai/blog/devin-review-2": 1793993700.5632272,
-    "https://simonwillison.net/2026/Nov/5/paul-ford": 1793993700.5632782,
     "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips": 1794032417.6473997,
     "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark": 1794073826.5049872,
     "https://huggingface.co/blog/allenai/toyblocks": 1794073826.5050151,
@@ -147,13 +145,19 @@
     "https://openai.com/index/the-silent-consensus": 1795074257.3126316,
     "https://openai.com/business/customer-stories/sumitomo-life": 1795074257.3126452,
     "https://simonwillison.net/2026/Nov/18/datasette-arrows": 1795160175.2491827,
-    "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs": 1795121535.3239958,
-    "https://devin.ai/blog/devin-for-databricks-migrations": 1795121535.3240051,
-    "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender": 1795121535.3240144,
+    "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs": 1795206920.7543316,
+    "https://devin.ai/blog/devin-for-databricks-migrations": 1795206920.754348,
+    "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender": 1795206920.754363,
     "https://huggingface.co/papers/2611.26444": 1795160175.249104,
     "https://huggingface.co/papers/2611.00911": 1795160175.2491202,
     "https://openai.com/business/learn/deploying-daybreak-red": 1795160175.24913,
-    "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad": 1795160175.2491617
+    "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad": 1795160175.2491617,
+    "https://huggingface.co/blog/inkling2mini": 1795206920.7542999,
+    "https://openai.com/index/combatting-adversarial-distillation": 1795206920.754319,
+    "https://huggingface.co/blog/harness-adapters-at-scale": 1795206920.7543755,
+    "https://openai.com/index/introducing-medchembench": 1795206920.7543862,
+    "https://simonwillison.net/2026/Nov/20/ravi-vakil": 1795206920.754404,
+    "https://simonwillison.net/2026/Nov/20/levent-alpoge": 1795206920.7544143
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -245,42 +249,6 @@
       "normalized_title": "new nvidia cosmos 3 open models for interactive world simulation",
       "content_hash": "",
       "last_sent": 1794073826.5049987,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://devin.ai/blog/devin-review-2": {
-      "url": "https://devin.ai/blog/devin-review-2",
-      "title": "Devin Review 2.0",
-      "normalized_title": "devin review 2 0",
-      "content_hash": "",
-      "last_sent": 1793993700.5632217,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:devin review 2 0": {
-      "url": "https://devin.ai/blog/devin-review-2",
-      "title": "Devin Review 2.0",
-      "normalized_title": "devin review 2 0",
-      "content_hash": "",
-      "last_sent": 1793993700.5632217,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/5/paul-ford": {
-      "url": "https://simonwillison.net/2026/Nov/5/paul-ford",
-      "title": "Quoting Paul Ford",
-      "normalized_title": "quoting paul ford",
-      "content_hash": "",
-      "last_sent": 1793993700.5632725,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:quoting paul ford": {
-      "url": "https://simonwillison.net/2026/Nov/5/paul-ford",
-      "title": "Quoting Paul Ford",
-      "normalized_title": "quoting paul ford",
-      "content_hash": "",
-      "last_sent": 1793993700.5632725,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2755,7 +2723,7 @@
       "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
       "normalized_title": "nvidia and microsoft expand accelerated computing from azure to windows pcs",
       "content_hash": "",
-      "last_sent": 1795121535.3239913,
+      "last_sent": 1795206920.7543232,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2764,7 +2732,7 @@
       "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
       "normalized_title": "nvidia and microsoft expand accelerated computing from azure to windows pcs",
       "content_hash": "",
-      "last_sent": 1795121535.3239913,
+      "last_sent": 1795206920.7543232,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2773,7 +2741,7 @@
       "title": "Devin for Databricks Migrations: Less time migrating, more time building",
       "normalized_title": "devin for databricks migrations less time migrating more time building",
       "content_hash": "",
-      "last_sent": 1795121535.3240008,
+      "last_sent": 1795206920.7543397,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2782,7 +2750,7 @@
       "title": "Devin for Databricks Migrations: Less time migrating, more time building",
       "normalized_title": "devin for databricks migrations less time migrating more time building",
       "content_hash": "",
-      "last_sent": 1795121535.3240008,
+      "last_sent": 1795206920.7543397,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2791,7 +2759,7 @@
       "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
       "normalized_title": "gemini 4 neon gdm s opus sol contender",
       "content_hash": "",
-      "last_sent": 1795121535.3240097,
+      "last_sent": 1795206920.7543554,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2800,7 +2768,7 @@
       "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
       "normalized_title": "gemini 4 neon gdm s opus sol contender",
       "content_hash": "",
-      "last_sent": 1795121535.3240097,
+      "last_sent": 1795206920.7543554,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2874,6 +2842,114 @@
       "content_hash": "",
       "last_sent": 1795160175.2491493,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/inkling2mini": {
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "normalized_title": "welcome inkling 2 mini cutting",
+      "content_hash": "",
+      "last_sent": 1795206920.7542737,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:welcome inkling 2 mini cutting": {
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "normalized_title": "welcome inkling 2 mini cutting",
+      "content_hash": "",
+      "last_sent": 1795206920.7542737,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/combatting-adversarial-distillation": {
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
+      "normalized_title": "combatting adversarial distillation",
+      "content_hash": "",
+      "last_sent": 1795206920.754312,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:combatting adversarial distillation": {
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
+      "normalized_title": "combatting adversarial distillation",
+      "content_hash": "",
+      "last_sent": 1795206920.754312,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/harness-adapters-at-scale": {
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "normalized_title": "introducing harness adapters",
+      "content_hash": "",
+      "last_sent": 1795206920.7543695,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:introducing harness adapters": {
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "normalized_title": "introducing harness adapters",
+      "content_hash": "",
+      "last_sent": 1795206920.7543695,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/index/introducing-medchembench": {
+      "url": "https://openai.com/index/introducing-medchembench",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "normalized_title": "can ai help scientists identify promising drug candidates",
+      "content_hash": "",
+      "last_sent": 1795206920.7543802,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:can ai help scientists identify promising drug candidates": {
+      "url": "https://openai.com/index/introducing-medchembench",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "normalized_title": "can ai help scientists identify promising drug candidates",
+      "content_hash": "",
+      "last_sent": 1795206920.7543802,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/20/ravi-vakil": {
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil",
+      "title": "Quoting Ravi Vakil",
+      "normalized_title": "quoting ravi vakil",
+      "content_hash": "",
+      "last_sent": 1795206920.754399,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:quoting ravi vakil": {
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil",
+      "title": "Quoting Ravi Vakil",
+      "normalized_title": "quoting ravi vakil",
+      "content_hash": "",
+      "last_sent": 1795206920.754399,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/20/levent-alpoge": {
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge",
+      "title": "Quoting Levent Alpöge",
+      "normalized_title": "quoting levent alpöge",
+      "content_hash": "",
+      "last_sent": 1795206920.7544081,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:quoting levent alpöge": {
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge",
+      "title": "Quoting Levent Alpöge",
+      "normalized_title": "quoting levent alpöge",
+      "content_hash": "",
+      "last_sent": 1795206920.7544081,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
