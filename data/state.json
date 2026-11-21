@@ -3,19 +3,16 @@
     "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794769287.539631,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
-    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795160175.2490861,
+    "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
     "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation": 1794073826.5050051,
-    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips": 1794032417.6473997,
     "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark": 1794073826.5049872,
     "https://huggingface.co/blog/allenai/toyblocks": 1794073826.5050151,
     "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": 1794073826.5050244,
     "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks": 1794073826.505044,
     "https://simonwillison.net/2026/Nov/6/nilay-patel": 1794073826.5050335,
-    "https://anthropic.com/research/components-of-agent-memory": 1794032417.6473079,
     "https://huggingface.co/papers/2611.06498": 1794119108.5848207,
     "https://latent.space/p/ainews-anthropic-ipo-whither-now": 1794119108.584844,
     "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich": 1794119108.5849023,
-    "https://huggingface.co/blog/open-asr-leaderboard-liva": 1794032417.6474204,
     "https://openai.com/index/partnering-with-hacktron": 1794119108.5849206,
     "https://simonwillison.net/2026/Nov/7/link-rel-next": 1794207462.0034919,
     "https://huggingface.co/papers/2611.06500": 1794119108.584889,
@@ -151,13 +148,20 @@
     "https://huggingface.co/papers/2611.26444": 1795160175.249104,
     "https://huggingface.co/papers/2611.00911": 1795160175.2491202,
     "https://openai.com/business/learn/deploying-daybreak-red": 1795160175.24913,
-    "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad": 1795160175.2491617,
+    "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad": 1795246227.5385394,
     "https://huggingface.co/blog/inkling2mini": 1795206920.7542999,
     "https://openai.com/index/combatting-adversarial-distillation": 1795206920.754319,
     "https://huggingface.co/blog/harness-adapters-at-scale": 1795206920.7543755,
     "https://openai.com/index/introducing-medchembench": 1795206920.7543862,
     "https://simonwillison.net/2026/Nov/20/ravi-vakil": 1795206920.754404,
-    "https://simonwillison.net/2026/Nov/20/levent-alpoge": 1795206920.7544143
+    "https://simonwillison.net/2026/Nov/20/levent-alpoge": 1795206920.7544143,
+    "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently": 1795246227.5384858,
+    "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini": 1795246227.5385118,
+    "https://huggingface.co/papers/2611.26239": 1795246227.538522,
+    "https://latent.space/p/formal-verification": 1795246227.5385513,
+    "https://openai.com/business/customer-stories/hebbia": 1795246227.5385616,
+    "https://anthropic.com/news/ipo-close": 1795246227.5385873,
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026": 1795246227.5386062
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -212,7 +216,7 @@
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "normalized_title": "into the omniverse",
       "content_hash": "",
-      "last_sent": 1795160175.2490797,
+      "last_sent": 1795246227.5384939,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -221,7 +225,7 @@
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "normalized_title": "into the omniverse",
       "content_hash": "",
-      "last_sent": 1795160175.2490797,
+      "last_sent": 1795246227.5384939,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -250,24 +254,6 @@
       "content_hash": "",
       "last_sent": 1794073826.5049987,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips": {
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "normalized_title": "gemini omni 1 2 flash fast and cost",
-      "content_hash": "",
-      "last_sent": 1794032417.6473925,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:gemini omni 1 2 flash fast and cost": {
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "normalized_title": "gemini omni 1 2 flash fast and cost",
-      "content_hash": "",
-      "last_sent": 1794032417.6473925,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark": {
@@ -360,24 +346,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://anthropic.com/research/components-of-agent-memory": {
-      "url": "https://anthropic.com/research/components-of-agent-memory",
-      "title": "The components of agent memory",
-      "normalized_title": "the components of agent memory",
-      "content_hash": "",
-      "last_sent": 1794032417.6472847,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:the components of agent memory": {
-      "url": "https://anthropic.com/research/components-of-agent-memory",
-      "title": "The components of agent memory",
-      "normalized_title": "the components of agent memory",
-      "content_hash": "",
-      "last_sent": 1794032417.6472847,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://huggingface.co/papers/2611.06498": {
       "url": "https://huggingface.co/papers/2611.06498",
       "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation (4 upvotes)",
@@ -429,24 +397,6 @@
       "normalized_title": "controlling biology fabian theis helmholtz munich",
       "content_hash": "",
       "last_sent": 1794119108.5848951,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/open-asr-leaderboard-liva": {
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "normalized_title": "egyptian and nigerian english join the open asr leaderboard",
-      "content_hash": "",
-      "last_sent": 1794032417.6474133,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:egyptian and nigerian english join the open asr leaderboard": {
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "normalized_title": "egyptian and nigerian english join the open asr leaderboard",
-      "content_hash": "",
-      "last_sent": 1794032417.6474133,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2831,7 +2781,7 @@
       "title": "Token fraud is here and it’s BAD (YouTube)",
       "normalized_title": "token fraud is here and it s bad",
       "content_hash": "",
-      "last_sent": 1795160175.2491493,
+      "last_sent": 1795246227.5385268,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2840,7 +2790,7 @@
       "title": "Token fraud is here and it’s BAD (YouTube)",
       "normalized_title": "token fraud is here and it s bad",
       "content_hash": "",
-      "last_sent": 1795160175.2491493,
+      "last_sent": 1795246227.5385268,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2950,6 +2900,132 @@
       "content_hash": "",
       "last_sent": 1795206920.7544081,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently": {
+      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently",
+      "title": "[AINews] Riemann Hypothesis proved...twice independently",
+      "normalized_title": "riemann hypothesis proved twice independently",
+      "content_hash": "",
+      "last_sent": 1795246227.538466,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:riemann hypothesis proved twice independently": {
+      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently",
+      "title": "[AINews] Riemann Hypothesis proved...twice independently",
+      "normalized_title": "riemann hypothesis proved twice independently",
+      "content_hash": "",
+      "last_sent": 1795246227.538466,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini": {
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "normalized_title": "how google duplex evolved to also call businesses for you in gemini",
+      "content_hash": "",
+      "last_sent": 1795246227.5385063,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how google duplex evolved to also call businesses for you in gemini": {
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "normalized_title": "how google duplex evolved to also call businesses for you in gemini",
+      "content_hash": "",
+      "last_sent": 1795246227.5385063,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.26239": {
+      "url": "https://huggingface.co/papers/2611.26239",
+      "title": "Teaching Vision-Language-Action Models to Stop Safely (3 upvotes)",
+      "normalized_title": "teaching vision language",
+      "content_hash": "",
+      "last_sent": 1795246227.5385172,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:teaching vision language": {
+      "url": "https://huggingface.co/papers/2611.26239",
+      "title": "Teaching Vision-Language-Action Models to Stop Safely (3 upvotes)",
+      "normalized_title": "teaching vision language",
+      "content_hash": "",
+      "last_sent": 1795246227.5385172,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/formal-verification": {
+      "url": "https://latent.space/p/formal-verification",
+      "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "normalized_title": "the war against slop and an emerging weapon to fight it",
+      "content_hash": "",
+      "last_sent": 1795246227.5385458,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:the war against slop and an emerging weapon to fight it": {
+      "url": "https://latent.space/p/formal-verification",
+      "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "normalized_title": "the war against slop and an emerging weapon to fight it",
+      "content_hash": "",
+      "last_sent": 1795246227.5385458,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/business/customer-stories/hebbia": {
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "normalized_title": "hebbia sees improvements in financial research with gpt",
+      "content_hash": "",
+      "last_sent": 1795246227.5385566,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:hebbia sees improvements in financial research with gpt": {
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "normalized_title": "hebbia sees improvements in financial research with gpt",
+      "content_hash": "",
+      "last_sent": 1795246227.5385566,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://anthropic.com/news/ipo-close": {
+      "url": "https://anthropic.com/news/ipo-close",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "normalized_title": "anthropic announces closing of initial public offering including full exercise of underwriters option to purchase additional shares and closing of concurrent private placement",
+      "content_hash": "",
+      "last_sent": 1795246227.5385728,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:anthropic announces closing of initial public offering including full exercise of underwriters option to purchase additional shares and closing of concurrent private placement": {
+      "url": "https://anthropic.com/news/ipo-close",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "normalized_title": "anthropic announces closing of initial public offering including full exercise of underwriters option to purchase additional shares and closing of concurrent private placement",
+      "content_hash": "",
+      "last_sent": 1795246227.5385728,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026": {
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026",
+      "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+      "normalized_title": "season s streamings and savings",
+      "content_hash": "",
+      "last_sent": 1795246227.5386004,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:season s streamings and savings": {
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026",
+      "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+      "normalized_title": "season s streamings and savings",
+      "content_hash": "",
+      "last_sent": 1795246227.5386004,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
