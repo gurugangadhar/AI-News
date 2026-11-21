@@ -4,12 +4,6 @@
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1794769287.539631,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
-    "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation": 1794073826.5050051,
-    "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark": 1794073826.5049872,
-    "https://huggingface.co/blog/allenai/toyblocks": 1794073826.5050151,
-    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": 1794073826.5050244,
-    "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks": 1794073826.505044,
-    "https://simonwillison.net/2026/Nov/6/nilay-patel": 1794073826.5050335,
     "https://huggingface.co/papers/2611.06498": 1794119108.5848207,
     "https://latent.space/p/ainews-anthropic-ipo-whither-now": 1794119108.584844,
     "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich": 1794119108.5849023,
@@ -142,26 +136,28 @@
     "https://openai.com/index/the-silent-consensus": 1795074257.3126316,
     "https://openai.com/business/customer-stories/sumitomo-life": 1795074257.3126452,
     "https://simonwillison.net/2026/Nov/18/datasette-arrows": 1795160175.2491827,
-    "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs": 1795206920.7543316,
+    "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs": 1795289569.8462462,
     "https://devin.ai/blog/devin-for-databricks-migrations": 1795206920.754348,
     "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender": 1795206920.754363,
     "https://huggingface.co/papers/2611.26444": 1795160175.249104,
     "https://huggingface.co/papers/2611.00911": 1795160175.2491202,
     "https://openai.com/business/learn/deploying-daybreak-red": 1795160175.24913,
     "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad": 1795246227.5385394,
-    "https://huggingface.co/blog/inkling2mini": 1795206920.7542999,
-    "https://openai.com/index/combatting-adversarial-distillation": 1795206920.754319,
-    "https://huggingface.co/blog/harness-adapters-at-scale": 1795206920.7543755,
-    "https://openai.com/index/introducing-medchembench": 1795206920.7543862,
-    "https://simonwillison.net/2026/Nov/20/ravi-vakil": 1795206920.754404,
-    "https://simonwillison.net/2026/Nov/20/levent-alpoge": 1795206920.7544143,
+    "https://huggingface.co/blog/inkling2mini": 1795289569.8462229,
+    "https://openai.com/index/combatting-adversarial-distillation": 1795289569.8462358,
+    "https://huggingface.co/blog/harness-adapters-at-scale": 1795289569.8462682,
+    "https://openai.com/index/introducing-medchembench": 1795289569.8462572,
+    "https://simonwillison.net/2026/Nov/20/ravi-vakil": 1795289569.8462908,
+    "https://simonwillison.net/2026/Nov/20/levent-alpoge": 1795289569.8463068,
     "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently": 1795246227.5384858,
     "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini": 1795246227.5385118,
     "https://huggingface.co/papers/2611.26239": 1795246227.538522,
     "https://latent.space/p/formal-verification": 1795246227.5385513,
     "https://openai.com/business/customer-stories/hebbia": 1795246227.5385616,
     "https://anthropic.com/news/ipo-close": 1795246227.5385873,
-    "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026": 1795246227.5386062
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026": 1795246227.5386062,
+    "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t": 1795289569.8462813,
+    "https://simonwillison.net/2026/Nov/20/llm-gemini": 1795289569.8463142
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -236,114 +232,6 @@
       "content_hash": "",
       "last_sent": 1795160175.249179,
       "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation": {
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "normalized_title": "new nvidia cosmos 3 open models for interactive world simulation",
-      "content_hash": "",
-      "last_sent": 1794073826.5049987,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:new nvidia cosmos 3 open models for interactive world simulation": {
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "normalized_title": "new nvidia cosmos 3 open models for interactive world simulation",
-      "content_hash": "",
-      "last_sent": 1794073826.5049987,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark": {
-      "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark",
-      "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
-      "normalized_title": "inkling 2 small 17a 594b trained in 68 hours on 12t tokens beating muse spark",
-      "content_hash": "",
-      "last_sent": 1794073826.5049613,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:inkling 2 small 17a 594b trained in 68 hours on 12t tokens beating muse spark": {
-      "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark",
-      "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
-      "normalized_title": "inkling 2 small 17a 594b trained in 68 hours on 12t tokens beating muse spark",
-      "content_hash": "",
-      "last_sent": 1794073826.5049613,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/allenai/toyblocks": {
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "normalized_title": "toyblocks",
-      "content_hash": "",
-      "last_sent": 1794073826.505011,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:toyblocks": {
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "normalized_title": "toyblocks",
-      "content_hash": "",
-      "last_sent": 1794073826.505011,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "normalized_title": "measuring how ai agents handle everyday wet",
-      "content_hash": "",
-      "last_sent": 1794073826.50502,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:measuring how ai agents handle everyday wet": {
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "normalized_title": "measuring how ai agents handle everyday wet",
-      "content_hash": "",
-      "last_sent": 1794073826.50502,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks": {
-      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
-      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-      "normalized_title": "how nvidia open source tools are helping researchers build next",
-      "content_hash": "",
-      "last_sent": 1794073826.505038,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:how nvidia open source tools are helping researchers build next": {
-      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
-      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-      "normalized_title": "how nvidia open source tools are helping researchers build next",
-      "content_hash": "",
-      "last_sent": 1794073826.505038,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/6/nilay-patel": {
-      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel",
-      "title": "Quoting Nilay Patel",
-      "normalized_title": "quoting nilay patel",
-      "content_hash": "",
-      "last_sent": 1794073826.50503,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:quoting nilay patel": {
-      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel",
-      "title": "Quoting Nilay Patel",
-      "normalized_title": "quoting nilay patel",
-      "content_hash": "",
-      "last_sent": 1794073826.50503,
-      "digest_type": "evening",
       "score": 0.0
     },
     "https://huggingface.co/papers/2611.06498": {
@@ -806,12 +694,12 @@
       "score": 0.0
     },
     "title:llm": {
-      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini",
-      "title": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini",
+      "title": "llm-gemini 0.38.1",
       "normalized_title": "llm",
       "content_hash": "",
-      "last_sent": 1795160175.2491696,
-      "digest_type": "morning",
+      "last_sent": 1795289569.846311,
+      "digest_type": "evening",
       "score": 0.0
     },
     "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins": {
@@ -2673,7 +2561,7 @@
       "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
       "normalized_title": "nvidia and microsoft expand accelerated computing from azure to windows pcs",
       "content_hash": "",
-      "last_sent": 1795206920.7543232,
+      "last_sent": 1795289569.8462403,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2682,7 +2570,7 @@
       "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
       "normalized_title": "nvidia and microsoft expand accelerated computing from azure to windows pcs",
       "content_hash": "",
-      "last_sent": 1795206920.7543232,
+      "last_sent": 1795289569.8462403,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2799,7 +2687,7 @@
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "normalized_title": "welcome inkling 2 mini cutting",
       "content_hash": "",
-      "last_sent": 1795206920.7542737,
+      "last_sent": 1795289569.8461964,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2808,7 +2696,7 @@
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "normalized_title": "welcome inkling 2 mini cutting",
       "content_hash": "",
-      "last_sent": 1795206920.7542737,
+      "last_sent": 1795289569.8461964,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2817,7 +2705,7 @@
       "title": "Combatting adversarial distillation",
       "normalized_title": "combatting adversarial distillation",
       "content_hash": "",
-      "last_sent": 1795206920.754312,
+      "last_sent": 1795289569.8462315,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2826,7 +2714,7 @@
       "title": "Combatting adversarial distillation",
       "normalized_title": "combatting adversarial distillation",
       "content_hash": "",
-      "last_sent": 1795206920.754312,
+      "last_sent": 1795289569.8462315,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2835,7 +2723,7 @@
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
       "normalized_title": "introducing harness adapters",
       "content_hash": "",
-      "last_sent": 1795206920.7543695,
+      "last_sent": 1795289569.8462627,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2844,7 +2732,7 @@
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
       "normalized_title": "introducing harness adapters",
       "content_hash": "",
-      "last_sent": 1795206920.7543695,
+      "last_sent": 1795289569.8462627,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2853,7 +2741,7 @@
       "title": "Can AI help scientists identify promising drug candidates?",
       "normalized_title": "can ai help scientists identify promising drug candidates",
       "content_hash": "",
-      "last_sent": 1795206920.7543802,
+      "last_sent": 1795289569.846252,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2862,7 +2750,7 @@
       "title": "Can AI help scientists identify promising drug candidates?",
       "normalized_title": "can ai help scientists identify promising drug candidates",
       "content_hash": "",
-      "last_sent": 1795206920.7543802,
+      "last_sent": 1795289569.846252,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2871,7 +2759,7 @@
       "title": "Quoting Ravi Vakil",
       "normalized_title": "quoting ravi vakil",
       "content_hash": "",
-      "last_sent": 1795206920.754399,
+      "last_sent": 1795289569.8462882,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2880,7 +2768,7 @@
       "title": "Quoting Ravi Vakil",
       "normalized_title": "quoting ravi vakil",
       "content_hash": "",
-      "last_sent": 1795206920.754399,
+      "last_sent": 1795289569.8462882,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2889,7 +2777,7 @@
       "title": "Quoting Levent Alpöge",
       "normalized_title": "quoting levent alpöge",
       "content_hash": "",
-      "last_sent": 1795206920.7544081,
+      "last_sent": 1795289569.8463006,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2898,7 +2786,7 @@
       "title": "Quoting Levent Alpöge",
       "normalized_title": "quoting levent alpöge",
       "content_hash": "",
-      "last_sent": 1795206920.7544081,
+      "last_sent": 1795289569.8463006,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -3026,6 +2914,33 @@
       "content_hash": "",
       "last_sent": 1795246227.5386004,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t": {
+      "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t",
+      "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+      "normalized_title": "anthropic successfully completes largest ipo in history valued at 1 5t",
+      "content_hash": "",
+      "last_sent": 1795289569.846273,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:anthropic successfully completes largest ipo in history valued at 1 5t": {
+      "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t",
+      "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+      "normalized_title": "anthropic successfully completes largest ipo in history valued at 1 5t",
+      "content_hash": "",
+      "last_sent": 1795289569.846273,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/20/llm-gemini": {
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini",
+      "title": "llm-gemini 0.38.1",
+      "normalized_title": "llm",
+      "content_hash": "",
+      "last_sent": 1795289569.846311,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
