@@ -1,12 +1,10 @@
 {
   "seenArticles": {
     "https://github.com/ZhuLinsen/daily_stock_analysis": 1795331476.0746834,
-    "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
+    "https://github.com/HKUDS/Vibe-Trading": 1795377179.978363,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
     "https://simonwillison.net/2026/Nov/7/link-rel-next": 1794207462.0034919,
-    "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering": 1794160855.3632653,
-    "https://github.com/esengine/DeepSeek-Reasonix": 1794160855.3632815,
-    "https://huggingface.co/papers/2611.04386": 1794160855.363298,
+    "https://github.com/esengine/DeepSeek-Reasonix": 1795377179.9783728,
     "https://latent.space/p/cs146s": 1794296117.4320443,
     "https://simonwillison.net/2026/Nov/9/details-summary": 1794207462.0033748,
     "https://huggingface.co/papers/2611.04720": 1794207462.0033958,
@@ -152,7 +150,10 @@
     "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026": 1795246227.5386062,
     "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t": 1795289569.8462813,
     "https://simonwillison.net/2026/Nov/20/llm-gemini": 1795289569.8463142,
-    "https://simonwillison.net/2026/Nov/21/muru": 1795331476.0746422
+    "https://simonwillison.net/2026/Nov/21/muru": 1795331476.0746422,
+    "https://openai.com/index/perplexity-and-intelligence": 1795377179.978344,
+    "https://github.com/codewhale-hq/Codewhale": 1795377179.978354,
+    "https://huggingface.co/papers/2611.25604": 1795377179.9783816
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -168,10 +169,10 @@
     },
     "https://github.com/HKUDS/Vibe-Trading": {
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "title": "HKUDS/Vibe-Trading: Open-Source LLM-Driven Autonomous Trading Agent",
-      "normalized_title": "hkuds vibe trading open source llm",
+      "title": "HKUDS/Vibe-Trading (38,696 stars)",
+      "normalized_title": "hkuds vibe",
       "content_hash": "",
-      "last_sent": 1794160855.3633242,
+      "last_sent": 1795377179.9783576,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -229,75 +230,12 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering": {
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
-      "title": "GitHub Details the Shift to Agentic Engineering: Addressing PR Review Bottlenecks Across the SDLC",
-      "normalized_title": "github details the shift to agentic engineering",
-      "content_hash": "",
-      "last_sent": 1794160855.363245,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:github details the shift to agentic engineering": {
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
-      "title": "GitHub Details the Shift to Agentic Engineering: Addressing PR Review Bottlenecks Across the SDLC",
-      "normalized_title": "github details the shift to agentic engineering",
-      "content_hash": "",
-      "last_sent": 1794160855.363245,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://github.com/esengine/DeepSeek-Reasonix": {
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "title": "DeepSeek-Reasonix: CLI Agent Framework for Complex Software Engineering Tasks",
-      "normalized_title": "deepseek reasonix",
+      "title": "esengine/DeepSeek-Reasonix (36,082 stars)",
+      "normalized_title": "esengine deepseek",
       "content_hash": "",
-      "last_sent": 1794160855.3632753,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:deepseek reasonix": {
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "title": "DeepSeek-Reasonix: CLI Agent Framework for Complex Software Engineering Tasks",
-      "normalized_title": "deepseek reasonix",
-      "content_hash": "",
-      "last_sent": 1794160855.3632753,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2611.04386": {
-      "url": "https://huggingface.co/papers/2611.04386",
-      "title": "StepX-OPD: Multi-Teacher On-Policy Distillation Merges Capabilities and Few-Step Sampling",
-      "normalized_title": "stepx opd multi teacher on policy distillation merges capabilities and few",
-      "content_hash": "",
-      "last_sent": 1794160855.3632874,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:stepx opd multi teacher on policy distillation merges capabilities and few": {
-      "url": "https://huggingface.co/papers/2611.04386",
-      "title": "StepX-OPD: Multi-Teacher On-Policy Distillation Merges Capabilities and Few-Step Sampling",
-      "normalized_title": "stepx opd multi teacher on policy distillation merges capabilities and few",
-      "content_hash": "",
-      "last_sent": 1794160855.3632874,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:zhulinsen daily_stock_analysis scheduled multi": {
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "title": "ZhuLinsen/daily_stock_analysis: Scheduled Multi-Agent Financial Research System",
-      "normalized_title": "zhulinsen daily_stock_analysis scheduled multi",
-      "content_hash": "",
-      "last_sent": 1794160855.3633075,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:hkuds vibe trading open source llm": {
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "title": "HKUDS/Vibe-Trading: Open-Source LLM-Driven Autonomous Trading Agent",
-      "normalized_title": "hkuds vibe trading open source llm",
-      "content_hash": "",
-      "last_sent": 1794160855.3633242,
+      "last_sent": 1795377179.978368,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2846,6 +2784,78 @@
       "content_hash": "",
       "last_sent": 1795331476.0746386,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/perplexity-and-intelligence": {
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "title": "Perplexity and Intelligence",
+      "normalized_title": "perplexity and intelligence",
+      "content_hash": "",
+      "last_sent": 1795377179.978323,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:perplexity and intelligence": {
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "title": "Perplexity and Intelligence",
+      "normalized_title": "perplexity and intelligence",
+      "content_hash": "",
+      "last_sent": 1795377179.978323,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://github.com/codewhale-hq/Codewhale": {
+      "url": "https://github.com/codewhale-hq/Codewhale",
+      "title": "codewhale-hq/Codewhale (41,197 stars)",
+      "normalized_title": "codewhale hq codewhale",
+      "content_hash": "",
+      "last_sent": 1795377179.9783487,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:codewhale hq codewhale": {
+      "url": "https://github.com/codewhale-hq/Codewhale",
+      "title": "codewhale-hq/Codewhale (41,197 stars)",
+      "normalized_title": "codewhale hq codewhale",
+      "content_hash": "",
+      "last_sent": 1795377179.9783487,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:hkuds vibe": {
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "title": "HKUDS/Vibe-Trading (38,696 stars)",
+      "normalized_title": "hkuds vibe",
+      "content_hash": "",
+      "last_sent": 1795377179.9783576,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:esengine deepseek": {
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "title": "esengine/DeepSeek-Reasonix (36,082 stars)",
+      "normalized_title": "esengine deepseek",
+      "content_hash": "",
+      "last_sent": 1795377179.978368,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.25604": {
+      "url": "https://huggingface.co/papers/2611.25604",
+      "title": "PAD: Policy-Aware Data Valuation for Autonomous Driving (4 upvotes)",
+      "normalized_title": "pad policy",
+      "content_hash": "",
+      "last_sent": 1795377179.9783778,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:pad policy": {
+      "url": "https://huggingface.co/papers/2611.25604",
+      "title": "PAD: Policy-Aware Data Valuation for Autonomous Driving (4 upvotes)",
+      "normalized_title": "pad policy",
+      "content_hash": "",
+      "last_sent": 1795377179.9783778,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
