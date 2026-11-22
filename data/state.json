@@ -1,15 +1,9 @@
 {
   "seenArticles": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": 1794119108.584858,
-    "https://github.com/ZhuLinsen/daily_stock_analysis": 1794769287.539631,
+    "https://github.com/ZhuLinsen/daily_stock_analysis": 1795331476.0746834,
     "https://github.com/HKUDS/Vibe-Trading": 1794160855.3633318,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
-    "https://huggingface.co/papers/2611.06498": 1794119108.5848207,
-    "https://latent.space/p/ainews-anthropic-ipo-whither-now": 1794119108.584844,
-    "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich": 1794119108.5849023,
-    "https://openai.com/index/partnering-with-hacktron": 1794119108.5849206,
     "https://simonwillison.net/2026/Nov/7/link-rel-next": 1794207462.0034919,
-    "https://huggingface.co/papers/2611.06500": 1794119108.584889,
     "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering": 1794160855.3632653,
     "https://github.com/esengine/DeepSeek-Reasonix": 1794160855.3632815,
     "https://huggingface.co/papers/2611.04386": 1794160855.363298,
@@ -149,44 +143,27 @@
     "https://openai.com/index/introducing-medchembench": 1795289569.8462572,
     "https://simonwillison.net/2026/Nov/20/ravi-vakil": 1795289569.8462908,
     "https://simonwillison.net/2026/Nov/20/levent-alpoge": 1795289569.8463068,
-    "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently": 1795246227.5384858,
-    "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini": 1795246227.5385118,
-    "https://huggingface.co/papers/2611.26239": 1795246227.538522,
-    "https://latent.space/p/formal-verification": 1795246227.5385513,
+    "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently": 1795331476.0746279,
+    "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini": 1795331476.0746539,
+    "https://huggingface.co/papers/2611.26239": 1795331476.0746694,
+    "https://latent.space/p/formal-verification": 1795331476.0746975,
     "https://openai.com/business/customer-stories/hebbia": 1795246227.5385616,
     "https://anthropic.com/news/ipo-close": 1795246227.5385873,
     "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026": 1795246227.5386062,
     "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t": 1795289569.8462813,
-    "https://simonwillison.net/2026/Nov/20/llm-gemini": 1795289569.8463142
+    "https://simonwillison.net/2026/Nov/20/llm-gemini": 1795289569.8463142,
+    "https://simonwillison.net/2026/Nov/21/muru": 1795331476.0746422
   },
   "seenTweets": {},
   "seenVideos": {},
   "sentStories": {
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,628 stars)",
-      "normalized_title": "tencentcloud tencentdb agent",
-      "content_hash": "",
-      "last_sent": 1794119108.584851,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:tencentcloud tencentdb agent": {
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "title": "TencentCloud/TencentDB-Agent-Memory (30,628 stars)",
-      "normalized_title": "tencentcloud tencentdb agent",
-      "content_hash": "",
-      "last_sent": 1794119108.584851,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "title": "ZhuLinsen/daily_stock_analysis (72,453 stars)",
+      "title": "ZhuLinsen/daily_stock_analysis (73,653 stars)",
       "normalized_title": "zhulinsen daily_stock_analysis",
       "content_hash": "",
-      "last_sent": 1794769287.5396252,
-      "digest_type": "evening",
+      "last_sent": 1795331476.074677,
+      "digest_type": "morning",
       "score": 0.0
     },
     "https://github.com/HKUDS/Vibe-Trading": {
@@ -200,11 +177,11 @@
     },
     "title:zhulinsen daily_stock_analysis": {
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "title": "ZhuLinsen/daily_stock_analysis (72,453 stars)",
+      "title": "ZhuLinsen/daily_stock_analysis (73,653 stars)",
       "normalized_title": "zhulinsen daily_stock_analysis",
       "content_hash": "",
-      "last_sent": 1794769287.5396252,
-      "digest_type": "evening",
+      "last_sent": 1795331476.074677,
+      "digest_type": "morning",
       "score": 0.0
     },
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": {
@@ -234,78 +211,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/papers/2611.06498": {
-      "url": "https://huggingface.co/papers/2611.06498",
-      "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation (4 upvotes)",
-      "normalized_title": "signed but steerable measuring and closing the text vector integrity gap in offline retrieval",
-      "content_hash": "",
-      "last_sent": 1794119108.5847888,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:signed but steerable measuring and closing the text vector integrity gap in offline retrieval": {
-      "url": "https://huggingface.co/papers/2611.06498",
-      "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation (4 upvotes)",
-      "normalized_title": "signed but steerable measuring and closing the text vector integrity gap in offline retrieval",
-      "content_hash": "",
-      "last_sent": 1794119108.5847888,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-anthropic-ipo-whither-now": {
-      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now",
-      "title": "[AINews] Anthropic IPO: Whither Now?",
-      "normalized_title": "anthropic ipo whither now",
-      "content_hash": "",
-      "last_sent": 1794119108.5848367,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:anthropic ipo whither now": {
-      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now",
-      "title": "[AINews] Anthropic IPO: Whither Now?",
-      "normalized_title": "anthropic ipo whither now",
-      "content_hash": "",
-      "last_sent": 1794119108.5848367,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich": {
-      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich",
-      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
-      "normalized_title": "controlling biology fabian theis helmholtz munich",
-      "content_hash": "",
-      "last_sent": 1794119108.5848951,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:controlling biology fabian theis helmholtz munich": {
-      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich",
-      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
-      "normalized_title": "controlling biology fabian theis helmholtz munich",
-      "content_hash": "",
-      "last_sent": 1794119108.5848951,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/partnering-with-hacktron": {
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "normalized_title": "partnering with hacktron to find vulnerabilities in openai s systems",
-      "content_hash": "",
-      "last_sent": 1794119108.58491,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:partnering with hacktron to find vulnerabilities in openai s systems": {
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "normalized_title": "partnering with hacktron to find vulnerabilities in openai s systems",
-      "content_hash": "",
-      "last_sent": 1794119108.58491,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Nov/7/link-rel-next": {
       "url": "https://simonwillison.net/2026/Nov/7/link-rel-next",
       "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
@@ -321,24 +226,6 @@
       "normalized_title": "datasette 3046 don t serve link rel next http headers to firefox for html pages",
       "content_hash": "",
       "last_sent": 1794207462.0034811,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2611.06500": {
-      "url": "https://huggingface.co/papers/2611.06500",
-      "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents (4 upvotes)",
-      "normalized_title": "tools need not speak in text",
-      "content_hash": "",
-      "last_sent": 1794119108.5848832,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:tools need not speak in text": {
-      "url": "https://huggingface.co/papers/2611.06500",
-      "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents (4 upvotes)",
-      "normalized_title": "tools need not speak in text",
-      "content_hash": "",
-      "last_sent": 1794119108.5848832,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2795,7 +2682,7 @@
       "title": "[AINews] Riemann Hypothesis proved...twice independently",
       "normalized_title": "riemann hypothesis proved twice independently",
       "content_hash": "",
-      "last_sent": 1795246227.538466,
+      "last_sent": 1795331476.0746021,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2804,7 +2691,7 @@
       "title": "[AINews] Riemann Hypothesis proved...twice independently",
       "normalized_title": "riemann hypothesis proved twice independently",
       "content_hash": "",
-      "last_sent": 1795246227.538466,
+      "last_sent": 1795331476.0746021,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2813,7 +2700,7 @@
       "title": "How Google Duplex evolved to also call businesses for you in Gemini",
       "normalized_title": "how google duplex evolved to also call businesses for you in gemini",
       "content_hash": "",
-      "last_sent": 1795246227.5385063,
+      "last_sent": 1795331476.0746458,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2822,25 +2709,25 @@
       "title": "How Google Duplex evolved to also call businesses for you in Gemini",
       "normalized_title": "how google duplex evolved to also call businesses for you in gemini",
       "content_hash": "",
-      "last_sent": 1795246227.5385063,
+      "last_sent": 1795331476.0746458,
       "digest_type": "morning",
       "score": 0.0
     },
     "https://huggingface.co/papers/2611.26239": {
       "url": "https://huggingface.co/papers/2611.26239",
-      "title": "Teaching Vision-Language-Action Models to Stop Safely (3 upvotes)",
+      "title": "Teaching Vision-Language-Action Models to Stop Safely (7 upvotes)",
       "normalized_title": "teaching vision language",
       "content_hash": "",
-      "last_sent": 1795246227.5385172,
+      "last_sent": 1795331476.0746622,
       "digest_type": "morning",
       "score": 0.0
     },
     "title:teaching vision language": {
       "url": "https://huggingface.co/papers/2611.26239",
-      "title": "Teaching Vision-Language-Action Models to Stop Safely (3 upvotes)",
+      "title": "Teaching Vision-Language-Action Models to Stop Safely (7 upvotes)",
       "normalized_title": "teaching vision language",
       "content_hash": "",
-      "last_sent": 1795246227.5385172,
+      "last_sent": 1795331476.0746622,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2849,7 +2736,7 @@
       "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
       "normalized_title": "the war against slop and an emerging weapon to fight it",
       "content_hash": "",
-      "last_sent": 1795246227.5385458,
+      "last_sent": 1795331476.0746899,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2858,7 +2745,7 @@
       "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
       "normalized_title": "the war against slop and an emerging weapon to fight it",
       "content_hash": "",
-      "last_sent": 1795246227.5385458,
+      "last_sent": 1795331476.0746899,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2941,6 +2828,24 @@
       "content_hash": "",
       "last_sent": 1795289569.846311,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/21/muru": {
+      "url": "https://simonwillison.net/2026/Nov/21/muru",
+      "title": "Muru",
+      "normalized_title": "muru",
+      "content_hash": "",
+      "last_sent": 1795331476.0746386,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:muru": {
+      "url": "https://simonwillison.net/2026/Nov/21/muru",
+      "title": "Muru",
+      "normalized_title": "muru",
+      "content_hash": "",
+      "last_sent": 1795331476.0746386,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
