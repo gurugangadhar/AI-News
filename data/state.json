@@ -4,16 +4,11 @@
     "https://github.com/HKUDS/Vibe-Trading": 1795377179.978363,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
     "https://github.com/esengine/DeepSeek-Reasonix": 1795377179.9783728,
-    "https://anthropic.com/claude-fable-and-mythos-5-2": 1794340515.6319494,
-    "https://latent.space/p/handshake": 1794340515.631994,
-    "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": 1794340515.6320243,
     "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl": 1794380045.2767417,
     "https://simonwillison.net/2026/Nov/10/muse-ember": 1794380045.2767527,
     "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52": 1794380045.2767751,
     "https://simonwillison.net/2026/Nov/10/yonkers-rises": 1794380045.2767816,
-    "https://latent.space/p/naiveai": 1794340515.631964,
     "https://deepmind.google/blog/gemini-4-carbon-is-now-available": 1794426308.7478516,
-    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": 1794340515.63201,
     "https://latent.space/p/resend": 1794380045.2766907,
     "https://huggingface.co/blog/qvac/botpsy": 1794468610.9850018,
     "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure": 1794468610.9850135,
@@ -145,8 +140,8 @@
     "https://huggingface.co/papers/2611.26613": 1795420706.771331,
     "https://eugeneyan.com/writing/public-evals": 1795420706.7713456,
     "https://simonwillison.net/2026/Nov/23/ladybird": 1795478895.5828185,
-    "https://huggingface.co/blog/allenai/robotrack": 1795478895.5828295,
-    "https://simonwillison.net/2026/Nov/23/glm-54": 1795478895.5828385,
+    "https://huggingface.co/blog/allenai/robotrack": 1795560001.1145244,
+    "https://simonwillison.net/2026/Nov/23/glm-54": 1795560001.114562,
     "https://openai.com/index/introducing-shirudo": 1795478895.5828447,
     "https://simonwillison.net/2026/Nov/23/datasette-charts": 1795478895.5828505,
     "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification": 1795478895.5828583,
@@ -158,7 +153,13 @@
     "https://huggingface.co/papers/2611.28489": 1795515159.8966722,
     "https://openai.com/business/learn/connected-intelligence-for-in-house-legal": 1795515159.8966832,
     "https://huggingface.co/blog/agentic-evals": 1795515159.8966937,
-    "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026": 1795515159.8967154
+    "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026": 1795515159.8967154,
+    "https://simonwillison.net/2026/Nov/24/datasette-agent": 1795560001.1145396,
+    "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": 1795560001.11455,
+    "https://huggingface.co/papers/2611.28167": 1795560001.114579,
+    "https://openai.com/index/searching-for-distant-planets-with-astra": 1795560001.114594,
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": 1795560001.1146061,
+    "https://simonwillison.net/2026/Nov/24/astra-historical-mystery": 1795560001.1146255
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -209,11 +210,11 @@
       "score": 0.0
     },
     "title:datasette": {
-      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts",
-      "title": "datasette-charts 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent",
+      "title": "datasette-agent 0.7a1",
       "normalized_title": "datasette",
       "content_hash": "",
-      "last_sent": 1795478895.582848,
+      "last_sent": 1795560001.1145344,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -223,60 +224,6 @@
       "normalized_title": "esengine deepseek",
       "content_hash": "",
       "last_sent": 1795377179.978368,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://anthropic.com/claude-fable-and-mythos-5-2": {
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
-      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
-      "normalized_title": "introducing claude fable 5 2 and claude mythos 5 2",
-      "content_hash": "",
-      "last_sent": 1794340515.6319265,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:introducing claude fable 5 2 and claude mythos 5 2": {
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
-      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
-      "normalized_title": "introducing claude fable 5 2 and claude mythos 5 2",
-      "content_hash": "",
-      "last_sent": 1794340515.6319265,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/handshake": {
-      "url": "https://latent.space/p/handshake",
-      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-      "normalized_title": "what frontier labs buy a data deep dive with handshake ai garrett lord team",
-      "content_hash": "",
-      "last_sent": 1794340515.6319788,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:what frontier labs buy a data deep dive with handshake ai garrett lord team": {
-      "url": "https://latent.space/p/handshake",
-      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-      "normalized_title": "what frontier labs buy a data deep dive with handshake ai garrett lord team",
-      "content_hash": "",
-      "last_sent": 1794340515.6319788,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "normalized_title": "nemotron personas finance japan a synthetic dataset capturing japan s demographics and financial context",
-      "content_hash": "",
-      "last_sent": 1794340515.6320145,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:nemotron personas finance japan a synthetic dataset capturing japan s demographics and financial context": {
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "normalized_title": "nemotron personas finance japan a synthetic dataset capturing japan s demographics and financial context",
-      "content_hash": "",
-      "last_sent": 1794340515.6320145,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -361,24 +308,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://latent.space/p/naiveai": {
-      "url": "https://latent.space/p/naiveai",
-      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-      "normalized_title": "naiveai promises 2 100 tokens per second how well does it code",
-      "content_hash": "",
-      "last_sent": 1794340515.631958,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:naiveai promises 2 100 tokens per second how well does it code": {
-      "url": "https://latent.space/p/naiveai",
-      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-      "normalized_title": "naiveai promises 2 100 tokens per second how well does it code",
-      "content_hash": "",
-      "last_sent": 1794340515.631958,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://deepmind.google/blog/gemini-4-carbon-is-now-available": {
       "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
       "title": "Gemini 4 Carbon is now available",
@@ -394,24 +323,6 @@
       "normalized_title": "gemini 4 carbon is now available",
       "content_hash": "",
       "last_sent": 1794426308.747831,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": {
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "normalized_title": "gemini robotics 2 5 accelerates real",
-      "content_hash": "",
-      "last_sent": 1794340515.6320052,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:gemini robotics 2 5 accelerates real": {
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "normalized_title": "gemini robotics 2 5 accelerates real",
-      "content_hash": "",
-      "last_sent": 1794340515.6320052,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2715,7 +2626,7 @@
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
       "normalized_title": "robotrack point tracking for real",
       "content_hash": "",
-      "last_sent": 1795478895.582824,
+      "last_sent": 1795560001.1145022,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2724,7 +2635,7 @@
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
       "normalized_title": "robotrack point tracking for real",
       "content_hash": "",
-      "last_sent": 1795478895.582824,
+      "last_sent": 1795560001.1145022,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2733,7 +2644,7 @@
       "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
       "normalized_title": "glm 5 4",
       "content_hash": "",
-      "last_sent": 1795478895.5828342,
+      "last_sent": 1795560001.114556,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2742,7 +2653,7 @@
       "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
       "normalized_title": "glm 5 4",
       "content_hash": "",
-      "last_sent": 1795478895.5828342,
+      "last_sent": 1795560001.114556,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2951,6 +2862,105 @@
       "content_hash": "",
       "last_sent": 1795515159.8967059,
       "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/24/datasette-agent": {
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent",
+      "title": "datasette-agent 0.7a1",
+      "normalized_title": "datasette",
+      "content_hash": "",
+      "last_sent": 1795560001.1145344,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": {
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "normalized_title": "microduck obstacle avoidance",
+      "content_hash": "",
+      "last_sent": 1795560001.1145444,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:microduck obstacle avoidance": {
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "normalized_title": "microduck obstacle avoidance",
+      "content_hash": "",
+      "last_sent": 1795560001.1145444,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.28167": {
+      "url": "https://huggingface.co/papers/2611.28167",
+      "title": "VideoJSON: A Minimal Harness Beats Purpose-Built Memory for Ultra-Long Video Understanding (2 upvotes)",
+      "normalized_title": "videojson a minimal harness beats purpose built memory for ultra",
+      "content_hash": "",
+      "last_sent": 1795560001.114568,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:videojson a minimal harness beats purpose built memory for ultra": {
+      "url": "https://huggingface.co/papers/2611.28167",
+      "title": "VideoJSON: A Minimal Harness Beats Purpose-Built Memory for Ultra-Long Video Understanding (2 upvotes)",
+      "normalized_title": "videojson a minimal harness beats purpose built memory for ultra",
+      "content_hash": "",
+      "last_sent": 1795560001.114568,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/searching-for-distant-planets-with-astra": {
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "title": "Searching for distant planets with Astra",
+      "normalized_title": "searching for distant planets with astra",
+      "content_hash": "",
+      "last_sent": 1795560001.1145887,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:searching for distant planets with astra": {
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "title": "Searching for distant planets with Astra",
+      "normalized_title": "searching for distant planets with astra",
+      "content_hash": "",
+      "last_sent": 1795560001.1145887,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": {
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "normalized_title": "gpt 6 models demonstrate intrinsic protein",
+      "content_hash": "",
+      "last_sent": 1795560001.1145995,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:gpt 6 models demonstrate intrinsic protein": {
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "normalized_title": "gpt 6 models demonstrate intrinsic protein",
+      "content_hash": "",
+      "last_sent": 1795560001.1145995,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/24/astra-historical-mystery": {
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "normalized_title": "gpt 6 2 astra solves a historical mystery",
+      "content_hash": "",
+      "last_sent": 1795560001.1146183,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:gpt 6 2 astra solves a historical mystery": {
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "normalized_title": "gpt 6 2 astra solves a historical mystery",
+      "content_hash": "",
+      "last_sent": 1795560001.1146183,
+      "digest_type": "morning",
       "score": 0.0
     }
   }
