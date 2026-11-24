@@ -10,7 +10,6 @@
     "https://latent.space/p/handshake": 1794340515.631994,
     "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": 1794340515.6320243,
     "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl": 1794380045.2767417,
-    "https://openai.com/index/chatgpt-enterprise-aws-marketplace": 1794263634.3504174,
     "https://simonwillison.net/2026/Nov/10/muse-ember": 1794380045.2767527,
     "https://devin.ai/blog/claude-fable-5-2": 1794296117.4320648,
     "https://simonwillison.net/2026/Nov/9/llm-anthropic": 1794296117.4320703,
@@ -151,7 +150,14 @@
     "https://huggingface.co/papers/2611.27915": 1795420706.7713053,
     "https://simonwillison.net/2026/Nov/22/select-styling": 1795420706.7713196,
     "https://huggingface.co/papers/2611.26613": 1795420706.771331,
-    "https://eugeneyan.com/writing/public-evals": 1795420706.7713456
+    "https://eugeneyan.com/writing/public-evals": 1795420706.7713456,
+    "https://simonwillison.net/2026/Nov/23/ladybird": 1795478895.5828185,
+    "https://huggingface.co/blog/allenai/robotrack": 1795478895.5828295,
+    "https://simonwillison.net/2026/Nov/23/glm-54": 1795478895.5828385,
+    "https://openai.com/index/introducing-shirudo": 1795478895.5828447,
+    "https://simonwillison.net/2026/Nov/23/datasette-charts": 1795478895.5828505,
+    "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification": 1795478895.5828583,
+    "https://openai.com/business/customer-stories/richpanel-ai-customer-support": 1795478895.5828667
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -202,11 +208,11 @@
       "score": 0.0
     },
     "title:datasette": {
-      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows",
-      "title": "datasette-arrows 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts",
+      "title": "datasette-charts 0.1a0",
       "normalized_title": "datasette",
       "content_hash": "",
-      "last_sent": 1795160175.249179,
+      "last_sent": 1795478895.582848,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -324,24 +330,6 @@
       "normalized_title": "practice makes precise at corl nvidia and partners reveal how robots rehearse delicate work in simulation",
       "content_hash": "",
       "last_sent": 1794380045.2767344,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/chatgpt-enterprise-aws-marketplace": {
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "normalized_title": "chatgpt enterprise now available in aws marketplace",
-      "content_hash": "",
-      "last_sent": 1794263634.3504143,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:chatgpt enterprise now available in aws marketplace": {
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "normalized_title": "chatgpt enterprise now available in aws marketplace",
-      "content_hash": "",
-      "last_sent": 1794263634.3504143,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2817,6 +2805,123 @@
       "normalized_title": "how public evals work where they break and what should change",
       "content_hash": "",
       "last_sent": 1795420706.771337,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/23/ladybird": {
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird",
+      "title": "Ladybird's first alpha release",
+      "normalized_title": "ladybird s first alpha release",
+      "content_hash": "",
+      "last_sent": 1795478895.582798,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:ladybird s first alpha release": {
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird",
+      "title": "Ladybird's first alpha release",
+      "normalized_title": "ladybird s first alpha release",
+      "content_hash": "",
+      "last_sent": 1795478895.582798,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/allenai/robotrack": {
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "normalized_title": "robotrack point tracking for real",
+      "content_hash": "",
+      "last_sent": 1795478895.582824,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:robotrack point tracking for real": {
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "normalized_title": "robotrack point tracking for real",
+      "content_hash": "",
+      "last_sent": 1795478895.582824,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/23/glm-54": {
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "normalized_title": "glm 5 4",
+      "content_hash": "",
+      "last_sent": 1795478895.5828342,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:glm 5 4": {
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "normalized_title": "glm 5 4",
+      "content_hash": "",
+      "last_sent": 1795478895.5828342,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/index/introducing-shirudo": {
+      "url": "https://openai.com/index/introducing-shirudo",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "normalized_title": "openai and cisco introduce shirudo",
+      "content_hash": "",
+      "last_sent": 1795478895.5828416,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:openai and cisco introduce shirudo": {
+      "url": "https://openai.com/index/introducing-shirudo",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "normalized_title": "openai and cisco introduce shirudo",
+      "content_hash": "",
+      "last_sent": 1795478895.5828416,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/23/datasette-charts": {
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts",
+      "title": "datasette-charts 0.1a0",
+      "normalized_title": "datasette",
+      "content_hash": "",
+      "last_sent": 1795478895.582848,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification": {
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "normalized_title": "finding faster quantum algorithms with agents and formal verification",
+      "content_hash": "",
+      "last_sent": 1795478895.582854,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:finding faster quantum algorithms with agents and formal verification": {
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "normalized_title": "finding faster quantum algorithms with agents and formal verification",
+      "content_hash": "",
+      "last_sent": 1795478895.582854,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/business/customer-stories/richpanel-ai-customer-support": {
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "normalized_title": "richpanel helps companies automate 50 of support in 30 days",
+      "content_hash": "",
+      "last_sent": 1795478895.5828626,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:richpanel helps companies automate 50 of support in 30 days": {
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "normalized_title": "richpanel helps companies automate 50 of support in 30 days",
+      "content_hash": "",
+      "last_sent": 1795478895.5828626,
       "digest_type": "morning",
       "score": 0.0
     }
