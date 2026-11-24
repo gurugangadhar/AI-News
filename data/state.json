@@ -4,18 +4,11 @@
     "https://github.com/HKUDS/Vibe-Trading": 1795377179.978363,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
     "https://github.com/esengine/DeepSeek-Reasonix": 1795377179.9783728,
-    "https://latent.space/p/cs146s": 1794296117.4320443,
-    "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem": 1794296117.4320762,
     "https://anthropic.com/claude-fable-and-mythos-5-2": 1794340515.6319494,
     "https://latent.space/p/handshake": 1794340515.631994,
     "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": 1794340515.6320243,
     "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl": 1794380045.2767417,
     "https://simonwillison.net/2026/Nov/10/muse-ember": 1794380045.2767527,
-    "https://devin.ai/blog/claude-fable-5-2": 1794296117.4320648,
-    "https://simonwillison.net/2026/Nov/9/llm-anthropic": 1794296117.4320703,
-    "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins": 1794296117.4320848,
-    "https://openai.com/index/coderabbit-codex-daybreak": 1794296117.4320922,
-    "https://openai.com/index/control-room": 1794296117.4321036,
     "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52": 1794380045.2767751,
     "https://simonwillison.net/2026/Nov/10/yonkers-rises": 1794380045.2767816,
     "https://latent.space/p/naiveai": 1794340515.631964,
@@ -157,7 +150,15 @@
     "https://openai.com/index/introducing-shirudo": 1795478895.5828447,
     "https://simonwillison.net/2026/Nov/23/datasette-charts": 1795478895.5828505,
     "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification": 1795478895.5828583,
-    "https://openai.com/business/customer-stories/richpanel-ai-customer-support": 1795478895.5828667
+    "https://openai.com/business/customer-stories/richpanel-ai-customer-support": 1795478895.5828667,
+    "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft": 1795515159.8966098,
+    "https://huggingface.co/papers/2611.18639": 1795515159.8966277,
+    "https://huggingface.co/papers/2611.12164": 1795515159.8966444,
+    "https://research.google/blog/supercharging-transformer-residual-connections": 1795515159.8966603,
+    "https://huggingface.co/papers/2611.28489": 1795515159.8966722,
+    "https://openai.com/business/learn/connected-intelligence-for-in-house-legal": 1795515159.8966832,
+    "https://huggingface.co/blog/agentic-evals": 1795515159.8966937,
+    "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026": 1795515159.8967154
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -223,42 +224,6 @@
       "content_hash": "",
       "last_sent": 1795377179.978368,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/cs146s": {
-      "url": "https://latent.space/p/cs146s",
-      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "normalized_title": "how stanford teaches ai native engineering mihail eric monaco",
-      "content_hash": "",
-      "last_sent": 1794296117.432023,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:how stanford teaches ai native engineering mihail eric monaco": {
-      "url": "https://latent.space/p/cs146s",
-      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "normalized_title": "how stanford teaches ai native engineering mihail eric monaco",
-      "content_hash": "",
-      "last_sent": 1794296117.432023,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem": {
-      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
-      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-      "normalized_title": "korea advances physical ai across industries with nvidia",
-      "content_hash": "",
-      "last_sent": 1794296117.4320724,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:korea advances physical ai across industries with nvidia": {
-      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
-      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-      "normalized_title": "korea advances physical ai across industries with nvidia",
-      "content_hash": "",
-      "last_sent": 1794296117.4320724,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://anthropic.com/claude-fable-and-mythos-5-2": {
@@ -351,33 +316,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://devin.ai/blog/claude-fable-5-2": {
-      "url": "https://devin.ai/blog/claude-fable-5-2",
-      "title": "Claude Fable 5.2 is now available in Devin",
-      "normalized_title": "claude fable 5 2 is now available in devin",
-      "content_hash": "",
-      "last_sent": 1794296117.4320614,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:claude fable 5 2 is now available in devin": {
-      "url": "https://devin.ai/blog/claude-fable-5-2",
-      "title": "Claude Fable 5.2 is now available in Devin",
-      "normalized_title": "claude fable 5 2 is now available in devin",
-      "content_hash": "",
-      "last_sent": 1794296117.4320614,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/9/llm-anthropic": {
-      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic",
-      "title": "llm-anthropic 0.31",
-      "normalized_title": "llm",
-      "content_hash": "",
-      "last_sent": 1794296117.4320679,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "title:llm": {
       "url": "https://simonwillison.net/2026/Nov/20/llm-gemini",
       "title": "llm-gemini 0.38.1",
@@ -385,60 +323,6 @@
       "content_hash": "",
       "last_sent": 1795289569.846311,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins": {
-      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins",
-      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
-      "normalized_title": "fable 5 2 retakes world 1 llm spot as ant ipo roadshow begins",
-      "content_hash": "",
-      "last_sent": 1794296117.43208,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:fable 5 2 retakes world 1 llm spot as ant ipo roadshow begins": {
-      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins",
-      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
-      "normalized_title": "fable 5 2 retakes world 1 llm spot as ant ipo roadshow begins",
-      "content_hash": "",
-      "last_sent": 1794296117.43208,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/coderabbit-codex-daybreak": {
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "normalized_title": "coderabbit scales agentic software development and ships 20x more",
-      "content_hash": "",
-      "last_sent": 1794296117.432089,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:coderabbit scales agentic software development and ships 20x more": {
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "normalized_title": "coderabbit scales agentic software development and ships 20x more",
-      "content_hash": "",
-      "last_sent": 1794296117.432089,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/control-room": {
-      "url": "https://openai.com/index/control-room",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "normalized_title": "control room",
-      "content_hash": "",
-      "last_sent": 1794296117.4321,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:control room": {
-      "url": "https://openai.com/index/control-room",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "normalized_title": "control room",
-      "content_hash": "",
-      "last_sent": 1794296117.4321,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52": {
@@ -2923,6 +2807,150 @@
       "content_hash": "",
       "last_sent": 1795478895.5828626,
       "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft": {
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft",
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "normalized_title": "jensen is back and openai shows its pretraining curve joined by microsoft",
+      "content_hash": "",
+      "last_sent": 1795515159.8965864,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:jensen is back and openai shows its pretraining curve joined by microsoft": {
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft",
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "normalized_title": "jensen is back and openai shows its pretraining curve joined by microsoft",
+      "content_hash": "",
+      "last_sent": 1795515159.8965864,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.18639": {
+      "url": "https://huggingface.co/papers/2611.18639",
+      "title": "SynthDCB: World Distillation for Scalable Device Control Benchmarking (23 upvotes)",
+      "normalized_title": "synthdcb",
+      "content_hash": "",
+      "last_sent": 1795515159.8966215,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:synthdcb": {
+      "url": "https://huggingface.co/papers/2611.18639",
+      "title": "SynthDCB: World Distillation for Scalable Device Control Benchmarking (23 upvotes)",
+      "normalized_title": "synthdcb",
+      "content_hash": "",
+      "last_sent": 1795515159.8966215,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.12164": {
+      "url": "https://huggingface.co/papers/2611.12164",
+      "title": "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood (10 upvotes)",
+      "normalized_title": "let the fixer decide training a code localizer from the fixer s likelihood",
+      "content_hash": "",
+      "last_sent": 1795515159.8966336,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:let the fixer decide training a code localizer from the fixer s likelihood": {
+      "url": "https://huggingface.co/papers/2611.12164",
+      "title": "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood (10 upvotes)",
+      "normalized_title": "let the fixer decide training a code localizer from the fixer s likelihood",
+      "content_hash": "",
+      "last_sent": 1795515159.8966336,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://research.google/blog/supercharging-transformer-residual-connections": {
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections",
+      "title": "Supercharging transformer residual connections",
+      "normalized_title": "supercharging transformer residual connections",
+      "content_hash": "",
+      "last_sent": 1795515159.8966546,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:supercharging transformer residual connections": {
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections",
+      "title": "Supercharging transformer residual connections",
+      "normalized_title": "supercharging transformer residual connections",
+      "content_hash": "",
+      "last_sent": 1795515159.8966546,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.28489": {
+      "url": "https://huggingface.co/papers/2611.28489",
+      "title": "Open Vision Banana: An Open Framework for Unified Visual Perception through Generation in RGB Space (10 upvotes)",
+      "normalized_title": "open vision banana",
+      "content_hash": "",
+      "last_sent": 1795515159.8966663,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:open vision banana": {
+      "url": "https://huggingface.co/papers/2611.28489",
+      "title": "Open Vision Banana: An Open Framework for Unified Visual Perception through Generation in RGB Space (10 upvotes)",
+      "normalized_title": "open vision banana",
+      "content_hash": "",
+      "last_sent": 1795515159.8966663,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://openai.com/business/learn/connected-intelligence-for-in-house-legal": {
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "title": "Connected intelligence for in-house legal",
+      "normalized_title": "connected intelligence for in",
+      "content_hash": "",
+      "last_sent": 1795515159.8966784,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:connected intelligence for in": {
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "title": "Connected intelligence for in-house legal",
+      "normalized_title": "connected intelligence for in",
+      "content_hash": "",
+      "last_sent": 1795515159.8966784,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/agentic-evals": {
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "title": "How to build and maintain an agentic evaluation",
+      "normalized_title": "how to build and maintain an agentic evaluation",
+      "content_hash": "",
+      "last_sent": 1795515159.8966885,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:how to build and maintain an agentic evaluation": {
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "title": "How to build and maintain an agentic evaluation",
+      "normalized_title": "how to build and maintain an agentic evaluation",
+      "content_hash": "",
+      "last_sent": 1795515159.8966885,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026": {
+      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026",
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "normalized_title": "merry making play build and create with nvidia technologies this holiday season",
+      "content_hash": "",
+      "last_sent": 1795515159.8967059,
+      "digest_type": "evening",
+      "score": 0.0
+    },
+    "title:merry making play build and create with nvidia technologies this holiday season": {
+      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026",
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "normalized_title": "merry making play build and create with nvidia technologies this holiday season",
+      "content_hash": "",
+      "last_sent": 1795515159.8967059,
+      "digest_type": "evening",
       "score": 0.0
     }
   }
