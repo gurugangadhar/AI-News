@@ -4,17 +4,11 @@
     "https://github.com/HKUDS/Vibe-Trading": 1795377179.978363,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
     "https://github.com/esengine/DeepSeek-Reasonix": 1795377179.9783728,
-    "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl": 1794380045.2767417,
-    "https://simonwillison.net/2026/Nov/10/muse-ember": 1794380045.2767527,
-    "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52": 1794380045.2767751,
-    "https://simonwillison.net/2026/Nov/10/yonkers-rises": 1794380045.2767816,
     "https://deepmind.google/blog/gemini-4-carbon-is-now-available": 1794426308.7478516,
-    "https://latent.space/p/resend": 1794380045.2766907,
     "https://huggingface.co/blog/qvac/botpsy": 1794468610.9850018,
     "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure": 1794468610.9850135,
     "https://devin.ai/blog/claude-mythos-5-2-security": 1794468610.9850225,
     "https://deepmind.google/blog/introducing-alphaproof-code": 1794468610.9850307,
-    "https://simonwillison.net/2026/Nov/10/llm-gemini": 1794380045.276767,
     "https://huggingface.co/blog/hub-gcp-marketplace": 1794426308.747867,
     "https://simonwillison.net/2026/Nov/11/llm": 1794514337.040153,
     "https://anthropic.com/news/roadshow-launch": 1794426308.7478926,
@@ -144,22 +138,27 @@
     "https://simonwillison.net/2026/Nov/23/glm-54": 1795560001.114562,
     "https://openai.com/index/introducing-shirudo": 1795478895.5828447,
     "https://simonwillison.net/2026/Nov/23/datasette-charts": 1795478895.5828505,
-    "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification": 1795478895.5828583,
+    "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification": 1795596988.8882833,
     "https://openai.com/business/customer-stories/richpanel-ai-customer-support": 1795478895.5828667,
-    "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft": 1795515159.8966098,
+    "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft": 1795596988.8882043,
     "https://huggingface.co/papers/2611.18639": 1795515159.8966277,
     "https://huggingface.co/papers/2611.12164": 1795515159.8966444,
     "https://research.google/blog/supercharging-transformer-residual-connections": 1795515159.8966603,
     "https://huggingface.co/papers/2611.28489": 1795515159.8966722,
     "https://openai.com/business/learn/connected-intelligence-for-in-house-legal": 1795515159.8966832,
     "https://huggingface.co/blog/agentic-evals": 1795515159.8966937,
-    "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026": 1795515159.8967154,
+    "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026": 1795596988.888299,
     "https://simonwillison.net/2026/Nov/24/datasette-agent": 1795560001.1145396,
     "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": 1795560001.11455,
     "https://huggingface.co/papers/2611.28167": 1795560001.114579,
     "https://openai.com/index/searching-for-distant-planets-with-astra": 1795560001.114594,
     "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": 1795560001.1146061,
-    "https://simonwillison.net/2026/Nov/24/astra-historical-mystery": 1795560001.1146255
+    "https://simonwillison.net/2026/Nov/24/astra-historical-mystery": 1795560001.1146255,
+    "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab": 1795596988.888223,
+    "https://huggingface.co/papers/2611.32973": 1795596988.8882353,
+    "https://simonwillison.net/2026/Nov/24/llm-inflection-points": 1795596988.888246,
+    "https://huggingface.co/papers/2611.31442": 1795596988.8882625,
+    "https://openai.com/business/customer-stories/intentful-dots": 1795596988.8883207
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -227,42 +226,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl": {
-      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl",
-      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-      "normalized_title": "practice makes precise at corl nvidia and partners reveal how robots rehearse delicate work in simulation",
-      "content_hash": "",
-      "last_sent": 1794380045.2767344,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:practice makes precise at corl nvidia and partners reveal how robots rehearse delicate work in simulation": {
-      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl",
-      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-      "normalized_title": "practice makes precise at corl nvidia and partners reveal how robots rehearse delicate work in simulation",
-      "content_hash": "",
-      "last_sent": 1794380045.2767344,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/10/muse-ember": {
-      "url": "https://simonwillison.net/2026/Nov/10/muse-ember",
-      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "normalized_title": "introducing our smallest most efficient model",
-      "content_hash": "",
-      "last_sent": 1794380045.276748,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:introducing our smallest most efficient model": {
-      "url": "https://simonwillison.net/2026/Nov/10/muse-ember",
-      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "normalized_title": "introducing our smallest most efficient model",
-      "content_hash": "",
-      "last_sent": 1794380045.276748,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "title:llm": {
       "url": "https://simonwillison.net/2026/Nov/20/llm-gemini",
       "title": "llm-gemini 0.38.1",
@@ -270,42 +233,6 @@
       "content_hash": "",
       "last_sent": 1795289569.846311,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52": {
-      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52",
-      "title": "Quoting Prompting Claude Fable 5.2",
-      "normalized_title": "quoting prompting claude fable 5 2",
-      "content_hash": "",
-      "last_sent": 1794380045.276771,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:quoting prompting claude fable 5 2": {
-      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52",
-      "title": "Quoting Prompting Claude Fable 5.2",
-      "normalized_title": "quoting prompting claude fable 5 2",
-      "content_hash": "",
-      "last_sent": 1794380045.276771,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/10/yonkers-rises": {
-      "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises",
-      "title": "Yonkers Rises",
-      "normalized_title": "yonkers rises",
-      "content_hash": "",
-      "last_sent": 1794380045.276779,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:yonkers rises": {
-      "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises",
-      "title": "Yonkers Rises",
-      "normalized_title": "yonkers rises",
-      "content_hash": "",
-      "last_sent": 1794380045.276779,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://deepmind.google/blog/gemini-4-carbon-is-now-available": {
@@ -324,24 +251,6 @@
       "content_hash": "",
       "last_sent": 1794426308.747831,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/resend": {
-      "url": "https://latent.space/p/resend",
-      "title": "Designing for Agents — Zeno Rocha, Resend",
-      "normalized_title": "designing for agents zeno rocha resend",
-      "content_hash": "",
-      "last_sent": 1794380045.276661,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:designing for agents zeno rocha resend": {
-      "url": "https://latent.space/p/resend",
-      "title": "Designing for Agents — Zeno Rocha, Resend",
-      "normalized_title": "designing for agents zeno rocha resend",
-      "content_hash": "",
-      "last_sent": 1794380045.276661,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://huggingface.co/blog/qvac/botpsy": {
@@ -413,15 +322,6 @@
       "normalized_title": "introducing alphaproof code",
       "content_hash": "",
       "last_sent": 1794468610.9850266,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/10/llm-gemini": {
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini",
-      "title": "llm-gemini 0.36",
-      "normalized_title": "llm",
-      "content_hash": "",
-      "last_sent": 1794380045.276763,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2689,7 +2589,7 @@
       "title": "Finding faster quantum algorithms with agents and formal verification",
       "normalized_title": "finding faster quantum algorithms with agents and formal verification",
       "content_hash": "",
-      "last_sent": 1795478895.582854,
+      "last_sent": 1795596988.8882744,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2698,7 +2598,7 @@
       "title": "Finding faster quantum algorithms with agents and formal verification",
       "normalized_title": "finding faster quantum algorithms with agents and formal verification",
       "content_hash": "",
-      "last_sent": 1795478895.582854,
+      "last_sent": 1795596988.8882744,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2725,8 +2625,8 @@
       "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
       "normalized_title": "jensen is back and openai shows its pretraining curve joined by microsoft",
       "content_hash": "",
-      "last_sent": 1795515159.8965864,
-      "digest_type": "evening",
+      "last_sent": 1795596988.8881838,
+      "digest_type": "morning",
       "score": 0.0
     },
     "title:jensen is back and openai shows its pretraining curve joined by microsoft": {
@@ -2734,8 +2634,8 @@
       "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
       "normalized_title": "jensen is back and openai shows its pretraining curve joined by microsoft",
       "content_hash": "",
-      "last_sent": 1795515159.8965864,
-      "digest_type": "evening",
+      "last_sent": 1795596988.8881838,
+      "digest_type": "morning",
       "score": 0.0
     },
     "https://huggingface.co/papers/2611.18639": {
@@ -2851,8 +2751,8 @@
       "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
       "normalized_title": "merry making play build and create with nvidia technologies this holiday season",
       "content_hash": "",
-      "last_sent": 1795515159.8967059,
-      "digest_type": "evening",
+      "last_sent": 1795596988.8882902,
+      "digest_type": "morning",
       "score": 0.0
     },
     "title:merry making play build and create with nvidia technologies this holiday season": {
@@ -2860,8 +2760,8 @@
       "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
       "normalized_title": "merry making play build and create with nvidia technologies this holiday season",
       "content_hash": "",
-      "last_sent": 1795515159.8967059,
-      "digest_type": "evening",
+      "last_sent": 1795596988.8882902,
+      "digest_type": "morning",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Nov/24/datasette-agent": {
@@ -2960,6 +2860,96 @@
       "normalized_title": "gpt 6 2 astra solves a historical mystery",
       "content_hash": "",
       "last_sent": 1795560001.1146183,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab": {
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab",
+      "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+      "normalized_title": "gemini 4 neon marks gdm s full return as a frontier lab",
+      "content_hash": "",
+      "last_sent": 1795596988.8882155,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:gemini 4 neon marks gdm s full return as a frontier lab": {
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab",
+      "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+      "normalized_title": "gemini 4 neon marks gdm s full return as a frontier lab",
+      "content_hash": "",
+      "last_sent": 1795596988.8882155,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.32973": {
+      "url": "https://huggingface.co/papers/2611.32973",
+      "title": "SpecEngineeringBench: Evaluating Coding Agents as Autonomous Specification Engineers (2 upvotes)",
+      "normalized_title": "specengineeringbench",
+      "content_hash": "",
+      "last_sent": 1795596988.8882294,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:specengineeringbench": {
+      "url": "https://huggingface.co/papers/2611.32973",
+      "title": "SpecEngineeringBench: Evaluating Coding Agents as Autonomous Specification Engineers (2 upvotes)",
+      "normalized_title": "specengineeringbench",
+      "content_hash": "",
+      "last_sent": 1795596988.8882294,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/24/llm-inflection-points": {
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
+      "title": "Three LLM inflection points in twelve months",
+      "normalized_title": "three llm inflection points in twelve months",
+      "content_hash": "",
+      "last_sent": 1795596988.8882408,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:three llm inflection points in twelve months": {
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
+      "title": "Three LLM inflection points in twelve months",
+      "normalized_title": "three llm inflection points in twelve months",
+      "content_hash": "",
+      "last_sent": 1795596988.8882408,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.31442": {
+      "url": "https://huggingface.co/papers/2611.31442",
+      "title": "Small Learned Projections for Semantic-Reversal-Aware Retrieval with Spectral Acceleration: A Four-Domain Empirical Study",
+      "normalized_title": "small learned projections for semantic reversal aware retrieval with spectral acceleration a four",
+      "content_hash": "",
+      "last_sent": 1795596988.888251,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:small learned projections for semantic reversal aware retrieval with spectral acceleration a four": {
+      "url": "https://huggingface.co/papers/2611.31442",
+      "title": "Small Learned Projections for Semantic-Reversal-Aware Retrieval with Spectral Acceleration: A Four-Domain Empirical Study",
+      "normalized_title": "small learned projections for semantic reversal aware retrieval with spectral acceleration a four",
+      "content_hash": "",
+      "last_sent": 1795596988.888251,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://openai.com/business/customer-stories/intentful-dots": {
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "title": "How Intentful uses dots to make more time for growth",
+      "normalized_title": "how intentful uses dots to make more time for growth",
+      "content_hash": "",
+      "last_sent": 1795596988.8883128,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how intentful uses dots to make more time for growth": {
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "title": "How Intentful uses dots to make more time for growth",
+      "normalized_title": "how intentful uses dots to make more time for growth",
+      "content_hash": "",
+      "last_sent": 1795596988.8883128,
       "digest_type": "morning",
       "score": 0.0
     }
