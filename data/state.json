@@ -4,17 +4,12 @@
     "https://github.com/HKUDS/Vibe-Trading": 1795377179.978363,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
     "https://github.com/esengine/DeepSeek-Reasonix": 1795377179.9783728,
-    "https://deepmind.google/blog/gemini-4-carbon-is-now-available": 1794426308.7478516,
     "https://huggingface.co/blog/qvac/botpsy": 1794468610.9850018,
     "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure": 1794468610.9850135,
     "https://devin.ai/blog/claude-mythos-5-2-security": 1794468610.9850225,
     "https://deepmind.google/blog/introducing-alphaproof-code": 1794468610.9850307,
-    "https://huggingface.co/blog/hub-gcp-marketplace": 1794426308.747867,
     "https://simonwillison.net/2026/Nov/11/llm": 1794514337.040153,
-    "https://anthropic.com/news/roadshow-launch": 1794426308.7478926,
     "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate": 1794514337.0401628,
-    "https://latent.space/p/codex-work": 1794426308.7479222,
-    "https://huggingface.co/blog/token-pooling": 1794426308.747934,
     "https://simonwillison.net/2026/Nov/11/tools-tags": 1794514337.0401971,
     "https://latent.space/p/ainews-d-day-decision-models-day": 1794553222.3680642,
     "https://latent.space/p/jev-revolution": 1794553222.3681006,
@@ -148,17 +143,22 @@
     "https://openai.com/business/learn/connected-intelligence-for-in-house-legal": 1795515159.8966832,
     "https://huggingface.co/blog/agentic-evals": 1795515159.8966937,
     "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026": 1795596988.888299,
-    "https://simonwillison.net/2026/Nov/24/datasette-agent": 1795560001.1145396,
+    "https://simonwillison.net/2026/Nov/24/datasette-agent": 1795643585.531906,
     "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": 1795560001.11455,
     "https://huggingface.co/papers/2611.28167": 1795560001.114579,
-    "https://openai.com/index/searching-for-distant-planets-with-astra": 1795560001.114594,
-    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": 1795560001.1146061,
-    "https://simonwillison.net/2026/Nov/24/astra-historical-mystery": 1795560001.1146255,
+    "https://openai.com/index/searching-for-distant-planets-with-astra": 1795643585.5319479,
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": 1795643585.5319676,
+    "https://simonwillison.net/2026/Nov/24/astra-historical-mystery": 1795643585.5319815,
     "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab": 1795596988.888223,
     "https://huggingface.co/papers/2611.32973": 1795596988.8882353,
     "https://simonwillison.net/2026/Nov/24/llm-inflection-points": 1795596988.888246,
     "https://huggingface.co/papers/2611.31442": 1795596988.8882625,
-    "https://openai.com/business/customer-stories/intentful-dots": 1795596988.8883207
+    "https://openai.com/business/customer-stories/intentful-dots": 1795596988.8883207,
+    "https://anthropic.com/research/migrating-api-to-rust": 1795643585.5318806,
+    "https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-repository-update": 1795643585.5318942,
+    "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants": 1795643585.5319176,
+    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": 1795643585.531928,
+    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": 1795643585.5319378
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -213,7 +213,7 @@
       "title": "datasette-agent 0.7a1",
       "normalized_title": "datasette",
       "content_hash": "",
-      "last_sent": 1795560001.1145344,
+      "last_sent": 1795643585.5319002,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -232,24 +232,6 @@
       "normalized_title": "llm",
       "content_hash": "",
       "last_sent": 1795289569.846311,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://deepmind.google/blog/gemini-4-carbon-is-now-available": {
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
-      "title": "Gemini 4 Carbon is now available",
-      "normalized_title": "gemini 4 carbon is now available",
-      "content_hash": "",
-      "last_sent": 1794426308.747831,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:gemini 4 carbon is now available": {
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
-      "title": "Gemini 4 Carbon is now available",
-      "normalized_title": "gemini 4 carbon is now available",
-      "content_hash": "",
-      "last_sent": 1794426308.747831,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -325,24 +307,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/blog/hub-gcp-marketplace": {
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "normalized_title": "pay for hugging face hub with your google cloud account",
-      "content_hash": "",
-      "last_sent": 1794426308.74786,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:pay for hugging face hub with your google cloud account": {
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "normalized_title": "pay for hugging face hub with your google cloud account",
-      "content_hash": "",
-      "last_sent": 1794426308.74786,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://simonwillison.net/2026/Nov/11/llm": {
       "url": "https://simonwillison.net/2026/Nov/11/llm",
       "title": "llm 0.37.2",
@@ -361,24 +325,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://anthropic.com/news/roadshow-launch": {
-      "url": "https://anthropic.com/news/roadshow-launch",
-      "title": "Anthropic launches roadshow for proposed initial public offering",
-      "normalized_title": "anthropic launches roadshow for proposed initial public offering",
-      "content_hash": "",
-      "last_sent": 1794426308.7478867,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:anthropic launches roadshow for proposed initial public offering": {
-      "url": "https://anthropic.com/news/roadshow-launch",
-      "title": "Anthropic launches roadshow for proposed initial public offering",
-      "normalized_title": "anthropic launches roadshow for proposed initial public offering",
-      "content_hash": "",
-      "last_sent": 1794426308.7478867,
-      "digest_type": "evening",
-      "score": 0.0
-    },
     "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate": {
       "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate",
       "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
@@ -394,42 +340,6 @@
       "normalized_title": "mercor 750m series d at 20b valuation 3b run rate",
       "content_hash": "",
       "last_sent": 1794514337.0401568,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/codex-work": {
-      "url": "https://latent.space/p/codex-work",
-      "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
-      "normalized_title": "ai engineer code summit",
-      "content_hash": "",
-      "last_sent": 1794426308.7479162,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:ai engineer code summit": {
-      "url": "https://latent.space/p/codex-work",
-      "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
-      "normalized_title": "ai engineer code summit",
-      "content_hash": "",
-      "last_sent": 1794426308.7479162,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/token-pooling": {
-      "url": "https://huggingface.co/blog/token-pooling",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "normalized_title": "token pooling aware training for multi",
-      "content_hash": "",
-      "last_sent": 1794426308.747928,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:token pooling aware training for multi": {
-      "url": "https://huggingface.co/blog/token-pooling",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "normalized_title": "token pooling aware training for multi",
-      "content_hash": "",
-      "last_sent": 1794426308.747928,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2769,7 +2679,7 @@
       "title": "datasette-agent 0.7a1",
       "normalized_title": "datasette",
       "content_hash": "",
-      "last_sent": 1795560001.1145344,
+      "last_sent": 1795643585.5319002,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2814,7 +2724,7 @@
       "title": "Searching for distant planets with Astra",
       "normalized_title": "searching for distant planets with astra",
       "content_hash": "",
-      "last_sent": 1795560001.1145887,
+      "last_sent": 1795643585.531942,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2823,7 +2733,7 @@
       "title": "Searching for distant planets with Astra",
       "normalized_title": "searching for distant planets with astra",
       "content_hash": "",
-      "last_sent": 1795560001.1145887,
+      "last_sent": 1795643585.531942,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2832,7 +2742,7 @@
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "normalized_title": "gpt 6 models demonstrate intrinsic protein",
       "content_hash": "",
-      "last_sent": 1795560001.1145995,
+      "last_sent": 1795643585.531959,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2841,7 +2751,7 @@
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "normalized_title": "gpt 6 models demonstrate intrinsic protein",
       "content_hash": "",
-      "last_sent": 1795560001.1145995,
+      "last_sent": 1795643585.531959,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2850,7 +2760,7 @@
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "normalized_title": "gpt 6 2 astra solves a historical mystery",
       "content_hash": "",
-      "last_sent": 1795560001.1146183,
+      "last_sent": 1795643585.5319757,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2859,7 +2769,7 @@
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "normalized_title": "gpt 6 2 astra solves a historical mystery",
       "content_hash": "",
-      "last_sent": 1795560001.1146183,
+      "last_sent": 1795643585.5319757,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2950,6 +2860,96 @@
       "normalized_title": "how intentful uses dots to make more time for growth",
       "content_hash": "",
       "last_sent": 1795596988.8883128,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://anthropic.com/research/migrating-api-to-rust": {
+      "url": "https://anthropic.com/research/migrating-api-to-rust",
+      "title": "Migrating our Messages API to Rust",
+      "normalized_title": "migrating our messages api to rust",
+      "content_hash": "",
+      "last_sent": 1795643585.5318642,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:migrating our messages api to rust": {
+      "url": "https://anthropic.com/research/migrating-api-to-rust",
+      "title": "Migrating our Messages API to Rust",
+      "normalized_title": "migrating our messages api to rust",
+      "content_hash": "",
+      "last_sent": 1795643585.5318642,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-repository-update": {
+      "url": "https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-repository-update",
+      "title": "Microsoft Agent Framework repository update",
+      "normalized_title": "microsoft agent framework repository update",
+      "content_hash": "",
+      "last_sent": 1795643585.5318885,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:microsoft agent framework repository update": {
+      "url": "https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-repository-update",
+      "title": "Microsoft Agent Framework repository update",
+      "normalized_title": "microsoft agent framework repository update",
+      "content_hash": "",
+      "last_sent": 1795643585.5318885,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants": {
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants",
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "normalized_title": "verifiable social reasoning for llm assistants",
+      "content_hash": "",
+      "last_sent": 1795643585.5319118,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:verifiable social reasoning for llm assistants": {
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants",
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "normalized_title": "verifiable social reasoning for llm assistants",
+      "content_hash": "",
+      "last_sent": 1795643585.5319118,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": {
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "title": "Where scientists draw the line on AI agents",
+      "normalized_title": "where scientists draw the line on ai agents",
+      "content_hash": "",
+      "last_sent": 1795643585.5319233,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:where scientists draw the line on ai agents": {
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "title": "Where scientists draw the line on AI agents",
+      "normalized_title": "where scientists draw the line on ai agents",
+      "content_hash": "",
+      "last_sent": 1795643585.5319233,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": {
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "normalized_title": "hill",
+      "content_hash": "",
+      "last_sent": 1795643585.5319335,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:hill": {
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "normalized_title": "hill",
+      "content_hash": "",
+      "last_sent": 1795643585.5319335,
       "digest_type": "morning",
       "score": 0.0
     }
