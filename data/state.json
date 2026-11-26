@@ -4,18 +4,11 @@
     "https://github.com/HKUDS/Vibe-Trading": 1795377179.978363,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
     "https://github.com/esengine/DeepSeek-Reasonix": 1795377179.9783728,
-    "https://simonwillison.net/2026/Nov/11/llm": 1794514337.040153,
-    "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate": 1794514337.0401628,
-    "https://simonwillison.net/2026/Nov/11/tools-tags": 1794514337.0401971,
     "https://latent.space/p/ainews-d-day-decision-models-day": 1794553222.3680642,
     "https://latent.space/p/jev-revolution": 1794553222.3681006,
     "https://simonwillison.net/2026/Nov/11/aws-emulator": 1794553222.368131,
     "https://simonwillison.net/2026/Nov/11/gemini-decisions-api": 1794553222.36819,
     "https://deepmind.google/blog/introducing-gemini-4-hydrogen": 1794599669.7110198,
-    "https://huggingface.co/papers/2611.12304": 1794514337.0401375,
-    "https://huggingface.co/blog/3d-lora-finetuning": 1794514337.0401456,
-    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": 1794514337.040174,
-    "https://blogs.nvidia.com/blog/ai-recycling-startups": 1794514337.040182,
     "https://latent.space/p/artcraft": 1794639015.3396182,
     "https://huggingface.co/papers/2611.08219": 1794553222.368117,
     "https://openai.com/business/customer-stories/amplitude": 1794639015.3396883,
@@ -149,9 +142,9 @@
     "https://simonwillison.net/2026/Nov/24/llm-inflection-points": 1795682565.5797675,
     "https://huggingface.co/papers/2611.31442": 1795596988.8882625,
     "https://openai.com/business/customer-stories/intentful-dots": 1795596988.8883207,
-    "https://anthropic.com/research/migrating-api-to-rust": 1795643585.5318806,
-    "https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-repository-update": 1795643585.5318942,
-    "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants": 1795643585.5319176,
+    "https://anthropic.com/research/migrating-api-to-rust": 1795729594.2529235,
+    "https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-repository-update": 1795729594.2529519,
+    "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants": 1795729594.2529607,
     "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": 1795643585.531928,
     "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": 1795643585.5319378,
     "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": 1795682565.579697,
@@ -159,7 +152,11 @@
     "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization": 1795682565.5797768,
     "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity": 1795682565.579785,
     "https://simonwillison.net/2026/Nov/26/sqlite3-rsync": 1795682565.579793,
-    "https://simonwillison.net/2026/Nov/25/scott-aaronson": 1795682565.579806
+    "https://simonwillison.net/2026/Nov/25/scott-aaronson": 1795682565.579806,
+    "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": 1795729594.2529414,
+    "https://huggingface.co/blog/training-swarms": 1795729594.252973,
+    "https://simonwillison.net/2026/Nov/26/jack-despain-zhou": 1795729594.2529833,
+    "https://simonwillison.net/2026/Nov/26/hn-50651685": 1795729594.2529926
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -233,60 +230,6 @@
       "normalized_title": "llm",
       "content_hash": "",
       "last_sent": 1795289569.846311,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/11/llm": {
-      "url": "https://simonwillison.net/2026/Nov/11/llm",
-      "title": "llm 0.37.2",
-      "normalized_title": "llm 0 37 2",
-      "content_hash": "",
-      "last_sent": 1794514337.0401487,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:llm 0 37 2": {
-      "url": "https://simonwillison.net/2026/Nov/11/llm",
-      "title": "llm 0.37.2",
-      "normalized_title": "llm 0 37 2",
-      "content_hash": "",
-      "last_sent": 1794514337.0401487,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate": {
-      "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate",
-      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
-      "normalized_title": "mercor 750m series d at 20b valuation 3b run rate",
-      "content_hash": "",
-      "last_sent": 1794514337.0401568,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:mercor 750m series d at 20b valuation 3b run rate": {
-      "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate",
-      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
-      "normalized_title": "mercor 750m series d at 20b valuation 3b run rate",
-      "content_hash": "",
-      "last_sent": 1794514337.0401568,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/11/tools-tags": {
-      "url": "https://simonwillison.net/2026/Nov/11/tools-tags",
-      "title": "Browse tools.simonwillison.net by tag",
-      "normalized_title": "browse tools simonwillison net by tag",
-      "content_hash": "",
-      "last_sent": 1794514337.0401924,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:browse tools simonwillison net by tag": {
-      "url": "https://simonwillison.net/2026/Nov/11/tools-tags",
-      "title": "Browse tools.simonwillison.net by tag",
-      "normalized_title": "browse tools simonwillison net by tag",
-      "content_hash": "",
-      "last_sent": 1794514337.0401924,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -377,78 +320,6 @@
       "normalized_title": "introducing gemini 4 hydrogen",
       "content_hash": "",
       "last_sent": 1794599669.7110007,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/papers/2611.12304": {
-      "url": "https://huggingface.co/papers/2611.12304",
-      "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale (11 upvotes)",
-      "normalized_title": "evolving infra agent",
-      "content_hash": "",
-      "last_sent": 1794514337.0401306,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:evolving infra agent": {
-      "url": "https://huggingface.co/papers/2611.12304",
-      "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale (11 upvotes)",
-      "normalized_title": "evolving infra agent",
-      "content_hash": "",
-      "last_sent": 1794514337.0401306,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/3d-lora-finetuning": {
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "normalized_title": "the definitive fine",
-      "content_hash": "",
-      "last_sent": 1794514337.040142,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:the definitive fine": {
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "normalized_title": "the definitive fine",
-      "content_hash": "",
-      "last_sent": 1794514337.040142,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": {
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "normalized_title": "llmon an llm native markup language now in granite 4 1 3b and 8b",
-      "content_hash": "",
-      "last_sent": 1794514337.0401688,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:llmon an llm native markup language now in granite 4 1 3b and 8b": {
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "normalized_title": "llmon an llm native markup language now in granite 4 1 3b and 8b",
-      "content_hash": "",
-      "last_sent": 1794514337.0401688,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/ai-recycling-startups": {
-      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups",
-      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "normalized_title": "how ai helps recyclers turn mixed waste into reusable material",
-      "content_hash": "",
-      "last_sent": 1794514337.0401788,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:how ai helps recyclers turn mixed waste into reusable material": {
-      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups",
-      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "normalized_title": "how ai helps recyclers turn mixed waste into reusable material",
-      "content_hash": "",
-      "last_sent": 1794514337.0401788,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2779,7 +2650,7 @@
       "title": "Migrating our Messages API to Rust",
       "normalized_title": "migrating our messages api to rust",
       "content_hash": "",
-      "last_sent": 1795643585.5318642,
+      "last_sent": 1795729594.2529044,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2788,7 +2659,7 @@
       "title": "Migrating our Messages API to Rust",
       "normalized_title": "migrating our messages api to rust",
       "content_hash": "",
-      "last_sent": 1795643585.5318642,
+      "last_sent": 1795729594.2529044,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2797,7 +2668,7 @@
       "title": "Microsoft Agent Framework repository update",
       "normalized_title": "microsoft agent framework repository update",
       "content_hash": "",
-      "last_sent": 1795643585.5318885,
+      "last_sent": 1795729594.2529476,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2806,7 +2677,7 @@
       "title": "Microsoft Agent Framework repository update",
       "normalized_title": "microsoft agent framework repository update",
       "content_hash": "",
-      "last_sent": 1795643585.5318885,
+      "last_sent": 1795729594.2529476,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2815,7 +2686,7 @@
       "title": "Verifiable Social Reasoning for LLM Assistants",
       "normalized_title": "verifiable social reasoning for llm assistants",
       "content_hash": "",
-      "last_sent": 1795643585.5319118,
+      "last_sent": 1795729594.2529564,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2824,7 +2695,7 @@
       "title": "Verifiable Social Reasoning for LLM Assistants",
       "normalized_title": "verifiable social reasoning for llm assistants",
       "content_hash": "",
-      "last_sent": 1795643585.5319118,
+      "last_sent": 1795729594.2529564,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2969,6 +2840,78 @@
       "normalized_title": "quoting scott aaronson",
       "content_hash": "",
       "last_sent": 1795682565.5798023,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": {
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "normalized_title": "introducing the llama cpp benchmark dashboard for amd ryzen and radeon",
+      "content_hash": "",
+      "last_sent": 1795729594.2529333,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:introducing the llama cpp benchmark dashboard for amd ryzen and radeon": {
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "normalized_title": "introducing the llama cpp benchmark dashboard for amd ryzen and radeon",
+      "content_hash": "",
+      "last_sent": 1795729594.2529333,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/training-swarms": {
+      "url": "https://huggingface.co/blog/training-swarms",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "normalized_title": "swarms flocks gangs how to build train and evaluate multi",
+      "content_hash": "",
+      "last_sent": 1795729594.2529657,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:swarms flocks gangs how to build train and evaluate multi": {
+      "url": "https://huggingface.co/blog/training-swarms",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "normalized_title": "swarms flocks gangs how to build train and evaluate multi",
+      "content_hash": "",
+      "last_sent": 1795729594.2529657,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/26/jack-despain-zhou": {
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou",
+      "title": "Quoting Jack Despain Zhou",
+      "normalized_title": "quoting jack despain zhou",
+      "content_hash": "",
+      "last_sent": 1795729594.2529795,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quoting jack despain zhou": {
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou",
+      "title": "Quoting Jack Despain Zhou",
+      "normalized_title": "quoting jack despain zhou",
+      "content_hash": "",
+      "last_sent": 1795729594.2529795,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/26/hn-50651685": {
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "normalized_title": "the new york times warns photographers not to update photoshop over ai features",
+      "content_hash": "",
+      "last_sent": 1795729594.2529867,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:the new york times warns photographers not to update photoshop over ai features": {
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "normalized_title": "the new york times warns photographers not to update photoshop over ai features",
+      "content_hash": "",
+      "last_sent": 1795729594.2529867,
       "digest_type": "morning",
       "score": 0.0
     }
