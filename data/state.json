@@ -4,16 +4,11 @@
     "https://github.com/HKUDS/Vibe-Trading": 1795377179.978363,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
     "https://github.com/esengine/DeepSeek-Reasonix": 1795377179.9783728,
-    "https://huggingface.co/blog/qvac/botpsy": 1794468610.9850018,
-    "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure": 1794468610.9850135,
-    "https://devin.ai/blog/claude-mythos-5-2-security": 1794468610.9850225,
-    "https://deepmind.google/blog/introducing-alphaproof-code": 1794468610.9850307,
     "https://simonwillison.net/2026/Nov/11/llm": 1794514337.040153,
     "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate": 1794514337.0401628,
     "https://simonwillison.net/2026/Nov/11/tools-tags": 1794514337.0401971,
     "https://latent.space/p/ainews-d-day-decision-models-day": 1794553222.3680642,
     "https://latent.space/p/jev-revolution": 1794553222.3681006,
-    "https://openai.com/index/jiostar-vijay-seshadri": 1794468610.9850512,
     "https://simonwillison.net/2026/Nov/11/aws-emulator": 1794553222.368131,
     "https://simonwillison.net/2026/Nov/11/gemini-decisions-api": 1794553222.36819,
     "https://deepmind.google/blog/introducing-gemini-4-hydrogen": 1794599669.7110198,
@@ -149,16 +144,22 @@
     "https://openai.com/index/searching-for-distant-planets-with-astra": 1795643585.5319479,
     "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": 1795643585.5319676,
     "https://simonwillison.net/2026/Nov/24/astra-historical-mystery": 1795643585.5319815,
-    "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab": 1795596988.888223,
+    "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab": 1795682565.579712,
     "https://huggingface.co/papers/2611.32973": 1795596988.8882353,
-    "https://simonwillison.net/2026/Nov/24/llm-inflection-points": 1795596988.888246,
+    "https://simonwillison.net/2026/Nov/24/llm-inflection-points": 1795682565.5797675,
     "https://huggingface.co/papers/2611.31442": 1795596988.8882625,
     "https://openai.com/business/customer-stories/intentful-dots": 1795596988.8883207,
     "https://anthropic.com/research/migrating-api-to-rust": 1795643585.5318806,
     "https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-repository-update": 1795643585.5318942,
     "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants": 1795643585.5319176,
     "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": 1795643585.531928,
-    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": 1795643585.5319378
+    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": 1795643585.5319378,
+    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": 1795682565.579697,
+    "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai": 1795682565.5797536,
+    "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization": 1795682565.5797768,
+    "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity": 1795682565.579785,
+    "https://simonwillison.net/2026/Nov/26/sqlite3-rsync": 1795682565.579793,
+    "https://simonwillison.net/2026/Nov/25/scott-aaronson": 1795682565.579806
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -233,78 +234,6 @@
       "content_hash": "",
       "last_sent": 1795289569.846311,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://huggingface.co/blog/qvac/botpsy": {
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "normalized_title": "botpsy on device personal assistant with a sub billion",
-      "content_hash": "",
-      "last_sent": 1794468610.9849935,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:botpsy on device personal assistant with a sub billion": {
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "normalized_title": "botpsy on device personal assistant with a sub billion",
-      "content_hash": "",
-      "last_sent": 1794468610.9849935,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure": {
-      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
-      "normalized_title": "nvidia expands open source commitment with openshell donation and new ai infrastructure",
-      "content_hash": "",
-      "last_sent": 1794468610.9850085,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:nvidia expands open source commitment with openshell donation and new ai infrastructure": {
-      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
-      "normalized_title": "nvidia expands open source commitment with openshell donation and new ai infrastructure",
-      "content_hash": "",
-      "last_sent": 1794468610.9850085,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://devin.ai/blog/claude-mythos-5-2-security": {
-      "url": "https://devin.ai/blog/claude-mythos-5-2-security",
-      "title": "Claude Mythos 5.2 is now available in Devin Security",
-      "normalized_title": "claude mythos 5 2 is now available in devin security",
-      "content_hash": "",
-      "last_sent": 1794468610.985018,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:claude mythos 5 2 is now available in devin security": {
-      "url": "https://devin.ai/blog/claude-mythos-5-2-security",
-      "title": "Claude Mythos 5.2 is now available in Devin Security",
-      "normalized_title": "claude mythos 5 2 is now available in devin security",
-      "content_hash": "",
-      "last_sent": 1794468610.985018,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://deepmind.google/blog/introducing-alphaproof-code": {
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "normalized_title": "introducing alphaproof code",
-      "content_hash": "",
-      "last_sent": 1794468610.9850266,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:introducing alphaproof code": {
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "normalized_title": "introducing alphaproof code",
-      "content_hash": "",
-      "last_sent": 1794468610.9850266,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://simonwillison.net/2026/Nov/11/llm": {
@@ -394,24 +323,6 @@
       "normalized_title": "the jev revolution",
       "content_hash": "",
       "last_sent": 1794553222.3680944,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/index/jiostar-vijay-seshadri": {
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "normalized_title": "jiostar s chief architect on ai discovery at 500m",
-      "content_hash": "",
-      "last_sent": 1794468610.9850414,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:jiostar s chief architect on ai discovery at 500m": {
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "normalized_title": "jiostar s chief architect on ai discovery at 500m",
-      "content_hash": "",
-      "last_sent": 1794468610.9850414,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2778,7 +2689,7 @@
       "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
       "normalized_title": "gemini 4 neon marks gdm s full return as a frontier lab",
       "content_hash": "",
-      "last_sent": 1795596988.8882155,
+      "last_sent": 1795682565.5797043,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2787,7 +2698,7 @@
       "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
       "normalized_title": "gemini 4 neon marks gdm s full return as a frontier lab",
       "content_hash": "",
-      "last_sent": 1795596988.8882155,
+      "last_sent": 1795682565.5797043,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2814,7 +2725,7 @@
       "title": "Three LLM inflection points in twelve months",
       "normalized_title": "three llm inflection points in twelve months",
       "content_hash": "",
-      "last_sent": 1795596988.8882408,
+      "last_sent": 1795682565.5797625,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2823,7 +2734,7 @@
       "title": "Three LLM inflection points in twelve months",
       "normalized_title": "three llm inflection points in twelve months",
       "content_hash": "",
-      "last_sent": 1795596988.8882408,
+      "last_sent": 1795682565.5797625,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2950,6 +2861,114 @@
       "normalized_title": "hill",
       "content_hash": "",
       "last_sent": 1795643585.5319335,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": {
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "normalized_title": "building on nemotron 3 5 parse open data fine tuning and faster inference",
+      "content_hash": "",
+      "last_sent": 1795682565.5796728,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:building on nemotron 3 5 parse open data fine tuning and faster inference": {
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "normalized_title": "building on nemotron 3 5 parse open data fine tuning and faster inference",
+      "content_hash": "",
+      "last_sent": 1795682565.5796728,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai": {
+      "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai",
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "normalized_title": "the revolution vs the renaissance thariq shihipar openai",
+      "content_hash": "",
+      "last_sent": 1795682565.579719,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:the revolution vs the renaissance thariq shihipar openai": {
+      "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai",
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "normalized_title": "the revolution vs the renaissance thariq shihipar openai",
+      "content_hash": "",
+      "last_sent": 1795682565.579719,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "title": "How to choose the next safe step in application modernization",
+      "normalized_title": "how to choose the next safe step in application modernization",
+      "content_hash": "",
+      "last_sent": 1795682565.5797727,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how to choose the next safe step in application modernization": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "title": "How to choose the next safe step in application modernization",
+      "normalized_title": "how to choose the next safe step in application modernization",
+      "content_hash": "",
+      "last_sent": 1795682565.5797727,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity": {
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "normalized_title": "from spectrum to structure",
+      "content_hash": "",
+      "last_sent": 1795682565.579781,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:from spectrum to structure": {
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "normalized_title": "from spectrum to structure",
+      "content_hash": "",
+      "last_sent": 1795682565.579781,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/26/sqlite3-rsync": {
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "normalized_title": "sqlite3_rsync database remote",
+      "content_hash": "",
+      "last_sent": 1795682565.5797894,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:sqlite3_rsync database remote": {
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "normalized_title": "sqlite3_rsync database remote",
+      "content_hash": "",
+      "last_sent": 1795682565.5797894,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/25/scott-aaronson": {
+      "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson",
+      "title": "Quoting Scott Aaronson",
+      "normalized_title": "quoting scott aaronson",
+      "content_hash": "",
+      "last_sent": 1795682565.5798023,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:quoting scott aaronson": {
+      "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson",
+      "title": "Quoting Scott Aaronson",
+      "normalized_title": "quoting scott aaronson",
+      "content_hash": "",
+      "last_sent": 1795682565.5798023,
       "digest_type": "morning",
       "score": 0.0
     }
