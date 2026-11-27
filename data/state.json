@@ -4,16 +4,9 @@
     "https://github.com/HKUDS/Vibe-Trading": 1795377179.978363,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
     "https://github.com/esengine/DeepSeek-Reasonix": 1795377179.9783728,
-    "https://latent.space/p/ainews-d-day-decision-models-day": 1794553222.3680642,
-    "https://latent.space/p/jev-revolution": 1794553222.3681006,
-    "https://simonwillison.net/2026/Nov/11/aws-emulator": 1794553222.368131,
-    "https://simonwillison.net/2026/Nov/11/gemini-decisions-api": 1794553222.36819,
     "https://deepmind.google/blog/introducing-gemini-4-hydrogen": 1794599669.7110198,
     "https://latent.space/p/artcraft": 1794639015.3396182,
-    "https://huggingface.co/papers/2611.08219": 1794553222.368117,
     "https://openai.com/business/customer-stories/amplitude": 1794639015.3396883,
-    "https://openai.com/business/customer-stories/gondola": 1794553222.3681588,
-    "https://openai.com/business/customer-stories/holidays-extras-codex": 1794553222.368178,
     "https://simonwillison.net/2026/Nov/12/llm-gemini": 1794639015.3397052,
     "https://devin.ai/blog/devin-apps": 1794680463.7474358,
     "https://huggingface.co/blog/ggml-org/llama-cpp-v1": 1794680463.7474513,
@@ -147,16 +140,18 @@
     "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants": 1795729594.2529607,
     "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": 1795643585.531928,
     "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": 1795643585.5319378,
-    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": 1795682565.579697,
-    "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai": 1795682565.5797536,
-    "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization": 1795682565.5797768,
+    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": 1795769650.6716688,
+    "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai": 1795769650.6716857,
+    "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization": 1795769650.671699,
     "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity": 1795682565.579785,
-    "https://simonwillison.net/2026/Nov/26/sqlite3-rsync": 1795682565.579793,
-    "https://simonwillison.net/2026/Nov/25/scott-aaronson": 1795682565.579806,
+    "https://simonwillison.net/2026/Nov/26/sqlite3-rsync": 1795769650.6717095,
+    "https://simonwillison.net/2026/Nov/25/scott-aaronson": 1795769650.6717286,
     "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": 1795729594.2529414,
     "https://huggingface.co/blog/training-swarms": 1795729594.252973,
     "https://simonwillison.net/2026/Nov/26/jack-despain-zhou": 1795729594.2529833,
-    "https://simonwillison.net/2026/Nov/26/hn-50651685": 1795729594.2529926
+    "https://simonwillison.net/2026/Nov/26/hn-50651685": 1795729594.2529926,
+    "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai": 1795769650.6716478,
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward": 1795769650.6717205
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -233,78 +228,6 @@
       "digest_type": "evening",
       "score": 0.0
     },
-    "https://latent.space/p/ainews-d-day-decision-models-day": {
-      "url": "https://latent.space/p/ainews-d-day-decision-models-day",
-      "title": "[AINews] D-Day (Decision Models Day)",
-      "normalized_title": "d",
-      "content_hash": "",
-      "last_sent": 1794553222.3680298,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:d": {
-      "url": "https://latent.space/p/ainews-d-day-decision-models-day",
-      "title": "[AINews] D-Day (Decision Models Day)",
-      "normalized_title": "d",
-      "content_hash": "",
-      "last_sent": 1794553222.3680298,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://latent.space/p/jev-revolution": {
-      "url": "https://latent.space/p/jev-revolution",
-      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
-      "normalized_title": "the jev revolution",
-      "content_hash": "",
-      "last_sent": 1794553222.3680944,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:the jev revolution": {
-      "url": "https://latent.space/p/jev-revolution",
-      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
-      "normalized_title": "the jev revolution",
-      "content_hash": "",
-      "last_sent": 1794553222.3680944,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/11/aws-emulator": {
-      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
-      "title": "aws-emulator",
-      "normalized_title": "aws",
-      "content_hash": "",
-      "last_sent": 1794553222.3681273,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:aws": {
-      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
-      "title": "aws-emulator",
-      "normalized_title": "aws",
-      "content_hash": "",
-      "last_sent": 1794553222.3681273,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/11/gemini-decisions-api": {
-      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api",
-      "title": "Gemini Decisions API",
-      "normalized_title": "gemini decisions api",
-      "content_hash": "",
-      "last_sent": 1794553222.368185,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:gemini decisions api": {
-      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api",
-      "title": "Gemini Decisions API",
-      "normalized_title": "gemini decisions api",
-      "content_hash": "",
-      "last_sent": 1794553222.368185,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://deepmind.google/blog/introducing-gemini-4-hydrogen": {
       "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
       "title": "Introducing Gemini 4 Hydrogen",
@@ -341,24 +264,6 @@
       "digest_type": "morning",
       "score": 0.0
     },
-    "https://huggingface.co/papers/2611.08219": {
-      "url": "https://huggingface.co/papers/2611.08219",
-      "title": "Agent-R^2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
-      "normalized_title": "agent r 2 scaling agents for realistic productivity work via real",
-      "content_hash": "",
-      "last_sent": 1794553222.3681068,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:agent r 2 scaling agents for realistic productivity work via real": {
-      "url": "https://huggingface.co/papers/2611.08219",
-      "title": "Agent-R^2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
-      "normalized_title": "agent r 2 scaling agents for realistic productivity work via real",
-      "content_hash": "",
-      "last_sent": 1794553222.3681068,
-      "digest_type": "morning",
-      "score": 0.0
-    },
     "https://openai.com/business/customer-stories/amplitude": {
       "url": "https://openai.com/business/customer-stories/amplitude",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -374,42 +279,6 @@
       "normalized_title": "how amplitude ships product improvements in 1",
       "content_hash": "",
       "last_sent": 1794639015.3396788,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/business/customer-stories/gondola": {
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "normalized_title": "gondola doubles revenue as its team builds more with codex",
-      "content_hash": "",
-      "last_sent": 1794553222.3681521,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:gondola doubles revenue as its team builds more with codex": {
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "normalized_title": "gondola doubles revenue as its team builds more with codex",
-      "content_hash": "",
-      "last_sent": 1794553222.3681521,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/business/customer-stories/holidays-extras-codex": {
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "normalized_title": "holiday extras is rethinking what it can build with codex",
-      "content_hash": "",
-      "last_sent": 1794553222.3681707,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:holiday extras is rethinking what it can build with codex": {
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "normalized_title": "holiday extras is rethinking what it can build with codex",
-      "content_hash": "",
-      "last_sent": 1794553222.3681707,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2740,7 +2609,7 @@
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "normalized_title": "building on nemotron 3 5 parse open data fine tuning and faster inference",
       "content_hash": "",
-      "last_sent": 1795682565.5796728,
+      "last_sent": 1795769650.6716578,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2749,7 +2618,7 @@
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "normalized_title": "building on nemotron 3 5 parse open data fine tuning and faster inference",
       "content_hash": "",
-      "last_sent": 1795682565.5796728,
+      "last_sent": 1795769650.6716578,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2758,7 +2627,7 @@
       "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
       "normalized_title": "the revolution vs the renaissance thariq shihipar openai",
       "content_hash": "",
-      "last_sent": 1795682565.579719,
+      "last_sent": 1795769650.6716769,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2767,7 +2636,7 @@
       "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
       "normalized_title": "the revolution vs the renaissance thariq shihipar openai",
       "content_hash": "",
-      "last_sent": 1795682565.579719,
+      "last_sent": 1795769650.6716769,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2776,7 +2645,7 @@
       "title": "How to choose the next safe step in application modernization",
       "normalized_title": "how to choose the next safe step in application modernization",
       "content_hash": "",
-      "last_sent": 1795682565.5797727,
+      "last_sent": 1795769650.6716936,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2785,7 +2654,7 @@
       "title": "How to choose the next safe step in application modernization",
       "normalized_title": "how to choose the next safe step in application modernization",
       "content_hash": "",
-      "last_sent": 1795682565.5797727,
+      "last_sent": 1795769650.6716936,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2812,7 +2681,7 @@
       "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
       "normalized_title": "sqlite3_rsync database remote",
       "content_hash": "",
-      "last_sent": 1795682565.5797894,
+      "last_sent": 1795769650.671704,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2821,7 +2690,7 @@
       "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
       "normalized_title": "sqlite3_rsync database remote",
       "content_hash": "",
-      "last_sent": 1795682565.5797894,
+      "last_sent": 1795769650.671704,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2830,7 +2699,7 @@
       "title": "Quoting Scott Aaronson",
       "normalized_title": "quoting scott aaronson",
       "content_hash": "",
-      "last_sent": 1795682565.5798023,
+      "last_sent": 1795769650.6717255,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2839,7 +2708,7 @@
       "title": "Quoting Scott Aaronson",
       "normalized_title": "quoting scott aaronson",
       "content_hash": "",
-      "last_sent": 1795682565.5798023,
+      "last_sent": 1795769650.6717255,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2912,6 +2781,42 @@
       "normalized_title": "the new york times warns photographers not to update photoshop over ai features",
       "content_hash": "",
       "last_sent": 1795729594.2529867,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai": {
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai",
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "normalized_title": "how clay builds gtm agents jeff barg head of ai",
+      "content_hash": "",
+      "last_sent": 1795769650.6716182,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:how clay builds gtm agents jeff barg head of ai": {
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai",
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "normalized_title": "how clay builds gtm agents jeff barg head of ai",
+      "content_hash": "",
+      "last_sent": 1795769650.6716182,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward": {
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward",
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "normalized_title": "come for the games stay for the community with geforce now",
+      "content_hash": "",
+      "last_sent": 1795769650.671715,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:come for the games stay for the community with geforce now": {
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward",
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "normalized_title": "come for the games stay for the community with geforce now",
+      "content_hash": "",
+      "last_sent": 1795769650.671715,
       "digest_type": "morning",
       "score": 0.0
     }
