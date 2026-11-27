@@ -4,14 +4,12 @@
     "https://github.com/HKUDS/Vibe-Trading": 1795377179.978363,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
     "https://github.com/esengine/DeepSeek-Reasonix": 1795377179.9783728,
-    "https://deepmind.google/blog/introducing-gemini-4-hydrogen": 1794599669.7110198,
     "https://latent.space/p/artcraft": 1794639015.3396182,
     "https://openai.com/business/customer-stories/amplitude": 1794639015.3396883,
     "https://simonwillison.net/2026/Nov/12/llm-gemini": 1794639015.3397052,
     "https://devin.ai/blog/devin-apps": 1794680463.7474358,
     "https://huggingface.co/blog/ggml-org/llama-cpp-v1": 1794680463.7474513,
     "https://huggingface.co/blog/allenai/xybench": 1794680463.7474642,
-    "https://arxiv.org/abs/2611.14681": 1794599669.7110665,
     "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia": 1794680463.747489,
     "https://openai.com/index/introducing-chatgpt-wallet": 1794680463.747475,
     "https://cursor.com/blog/security-incident-update": 1794725692.411538,
@@ -146,12 +144,16 @@
     "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity": 1795682565.579785,
     "https://simonwillison.net/2026/Nov/26/sqlite3-rsync": 1795769650.6717095,
     "https://simonwillison.net/2026/Nov/25/scott-aaronson": 1795769650.6717286,
-    "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": 1795729594.2529414,
+    "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": 1795814991.0452173,
     "https://huggingface.co/blog/training-swarms": 1795729594.252973,
-    "https://simonwillison.net/2026/Nov/26/jack-despain-zhou": 1795729594.2529833,
-    "https://simonwillison.net/2026/Nov/26/hn-50651685": 1795729594.2529926,
+    "https://simonwillison.net/2026/Nov/26/jack-despain-zhou": 1795814991.0452576,
+    "https://simonwillison.net/2026/Nov/26/hn-50651685": 1795814991.0452697,
     "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai": 1795769650.6716478,
-    "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward": 1795769650.6717205
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward": 1795769650.6717205,
+    "https://huggingface.co/papers/2611.30025": 1795814991.0452416,
+    "https://huggingface.co/papers/2611.27112": 1795814991.0452857,
+    "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them": 1795814991.045299,
+    "https://huggingface.co/blog/video-trainium3": 1795814991.045312
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -225,24 +227,6 @@
       "normalized_title": "llm",
       "content_hash": "",
       "last_sent": 1795289569.846311,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://deepmind.google/blog/introducing-gemini-4-hydrogen": {
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "normalized_title": "introducing gemini 4 hydrogen",
-      "content_hash": "",
-      "last_sent": 1794599669.7110007,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:introducing gemini 4 hydrogen": {
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "normalized_title": "introducing gemini 4 hydrogen",
-      "content_hash": "",
-      "last_sent": 1794599669.7110007,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -342,24 +326,6 @@
       "normalized_title": "xybench",
       "content_hash": "",
       "last_sent": 1794680463.7474592,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://arxiv.org/abs/2611.14681": {
-      "url": "https://arxiv.org/abs/2611.14681",
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "normalized_title": "together compiler",
-      "content_hash": "",
-      "last_sent": 1794599669.7110617,
-      "digest_type": "evening",
-      "score": 0.0
-    },
-    "title:together compiler": {
-      "url": "https://arxiv.org/abs/2611.14681",
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "normalized_title": "together compiler",
-      "content_hash": "",
-      "last_sent": 1794599669.7110617,
       "digest_type": "evening",
       "score": 0.0
     },
@@ -2717,7 +2683,7 @@
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "normalized_title": "introducing the llama cpp benchmark dashboard for amd ryzen and radeon",
       "content_hash": "",
-      "last_sent": 1795729594.2529333,
+      "last_sent": 1795814991.0451903,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2726,7 +2692,7 @@
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "normalized_title": "introducing the llama cpp benchmark dashboard for amd ryzen and radeon",
       "content_hash": "",
-      "last_sent": 1795729594.2529333,
+      "last_sent": 1795814991.0451903,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2753,7 +2719,7 @@
       "title": "Quoting Jack Despain Zhou",
       "normalized_title": "quoting jack despain zhou",
       "content_hash": "",
-      "last_sent": 1795729594.2529795,
+      "last_sent": 1795814991.045253,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2762,7 +2728,7 @@
       "title": "Quoting Jack Despain Zhou",
       "normalized_title": "quoting jack despain zhou",
       "content_hash": "",
-      "last_sent": 1795729594.2529795,
+      "last_sent": 1795814991.045253,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2771,7 +2737,7 @@
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "normalized_title": "the new york times warns photographers not to update photoshop over ai features",
       "content_hash": "",
-      "last_sent": 1795729594.2529867,
+      "last_sent": 1795814991.0452623,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2780,7 +2746,7 @@
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "normalized_title": "the new york times warns photographers not to update photoshop over ai features",
       "content_hash": "",
-      "last_sent": 1795729594.2529867,
+      "last_sent": 1795814991.0452623,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2817,6 +2783,78 @@
       "normalized_title": "come for the games stay for the community with geforce now",
       "content_hash": "",
       "last_sent": 1795769650.671715,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.30025": {
+      "url": "https://huggingface.co/papers/2611.30025",
+      "title": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning (2 upvotes)",
+      "normalized_title": "damped atomic wave integration neurons a universal primitive for continuous",
+      "content_hash": "",
+      "last_sent": 1795814991.045228,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:damped atomic wave integration neurons a universal primitive for continuous": {
+      "url": "https://huggingface.co/papers/2611.30025",
+      "title": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning (2 upvotes)",
+      "normalized_title": "damped atomic wave integration neurons a universal primitive for continuous",
+      "content_hash": "",
+      "last_sent": 1795814991.045228,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/papers/2611.27112": {
+      "url": "https://huggingface.co/papers/2611.27112",
+      "title": "Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries",
+      "normalized_title": "markdown is not a firewall four coding agents one rules file four boundaries",
+      "content_hash": "",
+      "last_sent": 1795814991.0452769,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:markdown is not a firewall four coding agents one rules file four boundaries": {
+      "url": "https://huggingface.co/papers/2611.27112",
+      "title": "Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries",
+      "normalized_title": "markdown is not a firewall four coding agents one rules file four boundaries",
+      "content_hash": "",
+      "last_sent": 1795814991.0452769,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them": {
+      "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them",
+      "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+      "normalized_title": "math proofs are landing faster than we can read them",
+      "content_hash": "",
+      "last_sent": 1795814991.045293,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:math proofs are landing faster than we can read them": {
+      "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them",
+      "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+      "normalized_title": "math proofs are landing faster than we can read them",
+      "content_hash": "",
+      "last_sent": 1795814991.045293,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://huggingface.co/blog/video-trainium3": {
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "normalized_title": "taking trainium3 to the track generating videos with ltx",
+      "content_hash": "",
+      "last_sent": 1795814991.045305,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:taking trainium3 to the track generating videos with ltx": {
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "normalized_title": "taking trainium3 to the track generating videos with ltx",
+      "content_hash": "",
+      "last_sent": 1795814991.045305,
       "digest_type": "morning",
       "score": 0.0
     }
