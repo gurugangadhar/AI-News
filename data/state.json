@@ -4,9 +4,6 @@
     "https://github.com/HKUDS/Vibe-Trading": 1795377179.978363,
     "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": 1795246227.5385,
     "https://github.com/esengine/DeepSeek-Reasonix": 1795377179.9783728,
-    "https://latent.space/p/artcraft": 1794639015.3396182,
-    "https://openai.com/business/customer-stories/amplitude": 1794639015.3396883,
-    "https://simonwillison.net/2026/Nov/12/llm-gemini": 1794639015.3397052,
     "https://devin.ai/blog/devin-apps": 1794680463.7474358,
     "https://huggingface.co/blog/ggml-org/llama-cpp-v1": 1794680463.7474513,
     "https://huggingface.co/blog/allenai/xybench": 1794680463.7474642,
@@ -16,7 +13,6 @@
     "https://simonwillison.net/2026/Nov/13/datasette-cluster-map": 1794725692.4115837,
     "https://huggingface.co/papers/2611.10439": 1794725692.4115517,
     "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": 1794725692.4115627,
-    "https://anthropic.com/research/building-strong-safety-evaluations": 1794639015.339675,
     "https://latent.space/p/ainews-the-no-ai-slop-manifesto": 1794769287.539589,
     "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams": 1794680463.7475035,
     "https://simonwillison.net/2026/Nov/13/datasette-leaflet": 1794680463.7475245,
@@ -100,7 +96,7 @@
     "https://simonwillison.net/2026/Nov/20/llm-gemini": 1795289569.8463142,
     "https://simonwillison.net/2026/Nov/21/muru": 1795420706.7712753,
     "https://openai.com/index/perplexity-and-intelligence": 1795377179.978344,
-    "https://github.com/codewhale-hq/Codewhale": 1795377179.978354,
+    "https://github.com/codewhale-hq/Codewhale": 1795853568.376381,
     "https://huggingface.co/papers/2611.25604": 1795377179.9783816,
     "https://huggingface.co/papers/2611.27973": 1795420706.77129,
     "https://huggingface.co/papers/2611.27915": 1795420706.7713053,
@@ -148,12 +144,15 @@
     "https://huggingface.co/blog/training-swarms": 1795729594.252973,
     "https://simonwillison.net/2026/Nov/26/jack-despain-zhou": 1795814991.0452576,
     "https://simonwillison.net/2026/Nov/26/hn-50651685": 1795814991.0452697,
-    "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai": 1795769650.6716478,
-    "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward": 1795769650.6717205,
+    "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai": 1795853568.3763242,
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward": 1795853568.3763928,
     "https://huggingface.co/papers/2611.30025": 1795814991.0452416,
     "https://huggingface.co/papers/2611.27112": 1795814991.0452857,
     "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them": 1795814991.045299,
-    "https://huggingface.co/blog/video-trainium3": 1795814991.045312
+    "https://huggingface.co/blog/video-trainium3": 1795814991.045312,
+    "https://simonwillison.net/2026/Nov/27/datasette-mcp": 1795853568.3763406,
+    "https://latent.space/p/ainews-inside-the-exploding-coding-data-market": 1795853568.3763523,
+    "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i": 1795853568.3763669
   },
   "seenTweets": {},
   "seenVideos": {},
@@ -204,11 +203,11 @@
       "score": 0.0
     },
     "title:datasette": {
-      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent",
-      "title": "datasette-agent 0.7a1",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp",
+      "title": "datasette-mcp 0.4",
       "normalized_title": "datasette",
       "content_hash": "",
-      "last_sent": 1795643585.5319002,
+      "last_sent": 1795853568.3763347,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -228,51 +227,6 @@
       "content_hash": "",
       "last_sent": 1795289569.846311,
       "digest_type": "evening",
-      "score": 0.0
-    },
-    "https://latent.space/p/artcraft": {
-      "url": "https://latent.space/p/artcraft",
-      "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-      "normalized_title": "ai ambition artcraft cloned photoshop and now wants to rebuild everything",
-      "content_hash": "",
-      "last_sent": 1794639015.339591,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:ai ambition artcraft cloned photoshop and now wants to rebuild everything": {
-      "url": "https://latent.space/p/artcraft",
-      "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-      "normalized_title": "ai ambition artcraft cloned photoshop and now wants to rebuild everything",
-      "content_hash": "",
-      "last_sent": 1794639015.339591,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://openai.com/business/customer-stories/amplitude": {
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "normalized_title": "how amplitude ships product improvements in 1",
-      "content_hash": "",
-      "last_sent": 1794639015.3396788,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:how amplitude ships product improvements in 1": {
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "normalized_title": "how amplitude ships product improvements in 1",
-      "content_hash": "",
-      "last_sent": 1794639015.3396788,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://simonwillison.net/2026/Nov/12/llm-gemini": {
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini",
-      "title": "llm-gemini 0.37",
-      "normalized_title": "llm",
-      "content_hash": "",
-      "last_sent": 1794639015.3397007,
-      "digest_type": "morning",
       "score": 0.0
     },
     "https://devin.ai/blog/devin-apps": {
@@ -434,24 +388,6 @@
       "normalized_title": "build a robot pick and",
       "content_hash": "",
       "last_sent": 1794725692.4115582,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "https://anthropic.com/research/building-strong-safety-evaluations": {
-      "url": "https://anthropic.com/research/building-strong-safety-evaluations",
-      "title": "Building strong safety evaluations",
-      "normalized_title": "building strong safety evaluations",
-      "content_hash": "",
-      "last_sent": 1794639015.3396714,
-      "digest_type": "morning",
-      "score": 0.0
-    },
-    "title:building strong safety evaluations": {
-      "url": "https://anthropic.com/research/building-strong-safety-evaluations",
-      "title": "Building strong safety evaluations",
-      "normalized_title": "building strong safety evaluations",
-      "content_hash": "",
-      "last_sent": 1794639015.3396714,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -1888,20 +1824,20 @@
     },
     "https://github.com/codewhale-hq/Codewhale": {
       "url": "https://github.com/codewhale-hq/Codewhale",
-      "title": "codewhale-hq/Codewhale (41,197 stars)",
+      "title": "codewhale-hq/Codewhale (41,219 stars)",
       "normalized_title": "codewhale hq codewhale",
       "content_hash": "",
-      "last_sent": 1795377179.9783487,
-      "digest_type": "evening",
+      "last_sent": 1795853568.3763742,
+      "digest_type": "morning",
       "score": 0.0
     },
     "title:codewhale hq codewhale": {
       "url": "https://github.com/codewhale-hq/Codewhale",
-      "title": "codewhale-hq/Codewhale (41,197 stars)",
+      "title": "codewhale-hq/Codewhale (41,219 stars)",
       "normalized_title": "codewhale hq codewhale",
       "content_hash": "",
-      "last_sent": 1795377179.9783487,
-      "digest_type": "evening",
+      "last_sent": 1795853568.3763742,
+      "digest_type": "morning",
       "score": 0.0
     },
     "title:hkuds vibe": {
@@ -2755,7 +2691,7 @@
       "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
       "normalized_title": "how clay builds gtm agents jeff barg head of ai",
       "content_hash": "",
-      "last_sent": 1795769650.6716182,
+      "last_sent": 1795853568.3762934,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2764,7 +2700,7 @@
       "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
       "normalized_title": "how clay builds gtm agents jeff barg head of ai",
       "content_hash": "",
-      "last_sent": 1795769650.6716182,
+      "last_sent": 1795853568.3762934,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2773,7 +2709,7 @@
       "title": "Come for the Games, Stay for the Community With GeForce NOW",
       "normalized_title": "come for the games stay for the community with geforce now",
       "content_hash": "",
-      "last_sent": 1795769650.671715,
+      "last_sent": 1795853568.3763866,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2782,7 +2718,7 @@
       "title": "Come for the Games, Stay for the Community With GeForce NOW",
       "normalized_title": "come for the games stay for the community with geforce now",
       "content_hash": "",
-      "last_sent": 1795769650.671715,
+      "last_sent": 1795853568.3763866,
       "digest_type": "morning",
       "score": 0.0
     },
@@ -2855,6 +2791,51 @@
       "normalized_title": "taking trainium3 to the track generating videos with ltx",
       "content_hash": "",
       "last_sent": 1795814991.045305,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://simonwillison.net/2026/Nov/27/datasette-mcp": {
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp",
+      "title": "datasette-mcp 0.4",
+      "normalized_title": "datasette",
+      "content_hash": "",
+      "last_sent": 1795853568.3763347,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/ainews-inside-the-exploding-coding-data-market": {
+      "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market",
+      "title": "[AINews] Inside the exploding Coding Data Market",
+      "normalized_title": "inside the exploding coding data market",
+      "content_hash": "",
+      "last_sent": 1795853568.3763459,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:inside the exploding coding data market": {
+      "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market",
+      "title": "[AINews] Inside the exploding Coding Data Market",
+      "normalized_title": "inside the exploding coding data market",
+      "content_hash": "",
+      "last_sent": 1795853568.3763459,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i": {
+      "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i",
+      "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+      "normalized_title": "inside the ai training data market gabe greenberg g2i",
+      "content_hash": "",
+      "last_sent": 1795853568.376358,
+      "digest_type": "morning",
+      "score": 0.0
+    },
+    "title:inside the ai training data market gabe greenberg g2i": {
+      "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i",
+      "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+      "normalized_title": "inside the ai training data market gabe greenberg g2i",
+      "content_hash": "",
+      "last_sent": 1795853568.376358,
       "digest_type": "morning",
       "score": 0.0
     }
